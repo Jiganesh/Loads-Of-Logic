@@ -1,6 +1,7 @@
 import java.util.HashMap;
 
-class Solution {
+class SolutionTwoSum {
+
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> dictionary = new HashMap <Integer, Integer>();
         for (int i =0 ; i<= nums.length-1; i++){
@@ -16,7 +17,7 @@ class Solution {
 
 class TwoSum{
     public static void main(String[] args){
-        Solution solution = new Solution();
+        SolutionTwoSum solution = new SolutionTwoSum();
         int[] nums = {2,7,11,15};
         int target = 9;
         int[] result = solution.twoSum(nums, target);
