@@ -1,0 +1,23 @@
+// https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
+
+class SolutionFindNumbersWithEvenNumbersOfDigit {
+    public int findNumbers(int[] nums) {
+        
+        int count =0;
+        for (int num : nums){ 
+            if (((int) Math.log10(num)+1)%2==0) count++;
+        }
+        return count;  
+    }
+}
+public class FindNumbersWithEvenNumbersOfDigit {
+    public static void main(String[] args) {
+        SolutionFindNumbersWithEvenNumbersOfDigit solution = new SolutionFindNumbersWithEvenNumbersOfDigit();
+        int[] nums = {12,345,2,6,7896};
+        System.out.println(solution.findNumbers(nums));
+
+        int[] nums1 = {-23};
+        System.out.println(solution.findNumbers(nums1));
+
+    } 
+}
