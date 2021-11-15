@@ -1,7 +1,8 @@
+// https://leetcode.com/problems/two-sum/
+
 import java.util.HashMap;
 
 class SolutionTwoSum {
-
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> dictionary = new HashMap <Integer, Integer>();
         for (int i =0 ; i<= nums.length-1; i++){
