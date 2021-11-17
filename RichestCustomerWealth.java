@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/richest-customer-wealth/
+
 class SolutionRichestCustomerWealth {
     public int maximumWealth(int[][] accounts) {
         int max = Integer.MIN_VALUE;
