@@ -16,8 +16,6 @@ public class orderAgnosticBinarySearch{
         while (start <= end){
             int mid = start + (end - start)/2;
 
-            if (array[mid]==target ) return mid;
-
             if (isAscending){
 
                 if (array[mid]<target) {
@@ -33,6 +31,8 @@ public class orderAgnosticBinarySearch{
                     end = mid -1;
                 }
             }
+            if (array[mid]==target ) return mid;
+
         }
         return -1;
     }

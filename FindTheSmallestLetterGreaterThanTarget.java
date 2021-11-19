@@ -1,25 +1,28 @@
 public class FindTheSmallestLetterGreaterThanTarget {
     public static void main(String[] args) {
-        char target = 'a';
-        char[] letters = {'c', 'f', 'j'};
-        char result = nextGreatestLetter(letters, target);
-        System.out.println(result);
-    }
-
-    public static char nextGreatestLetter(char[] letters, char target) {
-        int start = 0;
-        int end = letters.length;
-        
-        while (start<= end){
-            int mid = start +(end - start)/2;
-            if (letters[mid] < target){
-                start = mid +1;
-            }else{
-                end = mid-1 ;
-            }
-        }
-        return letters[start+1];
+        char target = 'c';
+        char[] letters = {'a', 'b', 'c', 'd', 'f'};
+        SolutionFTSLGTT solution = new SolutionFTSLGTT();
+        char result = solution.nextGreatestLetter(letters, target);
+        System.out.println(result);       
     }
 }
-    
 
+class SolutionFTSLGTT{
+    public char nextGreatestLetter(char[] array, char target) {
+        int start =0;
+        int end =array.length-1;
+
+
+        while (start<= end){
+            int mid = start + (end-start)/2;
+            if(array[mid]<=target){
+                start = mid+1;
+            }else {
+                end = mid-1;
+            }
+        }
+
+        return array[start%array.length];
+    }
+}
