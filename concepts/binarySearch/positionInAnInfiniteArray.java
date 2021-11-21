@@ -1,5 +1,6 @@
 package concepts.binarySearch;
 
+// Amazon Question available on GFG
 public class positionInAnInfiniteArray {
     public static void main(String[] args) {
         int [] array = new int [] {0,1,2,3,4,5,6,7,8,9,10};
