@@ -71,3 +71,5 @@ class SolutionFIMA{
         return start;
     }
 }
+
+// There are many calls to array[mid] optimize it by adding a variable to it.
