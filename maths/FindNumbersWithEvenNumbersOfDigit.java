@@ -1,3 +1,4 @@
+package maths;
 // https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 
 class SolutionFindNumbersWithEvenNumbersOfDigit {

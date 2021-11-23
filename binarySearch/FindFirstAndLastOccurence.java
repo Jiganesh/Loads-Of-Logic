@@ -1,5 +1,6 @@
-// https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/
+// https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 
+package binarySearch;
 import java.util.Arrays;
 
 public class FindFirstAndLastOccurence {

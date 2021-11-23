@@ -1,4 +1,4 @@
-
+package binarySearch;
 public class SearchInRotatedSortedArray {
     public static void main(String[] args) {
 

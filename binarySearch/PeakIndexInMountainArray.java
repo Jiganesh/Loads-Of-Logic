@@ -3,6 +3,7 @@
 
 // Two Questions but same Answer
 
+package binarySearch;
 public class PeakIndexInMountainArray {
     public static void main(String[] args) {
         
