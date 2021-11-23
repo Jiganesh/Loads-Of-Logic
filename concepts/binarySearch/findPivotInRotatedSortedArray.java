@@ -6,20 +6,25 @@ package concepts.binarySearch;
 public class findPivotInRotatedSortedArray {
 
     public static void main(String[] args) {
-        int [] array= new int []{4,5,6,7,0,1,2};
-        System.out.println(pivot(array));     
+        System.out.println(findPivot(new int[] {1,3}));
+        System.out.println(findPivot(new int[] {4,5,6,7,0,1,2}));     
+
+        // if there is no pivot that means if array is not rotated it will return -1;
     }
     
-    public static int pivot (int[] array){
-
-        int start = 0;
-        int end = array.length-1;
-
-        while (start != end){
-            int mid = start + (end -start)/ 2;
-            if (array[mid]> array[mid+1]) return mid;
-            if (array[start] < array[mid]) end= mid;
-            else start = mid;
+    static int findPivot(int[] array) {
+        int start = 0 ;
+        int end = array.length -1 ;
+        
+        while(start <=end){
+            int mid = start +(end - start )/2;
+            //case 1 and case 2 
+            if (mid <end && array[mid]>array[mid+1]) return mid;
+            if (mid >start && array[mid -1]> array [mid]) return mid -1;
+            
+            //case 3
+            if(array[start]<=array[mid]) start = mid +1;
+            else end = mid -1 ;
         }
         return -1;
     }
