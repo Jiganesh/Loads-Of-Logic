@@ -1,4 +1,5 @@
 #https://leetcode.com/problems/maximal-rectangle/
+#Also known as: Maximum Area Rectangle in Binary Matrix
 
 def mah(lst):
     sta,finalL=[],[]
