@@ -22,3 +22,9 @@ Arrays
 Maths
 - https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ (Easy)
 
+Stack
+- https://leetcode.com/problems/min-stack/ (Easy)
+- https://leetcode.com/problems/maximal-rectangle/ (Hard)
+
+Queue
+- https://leetcode.com/problems/implement-queue-using-stacks/ (Easy)
