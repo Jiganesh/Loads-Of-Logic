@@ -2,6 +2,17 @@
 
 ### Topics to Practice
 
+Arrays
+- https://leetcode.com/problems/two-sum/ (Easy)
+- https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ (Easy)
+
+Maths
+- https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ (Easy)
+
+Queue
+- https://leetcode.com/problems/implement-queue-using-stacks/ (Easy)
+
+
 Search
 - https://leetcode.com/problems/richest-customer-wealth/ (Very Easy)
 - https://leetcode.com/problems/find-smallest-letter-greater-than-target/ (Easy)
@@ -14,17 +25,18 @@ Search
 - https://leetcode.com/problems/single-element-in-a-sorted-array/ (Medium)
 - https://leetcode.com/problems/find-in-mountain-array/ (Hard)
 
-
-Arrays
-- https://leetcode.com/problems/two-sum/ (Easy)
-- https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ (Easy)
-
-Maths
-- https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ (Easy)
-
 Stack
 - https://leetcode.com/problems/min-stack/ (Easy)
 - https://leetcode.com/problems/maximal-rectangle/ (Hard)
 
-Queue
-- https://leetcode.com/problems/implement-queue-using-stacks/ (Easy)
+
+### Feel free to contribute
+Guidelines we follow :
+
+- folderName and fileName should be in PascalCase
+- fileName should be same name as the problemName
+- Contribute in any Language
+- Update ReadMe file simulateneously
+- try to explain your approach as much as possible
+
+Thank You !! 
