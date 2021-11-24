@@ -16,7 +16,7 @@ class SolutionRichestCustomerWealth {
     }
 }
 
-public class RichestCustomerWealth {
+public class richestCustomerWealth {
     public static void main(String[] args) {
         SolutionRichestCustomerWealth solution = new SolutionRichestCustomerWealth();
         int[][] accounts = {{1,2,3},{3,4,5},{3,4,5}};

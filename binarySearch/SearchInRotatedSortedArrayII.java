@@ -1,6 +1,6 @@
 package binarySearch;
 
-public class SearchInRotatedSortedArrayII {
+public class searchInRotatedSortedArrayII {
     public static void main(String[] args) {
         SolutionSISAII solution = new SolutionSISAII();
         System.out.println(solution.search(new int[] { 1, 0, 1, 1, 1 }, 0));

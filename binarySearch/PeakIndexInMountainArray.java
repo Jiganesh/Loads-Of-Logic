@@ -4,7 +4,7 @@
 // Two Questions but same Answer
 
 package binarySearch;
-public class PeakIndexInMountainArray {
+public class peakIndexInMountainArray {
     public static void main(String[] args) {
         
 

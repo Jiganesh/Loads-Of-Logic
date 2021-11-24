@@ -1,5 +1,5 @@
 package binarySearch;
-public class SearchInRotatedSortedArray {
+public class searchInRotatedSortedArray {
     public static void main(String[] args) {
 
         SolutionSISA solution = new SolutionSISA();
