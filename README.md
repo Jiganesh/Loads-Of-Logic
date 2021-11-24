@@ -22,3 +22,6 @@ Maths
 Stack
 - https://leetcode.com/problems/min-stack/ (Easy)
 - https://leetcode.com/problems/maximal-rectangle/ (Hard)
+
+Queue
+- https://leetcode.com/problems/implement-queue-using-stacks/ (Easy)
