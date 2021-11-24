@@ -19,3 +19,6 @@ Arrays
 Maths
 - https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ (Easy)
 
+Stack
+- https://leetcode.com/problems/maximal-rectangle/ (Hard)
+
