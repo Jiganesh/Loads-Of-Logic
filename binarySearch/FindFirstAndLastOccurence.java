@@ -3,7 +3,7 @@
 package binarySearch;
 import java.util.Arrays;
 
-public class FindFirstAndLastOccurence {
+public class findFirstAndLastOccurence {
     public static void main(String[] args) {
         int[] array = new int[]{5,7,7,8,8,10};
         int target = 8;

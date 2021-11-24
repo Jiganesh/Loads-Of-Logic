@@ -1,7 +1,7 @@
 // https://leetcode.com/problems/find-in-mountain-array/
 
 package binarySearch;
-public class FindInMountainArray {
+public class findInMountainArray {
     public static void main (String[] args){
         
         SolutionFIMA solution = new SolutionFIMA();
