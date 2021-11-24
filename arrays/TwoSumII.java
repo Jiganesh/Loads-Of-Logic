@@ -20,7 +20,7 @@ class SolutionTwoSumII {
     }
 }
 
-public class TwoSumII {
+public class twoSumII {
     public static void main(String[] args) {
         SolutionTwoSumII s = new SolutionTwoSumII();
         int[] nums = {2,7,11,15};
