@@ -30,6 +30,18 @@ Stack
 - https://leetcode.com/problems/maximal-rectangle/ (Hard)
 
 
+CONCEPTS/MISCELLENEOUS
+- Order Agnostic Binary Search (Binary Search)
+- Search in Infinite Array (Binary Search)
+- Find Binary Search Ceiling Value (Binary Search)
+- Find Binary Search Floor Value(Binary Search)
+- Find Pivot in Rotated Sorted Array (Binary Search)
+- Find Pivot in Rotated Sorted Element with Duplicates  (Binary Search)
+- Rotation Count for Rotated Array (Binary Search)
+- Search in Sorted Row and Column Wise Matrix (Binary Search)
+
+
+
 ### Feel free to contribute
 Guidelines we follow :
 
