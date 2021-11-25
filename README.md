@@ -33,7 +33,7 @@ Stack
 ### Feel free to contribute
 Guidelines we follow :
 
-- folderName and fileName should be in PascalCase
+- folderName and fileName should be in pascalCase
 - fileName should be same name as the problemName
 - Contribute in any Language
 - Update ReadMe file simulateneously
