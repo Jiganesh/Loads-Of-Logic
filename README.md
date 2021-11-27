@@ -20,6 +20,7 @@ Search
 - https://leetcode.com/problems/find-peak-element/ (Easy)
 - https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ (Easy)
 - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ (Easy)
+- //https://leetcode.com/problems/search-a-2d-matrix/ (Medium)
 - https://leetcode.com/problems/search-in-rotated-sorted-array/ (Medium)
 - https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ (Medium)
 - https://leetcode.com/problems/single-element-in-a-sorted-array/ (Medium)
@@ -39,6 +40,8 @@ CONCEPTS/MISCELLENEOUS
 - Find Pivot in Rotated Sorted Element with Duplicates  (Binary Search)
 - Rotation Count for Rotated Array (Binary Search)
 - Search in Sorted Row and Column Wise Matrix (Binary Search)
+- Search a Matrix sorted Row and Column wise (Binary Search , Matrix)
+- Search a Sorted Matrix (Binary Search , Matrix)
 
 
 
