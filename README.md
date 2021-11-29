@@ -27,6 +27,12 @@ Search
 - https://leetcode.com/problems/single-element-in-a-sorted-array/ (Medium)
 - https://leetcode.com/problems/find-in-mountain-array/ (Hard)
 
+Sorting
+- BubbleSort
+- CountSort
+- InsertionSort
+- SelectionSort
+
 Stack
 - https://leetcode.com/problems/min-stack/ (Easy)
 - https://leetcode.com/problems/maximal-rectangle/ (Hard)
