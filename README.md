@@ -29,7 +29,7 @@ Search
 
 Sorting
 - BubbleSort
-- CountSort
+- CycleSort
 - InsertionSort
 - SelectionSort
 
