@@ -30,6 +30,8 @@ Search
 Sorting
 - BubbleSort
 - CycleSort
+    - https://leetcode.com/problems/missing-number/
+    
 - InsertionSort
 - SelectionSort
 
