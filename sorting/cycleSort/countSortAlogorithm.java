@@ -1,4 +1,4 @@
-package sorting.countSort;
+package sorting.cycleSort;
 
 import java.util.Arrays;
 
