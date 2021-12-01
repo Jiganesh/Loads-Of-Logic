@@ -31,8 +31,9 @@ Sorting
 - BubbleSort
 - CycleSort
     - https://leetcode.com/problems/missing-number/ (Easy)
-    - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/submissions/ (Easu)
-    - https://leetcode.com/problems/find-the-duplicate-number/ (Easy)
+    - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/submissions/ (Easy)
+    - https://leetcode.com/problems/find-the-duplicate-number/ (Medium)
+    - https://leetcode.com/problems/find-all-duplicates-in-an-array/ (Medium)
 
     
 - InsertionSort
