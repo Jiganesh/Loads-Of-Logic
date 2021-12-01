@@ -30,8 +30,10 @@ Search
 Sorting
 - BubbleSort
 - CycleSort
-    - https://leetcode.com/problems/missing-number/
-    - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/submissions/
+    - https://leetcode.com/problems/missing-number/ (Easy)
+    - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/submissions/ (Easu)
+    - https://leetcode.com/problems/find-the-duplicate-number/ (Easy)
+
     
 - InsertionSort
 - SelectionSort
