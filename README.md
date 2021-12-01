@@ -31,6 +31,7 @@ Sorting
 - BubbleSort
 - CycleSort
     - https://leetcode.com/problems/missing-number/
+    - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/submissions/
     
 - InsertionSort
 - SelectionSort
