@@ -43,6 +43,8 @@ Sorting
 Stack
 - https://leetcode.com/problems/min-stack/ (Easy)
 - https://leetcode.com/problems/maximal-rectangle/ (Hard)
+- https://leetcode.com/problems/backspace-string-compare/ (Easy)
+- https://leetcode.com/problems/largest-rectangle-in-histogram/ (Hard)
 
 
 CONCEPTS/MISCELLENEOUS
