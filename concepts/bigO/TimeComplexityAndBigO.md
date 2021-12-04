@@ -54,10 +54,33 @@ Big Omega                    Little omega Notation
 f >= g                             f > g
 
 
-
-# Space Complexity 
+#### Space Complexity 
 Space Complexity = Auxilary Space + Space Used By Input
 
 We always talk about Auxilary Space
+Space Complexity for Recursion = Height of Tree
+
+
+2 Types of Recursion :
+Linear : Fibonacci F(N) =  F(N-1)+F(N-2)
+Divide and Conquer: Binary Search F(N) = F(N/2) + O(1)
+(Master's Theorem taught in Uni)
+
+
+#### How to solve to get complexity
+- plug and chug method
+- Masters Theorem
+- Akra Bazzi Formula (1996)
+
+#### Akra Bazzi Formula
+
+<img src="Images\akraBazziFormula.png">
+
+<img src ="Images\whatIsP.png">
+<img src ="Images\PlessThanGxPart1.png">
+<img src ="Images\PlessThanGxPart2.png">
+<img src = "linearRecurrence.png ">
+
+https://www.youtube.com/watch?v=mV3wrLBbuuE&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=20
 
 
