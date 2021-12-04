@@ -12,6 +12,9 @@ Maths
 Queue
 - https://leetcode.com/problems/implement-queue-using-stacks/ (Easy)
 
+Recursion
+- https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ (Easy)
+
 
 Search
 - https://leetcode.com/problems/richest-customer-wealth/ (Very Easy)
@@ -48,8 +51,13 @@ Stack
 
 
 CONCEPTS/MISCELLENEOUS
+
 - recursion
-    -Print Number from 1 to N && from N to 1 && from 1 to N and N to 1 in same
+    - Print Number from 1 to N && from N to 1 && from 1 to N and N to 1 in same
+    - Sum and Product (Factorial) of Number from 1 To N
+    - Sum and Product of Digits in a  Number
+    - Reverse A Number
+
 - binarySearch
     - Order Agnostic Binary Search (Binary Search)
     - Search in Infinite Array (Binary Search)
