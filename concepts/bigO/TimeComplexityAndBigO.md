@@ -1,4 +1,4 @@
-## What is Time Complexity ?
+#### What is Time Complexity ?
 Time Complexity is not equal to Time Taken 
 
 Old Machine Take 10 sec to search a  non existing number in array of 10 elements , 20 sec in 20 elements , 3 sec in 30 elements
@@ -10,44 +10,44 @@ Over here time is growing linearly as size is growing. This graph is Time Comple
 
 <span  style ="color: blue">Time Complexity is function that gives us the relationship about  how the time will grow as the input grows.</span>
 
-## What do we consider when thinking about complexity ?
+#### What do we consider when thinking about complexity ?
 Always look for worst case complexities.
 Always look at complexity for large data
 We care about how time will vary with data
 Always ignore less domination terms and constants
 
-## Maths
+#### Maths
  f(N) = O ( g(N) )
 
 
-## Big O Notations (upper  bound) 
+#### Big O Notations (upper  bound) 
 (f growth is not faster than g)
 
 lim      _f_(N)__ < inf
 N->inf    g (N)
 
 
-## Big Omega Notations (lower bound)
+#### Big Omega Notations (lower bound)
 
 lim      _f_(x)__ > 0
 N->inf    g (x)
 
 
-## What if an algo has lower bound  and upper bound
+#### What if an algo has lower bound  and upper bound
 
 Theta Notation
 
 0 < lim     _f_(x)__ < inf
     N->inf   g (x)>
 
-## little o Notation 
+#### little o Notation 
 (f growth is strictly slower than g)
 
 Big O Notation        Little o Notation (stronger statement)
 f = O(g)                 f = o(g)
 f <= g                    f < g
 
-## little omega Notation
+#### little omega Notation
 (f is strictly greater than g)
 
 Big Omega                    Little omega Notation
@@ -79,8 +79,8 @@ Divide and Conquer: Binary Search F(N) = F(N/2) + O(1)
 <img src ="Images\whatIsP.png">
 <img src ="Images\PlessThanGxPart1.png">
 <img src ="Images\PlessThanGxPart2.png">
-<img src = "linearRecurrence.png ">
+<img src = "Images\linearRecurrence.png">
 
-https://www.youtube.com/watch?v=mV3wrLBbuuE&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=20
+[Youtube Video](https://www.youtube.com/watch?v=mV3wrLBbuuE&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=20)
 
 
