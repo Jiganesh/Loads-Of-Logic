@@ -11,6 +11,8 @@ Maths
 
 Queue
 - https://leetcode.com/problems/implement-queue-using-stacks/ (Easy)
+- https://leetcode.com/problems/time-needed-to-buy-tickets/ (Easy)
+- https://leetcode.com/problems/design-circular-queue/ (Medium)
 
 Recursion
 - https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ (Easy)
