@@ -24,6 +24,7 @@ Search
 - https://leetcode.com/problems/peak-index-in-a-mountain-array/ (Easy)
 - https://leetcode.com/problems/find-peak-element/ (Easy)
 - https://leetcode.com/problems/sqrtx/ (easy)
+- https://leetcode.com/problems/guess-number-higher-or-lower/ (easy)
 - https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ (Easy)
 - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ (Easy)
 - https://leetcode.com/problems/search-a-2d-matrix/ (Medium)
