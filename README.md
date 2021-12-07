@@ -37,6 +37,7 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/richest-customer-wealth/ (Very Easy)
 - https://leetcode.com/problems/sqrtx/ (Very Easy)
 - https://leetcode.com/problems/first-bad-version/ (Very Easy)
+- https://leetcode.com/problems/valid-perfect-square/ (Very Easy)
 - https://leetcode.com/problems/guess-number-higher-or-lower/ (Very Easy)
 - https://leetcode.com/problems/find-smallest-letter-greater-than-target/ (Easy)
 - https://leetcode.com/problems/peak-index-in-a-mountain-array/ (Easy)
