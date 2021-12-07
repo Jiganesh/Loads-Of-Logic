@@ -47,6 +47,7 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/arranging-coins/ (Easy)
 - https://leetcode.com/problems/kth-missing-positive-number/ (Easy)
 - https://leetcode.com/problems/search-insert-position/ (Easy)
+- https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/ (Easy)
 - https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ (Easy)
 - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ (Easy)
 - https://leetcode.com/problems/search-a-2d-matrix/ (Medium)
@@ -89,6 +90,7 @@ Click to Expand and View Problems Solved
     - Sum and Product (Factorial) of Number from 1 To N
     - Sum and Product of Digits in a  Number
     - Reverse A Number
+    - Maximize The Number By Swapping Adjacent Two Digits (Not Yet Solved)
 
 - binarySearch
     - Order Agnostic Binary Search (Binary Search)
