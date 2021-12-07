@@ -21,7 +21,7 @@ Click to Expand and View Problems Solved
 
 - https://leetcode.com/problems/implement-queue-using-stacks/ (Easy)
 - https://leetcode.com/problems/time-needed-to-buy-tickets/ (Easy)
-- https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118523/offering/1380947?leftPanelTab=0 (Easy)
+- [https://www.codingninjas.com/reverse-first-k-elements-of-queue](https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118523/offering/1380947?leftPanelTab=0) (Easy)
 - https://leetcode.com/problems/design-circular-queue/ (Medium)
 - https://leetcode.com/problems/find-the-winner-of-the-circular-game/ (Medium)
 </details>
