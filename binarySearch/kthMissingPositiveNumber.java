@@ -11,7 +11,6 @@ public class kthMissingPositiveNumber {
     }
 }
 
-
 class SolutionKMPN {
     public int findKthPositive(int[] arr, int k) {
         int start = 0;

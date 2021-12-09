@@ -4,7 +4,7 @@ package binarySearch;
 
 public class arrangingCoins {
     public static void main(String[] args) {
-        SolutionAC solution = new SolutionAC();
+        Solution solution = new Solution();
         System.out.println(solution.arrangeCoins(5)); //2
         System.out.println(solution.arrangeCoins(1)); //1
         System.out.println(solution.arrangeCoins(0)); //0
@@ -14,8 +14,7 @@ public class arrangingCoins {
     }
 }
 
-class SolutionAC {
-
+class Solution {
     //TC = O(sqrt(n)) or O(i)
     // SC = O(1)
     public int arrangeCoinsBruteForce(int n){
