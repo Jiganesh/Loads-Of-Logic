@@ -36,6 +36,7 @@ Click to Expand and View Problems Solved
 <details>
 <summary>Search</summary>
 
+- https://leetcode.com/problems/binary-search/ (Very Easy)
 - https://leetcode.com/problems/richest-customer-wealth/ (Very Easy)
 - https://leetcode.com/problems/sqrtx/ (Very Easy)
 - https://leetcode.com/problems/first-bad-version/ (Very Easy)
@@ -45,8 +46,10 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/peak-index-in-a-mountain-array/ (Easy)
 - https://leetcode.com/problems/find-peak-element/ (Easy)
 - https://leetcode.com/problems/arranging-coins/ (Easy)
+- https://leetcode.com/problems/check-if-n-and-its-double-exist/ (Easy)
 - https://leetcode.com/problems/kth-missing-positive-number/ (Easy)
 - https://leetcode.com/problems/intersection-of-two-arrays/ (Easy)
+- https://leetcode.com/problems/intersection-of-two-arrays-ii/ (Easy)
 - https://leetcode.com/problems/search-insert-position/ (Easy)
 - https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/ (Easy)
 - https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ (Easy)

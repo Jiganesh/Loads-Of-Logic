@@ -21,8 +21,8 @@ public class intersectionOfTwoArrays {
 
 class SolutionIOTA {
     // Approach 1 - Using Sorted Arrays and Hashset
-    // TC = O(nLogn)
-    // SC = O(n)
+    // TC = O(nLogn+mLogm)
+    // SC = O(n+m)
     public int[] intersection(int[] nums1, int[] nums2) {
 
         ArrayList <Integer> list = new ArrayList<Integer>();
@@ -58,8 +58,8 @@ class SolutionIOTA {
     }
 
     // Approach 2 - Using HashSet
-    // TC = O (n)
-    // SC = O (n)
+    // TC = O (n+m)
+    // SC = O (min(n,m))
 
     public int[] intersectionHashSetSolution(int[] nums1, int[] nums2) {
         HashSet<Integer> nums1HashSet= new HashSet<Integer>();
