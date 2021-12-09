@@ -1,7 +1,7 @@
 package arrays;
 // https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ 
 
-class SolutionTwoSumII {
+class Solution {
     public int[] twoSum(int[] numbers, int target) {
         
         int start = 0 ;
@@ -22,7 +22,7 @@ class SolutionTwoSumII {
 
 public class twoSumII {
     public static void main(String[] args) {
-        SolutionTwoSumII s = new SolutionTwoSumII();
+        Solution s = new Solution();
         int[] nums = {2,7,11,15};
         int target = 9;
         int[] result = s.twoSum(nums, target);
