@@ -12,6 +12,11 @@ def reverseElements(q, k):
     #now put remaining elements from front to back
     n = q.qsize()
     stack = []
+    
+    # Using a stack
+    n = q.qsize()
+    stack, q2 = [], []
+    
     for items in range(k):
         stack.append(q.get())
     for op in range(k):
@@ -20,6 +25,9 @@ def reverseElements(q, k):
         q.put(q.get())
     return q
 
+  
+
+'''
 
 '''
 #Only Using Queue

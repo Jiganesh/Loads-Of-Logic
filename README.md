@@ -21,7 +21,7 @@ Click to Expand and View Problems Solved
 
 - https://leetcode.com/problems/implement-queue-using-stacks/ (Easy)
 - https://leetcode.com/problems/time-needed-to-buy-tickets/ (Easy)
-- https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118523/offering/1380947?leftPanelTab=0 (Easy)
+- [https://www.codingninjas.com/reverse-first-k-elements-of-queue](https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118523/offering/1380947?leftPanelTab=0) (Easy)
 - https://leetcode.com/problems/design-circular-queue/ (Medium)
 - https://leetcode.com/problems/find-the-winner-of-the-circular-game/ (Medium)
 - https://leetcode.com/problems/design-front-middle-back-queue/ (Medium)
@@ -37,6 +37,7 @@ Click to Expand and View Problems Solved
 <details>
 <summary>Search</summary>
 
+- https://leetcode.com/problems/binary-search/ (Very Easy)
 - https://leetcode.com/problems/richest-customer-wealth/ (Very Easy)
 - https://leetcode.com/problems/sqrtx/ (Very Easy)
 - https://leetcode.com/problems/first-bad-version/ (Very Easy)
@@ -46,8 +47,12 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/peak-index-in-a-mountain-array/ (Easy)
 - https://leetcode.com/problems/find-peak-element/ (Easy)
 - https://leetcode.com/problems/arranging-coins/ (Easy)
+- https://leetcode.com/problems/check-if-n-and-its-double-exist/ (Easy)
 - https://leetcode.com/problems/kth-missing-positive-number/ (Easy)
+- https://leetcode.com/problems/intersection-of-two-arrays/ (Easy)
+- https://leetcode.com/problems/intersection-of-two-arrays-ii/ (Easy)
 - https://leetcode.com/problems/search-insert-position/ (Easy)
+- https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/ (Easy)
 - https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ (Easy)
 - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ (Easy)
 - https://leetcode.com/problems/search-a-2d-matrix/ (Medium)
@@ -90,6 +95,7 @@ Click to Expand and View Problems Solved
     - Sum and Product (Factorial) of Number from 1 To N
     - Sum and Product of Digits in a  Number
     - Reverse A Number
+    - Maximize The Number By Swapping Adjacent Two Digits (Not Yet Solved)
 
 - binarySearch
     - Order Agnostic Binary Search (Binary Search)

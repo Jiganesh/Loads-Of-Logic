@@ -5,7 +5,7 @@ package arrays;
 
 import java.util.HashMap;
 
-class SolutionTwoSum {
+class SolutionTS {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> dictionary = new HashMap <Integer, Integer>();
         for (int i =0 ; i<= nums.length-1; i++){
@@ -21,7 +21,7 @@ class SolutionTwoSum {
 
 class twoSum{
     public static void main(String[] args){
-        SolutionTwoSum solution = new SolutionTwoSum();
+        SolutionTS solution = new SolutionTS();
         int[] nums = {2,7,11,15};
         int target = 9;
         int[] result = solution.twoSum(nums, target);
