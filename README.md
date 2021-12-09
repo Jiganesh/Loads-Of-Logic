@@ -24,6 +24,7 @@ Click to Expand and View Problems Solved
 - https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118523/offering/1380947?leftPanelTab=0 (Easy)
 - https://leetcode.com/problems/design-circular-queue/ (Medium)
 - https://leetcode.com/problems/find-the-winner-of-the-circular-game/ (Medium)
+- https://leetcode.com/problems/design-front-middle-back-queue/ (Medium)
 </details>
 
 <details>
