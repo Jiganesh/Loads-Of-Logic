@@ -1,17 +1,21 @@
 # https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118523/offering/1380947?leftPanelTab=0
 
 
+from queue import Queue
+
+
 def reverseElements(q, k):
-    #Using a stack
-    n=q.qsize()
+    # Using a stack
+    n = q.qsize()
     stack, q2 = [], []
     for items in range(k):
-    	stack.append(q.get())
+        stack.append(q.get())
     for op in range(k):
-    	q.put(stack.pop())
+        q.put(stack.pop())
     for topop in range(n-k):
         q.put(q.get())
     return q
+
 
 '''
 
@@ -46,6 +50,8 @@ def reverseElements(q, k):
 '''
 
 # for checking
+
+
 def print_que(que):
     while que.qsize() != 0:
         print(que.get(), end=" ")
@@ -53,7 +59,6 @@ def print_que(que):
 
 
 # in question q was, taken input from Queue module hence get and put are used for it.
-from queue import Queue
 k = 3
 que = Queue()
 que.put(1)
