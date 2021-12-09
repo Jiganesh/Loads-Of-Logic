@@ -4,14 +4,14 @@ import java.util.HashMap;
 
 public class checkIfNAndItsDoubleExist {
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        SolutionCINAIDE solution = new SolutionCINAIDE();
         System.out.println(solution.checkIfExist(new int[] {10,2,5,3})); //true
         System.out.println(solution.checkIfExist(new int[] {7,1,14,11})); //true
         System.out.println(solution.checkIfExist(new int[] {3,1,7,11})); //false
     }
 }
 
-class Solution {
+class SolutionCINAIDE  {
 
     // Solved With HashMap Approach
     public boolean checkIfExist(int[] arr) {

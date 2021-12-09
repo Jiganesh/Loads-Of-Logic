@@ -2,14 +2,14 @@ package binarySearch;
 
 public class binarySearch {
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        SolutionBS solution = new SolutionBS();
         System.out.println(solution.search(new int[]{-1,0,3,5,9,12}, 9)); //4
         System.out.println(solution.search(new int[]{-1,0,3,5,9,12}, 2)); //-1
 
     }
     
 }
-class Solution {
+class SolutionBS {
     public int search(int[] nums, int target) {
         int start =0;
         int end = nums.length-1;
