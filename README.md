@@ -52,6 +52,7 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/kth-missing-positive-number/ (Easy)
 - https://leetcode.com/problems/intersection-of-two-arrays/ (Easy)
 - https://leetcode.com/problems/intersection-of-two-arrays-ii/ (Easy)
+- https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/ (Easy)
 - https://leetcode.com/problems/search-insert-position/ (Easy)
 - https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/ (Easy)
 - https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ (Easy)
