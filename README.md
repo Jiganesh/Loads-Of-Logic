@@ -25,6 +25,7 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/design-circular-queue/ (Medium)
 - https://leetcode.com/problems/find-the-winner-of-the-circular-game/ (Medium)
 - https://leetcode.com/problems/design-front-middle-back-queue/ (Medium)
+- https://leetcode.com/problems/product-of-the-last-k-numbers/ (Medium)
 </details>
 
 <details>
