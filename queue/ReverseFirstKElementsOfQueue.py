@@ -5,9 +5,18 @@ from queue import Queue
 
 
 def reverseElements(q, k):
+    
+    # Using a stack
+    #pop first k elements from queue(from front) to stack (to back)
+    #append those elements to queue (order reversed)
+    #now put remaining elements from front to back
+    n = q.qsize()
+    stack = []
+    
     # Using a stack
     n = q.qsize()
     stack, q2 = [], []
+    
     for items in range(k):
         stack.append(q.get())
     for op in range(k):
@@ -16,18 +25,21 @@ def reverseElements(q, k):
         q.put(q.get())
     return q
 
+  
 
 '''
 
+'''
 #Only Using Queue
+#split queue to 2 queues for first k elements and remaining elements
+#reverse first queue and append those queue in order again
+#for reversing queue used recursive method 
 def reverse_que(que):
     if que.empty():
         return
     item = que.get()
     reverse_que(que)
     que.put(item)
-
-
 def reverseElements(q, k):
     n = q.qsize()
     q1, q2 = Queue(), Queue()
@@ -38,7 +50,6 @@ def reverseElements(q, k):
             q2.put(q.get())
         
     reverse_que(q1)
-
     for op in range(n):
         if op < k:
             q.put(q1.get())
@@ -46,7 +57,6 @@ def reverseElements(q, k):
             q.put(q2.get())
        
     return q
-
 '''
 
 # for checking
