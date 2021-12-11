@@ -49,6 +49,7 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/find-peak-element/ (Easy)
 - https://leetcode.com/problems/arranging-coins/ (Easy)
 - https://leetcode.com/problems/check-if-n-and-its-double-exist/ (Easy)
+- https://leetcode.com/problems/fair-candy-swap/ (Easy)
 - https://leetcode.com/problems/kth-missing-positive-number/ (Easy)
 - https://leetcode.com/problems/intersection-of-two-arrays/ (Easy)
 - https://leetcode.com/problems/intersection-of-two-arrays-ii/ (Easy)
