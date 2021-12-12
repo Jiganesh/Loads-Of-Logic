@@ -57,6 +57,7 @@ Click to Expand and View Problems Solved
 - https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ (Easy)
 - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ (Easy)
 - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ (Medium)
+- https://leetcode.com/problems/find-right-interval/ (Medium)
 - https://leetcode.com/problems/find-peak-element/ (Medium)
 - https://leetcode.com/problems/find-peak-element/ (Medium)
 - https://leetcode.com/problems/search-a-2d-matrix/ (Medium)
