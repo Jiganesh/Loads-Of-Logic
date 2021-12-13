@@ -62,6 +62,7 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/find-right-interval/ (Medium)
 - https://leetcode.com/problems/find-peak-element/ (Medium)
 - https://leetcode.com/problems/find-peak-element/ (Medium)
+- https://leetcode.com/problems/reach-a-number/ (Medium)
 - https://leetcode.com/problems/search-a-2d-matrix/ (Medium)
 - https://leetcode.com/problems/search-a-2d-matrix-ii/ (Medium)
 - https://leetcode.com/problems/search-in-rotated-sorted-array/ (Medium)
