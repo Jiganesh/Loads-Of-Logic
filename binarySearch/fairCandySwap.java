@@ -6,11 +6,13 @@ import java.util.Arrays;
 
 public class fairCandySwap {
     public static void main(String[] args) {
+        SolutionFCS solution= new SolutionFCS();
+        System.out.println(solution.fairCandySwap(new int[]{1,1}, new int[] {2,2}));
         
     }
 }
 
-class Solution {
+class SolutionFCS {
     public int[] fairCandySwap(int[] aliceSizes, int[] bobSizes) {
         int totalAlice = total(aliceSizes);
         int totalBob = total (bobSizes);
