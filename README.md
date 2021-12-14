@@ -8,6 +8,10 @@ Click to Expand and View Problems Solved
 
 - https://leetcode.com/problems/two-sum/ (Easy)
 - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ (Easy)
+- https://leetcode.com/problems/build-array-from-permutation/ (Easy)
+- https://leetcode.com/problems/concatenation-of-array/ (Easy)
+- https://leetcode.com/problems/running-sum-of-1d-array/ (Easy)
+- https://leetcode.com/problems/richest-customer-wealth/ (Easy)
 </details>
 
 <details>
