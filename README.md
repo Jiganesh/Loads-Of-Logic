@@ -12,6 +12,7 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/concatenation-of-array/ (Easy)
 - https://leetcode.com/problems/running-sum-of-1d-array/ (Easy)
 - https://leetcode.com/problems/richest-customer-wealth/ (Easy)
+- https://leetcode.com/problems/shuffle-the-array/ (Easy)
 </details>
 
 <details>
