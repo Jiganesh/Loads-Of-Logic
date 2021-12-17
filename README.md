@@ -104,6 +104,7 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/next-greater-element-i/ (Easy)
 - https://www.interviewbit.com/problems/nearest-smaller-element/# (Easy)
 - https://practice.geeksforgeeks.org/problems/sort-a-stack/1 (Easy)
+- https://leetcode.com/problems/lru-cache/ (Medium)
 - https://leetcode.com/problems/largest-rectangle-in-histogram/ (Hard)
 - https://leetcode.com/problems/maximal-rectangle/ (Hard)
 </details>
