@@ -16,7 +16,9 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/number-of-good-pairs/ (Easy)
 - https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/ (Easy)
 - https://leetcode.com/problems/create-target-array-in-the-given-order/ (Easy)
-
+- https://leetcode.com/problems/check-if-the-sentence-is-pangram/ (Easy)
+- https://leetcode.com/problems/count-items-matching-a-rule/ (Easy)
+- https://leetcode.com/problems/find-the-highest-altitude/ (Easy)
 
 </details>
 
@@ -42,6 +44,7 @@ Click to Expand and View Problems Solved
 <summary>Recursion</summary>
 
 - https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ (Easy)
+
 </details>
 
 
