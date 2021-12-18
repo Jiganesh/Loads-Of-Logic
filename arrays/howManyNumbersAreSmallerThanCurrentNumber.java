@@ -10,9 +10,9 @@ public class howManyNumbersAreSmallerThanCurrentNumber{
         System.out.println(Arrays.toString(solution.smallerNumbersThanCurrentApproach2(new int[]{8,1,2,2,3}))); // [4,0,1,1,3]
         System.out.println(Arrays.toString(solution.smallerNumbersThanCurrentApproach3(new int[]{8,1,2,2,3}))); // [4,0,1,1,3]
 
-        System.out.println(Arrays.toString(solution.smallerNumbersThanCurrent(new int[]{5,0,10,0,10,6}))); // [4,0,1,1,3]
-        System.out.println(Arrays.toString(solution.smallerNumbersThanCurrentApproach2(new int[]{5,0,10,0,10,6}))); // [4,0,1,1,3]
-        System.out.println(Arrays.toString(solution.smallerNumbersThanCurrentApproach3(new int[]{5,0,10,0,10,6}))); // [4,0,1,1,3]
+        System.out.println(Arrays.toString(solution.smallerNumbersThanCurrent(new int[]{5,0,10,0,10,6}))); // [2, 0, 4, 0, 4, 3]
+        System.out.println(Arrays.toString(solution.smallerNumbersThanCurrentApproach2(new int[]{5,0,10,0,10,6}))); // [2, 0, 4, 0, 4, 3]
+        System.out.println(Arrays.toString(solution.smallerNumbersThanCurrentApproach3(new int[]{5,0,10,0,10,6}))); // [2, 0, 4, 0, 4, 3]
 
     }
 }
