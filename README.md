@@ -15,6 +15,8 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/shuffle-the-array/ (Easy)
 - https://leetcode.com/problems/number-of-good-pairs/ (Easy)
 - https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/ (Easy)
+- https://leetcode.com/problems/create-target-array-in-the-given-order/ (Easy)
+
 
 </details>
 
