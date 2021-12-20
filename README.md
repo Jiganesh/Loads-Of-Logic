@@ -19,6 +19,8 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/check-if-the-sentence-is-pangram/ (Easy)
 - https://leetcode.com/problems/count-items-matching-a-rule/ (Easy)
 - https://leetcode.com/problems/find-the-highest-altitude/ (Easy)
+- https://leetcode.com/problems/flipping-an-image/ (Easy)
+- https://leetcode.com/problems/find-first-palindromic-string-in-the-array/ (Easy)
 
 </details>
 
@@ -110,20 +112,23 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/maximal-rectangle/ (Hard)
 </details>
 
+
+<details>
+<summary>Strings</summary>
+
+- https://leetcode.com/problems/find-first-palindromic-string-in-the-array/ (Easy)
+- https://leetcode.com/problems/adding-spaces-to-a-string/ (Medium)
+
+</details>
 <details>
 <summary>Concepts/Miscelleneous </summary>
 
 - recursion
-<<<<<<< Updated upstream
     - Print Number from 1 to N && from N to 1 && from 1 to N and N to 1 in same
     - Sum and Product (Factorial) of Number from 1 To N
     - Sum and Product of Digits in a  Number
     - Reverse A Number
     - Maximize The Number By Swapping Adjacent Two Digits (Not Yet Solved)
-=======
-    -Print Number from 1 to N && from N to 1 && from 1 to N and N to 1 with one function
-    -Factorial (recursion)
->>>>>>> Stashed changes
 
 - binarySearch
     - Order Agnostic Binary Search (Binary Search)
