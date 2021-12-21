@@ -18,6 +18,9 @@ public class cellWithOddValuesInAMatrix {
 }
 
 class SolutionCWOVIAM {
+
+    //TC : O((n+m)*L)+O(m*n) where L is length for indices
+    //SC : O(m*n)
     public int oddCells(int m, int n, int[][] indices) {
 
         int [][] result = new int[m][n];
