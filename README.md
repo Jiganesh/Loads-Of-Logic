@@ -21,6 +21,11 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/find-the-highest-altitude/ (Easy)
 - https://leetcode.com/problems/flipping-an-image/ (Easy)
 - https://leetcode.com/problems/find-first-palindromic-string-in-the-array/ (Easy)
+- https://leetcode.com/problems/matrix-diagonal-sum/ (Easy)
+- https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/ (Easy)
+- https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/ (Easy)
+- 
+- https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ (Easy)
 
 </details>
 
