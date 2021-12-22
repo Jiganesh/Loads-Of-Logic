@@ -24,7 +24,7 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/matrix-diagonal-sum/ (Easy)
 - https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/ (Easy)
 - https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/ (Easy)
-- 
+- https://leetcode.com/problems/transpose-matrix/ (Easy)
 - https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ (Easy)
 
 </details>
@@ -148,7 +148,6 @@ Click to Expand and View Problems Solved
     - Search a Sorted Matrix (Binary Search , Matrix)
 </details>
 
-i
 
 ### Feel free to contribute
 Guidelines we follow :
