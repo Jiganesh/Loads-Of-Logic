@@ -5,9 +5,9 @@ lines = sorted([x[x.index("- ")+2:] for x in lines if "- https" in x])
 title = "## Problem Solved\n"
 writeReadme = open("#dev/allProblemsSolved.md", "w")
 writeReadme.write(title)
-count = len(lines)
-writeReadme.write('<p style ="display: inline">Problems Solved </p>')
-writeReadme.write('<p id="count" style="display: inline">' + str(count) + '</p>\n')
+#count = len(lines)
+#writeReadme.write('<p style ="display: inline">Problems Solved </p>')
+#writeReadme.write('<p id="count" style="display: inline">' + str(count) + '</p>\n')
 
 writeReadme.write("<ol>\n")
 for i in lines:
