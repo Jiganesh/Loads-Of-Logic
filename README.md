@@ -1,6 +1,10 @@
-# LeetCode
+# LeetCode 
 
 ### Topics to Practice
+
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/%23dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved-73-brightgreen?style=for-the-badge"></a>
+
+
 
 Click to Expand and View Problems Solved
 <details>
@@ -12,6 +16,21 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/concatenation-of-array/ (Easy)
 - https://leetcode.com/problems/running-sum-of-1d-array/ (Easy)
 - https://leetcode.com/problems/richest-customer-wealth/ (Easy)
+- https://leetcode.com/problems/shuffle-the-array/ (Easy)
+- https://leetcode.com/problems/number-of-good-pairs/ (Easy)
+- https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/ (Easy)
+- https://leetcode.com/problems/create-target-array-in-the-given-order/ (Easy)
+- https://leetcode.com/problems/check-if-the-sentence-is-pangram/ (Easy)
+- https://leetcode.com/problems/count-items-matching-a-rule/ (Easy)
+- https://leetcode.com/problems/find-the-highest-altitude/ (Easy)
+- https://leetcode.com/problems/flipping-an-image/ (Easy)
+- https://leetcode.com/problems/find-first-palindromic-string-in-the-array/ (Easy)
+- https://leetcode.com/problems/matrix-diagonal-sum/ (Easy)
+- https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/ (Easy)
+- https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/ (Easy)
+- https://leetcode.com/problems/transpose-matrix/ (Easy)
+- https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ (Easy)
+
 </details>
 
 <details>
@@ -36,6 +55,7 @@ Click to Expand and View Problems Solved
 <summary>Recursion</summary>
 
 - https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ (Easy)
+
 </details>
 
 
@@ -82,7 +102,7 @@ Click to Expand and View Problems Solved
 - CycleSort
     - https://leetcode.com/problems/missing-number/ (Easy)
     - https://leetcode.com/problems/set-mismatch/ (Easy)
-    - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/submissions/ (Easy)
+    - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/ (Easy)
     - https://leetcode.com/problems/find-the-duplicate-number/ (Medium)
     - https://leetcode.com/problems/find-all-duplicates-in-an-array/ (Medium)
 
@@ -98,11 +118,20 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/implement-stack-using-queues/ (Easy)
 - https://leetcode.com/problems/valid-parentheses/ (Easy)
 - https://leetcode.com/problems/next-greater-element-i/ (Easy)
+- https://www.interviewbit.com/problems/nearest-smaller-element/# (Easy)
 - https://practice.geeksforgeeks.org/problems/sort-a-stack/1 (Easy)
 - https://leetcode.com/problems/largest-rectangle-in-histogram/ (Hard)
 - https://leetcode.com/problems/maximal-rectangle/ (Hard)
 </details>
 
+
+<details>
+<summary>Strings</summary>
+
+- https://leetcode.com/problems/find-first-palindromic-string-in-the-array/ (Easy)
+- https://leetcode.com/problems/adding-spaces-to-a-string/ (Medium)
+
+</details>
 <details>
 <summary>Concepts/Miscelleneous </summary>
 
@@ -125,6 +154,7 @@ Click to Expand and View Problems Solved
     - Search a Matrix sorted Row and Column wise (Binary Search , Matrix)
     - Search a Sorted Matrix (Binary Search , Matrix)
 </details>
+
 
 ### Feel free to contribute
 Guidelines we follow :
