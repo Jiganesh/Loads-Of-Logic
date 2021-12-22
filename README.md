@@ -2,7 +2,7 @@
 
 ### Topics to Practice
 
-<a href =""><img src="https://img.shields.io/badge/Problems%20Solved-68-brightgreen?style=for-the-badge"></a>
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/%23dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved-73-brightgreen?style=for-the-badge"></a>
 
 
 
@@ -102,7 +102,7 @@ Click to Expand and View Problems Solved
 - CycleSort
     - https://leetcode.com/problems/missing-number/ (Easy)
     - https://leetcode.com/problems/set-mismatch/ (Easy)
-    - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/submissions/ (Easy)
+    - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/ (Easy)
     - https://leetcode.com/problems/find-the-duplicate-number/ (Medium)
     - https://leetcode.com/problems/find-all-duplicates-in-an-array/ (Medium)
 
