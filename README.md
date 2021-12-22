@@ -1,6 +1,10 @@
-# LeetCode
+# LeetCode 
 
 ### Topics to Practice
+
+<a href =""><img src="https://img.shields.io/badge/Problems%20Solved-68-brightgreen?style=for-the-badge"></a>
+
+
 
 Click to Expand and View Problems Solved
 <details>
