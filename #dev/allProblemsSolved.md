@@ -1,4 +1,5 @@
 ## Problem Solved
+<p style ="display: inline">Problems Solved </p><p id="count" style="display: inline">72</p>
 <ol>
 <li><a href ='https://leetcode.com/problems/adding-spaces-to-a-string/ (Medium)
 '>https://leetcode.com/problems/adding-spaces-to-a-string/ </a>(Medium)
