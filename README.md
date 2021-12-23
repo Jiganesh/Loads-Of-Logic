@@ -2,7 +2,7 @@
 
 ### Topics to Practice
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/%23dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved-73-brightgreen?style=for-the-badge"></a>
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/%23dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved -82-brightgreen?"></a>
 
 
 
@@ -30,6 +30,13 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/ (Easy)
 - https://leetcode.com/problems/transpose-matrix/ (Easy)
 - https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ (Easy)
+- https://leetcode.com/problems/add-to-array-form-of-integer/ (Easy)
+- https://leetcode.com/problems/maximum-population-year/ (Easy)
+- https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/ (Easy)
+- https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/ (Easy)
+- https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/ (Easy)
+- https://leetcode.com/problems/matrix-diagonal-sum/ (Easy)
+- 
 
 </details>
 
@@ -117,6 +124,9 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/backspace-string-compare/ (Easy)
 - https://leetcode.com/problems/implement-stack-using-queues/ (Easy)
 - https://leetcode.com/problems/valid-parentheses/ (Easy)
+- https://leetcode.com/problems/next-greater-element-i/ (Easy)
+- https://www.interviewbit.com/problems/nearest-smaller-element/# (Easy)
+- https://practice.geeksforgeeks.org/problems/sort-a-stack/1 (Easy)
 - https://leetcode.com/problems/largest-rectangle-in-histogram/ (Hard)
 - https://leetcode.com/problems/maximal-rectangle/ (Hard)
 </details>

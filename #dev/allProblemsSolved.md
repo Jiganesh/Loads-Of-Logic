@@ -1,5 +1,8 @@
 ## Problem Solved
 <ol>
+<li><a href ='https://leetcode.com/problems/add-to-array-form-of-integer/ (Easy)
+'>https://leetcode.com/problems/add-to-array-form-of-integer/ </a>(Easy)
+</li>
 <li><a href ='https://leetcode.com/problems/adding-spaces-to-a-string/ (Medium)
 '>https://leetcode.com/problems/adding-spaces-to-a-string/ </a>(Medium)
 </li>
@@ -14,6 +17,9 @@
 </li>
 <li><a href ='https://leetcode.com/problems/build-array-from-permutation/ (Easy)
 '>https://leetcode.com/problems/build-array-from-permutation/ </a>(Easy)
+</li>
+<li><a href ='https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/ (Easy)
+'>https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/ </a>(Easy)
 </li>
 <li><a href ='https://leetcode.com/problems/check-if-n-and-its-double-exist/ (Easy)
 '>https://leetcode.com/problems/check-if-n-and-its-double-exist/ </a>(Easy)
@@ -39,6 +45,9 @@
 <li><a href ='https://leetcode.com/problems/design-front-middle-back-queue/ (Medium)
 '>https://leetcode.com/problems/design-front-middle-back-queue/ </a>(Medium)
 </li>
+<li><a href ='https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/ (Easy)
+'>https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/ </a>(Easy)
+</li>
 <li><a href ='https://leetcode.com/problems/fair-candy-swap/ (Easy)
 '>https://leetcode.com/problems/fair-candy-swap/ </a>(Easy)
 </li>
@@ -62,6 +71,9 @@
 </li>
 <li><a href ='https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ (Medium)
 '>https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ </a>(Medium)
+</li>
+<li><a href ='https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/ (Easy)
+'>https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/ </a>(Easy)
 </li>
 <li><a href ='https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ (Easy)
 '>https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ </a>(Easy)
@@ -132,14 +144,23 @@
 <li><a href ='https://leetcode.com/problems/matrix-diagonal-sum/ (Easy)
 '>https://leetcode.com/problems/matrix-diagonal-sum/ </a>(Easy)
 </li>
+<li><a href ='https://leetcode.com/problems/matrix-diagonal-sum/ (Easy)
+'>https://leetcode.com/problems/matrix-diagonal-sum/ </a>(Easy)
+</li>
 <li><a href ='https://leetcode.com/problems/maximal-rectangle/ (Hard)
 '>https://leetcode.com/problems/maximal-rectangle/ </a>(Hard)
+</li>
+<li><a href ='https://leetcode.com/problems/maximum-population-year/ (Easy)
+'>https://leetcode.com/problems/maximum-population-year/ </a>(Easy)
 </li>
 <li><a href ='https://leetcode.com/problems/min-stack/ (Easy)
 '>https://leetcode.com/problems/min-stack/ </a>(Easy)
 </li>
 <li><a href ='https://leetcode.com/problems/missing-number/ (Easy)
 '>https://leetcode.com/problems/missing-number/ </a>(Easy)
+</li>
+<li><a href ='https://leetcode.com/problems/next-greater-element-i/ (Easy)
+'>https://leetcode.com/problems/next-greater-element-i/ </a>(Easy)
 </li>
 <li><a href ='https://leetcode.com/problems/number-of-good-pairs/ (Easy)
 '>https://leetcode.com/problems/number-of-good-pairs/ </a>(Easy)
@@ -213,8 +234,14 @@
 <li><a href ='https://leetcode.com/problems/valid-perfect-square/ (Very Easy)
 '>https://leetcode.com/problems/valid-perfect-square/ </a>(Very Easy)
 </li>
+<li><a href ='https://practice.geeksforgeeks.org/problems/sort-a-stack/1 (Easy)
+'>https://practice.geeksforgeeks.org/problems/sort-a-stack/1 </a>(Easy)
+</li>
 <li><a href ='https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ (Easy)
 '>https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ </a>(Easy)
+</li>
+<li><a href ='https://www.interviewbit.com/problems/nearest-smaller-element/# (Easy)
+'>https://www.interviewbit.com/problems/nearest-smaller-element/# </a>(Easy)
 </li>
 <li><a href = "https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118523/offering/1380947?leftPanelTab=0">https://www.codingninjas.com/reverse-first-k-elements-of-queue</a>(Easy)<li> 
  </ol>
