@@ -2,7 +2,7 @@
 
 ### Topics to Practice
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/%23dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved -82-brightgreen?"></a>
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/%23dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved -86-brightgreen?"></a>
 
 
 
@@ -39,6 +39,7 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/matrix-diagonal-sum/ (Easy)
 - https://leetcode.com/problems/plus-one/ (Easy)
 - https://leetcode.com/problems/lucky-numbers-in-a-matrix/ (Easy)
+- https://leetcode.com/problems/reshape-the-matrix/ (Easy)
 
 </details>
 

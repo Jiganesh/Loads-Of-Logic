@@ -102,7 +102,15 @@
 </li>
 <li><a href ='https://leetcode.com/problems/largest-rectangle-in-histogram'>https://leetcode.com/problems/largest-rectangle-in-histogram/ </a>(Hard)
 </li>
+<<<<<<< HEAD
 <li><a href ='https://leetcode.com/problems/matrix-diagonal-sum'>https://leetcode.com/problems/matrix-diagonal-sum/ </a>(Easy)
+=======
+<li><a href ='https://leetcode.com/problems/lucky-numbers-in-a-matrix/ (Easy)
+'>https://leetcode.com/problems/lucky-numbers-in-a-matrix/ </a>(Easy)
+</li>
+<li><a href ='https://leetcode.com/problems/matrix-diagonal-sum/ (Easy)
+'>https://leetcode.com/problems/matrix-diagonal-sum/ </a>(Easy)
+>>>>>>> leetcode
 </li>
 <li><a href ='https://leetcode.com/problems/matrix-diagonal-sum/ (Easy)
 '>https://leetcode.com/problems/matrix-diagonal-sum/ </a>(Easy)
@@ -112,6 +120,9 @@
 </li>
 <li><a href ='https://leetcode.com/problems/maximum-population-year/ (Easy)
 '>https://leetcode.com/problems/maximum-population-year/ </a>(Easy)
+</li>
+<li><a href ='https://leetcode.com/problems/maximum-subarray/ (Easy)
+'>https://leetcode.com/problems/maximum-subarray/ </a>(Easy)
 </li>
 <li><a href ='https://leetcode.com/problems/min-stack/ (Easy)
 '>https://leetcode.com/problems/min-stack/ </a>(Easy)
@@ -128,11 +139,27 @@
 </li>
 <li><a href ='https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero'>https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ </a>(Easy)
 </li>
+<<<<<<< HEAD
 <li><a href ='https://leetcode.com/problems/peak-index-in-a-mountain-array'>https://leetcode.com/problems/peak-index-in-a-mountain-array/ </a>(Easy)
+=======
+<li><a href ='https://leetcode.com/problems/plus-one/ (Easy)
+'>https://leetcode.com/problems/plus-one/ </a>(Easy)
+</li>
+<li><a href ='https://leetcode.com/problems/product-of-the-last-k-numbers/ (Medium)
+'>https://leetcode.com/problems/product-of-the-last-k-numbers/ </a>(Medium)
+>>>>>>> leetcode
 </li>
 <li><a href ='https://leetcode.com/problems/product-of-the-last-k-numbers'>https://leetcode.com/problems/product-of-the-last-k-numbers/ </a>(Medium)
 </li>
+<<<<<<< HEAD
 <li><a href ='https://leetcode.com/problems/reach-a-number'>https://leetcode.com/problems/reach-a-number/ </a>(Medium)
+=======
+<li><a href ='https://leetcode.com/problems/reshape-the-matrix/ (Easy)
+'>https://leetcode.com/problems/reshape-the-matrix/ </a>(Easy)
+</li>
+<li><a href ='https://leetcode.com/problems/richest-customer-wealth/ (Easy)
+'>https://leetcode.com/problems/richest-customer-wealth/ </a>(Easy)
+>>>>>>> leetcode
 </li>
 <li><a href ='https://leetcode.com/problems/richest-customer-wealth'>https://leetcode.com/problems/richest-customer-wealth/ </a>(Easy)
 </li>
