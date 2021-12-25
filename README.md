@@ -26,6 +26,7 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/flipping-an-image/ (Easy)
 - https://leetcode.com/problems/find-first-palindromic-string-in-the-array/ (Easy)
 - https://leetcode.com/problems/matrix-diagonal-sum/ (Easy)
+- https://leetcode.com/problems/maximum-subarray/ (Easy)
 - https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/ (Easy)
 - https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/ (Easy)
 - https://leetcode.com/problems/transpose-matrix/ (Easy)
@@ -36,7 +37,8 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/ (Easy)
 - https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/ (Easy)
 - https://leetcode.com/problems/matrix-diagonal-sum/ (Easy)
-- 
+- https://leetcode.com/problems/plus-one/ (Easy)
+- https://leetcode.com/problems/lucky-numbers-in-a-matrix/ (Easy)
 
 </details>
 
