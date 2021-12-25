@@ -141,6 +141,9 @@
 <li><a href ='https://leetcode.com/problems/largest-rectangle-in-histogram/ (Hard)
 '>https://leetcode.com/problems/largest-rectangle-in-histogram/ </a>(Hard)
 </li>
+<li><a href ='https://leetcode.com/problems/lucky-numbers-in-a-matrix/ (Easy)
+'>https://leetcode.com/problems/lucky-numbers-in-a-matrix/ </a>(Easy)
+</li>
 <li><a href ='https://leetcode.com/problems/matrix-diagonal-sum/ (Easy)
 '>https://leetcode.com/problems/matrix-diagonal-sum/ </a>(Easy)
 </li>
@@ -152,6 +155,9 @@
 </li>
 <li><a href ='https://leetcode.com/problems/maximum-population-year/ (Easy)
 '>https://leetcode.com/problems/maximum-population-year/ </a>(Easy)
+</li>
+<li><a href ='https://leetcode.com/problems/maximum-subarray/ (Easy)
+'>https://leetcode.com/problems/maximum-subarray/ </a>(Easy)
 </li>
 <li><a href ='https://leetcode.com/problems/min-stack/ (Easy)
 '>https://leetcode.com/problems/min-stack/ </a>(Easy)
@@ -171,11 +177,17 @@
 <li><a href ='https://leetcode.com/problems/peak-index-in-a-mountain-array/ (Easy)
 '>https://leetcode.com/problems/peak-index-in-a-mountain-array/ </a>(Easy)
 </li>
+<li><a href ='https://leetcode.com/problems/plus-one/ (Easy)
+'>https://leetcode.com/problems/plus-one/ </a>(Easy)
+</li>
 <li><a href ='https://leetcode.com/problems/product-of-the-last-k-numbers/ (Medium)
 '>https://leetcode.com/problems/product-of-the-last-k-numbers/ </a>(Medium)
 </li>
 <li><a href ='https://leetcode.com/problems/reach-a-number/ (Medium)
 '>https://leetcode.com/problems/reach-a-number/ </a>(Medium)
+</li>
+<li><a href ='https://leetcode.com/problems/reshape-the-matrix/ (Easy)
+'>https://leetcode.com/problems/reshape-the-matrix/ </a>(Easy)
 </li>
 <li><a href ='https://leetcode.com/problems/richest-customer-wealth/ (Easy)
 '>https://leetcode.com/problems/richest-customer-wealth/ </a>(Easy)
