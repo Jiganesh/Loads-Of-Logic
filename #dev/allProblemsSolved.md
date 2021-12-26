@@ -186,6 +186,9 @@
 <li><a href ='https://leetcode.com/problems/reach-a-number/ (Medium)
 '>https://leetcode.com/problems/reach-a-number/ </a>(Medium)
 </li>
+<li><a href ='https://leetcode.com/problems/remove-duplicates-from-sorted-array/ (Easy)
+'>https://leetcode.com/problems/remove-duplicates-from-sorted-array/ </a>(Easy)
+</li>
 <li><a href ='https://leetcode.com/problems/reshape-the-matrix/ (Easy)
 '>https://leetcode.com/problems/reshape-the-matrix/ </a>(Easy)
 </li>
