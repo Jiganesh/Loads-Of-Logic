@@ -2,7 +2,7 @@
 
 ### Topics to Practice
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/%23dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved -86-brightgreen?"></a>
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/%23dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved -87-brightgreen?"></a>
 
 
 

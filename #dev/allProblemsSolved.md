@@ -1,10 +1,8 @@
 ## Problem Solved
 <ol>
-<li><a href ='https://leetcode.com/problems/add-to-array-form-of-integer/ (Easy)
-'>https://leetcode.com/problems/add-to-array-form-of-integer/ </a>(Easy)
+<li><a href ='https://leetcode.com/problems/add-to-array-form-of-integer'>https://leetcode.com/problems/add-to-array-form-of-integer/ </a>(Easy)
 </li>
-<li><a href ='https://leetcode.com/problems/adding-spaces-to-a-string/ (Medium)
-'>https://leetcode.com/problems/adding-spaces-to-a-string/ </a>(Medium)
+<li><a href ='https://leetcode.com/problems/adding-spaces-to-a-string'>https://leetcode.com/problems/adding-spaces-to-a-string/ </a>(Medium)
 </li>
 <li><a href ='https://leetcode.com/problems/arranging-coins'>https://leetcode.com/problems/arranging-coins/ </a>(Easy)
 </li>
@@ -14,11 +12,9 @@
 </li>
 <li><a href ='https://leetcode.com/problems/build-array-from-permutation'>https://leetcode.com/problems/build-array-from-permutation/ </a>(Easy)
 </li>
-<li><a href ='https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/ (Easy)
-'>https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/ </a>(Easy)
+<li><a href ='https://leetcode.com/problems/cells-with-odd-values-in-a-matrix'>https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/ </a>(Easy)
 </li>
-<li><a href ='https://leetcode.com/problems/check-if-n-and-its-double-exist/ (Easy)
-'>https://leetcode.com/problems/check-if-n-and-its-double-exist/ </a>(Easy)
+<li><a href ='https://leetcode.com/problems/check-if-n-and-its-double-exist'>https://leetcode.com/problems/check-if-n-and-its-double-exist/ </a>(Easy)
 </li>
 <li><a href ='https://leetcode.com/problems/check-if-the-sentence-is-pangram'>https://leetcode.com/problems/check-if-the-sentence-is-pangram/ </a>(Easy)
 </li>
@@ -34,11 +30,9 @@
 </li>
 <li><a href ='https://leetcode.com/problems/design-front-middle-back-queue'>https://leetcode.com/problems/design-front-middle-back-queue/ </a>(Medium)
 </li>
-<li><a href ='https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/ (Easy)
-'>https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/ </a>(Easy)
+<li><a href ='https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation'>https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/ </a>(Easy)
 </li>
-<li><a href ='https://leetcode.com/problems/fair-candy-swap/ (Easy)
-'>https://leetcode.com/problems/fair-candy-swap/ </a>(Easy)
+<li><a href ='https://leetcode.com/problems/fair-candy-swap'>https://leetcode.com/problems/fair-candy-swap/ </a>(Easy)
 </li>
 <li><a href ='https://leetcode.com/problems/find-all-duplicates-in-an-array'>https://leetcode.com/problems/find-all-duplicates-in-an-array/ </a>(Medium)
 </li>
@@ -54,11 +48,9 @@
 </li>
 <li><a href ='https://leetcode.com/problems/find-minimum-in-rotated-sorted-array'>https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ </a>(Medium)
 </li>
-<li><a href ='https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/ (Easy)
-'>https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/ </a>(Easy)
+<li><a href ='https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero'>https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/ </a>(Easy)
 </li>
-<li><a href ='https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ (Easy)
-'>https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ </a>(Easy)
+<li><a href ='https://leetcode.com/problems/find-numbers-with-even-number-of-digits'>https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ </a>(Easy)
 </li>
 <li><a href ='https://leetcode.com/problems/find-numbers-with-even-number-of-digits'>https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ </a>(Easy)
 </li>
@@ -102,62 +94,39 @@
 </li>
 <li><a href ='https://leetcode.com/problems/largest-rectangle-in-histogram'>https://leetcode.com/problems/largest-rectangle-in-histogram/ </a>(Hard)
 </li>
-<li><a href ='https://leetcode.com/problems/lucky-numbers-in-a-matrix/ (Easy)
-'>https://leetcode.com/problems/lucky-numbers-in-a-matrix/ </a>(Easy)
+<li><a href ='https://leetcode.com/problems/lucky-numbers-in-a-matrix'>https://leetcode.com/problems/lucky-numbers-in-a-matrix/ </a>(Easy)
 </li>
-<li><a href ='https://leetcode.com/problems/matrix-diagonal-sum/ (Easy)
-'>https://leetcode.com/problems/matrix-diagonal-sum/ </a>(Easy)
+<li><a href ='https://leetcode.com/problems/matrix-diagonal-sum'>https://leetcode.com/problems/matrix-diagonal-sum/ </a>(Easy)
 </li>
-<li><a href ='https://leetcode.com/problems/matrix-diagonal-sum/ (Easy)
-'>https://leetcode.com/problems/matrix-diagonal-sum/ </a>(Easy)
+<li><a href ='https://leetcode.com/problems/matrix-diagonal-sum'>https://leetcode.com/problems/matrix-diagonal-sum/ </a>(Easy)
 </li>
-<li><a href ='https://leetcode.com/problems/maximal-rectangle/ (Hard)
-'>https://leetcode.com/problems/maximal-rectangle/ </a>(Hard)
+<li><a href ='https://leetcode.com/problems/maximal-rectangle'>https://leetcode.com/problems/maximal-rectangle/ </a>(Hard)
 </li>
-<li><a href ='https://leetcode.com/problems/maximum-population-year/ (Easy)
-'>https://leetcode.com/problems/maximum-population-year/ </a>(Easy)
+<li><a href ='https://leetcode.com/problems/maximum-population-year'>https://leetcode.com/problems/maximum-population-year/ </a>(Easy)
 </li>
-<li><a href ='https://leetcode.com/problems/maximum-subarray/ (Easy)
-'>https://leetcode.com/problems/maximum-subarray/ </a>(Easy)
+<li><a href ='https://leetcode.com/problems/maximum-subarray'>https://leetcode.com/problems/maximum-subarray/ </a>(Easy)
 </li>
-<li><a href ='https://leetcode.com/problems/min-stack/ (Easy)
-'>https://leetcode.com/problems/min-stack/ </a>(Easy)
+<li><a href ='https://leetcode.com/problems/min-stack'>https://leetcode.com/problems/min-stack/ </a>(Easy)
 </li>
 <li><a href ='https://leetcode.com/problems/missing-number'>https://leetcode.com/problems/missing-number/ </a>(Easy)
 </li>
-<li><a href ='https://leetcode.com/problems/next-greater-element-i/ (Easy)
-'>https://leetcode.com/problems/next-greater-element-i/ </a>(Easy)
-</li>
-<li><a href ='https://leetcode.com/problems/number-of-good-pairs/ (Easy)
-'>https://leetcode.com/problems/number-of-good-pairs/ </a>(Easy)
+<li><a href ='https://leetcode.com/problems/next-greater-element-i'>https://leetcode.com/problems/next-greater-element-i/ </a>(Easy)
 </li>
 <li><a href ='https://leetcode.com/problems/number-of-good-pairs'>https://leetcode.com/problems/number-of-good-pairs/ </a>(Easy)
 </li>
 <li><a href ='https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero'>https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ </a>(Easy)
 </li>
-<li><a href ='https://leetcode.com/problems/plus-one/ (Easy)
-'>https://leetcode.com/problems/plus-one/ </a>(Easy)
+<li><a href ='https://leetcode.com/problems/peak-index-in-a-mountain-array'>https://leetcode.com/problems/peak-index-in-a-mountain-array/ </a>(Easy)
 </li>
-<li><a href ='https://leetcode.com/problems/product-of-the-last-k-numbers/ (Medium)
-'>https://leetcode.com/problems/product-of-the-last-k-numbers/ </a>(Medium)
+<li><a href ='https://leetcode.com/problems/plus-one'>https://leetcode.com/problems/plus-one/ </a>(Easy)
 </li>
 <li><a href ='https://leetcode.com/problems/product-of-the-last-k-numbers'>https://leetcode.com/problems/product-of-the-last-k-numbers/ </a>(Medium)
 </li>
-<<<<<<< HEAD
-<<<<<<< HEAD
 <li><a href ='https://leetcode.com/problems/reach-a-number'>https://leetcode.com/problems/reach-a-number/ </a>(Medium)
-=======
-=======
-<li><a href ='https://leetcode.com/problems/remove-duplicates-from-sorted-array/ (Easy)
-'>https://leetcode.com/problems/remove-duplicates-from-sorted-array/ </a>(Easy)
 </li>
->>>>>>> leetcode
-<li><a href ='https://leetcode.com/problems/reshape-the-matrix/ (Easy)
-'>https://leetcode.com/problems/reshape-the-matrix/ </a>(Easy)
+<li><a href ='https://leetcode.com/problems/remove-duplicates-from-sorted-array'>https://leetcode.com/problems/remove-duplicates-from-sorted-array/ </a>(Easy)
 </li>
-<li><a href ='https://leetcode.com/problems/richest-customer-wealth/ (Easy)
-'>https://leetcode.com/problems/richest-customer-wealth/ </a>(Easy)
->>>>>>> leetcode
+<li><a href ='https://leetcode.com/problems/reshape-the-matrix'>https://leetcode.com/problems/reshape-the-matrix/ </a>(Easy)
 </li>
 <li><a href ='https://leetcode.com/problems/richest-customer-wealth'>https://leetcode.com/problems/richest-customer-wealth/ </a>(Easy)
 </li>
@@ -195,14 +164,13 @@
 </li>
 <li><a href ='https://leetcode.com/problems/valid-parentheses'>https://leetcode.com/problems/valid-parentheses/ </a>(Easy)
 </li>
-<li><a href ='https://practice.geeksforgeeks.org/problems/sort-a-stack/1 (Easy)
-'>https://practice.geeksforgeeks.org/problems/sort-a-stack/1 </a>(Easy)
+<li><a href ='https://leetcode.com/problems/valid-perfect-square'>https://leetcode.com/problems/valid-perfect-square/ </a>(Very Easy)
 </li>
-<li><a href ='https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ (Easy)
-'>https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ </a>(Easy)
+<li><a href ='https://practice.geeksforgeeks.org/problems/sort-a-stack'>https://practice.geeksforgeeks.org/problems/sort-a-stack/1 </a>(Easy)
 </li>
-<li><a href ='https://www.interviewbit.com/problems/nearest-smaller-element/# (Easy)
-'>https://www.interviewbit.com/problems/nearest-smaller-element/# </a>(Easy)
+<li><a href ='https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array'>https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ </a>(Easy)
+</li>
+<li><a href ='https://www.interviewbit.com/problems/nearest-smaller-element'>https://www.interviewbit.com/problems/nearest-smaller-element/# </a>(Easy)
 </li>
 <li><a href = "https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118523/offering/1380947?leftPanelTab=0">https://www.codingninjas.com/reverse-first-k-elements-of-queue</a>(Easy)<li> 
  </ol>
