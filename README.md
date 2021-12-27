@@ -41,6 +41,9 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/lucky-numbers-in-a-matrix/ (Easy)
 - https://leetcode.com/problems/reshape-the-matrix/ (Easy)
 - https://leetcode.com/problems/remove-duplicates-from-sorted-array/ (Easy)
+- https://leetcode.com/problems/spiral-matrix/ (Medium)
+- https://leetcode.com/problems/spiral-matrix-ii/ (Medium)
+
 
 
 </details>
