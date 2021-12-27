@@ -39,18 +39,26 @@ class SolutionSM {
 
         //Left
         //Traverse in endrow from next endCol to startCol
-        if(startCol < endCol){for (int col = endCol ; col>=startCol; col--){
-            result.add(matrix[endRow][col]);
-        }}
+        if(startRow <= endRow){
+            for (int col = endCol ; col>=startCol; col--){
+                result.add(matrix[endRow][col]);
+            }
+        }
         endRow--;
+
+        
 
         //Up
         //Traverse from next above row to just below startRow
-        if(startRow<endRow){for (int row=endRow; row>=startRow; row--){
+        if(startCol<=endCol){
+            for (int row=endRow; row>=startRow; row--){
             result.add(matrix[row][startCol]);
-        }}
+            }
+        }
         startCol++;
+
     }
+
         return result;
     }
 }
