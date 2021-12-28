@@ -1,5 +1,7 @@
 package arrays;
 
+// Solution : https://www.youtube.com/watch?v=0qep3f9cqVs
+// Question : https://leetcode.com/problems/spiral-matrix-iii/
 import java.util.Arrays;
 
 public class spiralMatrixIII{
@@ -25,12 +27,21 @@ class SolutionSMIII{
 
         int len =0;
         int direction =0;
+
+        //Right (0,1)
+        //Up (-1,0)
+        //left (0,-1)
+        //Down (1,0)
+        
+
+        
         int [] directions = new int[]{0,1,0,-1,0};
 
         while(pointerInMatrix< rows*cols){
             if(direction==0 || direction==2){
-                len++;
+                len++; //1 1 2 2 3 3 4 4 
             }
+
             for(int k =0; k< len; k++){
                 rStart += directions[direction];
                 cStart += directions[direction+1];
