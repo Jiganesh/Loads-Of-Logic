@@ -152,6 +152,12 @@
 </li>
 <li><a href ='https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x'>https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/ </a>(Easy)
 </li>
+<li><a href ='https://leetcode.com/problems/spiral-matrix-ii'>https://leetcode.com/problems/spiral-matrix-ii/ </a>(Medium)
+</li>
+<li><a href ='https://leetcode.com/problems/spiral-matrix-iii'>https://leetcode.com/problems/spiral-matrix-iii/ </a>(Medium)(Recommended)
+</li>
+<li><a href ='https://leetcode.com/problems/spiral-matrix'>https://leetcode.com/problems/spiral-matrix/ </a>(Medium)
+</li>
 <li><a href ='https://leetcode.com/problems/sqrtx'>https://leetcode.com/problems/sqrtx/ </a>(Very Easy)
 </li>
 <li><a href ='https://leetcode.com/problems/time-needed-to-buy-tickets'>https://leetcode.com/problems/time-needed-to-buy-tickets/ </a>(Easy)
