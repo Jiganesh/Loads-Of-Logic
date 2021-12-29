@@ -44,6 +44,7 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/spiral-matrix/ (Medium)
 - https://leetcode.com/problems/spiral-matrix-ii/ (Medium)
 - https://leetcode.com/problems/spiral-matrix-iii/ (Medium)(Recommended)
+- https://leetcode.com/problems/set-matrix-zeroes/ (Medium)
 
 </details>
 
