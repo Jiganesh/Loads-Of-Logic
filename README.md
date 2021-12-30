@@ -44,6 +44,7 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/spiral-matrix-iii/ (Medium)(Recommended)
 - https://leetcode.com/problems/set-matrix-zeroes/ (Medium)
 - https://leetcode.com/problems/product-of-array-except-self/ (Medium)
+- https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/ (Medium)
 
 </details>
 
