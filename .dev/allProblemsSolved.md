@@ -120,6 +120,8 @@
 </li>
 <li><a href ='https://leetcode.com/problems/plus-one'>https://leetcode.com/problems/plus-one/ </a>(Easy)
 </li>
+<li><a href ='https://leetcode.com/problems/product-of-array-except-self'>https://leetcode.com/problems/product-of-array-except-self/ </a>(Medium)
+</li>
 <li><a href ='https://leetcode.com/problems/product-of-the-last-k-numbers'>https://leetcode.com/problems/product-of-the-last-k-numbers/ </a>(Medium)
 </li>
 <li><a href ='https://leetcode.com/problems/reach-a-number'>https://leetcode.com/problems/reach-a-number/ </a>(Medium)
@@ -143,6 +145,8 @@
 <li><a href ='https://leetcode.com/problems/search-in-rotated-sorted-array'>https://leetcode.com/problems/search-in-rotated-sorted-array/ </a>(Medium)
 </li>
 <li><a href ='https://leetcode.com/problems/search-insert-position'>https://leetcode.com/problems/search-insert-position/ </a>(Easy)
+</li>
+<li><a href ='https://leetcode.com/problems/set-matrix-zeroes'>https://leetcode.com/problems/set-matrix-zeroes/ </a>(Medium)
 </li>
 <li><a href ='https://leetcode.com/problems/set-mismatch'>https://leetcode.com/problems/set-mismatch/ </a>(Easy)
 </li>
