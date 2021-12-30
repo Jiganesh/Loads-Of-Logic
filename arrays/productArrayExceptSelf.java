@@ -53,7 +53,7 @@ class SolutionPAES {
             right*=nums[i];
         }
         
-        System.out.println(Arrays.toString(outputArray));;
+        //System.out.println(Arrays.toString(outputArray));;
         return nums;
     }
 }

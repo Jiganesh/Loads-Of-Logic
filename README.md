@@ -1,8 +1,6 @@
-# LeetCode 
+# Index Of Problems
 
-### Topics to Practice
-
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved -89-brightgreen?"></a>
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved -92-brightgreen?"></a>
 
 
 
@@ -46,6 +44,7 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/spiral-matrix-iii/ (Medium) (Recommended)
 - https://leetcode.com/problems/set-matrix-zeroes/ (Medium)
 - https://leetcode.com/problems/product-of-array-except-self/ (Medium)
+- https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/ (Medium)
 - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ (Medium)
 
 </details>
@@ -150,7 +149,7 @@ Click to Expand and View Problems Solved
 
 </details>
 <details>
-<summary>Concepts/Miscelleneous </summary>
+<summary>Concepts / Miscelleneous </summary>
 
 - recursion
     - Print Number from 1 to N && from N to 1 && from 1 to N and N to 1 in same
@@ -173,16 +172,7 @@ Click to Expand and View Problems Solved
 </details>
 
 
-### Feel free to contribute
-Guidelines we follow :
-
-- folderName and fileName should be in pascalCase
-- fileName should be same name as the problemName
-- Contribute in any Language
-- Update ReadMe file simulateneously
-- try to explain your approach as much as possible
-
-If prefix start with leetcode it means the solutions was for Interactive Leetcode problem
+<a href= "https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/guidelines.md" title ="Click Me !!"><h3> Wanna Contribute to this repository !! </h3></a>
 
 
 Thank You !! 
