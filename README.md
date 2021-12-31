@@ -41,10 +41,11 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/remove-duplicates-from-sorted-array/ (Easy)
 - https://leetcode.com/problems/spiral-matrix/ (Medium)
 - https://leetcode.com/problems/spiral-matrix-ii/ (Medium)
-- https://leetcode.com/problems/spiral-matrix-iii/ (Medium)(Recommended)
+- https://leetcode.com/problems/spiral-matrix-iii/ (Medium) (Recommended)
 - https://leetcode.com/problems/set-matrix-zeroes/ (Medium)
 - https://leetcode.com/problems/product-of-array-except-self/ (Medium)
 - https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/ (Medium)
+- https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ (Medium)
 
 </details>
 
