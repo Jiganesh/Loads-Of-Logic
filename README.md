@@ -53,6 +53,7 @@ Click to Expand and View Problems Solved
 <summary>Maths</summary>
 
 - https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ (Easy)
+- https://leetcode.com/problems/smallest-integer-divisible-by-k/ (Medium)
 </details>
 
 <details>
