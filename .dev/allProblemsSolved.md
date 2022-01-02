@@ -40,6 +40,8 @@
 </li>
 <li><a href ='https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array'>https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ </a>(Easy)
 </li>
+<li><a href ='https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array'>https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ </a>(Medium)
+</li>
 <li><a href ='https://leetcode.com/problems/find-first-palindromic-string-in-the-array'>https://leetcode.com/problems/find-first-palindromic-string-in-the-array/ </a>(Easy)
 </li>
 <li><a href ='https://leetcode.com/problems/find-first-palindromic-string-in-the-array'>https://leetcode.com/problems/find-first-palindromic-string-in-the-array/ </a>(Easy)
@@ -114,6 +116,8 @@
 </li>
 <li><a href ='https://leetcode.com/problems/number-of-good-pairs'>https://leetcode.com/problems/number-of-good-pairs/ </a>(Easy)
 </li>
+<li><a href ='https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock'>https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/ </a>(Medium)
+</li>
 <li><a href ='https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero'>https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ </a>(Easy)
 </li>
 <li><a href ='https://leetcode.com/problems/peak-index-in-a-mountain-array'>https://leetcode.com/problems/peak-index-in-a-mountain-array/ </a>(Easy)
@@ -154,11 +158,13 @@
 </li>
 <li><a href ='https://leetcode.com/problems/single-element-in-a-sorted-array'>https://leetcode.com/problems/single-element-in-a-sorted-array/ </a>(Medium)
 </li>
+<li><a href ='https://leetcode.com/problems/smallest-integer-divisible-by-k'>https://leetcode.com/problems/smallest-integer-divisible-by-k/ </a>(Medium)
+</li>
 <li><a href ='https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x'>https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/ </a>(Easy)
 </li>
 <li><a href ='https://leetcode.com/problems/spiral-matrix-ii'>https://leetcode.com/problems/spiral-matrix-ii/ </a>(Medium)
 </li>
-<li><a href ='https://leetcode.com/problems/spiral-matrix-iii'>https://leetcode.com/problems/spiral-matrix-iii/ </a>(Medium)(Recommended)
+<li><a href ='https://leetcode.com/problems/spiral-matrix-iii'>https://leetcode.com/problems/spiral-matrix-iii/ </a>(Medium) (Recommended)
 </li>
 <li><a href ='https://leetcode.com/problems/spiral-matrix'>https://leetcode.com/problems/spiral-matrix/ </a>(Medium)
 </li>
