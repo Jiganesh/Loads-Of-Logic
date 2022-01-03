@@ -1,6 +1,6 @@
 # Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved -95-brightgreen?"></a>
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved -96-brightgreen?"></a>
 
 
 
@@ -47,6 +47,8 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/ (Medium)
 - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ (Medium)
 - https://leetcode.com/problems/jump-game/ (Medium)
+- https://leetcode.com/problems/rotate-array/ (Medium)
+-
 
 </details>
 
