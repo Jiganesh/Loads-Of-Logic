@@ -1,17 +1,42 @@
 
 class Solution(object):
     def shuffle(self, nums, n):
-        """
-        :type nums: List[int]
-        :type n: int
-        :rtype: List[int]
-        """
+
+        #List Slicing
+        #Max with this
+        # Runtime: 52 ms, faster than 96.86% of Python3 online submissions for Shuffle the Array.
+        # Memory Usage: 14.2 MB, less than 92.90% of Python3 online submissions for Shuffle the Array.
         
-        array = []
-        for i in range (n):
-            array.append(nums[i])
-            array.append(nums[i+n])
-        return array;
+        neww=[]
+        new1=nums[:n]
+        new2=nums[n:]
+        for i in range(n):
+            neww.append(new1[i])
+            neww.append(new2[i])
+        return neww
+        
+        
+
+        #Runtime: 52 ms, faster than 96.86% of Python3 online submissions for Shuffle the Array.
+        #Memory Usage: 14.3 MB, less than 78.23% of Python3 online submissions for Shuffle the Array.
+
+#         arr=[]
+#         for i in range(n):
+#            arr.append(nums[i])
+#            arr.append(nums[i+n])
+#         return arr
+        
+    
+        #two pointer
+        
+        # p1,p2,neww=0,n,[]
+        # while(p1<n):
+        #     neww.append(nums[p1])
+        #     neww.append(nums[p2])
+        #     p1+=1
+        #     p2+=1
+        # return neww
+    
     
     
         # One liner solution
