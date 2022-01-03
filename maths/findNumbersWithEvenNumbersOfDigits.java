@@ -12,7 +12,7 @@ class SolutionFindNumbersWithEvenNumbersOfDigit {
         return count;  
     }
 }
-public class findNumbersWithEvenNumbersOfDigit {
+public class findNumbersWithEvenNumbersOfDigits {
     public static void main(String[] args) {
         SolutionFindNumbersWithEvenNumbersOfDigit solution = new SolutionFindNumbersWithEvenNumbersOfDigit();
         int[] nums = {12,345,2,6,7896};
