@@ -1,4 +1,4 @@
-
+# https://leetcode.com/problems/shuffle-the-array/
 class Solution(object):
     def shuffle(self, nums, n):
 
@@ -20,22 +20,22 @@ class Solution(object):
         #Runtime: 52 ms, faster than 96.86% of Python3 online submissions for Shuffle the Array.
         #Memory Usage: 14.3 MB, less than 78.23% of Python3 online submissions for Shuffle the Array.
 
-#         arr=[]
-#         for i in range(n):
-#            arr.append(nums[i])
-#            arr.append(nums[i+n])
-#         return arr
+        # arr=[]
+        # for i in range(n):
+        #    arr.append(nums[i])
+        #    arr.append(nums[i+n])
+        # return arr
         
     
         #two pointer
         
-        # p1,p2,neww=0,n,[]
+        # p1,p2,new=0,n,[]
         # while(p1<n):
-        #     neww.append(nums[p1])
-        #     neww.append(nums[p2])
+        #     new.append(nums[p1])
+        #     new.append(nums[p2])
         #     p1+=1
         #     p2+=1
-        # return neww
+        # return new
     
     
     
