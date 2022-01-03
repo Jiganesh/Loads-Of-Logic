@@ -13,13 +13,12 @@ public class jumpGame {
 class SolutionJG {
     public boolean canJump(int[] nums) {
         
-        int jump=0;
-        for (int i = 0; i<nums.length; i++){
-            if (jump<nums.length)jump+=nums[i];
-            if( jump==nums.length-1) return true;
-            else jump-=nums[i];
+        int reachable =0;
+        for (int i=0 ; i< nums.length; i++){
+            if (i> reachable) break;
+            reachable = Math.max(reachable, i + nums[i]);
+            //System.out.println(reachable);
         }
-        return jump==nums.length-1;
-        
+        return reachable>=nums.length-1;        
     }
 }
