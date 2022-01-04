@@ -47,6 +47,8 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/ (Medium)
 - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ (Medium)
 - https://leetcode.com/problems/jump-game/ (Medium)
+- https://leetcode.com/problems/rotate-array/ (Medium)
+-
 
 </details>
 
