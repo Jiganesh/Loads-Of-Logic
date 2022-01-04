@@ -1,8 +1,7 @@
 def spiralOrder(matrix):
-    # m=len(matrix)   #rows
+    # m=len(matrix)       #rows
     # n=len(matrix[0])    #column
-    # row,col=0,0
-    # trav, follow= [], [[False for i in range(n)] for i in range(m)]
+    # trav= []
     # startm,endm=0,m
     # startn,endn=0,n
     # while startm<endm and startn<endn:
