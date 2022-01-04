@@ -1,6 +1,6 @@
 # Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved -95-brightgreen?"></a>
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 96 -brightgreen?"></a>
 
 
 
@@ -174,7 +174,8 @@ Click to Expand and View Problems Solved
 </details>
 
 
-<a href= "https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/guidelines.md" title ="Click Me !!"><h3> Wanna Contribute to this repository !! </h3></a>
+<a href= "https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/guidelines.md" title ="Click Me !!"><h4> Wanna Contribute to this repository !! </h4></a>
 
+<a href = "https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/resourcesWorthReading.md" title ="Click Me!"><img src="https://img.shields.io/badge/-Resources%20Worth%20Reading-blueviolet"></a>
 
 Thank You !! 
