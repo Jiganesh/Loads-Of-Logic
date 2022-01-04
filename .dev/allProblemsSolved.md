@@ -88,6 +88,8 @@
 </li>
 <li><a href ='https://leetcode.com/problems/intersection-of-two-arrays'>https://leetcode.com/problems/intersection-of-two-arrays/ </a>(Easy)
 </li>
+<li><a href ='https://leetcode.com/problems/jump-game'>https://leetcode.com/problems/jump-game/ </a>(Medium)
+</li>
 <li><a href ='https://leetcode.com/problems/kids-with-the-greatest-number-of-candies'>https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/ </a>(Easy)
 </li>
 <li><a href ='https://leetcode.com/problems/kids-with-the-greatest-number-of-candies'>https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/ </a>(Easy)

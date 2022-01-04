@@ -6,7 +6,7 @@ title = "## Problem Solved\n"
 writeReadme = open(".dev/allProblemsSolved.md", "w")
 writeReadme.write(title)
 count = len(lines)
-print(count)
+print(count+1)
 #writeReadme.write('<p style ="display: inline">Problems Solved </p>')
 #writeReadme.write('<p id="count" style="display: inline">' + str(count) + '</p>\n')
 
