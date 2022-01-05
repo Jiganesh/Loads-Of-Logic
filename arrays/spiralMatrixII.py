@@ -24,11 +24,9 @@ def generateMatrix(n):
     return mat
 
 
-    m=n   #rows
-    n=n   #column
     value=1
-    matrix=[[None for i in range(n)] for i in range(m)]
-    startm,endm=0,m
+    matrix=[[None for i in range(n)] for i in range(n)]
+    startm,endm=0,n
     startn,endn=0,n
     while startm<endm and startn<endn:
         for i in range(startn, endn):       #moving left to right through column
