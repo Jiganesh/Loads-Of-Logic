@@ -1,7 +1,7 @@
 #### So, it's like drugs? It's better than drugs, Jeremy! 
 
 - [Data Structures and Algorithms in Real Life](https://zriyansh.medium.com/data-structures-and-algorithms-in-real-life-6b2b813d516e) [9 min read] <br>
-Often asked in Interviews, Practical examples of Data Structures like **Array's** are used in **Music Players**, **Queue** is used in **Printer**, etc. Must read if you're preparing for interviews.
+Often asked in Interviews, Practical Applications of Data Structures and Algorithms. Must read if you're preparing for interviews.
 
 
 - [C++ STL under the Hood](https://zriyansh.medium.com/c-stl-under-the-hood-76290ca58bcb) [2 min read] <br>
