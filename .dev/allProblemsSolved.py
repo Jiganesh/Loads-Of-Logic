@@ -14,7 +14,7 @@ def difficulty (line):
     if "easy" in line.lower():
         return '<img src="https://img.shields.io/badge/-Easy-brightgreen">'
     elif "medium" in line.lower():
-        return '<img src="https://img.shields.io/badge/-Medium-orange">'
+        return '<img src="https://img.shields.io/badge/-Medium-blue">'
     elif "hard" in line.lower():
         return '<img src="https://img.shields.io/badge/-Hard-red">'
     else :
@@ -26,7 +26,7 @@ for number in range(len(lines)):
     writeReadme.write(str(number)+". ["+ i[:i.rindex("/")] +"]("+i[:p]+") "+  difficulty(i[p:])+"\n")
 
 # #Additional Problems Here 
-writeReadme.write(str(number)+'. [https://www.codingninjas.com/reverse-first-k-elements-of-queue](https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118523/offering/1380947?leftPanelTab=0)'+difficulty('easy')+'\n') 
+writeReadme.write(str(number)+'. [https://www.codingninjas.com/reverse-first-k-elements-of-queue](https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118523/offering/1380947?leftPanelTab=0) '+difficulty('easy')+'\n') 
 
 writeReadme.write( "### Yeah ofc we'd start counting from 0 duh !!")
 
