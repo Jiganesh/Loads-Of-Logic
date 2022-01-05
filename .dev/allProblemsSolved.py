@@ -28,7 +28,7 @@ for number in range(len(lines)):
 # #Additional Problems Here 
 writeReadme.write(str(number)+'. [https://www.codingninjas.com/reverse-first-k-elements-of-queue](https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118523/offering/1380947?leftPanelTab=0)'+difficulty('easy')+'\n') 
 
-writeReadme.write( "### Yeah ofc we'd start counting 0 duh !!")
+writeReadme.write( "### Yeah ofc we'd start counting from 0 duh !!")
 
 f.close()
 writeReadme.close()
