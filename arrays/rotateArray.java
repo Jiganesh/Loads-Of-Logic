@@ -1,7 +1,7 @@
 package arrays;
 
 // https://leetcode.com/problems/rotate-array/
-public class rotateTheArray {
+public class rotateArray {
     public static void main(String[] args) {
         SolutionRA solution = new SolutionRA();
         

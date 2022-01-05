@@ -48,7 +48,9 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ (Medium)
 - https://leetcode.com/problems/jump-game/ (Medium)
 - https://leetcode.com/problems/rotate-array/ (Medium)
--
+- https://leetcode.com/problems/sort-colors/ (Medium)
+- https://leetcode.com/problems/house-robber/ (Medium)
+- 
 
 </details>
 
