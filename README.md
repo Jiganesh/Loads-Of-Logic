@@ -1,6 +1,6 @@
 # Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 99 -brightgreen?"></a>
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 100 -brightgreen?"></a>
 
 
 
@@ -77,6 +77,7 @@ Click to Expand and View Problems Solved
 <summary>Recursion</summary>
 
 - https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ ```Easy```
+- https://www.geeksforgeeks.org/sum-triangle-from-array/ ```Easy``` ```GFG```
 
 </details>
 
