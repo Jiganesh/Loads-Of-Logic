@@ -2,6 +2,8 @@
 
 <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 100 -brightgreen?"></a>
 
+<img src="https://img.shields.io/badge/License- MIT -blue?">
+
 
 
 Click to Expand and View Problems Solved
