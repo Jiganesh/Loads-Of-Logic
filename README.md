@@ -49,6 +49,9 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/sort-colors/ ```Medium```
 - https://leetcode.com/problems/house-robber/ ```Medium```
 
+</details>
+
+
 <details>
 <summary>LinkedLists</summary>
 
@@ -58,7 +61,6 @@ Click to Expand and View Problems Solved
 </details>
 
 
-</details>
 
 <details>
 <summary>Maths</summary>
