@@ -51,6 +51,14 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/sort-colors/ ```Medium```
 - https://leetcode.com/problems/house-robber/ ```Medium```
 
+<details>
+<summary>LinkedLists</summary>
+
+- https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/ ```Medium```
+
+
+</details>
+
 
 </details>
 
@@ -152,9 +160,13 @@ Click to Expand and View Problems Solved
 <summary>Strings</summary>
 
 - https://leetcode.com/problems/find-first-palindromic-string-in-the-array/ ```Easy```
+- https://leetcode.com/problems/capitalize-the-title/ ```Easy```
 - https://leetcode.com/problems/adding-spaces-to-a-string/ ```Medium```
+- https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/ ```Medium```
+
 
 </details>
+
 <details>
 <summary>Concepts / Miscelleneous </summary>
 
