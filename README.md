@@ -1,6 +1,6 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 103 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 105 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">
 
 Click to Expand and View Problems Solved
 <details>
@@ -48,6 +48,8 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/rotate-array/ ```Medium```
 - https://leetcode.com/problems/sort-colors/ ```Medium```
 - https://leetcode.com/problems/house-robber/ ```Medium```
+- https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/ ```Easy```
+- https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/ ```Medium```
 
 </details>
 
@@ -193,6 +195,6 @@ Click to Expand and View Problems Solved
 
 <a href= "https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/guidelines.md" title ="Click Me !!"><h4> Wanna Contribute to this repository !! </h4></a>
 
-<a href = "https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/resourcesWorthReading.md" title ="Click Me!"><img src="https://img.shields.io/badge/-Resources%20Worth%20Reading-blueviolet"></a> <a href ="https://jiganesh.github.io/High-On-DSA/"><img src="https://img.shields.io/badge/-WebPage Version-yellow"></a> <a href ="https://jiganesh.github.io/High-On-DSA/"><img src="https://img.shields.io/badge/-Github Repository -orange?"></a> 
+<a href = "https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/resourcesWorthReading.md" title ="Click Me!"><img src="https://img.shields.io/badge/-Resources%20Worth%20Reading-blueviolet"></a> <a href ="https://jiganesh.github.io/High-On-DSA/"><img src="https://img.shields.io/badge/-WebPage Version-yellow"></a> <a href ="https://github.com/Jiganesh/High-On-DSA/"><img src="https://img.shields.io/badge/-Github Repository -orange?"></a> 
 
 Thank You !! 
