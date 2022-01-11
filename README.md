@@ -163,6 +163,7 @@ Click to Expand and View Problems Solved
 - https://www.interviewbit.com/problems/nearest-smaller-element/# ```Easy```
 - https://practice.geeksforgeeks.org/problems/sort-a-stack/1 ```Easy```
 - https://leetcode.com/problems/largest-rectangle-in-histogram/ ```Hard```
+- https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/ ```Medium```
 - https://leetcode.com/problems/maximal-rectangle/ ```Hard```
 </details>
 
