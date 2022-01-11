@@ -1,4 +1,4 @@
-#https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
+# https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
 
 def getDescentPeriods(prices):
             
@@ -47,3 +47,23 @@ def getDescentPeriods(prices):
 
 prices = [3,2,1,4]
 print(getDescentPeriods(prices))
+
+# Jiganesh
+class Solution(object):
+    def getDescentPeriods(self, prices):
+        """
+        :type prices: List[int]
+        :rtype: int
+        """
+        start = 0
+        end=val=1
+        
+        while end < len(prices):
+            if (prices[end-1]-prices[end])==1:
+                val+=end-start
+            else :
+                start=end
+            val+=1
+            end+=1
+                
+        return val
