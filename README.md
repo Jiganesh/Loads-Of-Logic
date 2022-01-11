@@ -196,5 +196,6 @@ Click to Expand and View Problems Solved
 <a href= "https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/guidelines.md" title ="Click Me !!"><h4> Wanna Contribute to this repository !! </h4></a>
 
 <a href = "https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/resourcesWorthReading.md" title ="Click Me!"><img src="https://img.shields.io/badge/-Resources%20Worth%20Reading-blueviolet"></a> <a href ="https://jiganesh.github.io/High-On-DSA/"><img src="https://img.shields.io/badge/-WebPage Version-yellow"></a> <a href ="https://github.com/Jiganesh/High-On-DSA/"><img src="https://img.shields.io/badge/-Github Repository -orange?"></a> 
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Sorted%20Index%20of%20Problems-Click%20Here-red?style=flat&logo=Target"></a>
 
 Thank You !! 
