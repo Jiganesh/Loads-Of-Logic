@@ -168,6 +168,7 @@ Click to Expand and View Problems Solved
 </details>
 
 
+
 <details>
 <summary>Strings</summary>
 
@@ -178,6 +179,16 @@ Click to Expand and View Problems Solved
 
 
 </details>
+
+
+<details>
+<summary>Trees</summary>
+
+- https://leetcode.com/problems/insert-into-a-binary-search-tree/ ```Medium```
+
+</details>
+
+
 
 <details>
 <summary>Concepts / Miscelleneous </summary>
