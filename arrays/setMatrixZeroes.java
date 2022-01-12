@@ -27,6 +27,59 @@ public class setMatrixZeroes{
 }
 class SolutionSMZ {
 
+    
+    
+   public int[][] setZeroesApproach4(int[][] matrix) {
+     
+
+      // Faster than 52% , less Space than 50%. (LeetCode) 
+       
+     int rl = matrix.length;
+     int cl = matrix[0].length;
+     
+     HashSet<Integer> x = new HashSet<Integer>();                 // In order to save rows duplication , so that we dont check the row which is already 0 by another cell
+     HashSet<Integer> y = new HashSet<Integer>();                 // In order to save column duplication.
+        
+     for(int i=0;i<rl;i++)
+     {
+         for(int j=0;j<cl;j++)
+         {
+             if(matrix[i][j] == 0)
+             {
+                 x.add(i);
+                 y.add(j);
+             }
+         }
+     }
+
+        
+        for(int r_pos : x)
+        {
+            for(int j=0;j<cl;j++)
+                 matrix[r_pos][j] = 0;
+        }
+         
+          x.clear();
+ 
+        for(int c_pos : y)
+        {
+            for(int j=0;j<rl;j++)
+                 matrix[j][c_pos] = 0;
+        }
+        
+          y.clear();
+        
+        return matrix;      
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+    
     // Time Complexity : O(n*m)* (n+m)
     // If all number are positives even for Integer.MIN_VALUE it wont work
     // Space Complexity : O(1)
