@@ -1,6 +1,6 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 108 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">  
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 109 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">  
 
 
 
@@ -53,6 +53,7 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/house-robber/ ```Medium```
 - https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/ ```Easy```
 - https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/ ```Medium```
+- https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/ ```Medium```
 
 </details>
 
