@@ -1,6 +1,3 @@
-from os import write
-
-
 f = open("README.md","r")
 lines =f.readlines()
 lines = sorted([x[x.index("- ")+2:] for x in lines if "- https" in x])
@@ -41,7 +38,7 @@ hard = "<img src='https://img.shields.io/badge/"+str(array[2])+" -Hard Problems 
 
 
 
-writeReadme.write( "\n### Yeah ofc we'd start counting from 0 duh !!")
+writeReadme.write( "\n### Yeah ofc we'd start counting from 0 duh !!\n")
 writeReadme.write(easy)
 writeReadme.write(medium)
 writeReadme.write(hard)

@@ -79,34 +79,36 @@
 77. [https://leetcode.com/problems/reshape-the-matrix](https://leetcode.com/problems/reshape-the-matrix/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
 78. [https://leetcode.com/problems/richest-customer-wealth](https://leetcode.com/problems/richest-customer-wealth/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
 79. [https://leetcode.com/problems/richest-customer-wealth](https://leetcode.com/problems/richest-customer-wealth/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-80. [https://leetcode.com/problems/rotate-array](https://leetcode.com/problems/rotate-array/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-81. [https://leetcode.com/problems/running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-82. [https://leetcode.com/problems/search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-83. [https://leetcode.com/problems/search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-84. [https://leetcode.com/problems/search-in-rotated-sorted-array-ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-85. [https://leetcode.com/problems/search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-86. [https://leetcode.com/problems/search-insert-position](https://leetcode.com/problems/search-insert-position/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-87. [https://leetcode.com/problems/set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-88. [https://leetcode.com/problems/set-mismatch](https://leetcode.com/problems/set-mismatch/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-89. [https://leetcode.com/problems/shuffle-the-array](https://leetcode.com/problems/shuffle-the-array/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-90. [https://leetcode.com/problems/single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-91. [https://leetcode.com/problems/smallest-integer-divisible-by-k](https://leetcode.com/problems/smallest-integer-divisible-by-k/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-92. [https://leetcode.com/problems/sort-colors](https://leetcode.com/problems/sort-colors/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-93. [https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-94. [https://leetcode.com/problems/spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-95. [https://leetcode.com/problems/spiral-matrix-iii](https://leetcode.com/problems/spiral-matrix-iii/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-96. [https://leetcode.com/problems/spiral-matrix](https://leetcode.com/problems/spiral-matrix/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-97. [https://leetcode.com/problems/sqrtx](https://leetcode.com/problems/sqrtx/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-98. [https://leetcode.com/problems/time-needed-to-buy-tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-99. [https://leetcode.com/problems/transpose-matrix](https://leetcode.com/problems/transpose-matrix/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-100. [https://leetcode.com/problems/two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-101. [https://leetcode.com/problems/two-sum](https://leetcode.com/problems/two-sum/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-102. [https://leetcode.com/problems/valid-parentheses](https://leetcode.com/problems/valid-parentheses/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-103. [https://leetcode.com/problems/valid-perfect-square](https://leetcode.com/problems/valid-perfect-square/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-104. [https://practice.geeksforgeeks.org/problems/sort-a-stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1 ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-105. [https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array](https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-106. [https://www.geeksforgeeks.org/sum-triangle-from-array](https://www.geeksforgeeks.org/sum-triangle-from-array/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-107. [https://www.interviewbit.com/problems/nearest-smaller-element](https://www.interviewbit.com/problems/nearest-smaller-element/# ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-107. [https://www.codingninjas.com/reverse-first-k-elements-of-queue](https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118523/offering/1380947?leftPanelTab=0) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+80. [https://leetcode.com/problems/robot-bounded-in-circle](https://leetcode.com/problems/robot-bounded-in-circle/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+81. [https://leetcode.com/problems/rotate-array](https://leetcode.com/problems/rotate-array/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+82. [https://leetcode.com/problems/running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+83. [https://leetcode.com/problems/search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+84. [https://leetcode.com/problems/search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+85. [https://leetcode.com/problems/search-in-rotated-sorted-array-ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+86. [https://leetcode.com/problems/search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+87. [https://leetcode.com/problems/search-insert-position](https://leetcode.com/problems/search-insert-position/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+88. [https://leetcode.com/problems/set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+89. [https://leetcode.com/problems/set-mismatch](https://leetcode.com/problems/set-mismatch/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+90. [https://leetcode.com/problems/shuffle-the-array](https://leetcode.com/problems/shuffle-the-array/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+91. [https://leetcode.com/problems/single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+92. [https://leetcode.com/problems/smallest-integer-divisible-by-k](https://leetcode.com/problems/smallest-integer-divisible-by-k/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+93. [https://leetcode.com/problems/sort-colors](https://leetcode.com/problems/sort-colors/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+94. [https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+95. [https://leetcode.com/problems/spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+96. [https://leetcode.com/problems/spiral-matrix-iii](https://leetcode.com/problems/spiral-matrix-iii/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+97. [https://leetcode.com/problems/spiral-matrix](https://leetcode.com/problems/spiral-matrix/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+98. [https://leetcode.com/problems/sqrtx](https://leetcode.com/problems/sqrtx/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+99. [https://leetcode.com/problems/time-needed-to-buy-tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+100. [https://leetcode.com/problems/transpose-matrix](https://leetcode.com/problems/transpose-matrix/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+101. [https://leetcode.com/problems/two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+102. [https://leetcode.com/problems/two-sum](https://leetcode.com/problems/two-sum/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+103. [https://leetcode.com/problems/valid-parentheses](https://leetcode.com/problems/valid-parentheses/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+104. [https://leetcode.com/problems/valid-perfect-square](https://leetcode.com/problems/valid-perfect-square/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+105. [https://practice.geeksforgeeks.org/problems/sort-a-stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1 ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+106. [https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array](https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+107. [https://www.geeksforgeeks.org/sum-triangle-from-array](https://www.geeksforgeeks.org/sum-triangle-from-array/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+108. [https://www.interviewbit.com/problems/nearest-smaller-element](https://www.interviewbit.com/problems/nearest-smaller-element/# ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+108. [https://www.codingninjas.com/reverse-first-k-elements-of-queue](https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118523/offering/1380947?leftPanelTab=0) <img src="https://img.shields.io/badge/-Easy-brightgreen">
 
-### Yeah ofc we'd start counting from 0 duh !!<img src='https://img.shields.io/badge/70 -Easy Problems Solved-brightgreen '> <img src='https://img.shields.io/badge/36 -Medium Problems Solved-blue '> <img src='https://img.shields.io/badge/3 -Hard Problems Solved-red '> 
+### Yeah ofc we'd start counting from 0 duh !!
+<img src='https://img.shields.io/badge/70 -Easy Problems Solved-brightgreen '> <img src='https://img.shields.io/badge/37 -Medium Problems Solved-blue '> <img src='https://img.shields.io/badge/3 -Hard Problems Solved-red '> 
