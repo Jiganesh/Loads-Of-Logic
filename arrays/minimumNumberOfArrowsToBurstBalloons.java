@@ -14,6 +14,9 @@ public class minimumNumberOfArrowsToBurstBalloons {
 }
 
 class SolutionMNOATBB {
+
+    // TC : O(N)
+    // SC : O(1)
     public int findMinArrowShots(int[][] points) {
 
         Arrays.sort(points, (a, b) -> Integer.compare(a[1], b[1]));
