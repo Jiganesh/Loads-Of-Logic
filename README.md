@@ -1,6 +1,6 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 109 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">  
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 111 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">  
 
 
 
@@ -181,11 +181,12 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/adding-spaces-to-a-string/ ```Medium```
 - https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/ ```Medium```
 - https://leetcode.com/problems/robot-bounded-in-circle/ ```Medium``` ```Recommended```
+- https://leetcode.com/problems/string-to-integer-atoi/ ```Medium``` ```Recommended```
+
 
 
 
 </details>
-
 
 <details>
 <summary>Trees</summary>
@@ -217,6 +218,9 @@ Click to Expand and View Problems Solved
     - Search in Sorted Row and Column Wise Matrix ```Binary Search```
     - Search a Matrix sorted Row and Column wise ```Binary Search , Matrix```
     - Search a Sorted Matrix ```Binary Search , Matrix```
+
+- overflow & underflow
+    - String to Integer - Handling Integer Overflow and Underflow  
 </details>
 
 
