@@ -1,11 +1,10 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 111 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">  
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 112 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">  
 
 
+```Click to Expand and View Problems Solved```
 
-
-Click to Expand and View Problems Solved
 <details>
 <summary>Arrays</summary>
 
@@ -53,7 +52,7 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/house-robber/ ```Medium```
 - https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/ ```Easy```
 - https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/ ```Medium```
-- https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/ ```Medium```
+ 
 
 </details>
 
@@ -63,6 +62,15 @@ Click to Expand and View Problems Solved
 
 - https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/ ```Medium```
 
+
+</details>
+
+
+<details>
+<summary>Greedy</summary>
+
+- https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/ ```Medium```
+- https://leetcode.com/problems/non-overlapping-intervals/ ```Medium```
 
 </details>
 

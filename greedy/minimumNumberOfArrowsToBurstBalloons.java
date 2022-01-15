@@ -1,4 +1,4 @@
-package arrays;
+package greedy;
 
 import java.util.Arrays;
 
