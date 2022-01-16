@@ -1,10 +1,11 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 108 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Sorted%20Index%20of%20Problems-Click%20Here-red?style=flat&logo=Target"></a>
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 114 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">  
 
 
-Click to Expand and View Problems Solved
+<h4 style="color: purple">Click below to Expand and View Problems Solved</h4>
+
+
 <details>
 <summary>Arrays</summary>
 
@@ -52,6 +53,7 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/house-robber/ ```Medium```
 - https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/ ```Easy```
 - https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/ ```Medium```
+ 
 
 </details>
 
@@ -61,6 +63,15 @@ Click to Expand and View Problems Solved
 
 - https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/ ```Medium```
 
+
+</details>
+
+
+<details>
+<summary>Greedy</summary>
+
+- https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/ ```Medium```
+- https://leetcode.com/problems/non-overlapping-intervals/ ```Medium```
 
 </details>
 
@@ -80,6 +91,8 @@ Click to Expand and View Problems Solved
 
 - https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ ```Easy```
 - https://leetcode.com/problems/smallest-integer-divisible-by-k/ ```Medium```
+- https://leetcode.com/problems/minimum-moves-to-reach-target-score/ ```Medium``` ```Greedy```
+
 </details>
 
 <details>
@@ -178,10 +191,13 @@ Click to Expand and View Problems Solved
 - https://leetcode.com/problems/capitalize-the-title/ ```Easy```
 - https://leetcode.com/problems/adding-spaces-to-a-string/ ```Medium```
 - https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/ ```Medium```
+- https://leetcode.com/problems/robot-bounded-in-circle/ ```Medium``` ```Recommended```
+- https://leetcode.com/problems/string-to-integer-atoi/ ```Medium``` ```Recommended```
+- https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/ ```Easy```
+
 
 
 </details>
-
 
 <details>
 <summary>Trees</summary>
@@ -213,11 +229,13 @@ Click to Expand and View Problems Solved
     - Search in Sorted Row and Column Wise Matrix ```Binary Search```
     - Search a Matrix sorted Row and Column wise ```Binary Search , Matrix```
     - Search a Sorted Matrix ```Binary Search , Matrix```
+
+- overflow & underflow
+    - String to Integer - Handling Integer Overflow and Underflow  
 </details>
 
+<a href= "https://github.com/Jiganesh/High-On-DSA/blob/main/CONTRIBUTING.md" title ="Click Me !!"><h4> Wanna Contribute to this repository !! </h4></a>
 
-<a href= "https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/guidelines.md" title ="Click Me !!"><h4> Wanna Contribute to this repository !! </h4></a>
-
-<a href = "https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/resourcesWorthReading.md" title ="Click Me!"><img src="https://img.shields.io/badge/-Resources%20Worth%20Reading-blueviolet"></a> <a href ="https://jiganesh.github.io/High-On-DSA/"><img src="https://img.shields.io/badge/-WebPage Version-yellow"></a> <a href ="https://github.com/Jiganesh/High-On-DSA/"><img src="https://img.shields.io/badge/-Github Repository -orange?"></a> 
+<a href = "https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/resourcesWorthReading.md" title ="Click Me!"><img src="https://img.shields.io/badge/-Resources%20Worth%20Reading-blueviolet"></a> <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Sorted%20Index%20of%20Problems-Click%20Here-red?style=flat&logo=Target"></a>
 
 Thank You !! 
