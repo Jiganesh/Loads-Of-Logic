@@ -3,7 +3,7 @@
 <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 114 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">  
 
 
-<h5 style="color: grey">Click below to Expand and View Problems Solved</h5>
+<h4 style="color: purple">Click below to Expand and View Problems Solved</h4>
 
 
 <details>
