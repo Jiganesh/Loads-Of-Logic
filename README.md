@@ -3,7 +3,8 @@
 <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 112 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">  
 
 
-```Click to Expand and View Problems Solved```
+<h6 style="color: grey">Click below to Expand and View Problems Solved</h6>
+
 
 <details>
 <summary>Arrays</summary>
@@ -90,6 +91,8 @@
 
 - https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ ```Easy```
 - https://leetcode.com/problems/smallest-integer-divisible-by-k/ ```Medium```
+- https://leetcode.com/problems/minimum-moves-to-reach-target-score/ ```Medium``` ```Greedy```
+
 </details>
 
 <details>
@@ -190,7 +193,7 @@
 - https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/ ```Medium```
 - https://leetcode.com/problems/robot-bounded-in-circle/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/string-to-integer-atoi/ ```Medium``` ```Recommended```
-
+- https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/ ```Easy```
 
 
 
@@ -230,7 +233,6 @@
 - overflow & underflow
     - String to Integer - Handling Integer Overflow and Underflow  
 </details>
-
 
 <a href= "https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/guidelines.md" title ="Click Me !!"><h4> Wanna Contribute to this repository !! </h4></a>
 
