@@ -3,7 +3,7 @@
 <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 114 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">  
 
 
-<h4 style="color: purple">Click below to Expand and View Problems Solved</h4>
+*Click below to Expand Section and View Problems.*
 
 
 <details>
@@ -53,7 +53,7 @@
 - https://leetcode.com/problems/house-robber/ ```Medium```
 - https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/ ```Easy```
 - https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/ ```Medium```
- 
+- https://leetcode.com/problems/maximize-distance-to-closest-person/ ```Medium```
 
 </details>
 
@@ -72,6 +72,7 @@
 
 - https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/ ```Medium```
 - https://leetcode.com/problems/non-overlapping-intervals/ ```Medium```
+- https://leetcode.com/problems/merge-intervals/ ```Medium```
 
 </details>
 
