@@ -9,6 +9,8 @@ public class wordPattern {
     public static void main(String[] args) {
         SolutionWP solution = new SolutionWP();
         System.out.println(solution.wordPattern("aba", "cat cat dog"));
+        System.out.println(solution.wordPatternApproach2("aba", "cat cat dog"));
+
     }
     
 }
@@ -39,9 +41,7 @@ class SolutionWP {
             else if(al.get(ch[i]).equals(rs[i]) == false){
                 return false;
             }
-
         }
-
         return true;
     }
 
