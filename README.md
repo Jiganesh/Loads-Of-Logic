@@ -1,10 +1,9 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 114 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">  
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 117 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">  
 
 
 *Click below to expand  and view problems.*
-
 
 <details>
 <summary>Arrays</summary>
@@ -233,7 +232,8 @@
     - Search a Sorted Matrix ```Binary Search , Matrix```
 
 - overflow & underflow
-    - String to Integer - Handling Integer Overflow and Underflow  
+    - String to Integer - Handling Integer Overflow and Underflow 
+     
 </details>
 
 <a href= "https://github.com/Jiganesh/High-On-DSA/blob/main/CONTRIBUTING.md" title ="Click Me !!"><h4> Wanna Contribute to this repository !! </h4></a>
