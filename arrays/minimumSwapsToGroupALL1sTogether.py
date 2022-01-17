@@ -24,9 +24,3 @@ print(Solution().minSwaps([0,1,1,1,0,0,1,1,0]))
 print(Solution().minSwaps([1,1,0,0,1]))
 print(Solution().minSwaps([0,0,0,0,0]))
 print(Solution().minSwaps([1,1,1,1,1]))
-
-
-    
-    
-    
-    
