@@ -3,7 +3,8 @@
 <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 114 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">  
 
 
-*Click below to Expand Section and View Problems.*
+*Click below to expand  and view problems.*
+
 
 
 <details>
@@ -195,6 +196,7 @@
 - https://leetcode.com/problems/robot-bounded-in-circle/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/string-to-integer-atoi/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/ ```Easy```
+- https://leetcode.com/problems/word-pattern/ ```Easy```
 
 
 
@@ -237,6 +239,6 @@
 
 <a href= "https://github.com/Jiganesh/High-On-DSA/blob/main/CONTRIBUTING.md" title ="Click Me !!"><h4> Wanna Contribute to this repository !! </h4></a>
 
-<a href = "https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/resourcesWorthReading.md" title ="Click Me!"><img src="https://img.shields.io/badge/-Resources%20Worth%20Reading-blueviolet"></a> <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Sorted%20Index%20of%20Problems-Click%20Here-red?style=flat&logo=Target"></a>
+<a href = "https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/resourcesWorthReading.md" title ="Click Me!"><img src="https://img.shields.io/badge/-Resources%20Worth%20Reading-blueviolet"></a> <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Sorted%20Index%20of%20Problems-red?style=flat"></a>
 
 Thank You !! 
