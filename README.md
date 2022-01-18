@@ -69,9 +69,11 @@
 <details>
 <summary>Greedy</summary>
 
+- https://leetcode.com/problems/can-place-flowers/ ```Easy```
 - https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/ ```Medium```
 - https://leetcode.com/problems/non-overlapping-intervals/ ```Medium```
 - https://leetcode.com/problems/merge-intervals/ ```Medium```
+- https://leetcode.com/problems/remove-covered-intervals/ ```Medium```
 
 </details>
 
