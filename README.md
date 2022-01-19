@@ -61,6 +61,7 @@
 <summary>Dynamic Programming</summary>
 
 - https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/ ```Medium```
+- https://leetcode.com/problems/climbing-stairs/ ```Easy```
 
 
 </details>
