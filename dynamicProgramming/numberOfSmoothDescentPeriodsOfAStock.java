@@ -1,5 +1,7 @@
 package dynamicProgramming;
 
+import java.util.Arrays;
+
 // https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
 
 public class numberOfSmoothDescentPeriodsOfAStock{
@@ -7,6 +9,11 @@ public class numberOfSmoothDescentPeriodsOfAStock{
 
         SolutionNOSDPOAS solution = new SolutionNOSDPOAS();
         System.out.println(solution.getDescentPeriods(new int [] {3,2,1,4}));
+
+
+        int [] array = new int[] {7,2,6,2,9};
+
+        System.out.println(Arrays.stream(array).max().getAsInt());
         
     }
 }
