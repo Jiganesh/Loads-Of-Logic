@@ -1,5 +1,6 @@
 package binarySearch;
 
+// https://leetcode.com/problems/koko-eating-bananas/
 import java.util.Arrays;
 
 public class kokoEatingBananas{
@@ -8,24 +9,26 @@ public class kokoEatingBananas{
         System.out.println(solution.minEatingSpeed(new int[]{3,6,7,11}, 8));
         System.out.println(solution.minEatingSpeed(new int[]{30,11,23,4,20}, 5));
         System.out.println(solution.minEatingSpeed(new int[]{30,11,23,4,20}, 6));
+        System.out.println(solution.minEatingSpeed(new int[]{312884470},968709470));
 
     }
 }
 class SolutionKEB {
+
+    // Submitted by @Jiganesh
+
+    // TC : O(NLogM)
+    // SC : O(1)
     public int minEatingSpeed(int[] piles, int h) {
         
-        // Submitted by @Jiganesh
-
-
-        // TC : O(NLogM)
-        // SC : O(1)
-        int start = 0;
+        
+        int start = 1;
         int end = Arrays.stream(piles).max().getAsInt();
         int eatingspeed = end;
         while(start<=end){
             
             int mid = start +(end-start)/2;
-            int hoursTaken = kBananas(mid, h, piles);
+            int hoursTaken = kBananas(mid, piles);
 
             if( hoursTaken <= h){
                 eatingspeed = Math.min(eatingspeed, mid);
@@ -39,7 +42,7 @@ class SolutionKEB {
         
     }
     
-    public int kBananas(int n ,int  h, int[] array){
+    public int kBananas(int n, int[] array){
         
         int total=0;
         for (int i : array){

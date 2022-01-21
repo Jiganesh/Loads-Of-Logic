@@ -154,6 +154,8 @@
 - https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ ```Medium```
 - https://leetcode.com/problems/single-element-in-a-sorted-array/ ```Medium```
 - https://leetcode.com/problems/find-in-mountain-array/ ```Hard```
+- https://leetcode.com/problems/koko-eating-bananas/  ```Medium```
+
 </details>
 
 <details>
