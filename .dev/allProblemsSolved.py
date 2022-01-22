@@ -41,3 +41,19 @@ print(array, sum(array))
 
 f.close()
 writeReadme.close()
+
+# CODE BELOW THIS UPDATES README.md
+
+f = open("README.md","r")
+lines = [i for i in f][3:]
+
+writeNewReadme = open("Readme.md", "w")
+writeNewReadme.write('### Index Of Problems\n\n')
+writeNewReadme.write('<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- ' + str(sum(array)) + ' -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">')
+
+
+for i in lines:
+    writeNewReadme.write(i)
+
+f.close()
+writeNewReadme.close()

@@ -1,7 +1,6 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 120 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">  
-
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 124 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">
 
 *Click below to expand  and view problems.*
 
@@ -62,6 +61,7 @@
 
 - https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/ ```Medium```
 - https://leetcode.com/problems/climbing-stairs/ ```Easy```
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock/  ```Easy```
 
 
 </details>
@@ -76,6 +76,8 @@
 - https://leetcode.com/problems/merge-intervals/ ```Medium```
 - https://leetcode.com/problems/remove-covered-intervals/ ```Medium```
 - https://leetcode.com/problems/teemo-attacking/ ```Easy```
+- https://leetcode.com/problems/gas-station/ ```Easy```
+
 
 </details>
 
@@ -224,6 +226,9 @@
     - Sum and Product of Digits in a  Number
     - Reverse A Number
     - Maximize The Number By Swapping Adjacent Two Digits ```Not Yet Solved```
+
+- dynamic Programming
+    - Print possible Sum for Target using given number as many times possible
 
 - binarySearch
     - Order Agnostic Binary Search ```Binary Search```
