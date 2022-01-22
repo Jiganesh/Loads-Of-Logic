@@ -1,6 +1,8 @@
 ### Index Of Problems
 
 <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 124 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">
+
+
 *Click below to expand  and view problems.*
 
 <details>
