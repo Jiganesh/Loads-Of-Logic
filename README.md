@@ -54,6 +54,8 @@
 - https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/ ```Medium```
 - https://leetcode.com/problems/maximize-distance-to-closest-person/ ```Medium```
 - https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/  ```Medium```
+- https://leetcode.com/problems/rearrange-array-elements-by-sign/ ```Medium```
+- https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/ ```Easy```
 
 </details>
 
