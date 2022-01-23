@@ -53,6 +53,7 @@
 - https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/ ```Easy```
 - https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/ ```Medium```
 - https://leetcode.com/problems/maximize-distance-to-closest-person/ ```Medium```
+- https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/  ```Medium```
 
 </details>
 
