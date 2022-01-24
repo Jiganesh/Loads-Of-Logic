@@ -208,6 +208,7 @@
 - https://leetcode.com/problems/string-to-integer-atoi/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/ ```Easy```
 - https://leetcode.com/problems/word-pattern/ ```Easy```
+- https://leetcode.com/problems/detect-capital/ ```Easy```
 
 
 
