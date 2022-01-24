@@ -1,14 +1,29 @@
 package dynamicProgramming;
 
+import java.util.Arrays;
+
 // https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
 
 public class numberOfSmoothDescentPeriodsOfAStock{
     public static void main(String[] args) {
+
+        SolutionNOSDPOAS solution = new SolutionNOSDPOAS();
+        System.out.println(solution.getDescentPeriods(new int [] {3,2,1,4}));
+
+
+        int [] array = new int[] {7,2,6,2,9};
+
+        System.out.println(Arrays.stream(array).max().getAsInt());
         
     }
 }
 
 class SolutionNOSDPOAS{
+
+    // Submitted by @Jiganesh
+
+    // TC : O(N)
+    // SC : O(1)
     public long getDescentPeriods(int[] prices) {
         long start=0, val=1;
         for (int i =1 ; i< prices.length; i++){

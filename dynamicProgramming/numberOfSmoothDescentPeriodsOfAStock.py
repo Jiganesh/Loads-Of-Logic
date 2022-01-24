@@ -48,7 +48,8 @@ def getDescentPeriods(prices):
 prices = [3,2,1,4]
 print(getDescentPeriods(prices))
 
-# Jiganesh
+# Submitted by @Jiganesh
+
 class Solution(object):
     def getDescentPeriods(self, prices):
         """

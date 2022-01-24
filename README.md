@@ -1,11 +1,10 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 114 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">  
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 127 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">
+
 
 
 *Click below to expand  and view problems.*
-
-
 
 <details>
 <summary>Arrays</summary>
@@ -55,6 +54,9 @@
 - https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/ ```Easy```
 - https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/ ```Medium```
 - https://leetcode.com/problems/maximize-distance-to-closest-person/ ```Medium```
+- https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/  ```Medium```
+- https://leetcode.com/problems/rearrange-array-elements-by-sign/ ```Medium```
+- https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/ ```Easy```
 
 </details>
 
@@ -63,6 +65,8 @@
 <summary>Dynamic Programming</summary>
 
 - https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/ ```Medium```
+- https://leetcode.com/problems/climbing-stairs/ ```Easy```
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock/  ```Easy```
 
 
 </details>
@@ -71,9 +75,14 @@
 <details>
 <summary>Greedy</summary>
 
+- https://leetcode.com/problems/can-place-flowers/ ```Easy```
 - https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/ ```Medium```
 - https://leetcode.com/problems/non-overlapping-intervals/ ```Medium```
 - https://leetcode.com/problems/merge-intervals/ ```Medium```
+- https://leetcode.com/problems/remove-covered-intervals/ ```Medium```
+- https://leetcode.com/problems/teemo-attacking/ ```Easy```
+- https://leetcode.com/problems/gas-station/ ```Easy```
+
 
 </details>
 
@@ -152,6 +161,8 @@
 - https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ ```Medium```
 - https://leetcode.com/problems/single-element-in-a-sorted-array/ ```Medium```
 - https://leetcode.com/problems/find-in-mountain-array/ ```Hard```
+- https://leetcode.com/problems/koko-eating-bananas/  ```Medium```
+
 </details>
 
 <details>
@@ -221,6 +232,9 @@
     - Reverse A Number
     - Maximize The Number By Swapping Adjacent Two Digits ```Not Yet Solved```
 
+- dynamic Programming
+    - Print possible Sum for Target using given number as many times possible
+
 - binarySearch
     - Order Agnostic Binary Search ```Binary Search```
     - Search in Infinite Array ```Binary Search```
@@ -234,7 +248,8 @@
     - Search a Sorted Matrix ```Binary Search , Matrix```
 
 - overflow & underflow
-    - String to Integer - Handling Integer Overflow and Underflow  
+    - String to Integer - Handling Integer Overflow and Underflow 
+     
 </details>
 
 <a href= "https://github.com/Jiganesh/High-On-DSA/blob/main/CONTRIBUTING.md" title ="Click Me !!"><h4> Wanna Contribute to this repository !! </h4></a>
