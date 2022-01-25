@@ -1,6 +1,7 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 127 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 128 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">
+
 
 
 
@@ -208,6 +209,7 @@
 - https://leetcode.com/problems/string-to-integer-atoi/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/ ```Easy```
 - https://leetcode.com/problems/word-pattern/ ```Easy```
+- https://leetcode.com/problems/detect-capital/ ```Easy```
 
 
 
