@@ -1,4 +1,33 @@
-class Solution {
+package arrays;
+
+// https://leetcode.com/problems/merge-sorted-array/
+// Solution : https://www.youtube.com/watch?v=C4oBXLr3zos
+
+
+public class mergeSortedArray{
+    public static void main(String[] args) {
+        System.out.println( "Test Cases are Commented below , Please test it in leetcode" );
+
+        /*
+        [0]
+        0
+        [1]
+        1
+        [1]
+        1
+        []
+        0
+        [1,2,3,0,0,0]
+        3
+        [2,5,6]
+        3
+        */
+        
+    }
+}
+class SolutionMSA {
+
+    // Submitted by @kushvr
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         
         if(n == 0)
@@ -42,10 +71,35 @@ class Solution {
                 ar_p++;
             }
         }
+    
         
+        for(int in=0;in<(m + n);in++) nums1[in] = ar[in];  
+      
+        }
+    }
+
+    // Submitted by Jiganesh;
+
+    // TC : O(N)
+    // SC : O(1)
+
+
+    // Runtime: 0 ms, faster than 100.00% of Java online submissions for Merge Sorted Array.
+    // Memory Usage: 40.3 MB, less than 7.49% of Java online submissions for Merge Sorted Array.
+    public void mergeApproach2(int[] nums1, int m, int[] nums2, int n) {
         
-        for(int in=0;in<(m + n);in++)
-             nums1[in] = ar[in];  
+        int p1 = m -1;
+        int p2 = n-1 ;
+        int i = m+n-1;
+        
+        while (p2>= 0 ){
+            if (p1>=0 && nums1[p1] > nums2[p2]){
+                nums1[i--]=nums1[p1--];
+            }else{
+                nums1[i--]=nums2[p2--];
+            }
+        }
         
     }
 }
+
