@@ -1,6 +1,7 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 130 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 131 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">
+
 
 
 
@@ -221,6 +222,7 @@
 <summary>Trees</summary>
 
 - https://leetcode.com/problems/insert-into-a-binary-search-tree/ ```Medium```
+- https://leetcode.com/problems/all-elements-in-two-binary-search-trees/ ```Medium```
 
 </details>
 
