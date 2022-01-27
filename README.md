@@ -1,6 +1,8 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 128 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 131 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">
+
+
 
 
 
@@ -58,7 +60,8 @@
 - https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/  ```Medium```
 - https://leetcode.com/problems/rearrange-array-elements-by-sign/ ```Medium```
 - https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/ ```Easy```
-
+- https://leetcode.com/problems/valid-mountain-array/ ```Easy```
+- https://leetcode.com/problems/merge-sorted-array/ ```Easy```
 </details>
 
 
@@ -219,6 +222,7 @@
 <summary>Trees</summary>
 
 - https://leetcode.com/problems/insert-into-a-binary-search-tree/ ```Medium```
+- https://leetcode.com/problems/all-elements-in-two-binary-search-trees/ ```Medium```
 
 </details>
 
