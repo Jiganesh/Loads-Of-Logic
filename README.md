@@ -62,6 +62,8 @@
 - https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/ ```Easy```
 - https://leetcode.com/problems/valid-mountain-array/ ```Easy```
 - https://leetcode.com/problems/merge-sorted-array/ ```Easy```
+- https://leetcode.com/problems/intersection-of-two-arrays-ii/ ```Easy```
+
 </details>
 
 
