@@ -1,6 +1,7 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 131 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 133 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">
+
 
 
 
@@ -63,6 +64,7 @@
 - https://leetcode.com/problems/valid-mountain-array/ ```Easy```
 - https://leetcode.com/problems/merge-sorted-array/ ```Easy```
 - https://leetcode.com/problems/intersection-of-two-arrays-ii/ ```Easy```
+- https://leetcode.com/problems/pascals-triangle/ ```Easy```
 
 </details>
 
