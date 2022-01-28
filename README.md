@@ -66,6 +66,8 @@
 - https://leetcode.com/problems/merge-sorted-array/ ```Easy```
 - https://leetcode.com/problems/intersection-of-two-arrays-ii/ ```Easy```
 - https://leetcode.com/problems/pascals-triangle/ ```Easy```
+- https://leetcode.com/problems/lexicographical-numbers/ ```Medium```
+- https://leetcode.com/problems/next-permutation/ ```Medium```
 
 </details>
 
