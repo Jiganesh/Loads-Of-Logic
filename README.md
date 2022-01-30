@@ -1,14 +1,6 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 135 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">
-
-
-
-
-
-
-
-
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 137 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">
 
 *Click below to expand  and view problems.*
 
@@ -68,6 +60,8 @@
 - https://leetcode.com/problems/intersection-of-two-arrays-ii/ ```Easy```
 - https://leetcode.com/problems/pascals-triangle/ ```Easy```
 - https://leetcode.com/problems/permutations-ii/ ```Medium```
+- https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/ ```Medium```
+- https://leetcode.com/problems/keep-multiplying-found-values-by-two/ ```Easy```
 
 </details>
 
