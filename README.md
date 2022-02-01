@@ -212,6 +212,7 @@
 - https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/ ```Easy```
 - https://leetcode.com/problems/word-pattern/ ```Easy```
 - https://leetcode.com/problems/detect-capital/ ```Easy```
+- https://leetcode.com/problems/find-substring-with-given-hash-value/ ```Medium``` ```Recommended```
 
 
 
