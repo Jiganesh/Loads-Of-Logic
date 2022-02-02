@@ -23,26 +23,45 @@ class Solution(object):
         
         lens, lenp = len(s), len(p)
         
+        # storing frequency of all the characters in p in dictP
+
         for i in p:
-            if i in dictP : dictP[i]+=1
-            else :dictP[i]=1
+            dictP[i]+=1
             
-        i = 0 
-        
+            
+        startingPointer = 0 
         result=[]
         
-        while i<lens:
-            dictS[s[i]]+=1
-            if i>=lenp :
-                dictS[s[i-lenp]]-=1
+        while startingPointer<lens:
+            
+            # after every iteration adding the next character
+            dictS[s[startingPointer]]+=1
+            
+            # if the length by adding new character has increased from given length of p
+            # deleting the previous character which will be at startingPointer-lenp
+            # automatically given the frequency of all the elements in the window
+            
+            if startingPointer>=lenp :
+                dictS[s[startingPointer-lenp]]-=1
                 
+                
+            # checking if the window are valid anagrams by  comparing the frequency of all the elements in the window
             for j in dictP:
+                
+                # if some element is not present in the window then it is not valid anagram
+                # if element is present then the frequecy must be equal
+                # if frequency is not equal the also it is not valid anagram
+                # hence break the loop
                 if j not in dictS or (j in dictS and dictS[j] != dictP[j]):
                     break   
             else:
-                result.append(i-lenp+1)
+                
+                # if the loop is not broken then it is a valid anagram
+                # add the starting index to the result
+                result.append(startingPointer-lenp+1)
             
-            i+=1
+            startingPointer+=1
+            
         return result
             
 print(Solution().findAnagrams("cbaebabacd", "abc"))
