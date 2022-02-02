@@ -1,8 +1,12 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 137 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-3-orange?">
-
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 138 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-1-orange?">
 <details>
+
+
+*Click below to expand  and view problems.*
+
+
 <summary>Arrays</summary>
 
 - https://leetcode.com/problems/two-sum/ ```Easy```
@@ -213,6 +217,7 @@
 - https://leetcode.com/problems/word-pattern/ ```Easy```
 - https://leetcode.com/problems/detect-capital/ ```Easy```
 - https://leetcode.com/problems/find-substring-with-given-hash-value/ ```Medium``` ```Recommended```
+- https://leetcode.com/problems/find-all-anagrams-in-a-string/ ```Medium```
 
 
 
