@@ -1,7 +1,7 @@
 readingFile = open('README.md', 'r')
 writingFile = open('.dev/sections.md','w')
 
-allLines = "\n".join([i for i in readingFile])
+allLines = "\n".join(sorted([i for i in readingFile]))
 slots = []
 while "<details>" in allLines:
     i=allLines.find("<details>")
