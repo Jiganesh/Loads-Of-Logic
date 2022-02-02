@@ -25,7 +25,9 @@ public class mergeSortedArray{
         
     }
 }
-class SolutionMSA {
+class SolutionMSArr{
+
+    // Due to some error keeping this MSArr (Do not change to MSA)
 
     // Submitted by @kushvr
     public void merge(int[] nums1, int m, int[] nums2, int n) {

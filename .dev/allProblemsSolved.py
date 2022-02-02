@@ -1,6 +1,15 @@
 f = open("README.md","r")
-lines =f.readlines()
+lines =[ i for i in f.readlines()]
+
+
+# Extracting previous problems solved count
+link = lines[2]
+prevProblemsSolved =int(link[link.index("d-")+2:link.index("-brightgreen")])
+
 lines = sorted([x[x.index("- ")+2:] for x in lines if "- https" in x])
+
+
+
 
 title = "## Problems Solved\n"
 writeReadme = open(".dev/allProblemsSolved.md", "w")
@@ -49,9 +58,9 @@ lines = [i for i in f][3:]
 
 writeNewReadme = open("Readme.md", "w")
 writeNewReadme.write('### Index Of Problems\n\n')
-writeNewReadme.write('<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- ' + str(sum(array)) + ' -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">\n\n')
-
-
+writeNewReadme.write('<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- ' + str(sum(array)) + ' -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">')
+writeNewReadme.write(' <img src="https://img.shields.io/badge/Problems Solved Today-' +str(sum(array)-prevProblemsSolved)+'-orange?">')
+print(number)
 for i in lines:
     writeNewReadme.write(i)
 

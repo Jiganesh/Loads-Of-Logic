@@ -1,15 +1,12 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 131 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">
-
-
-
-
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 138 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-1-orange?">
 
 
 *Click below to expand  and view problems.*
 
 <details>
+
 <summary>Arrays</summary>
 
 - https://leetcode.com/problems/two-sum/ ```Easy```
@@ -62,6 +59,12 @@
 - https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/ ```Easy```
 - https://leetcode.com/problems/valid-mountain-array/ ```Easy```
 - https://leetcode.com/problems/merge-sorted-array/ ```Easy```
+- https://leetcode.com/problems/intersection-of-two-arrays-ii/ ```Easy```
+- https://leetcode.com/problems/pascals-triangle/ ```Easy```
+- https://leetcode.com/problems/permutations-ii/ ```Medium```
+- https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/ ```Medium```
+- https://leetcode.com/problems/keep-multiplying-found-values-by-two/ ```Easy```
+
 </details>
 
 
@@ -194,7 +197,7 @@
 - https://leetcode.com/problems/next-greater-element-i/ ```Easy```
 - https://www.interviewbit.com/problems/nearest-smaller-element/# ```Easy```
 - https://practice.geeksforgeeks.org/problems/sort-a-stack/1 ```Easy```
-- https://leetcode.com/problems/largest-rectangle-in-histogram/ ```Hard```
+- https://leetcode.com/problems/largest-rectangle-in-histogram/ ```Hard``` ```Recommended```
 - https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/ ```Medium```
 - https://leetcode.com/problems/maximal-rectangle/ ```Hard```
 </details>
@@ -213,6 +216,8 @@
 - https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/ ```Easy```
 - https://leetcode.com/problems/word-pattern/ ```Easy```
 - https://leetcode.com/problems/detect-capital/ ```Easy```
+- https://leetcode.com/problems/find-substring-with-given-hash-value/ ```Medium``` ```Recommended```
+- https://leetcode.com/problems/find-all-anagrams-in-a-string/ ```Medium```
 
 
 
@@ -223,6 +228,14 @@
 
 - https://leetcode.com/problems/insert-into-a-binary-search-tree/ ```Medium```
 - https://leetcode.com/problems/all-elements-in-two-binary-search-trees/ ```Medium```
+
+</details>
+
+
+<details>
+<summary>Tries</summary>
+
+- https://leetcode.com/problems/design-add-and-search-words-data-structure/ ```Medium```
 
 </details>
 
@@ -260,6 +273,10 @@
 
 <a href= "https://github.com/Jiganesh/High-On-DSA/blob/main/CONTRIBUTING.md" title ="Click Me !!"><h4> Wanna Contribute to this repository !! </h4></a>
 
-<a href = "https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/resourcesWorthReading.md" title ="Click Me!"><img src="https://img.shields.io/badge/-Resources%20Worth%20Reading-blueviolet"></a> <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Sorted%20Index%20of%20Problems-red?style=flat"></a>
+<a href = "https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/resourcesWorthReading.md" title ="Click Me!"><img src="https://img.shields.io/badge/-Resources%20Worth%20Reading-blueviolet"></a> <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Sorted%20Index%20of%20Problems-red?style=flat"></a> <a href ="https://github.com/xizhengszhang/Leetcode_company_frequency" target = "_blank"><img src="https://img.shields.io/badge/Company Specific Questions-496076?style=flat"></a>
+
 
 Thank You !! 
+
+
+
