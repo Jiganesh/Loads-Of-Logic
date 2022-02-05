@@ -1,7 +1,6 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 138 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-1-orange?">
-
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 142 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-4-orange?">
 
 *Click below to expand  and view problems.*
 
@@ -64,6 +63,8 @@
 - https://leetcode.com/problems/permutations-ii/ ```Medium```
 - https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/ ```Medium```
 - https://leetcode.com/problems/keep-multiplying-found-values-by-two/ ```Easy```
+- https://leetcode.com/problems/partition-array-according-to-given-pivot/ ```Medium```
+- https://leetcode.com/problems/contiguous-array/ ```Medium```
 
 </details>
 
@@ -110,6 +111,8 @@
 - https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ ```Easy```
 - https://leetcode.com/problems/smallest-integer-divisible-by-k/ ```Medium```
 - https://leetcode.com/problems/minimum-moves-to-reach-target-score/ ```Medium``` ```Greedy```
+- https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/ ```Easy```
+
 
 </details>
 
@@ -277,6 +280,5 @@
 
 
 Thank You !! 
-
 
 
