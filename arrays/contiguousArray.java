@@ -1,4 +1,17 @@
-class Solution {
+package arrays;
+
+import java.util.*;
+
+public class contiguousArray{
+    public static void main(String[] args) {
+        SolutionCA solution = new SolutionCA();
+        System.out.println(solution.findMaxLength(new int[]{0,1,0}));
+        System.out.println(solution.findMaxLength(new int[]{0,1}));
+
+
+    }
+}
+class SolutionCA {
     public int findMaxLength(int[] nums) {
       
         int len = nums.length;

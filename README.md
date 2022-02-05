@@ -65,6 +65,7 @@
 - https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/ ```Medium```
 - https://leetcode.com/problems/keep-multiplying-found-values-by-two/ ```Easy```
 - https://leetcode.com/problems/partition-array-according-to-given-pivot/ ```Medium```
+- https://leetcode.com/problems/contiguous-array/ ```Medium```
 
 </details>
 
