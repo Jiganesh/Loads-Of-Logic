@@ -99,6 +99,7 @@
 <summary>LinkedLists</summary>
 
 - https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/ ```Medium```
+- https://leetcode.com/problems/merge-k-sorted-lists/ ```Hard```
 
 
 </details>
@@ -221,7 +222,7 @@
 - https://leetcode.com/problems/detect-capital/ ```Easy```
 - https://leetcode.com/problems/find-substring-with-given-hash-value/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/find-all-anagrams-in-a-string/ ```Medium```
-
+- https://leetcode.com/problems/find-the-difference/ ```Easy```
 
 
 </details>
