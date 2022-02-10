@@ -1,4 +1,16 @@
-class Solution {
+package arrays;
+
+import java.util.PriorityQueue;
+
+public class medianOfTwoSortedArrays{
+    public static void main(String[] args) {
+        SolutionMOTSA solution = new SolutionMOTSA();
+        int[] nums1 = {1, 3};
+        int[] nums2 = {2};
+        System.out.println(solution.findMedianSortedArrays(nums1, nums2));
+    }
+}
+class SolutionMOTSA {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         
         int len1 = nums1.length;
