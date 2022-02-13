@@ -65,6 +65,7 @@
 - https://leetcode.com/problems/keep-multiplying-found-values-by-two/ ```Easy```
 - https://leetcode.com/problems/partition-array-according-to-given-pivot/ ```Medium```
 - https://leetcode.com/problems/contiguous-array/ ```Medium```
+- https://leetcode.com/problems/median-of-two-sorted-arrays/ ```Hard```
 
 </details>
 
@@ -223,6 +224,7 @@
 - https://leetcode.com/problems/find-substring-with-given-hash-value/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/find-all-anagrams-in-a-string/ ```Medium```
 - https://leetcode.com/problems/find-the-difference/ ```Easy```
+- https://leetcode.com/problems/permutation-in-string/ ```Medium```
 
 
 </details>
