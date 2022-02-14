@@ -110,6 +110,7 @@
 <details>
 <summary>Maths</summary>
 
+- https://leetcode.com/problems/add-digits/ ```Easy```
 - https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ ```Easy```
 - https://leetcode.com/problems/smallest-integer-divisible-by-k/ ```Medium```
 - https://leetcode.com/problems/minimum-moves-to-reach-target-score/ ```Medium``` ```Greedy```
