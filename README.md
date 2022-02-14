@@ -1,7 +1,6 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 138 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-1-orange?">
-
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 142 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-4-orange?">
 
 *Click below to expand  and view problems.*
 
@@ -65,6 +64,8 @@
 - https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/ ```Medium```
 - https://leetcode.com/problems/keep-multiplying-found-values-by-two/ ```Easy```
 - https://leetcode.com/problems/partition-array-according-to-given-pivot/ ```Medium```
+- https://leetcode.com/problems/contiguous-array/ ```Medium```
+- https://leetcode.com/problems/median-of-two-sorted-arrays/ ```Hard```
 
 </details>
 
@@ -99,6 +100,7 @@
 <summary>LinkedLists</summary>
 
 - https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/ ```Medium```
+- https://leetcode.com/problems/merge-k-sorted-lists/ ```Hard```
 
 
 </details>
@@ -108,6 +110,7 @@
 <details>
 <summary>Maths</summary>
 
+- https://leetcode.com/problems/add-digits/ ```Easy```
 - https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ ```Easy```
 - https://leetcode.com/problems/smallest-integer-divisible-by-k/ ```Medium```
 - https://leetcode.com/problems/minimum-moves-to-reach-target-score/ ```Medium``` ```Greedy```
@@ -221,7 +224,8 @@
 - https://leetcode.com/problems/detect-capital/ ```Easy```
 - https://leetcode.com/problems/find-substring-with-given-hash-value/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/find-all-anagrams-in-a-string/ ```Medium```
-
+- https://leetcode.com/problems/find-the-difference/ ```Easy```
+- https://leetcode.com/problems/permutation-in-string/ ```Medium```
 
 
 </details>
