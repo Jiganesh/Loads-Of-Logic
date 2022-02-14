@@ -1,6 +1,16 @@
-class Solution {
+package strings;
+
+// https://leetcode.com/problems/permutation-in-string/
+
+public class permutationInString{
+    public static void main(String[] args) {
+        SolutionPIS solution = new SolutionPIS();
+        System.out.println(solution.checkInclusion("ab", "eidbaooo"));
+    }
+}
+class SolutionPIS {
     
-    public boolean Check(int[] a, int[] b){
+    public boolean check(int[] a, int[] b){
         for(int i=0;i<26;i++){
             if(a[i] != b[i])
                 return false;
@@ -26,7 +36,7 @@ class Solution {
             for(int i=0;i<l1;i++)
                 c2[(int)s2.charAt(i) - 97]++;
             
-            if(Check(c1,c2))
+            if(check(c1,c2))
                 return true;
             else{
                 
@@ -35,7 +45,7 @@ class Solution {
                     int tar = (int)s2.charAt(i - l1) - 97;
                     c2[k]++;
                     c2[tar]--;
-                    if(Check(c1,c2))
+                    if(check(c1,c2))
                          return true;
                 }
                 return false;
