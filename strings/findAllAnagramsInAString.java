@@ -1,8 +1,7 @@
 package strings;
-
 import java.util.*;
 
-public class findAllAnagramsInAString {
+public class findAllAnagramsInAString{
     public static void main(String[] args) {
 
         SolutionFAAIAS solution = new SolutionFAAIAS();
