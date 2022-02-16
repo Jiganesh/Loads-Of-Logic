@@ -59,7 +59,7 @@ lines = [i for i in f][3:]
 writeNewReadme = open("Readme.md", "w")
 writeNewReadme.write('### Index Of Problems\n\n')
 writeNewReadme.write('<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- ' + str(sum(array)) + ' -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">')
-writeNewReadme.write(' <img src="https://img.shields.io/badge/Problems Solved Today-' +str(sum(array)-prevProblemsSolved)+'-orange?">')
+writeNewReadme.write(' <img src="https://img.shields.io/badge/Problems Solved Today-' +str(sum(array)-prevProblemsSolved)+'-orange?">\n\n')
 print(number)
 for i in lines:
     writeNewReadme.write(i)
