@@ -13,6 +13,12 @@ public class combinationSum{
 }
 
 class SolutionCS {
+
+
+    // Submitted by @Jiganesh
+    
+    // Runtime: 1 ms, faster than 100.00% of Java online submissions for Combination Sum.
+    // Memory Usage: 42.4 MB, less than 43.34% of Java online submissions for Combination Sum.
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
 
         List<List<Integer>> result = new ArrayList<>();
