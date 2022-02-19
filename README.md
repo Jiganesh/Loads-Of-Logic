@@ -1,6 +1,7 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 142 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-4-orange?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 148 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-1-orange?">
+
 
 *Click below to expand  and view problems.*
 
@@ -66,6 +67,7 @@
 - https://leetcode.com/problems/partition-array-according-to-given-pivot/ ```Medium```
 - https://leetcode.com/problems/contiguous-array/ ```Medium```
 - https://leetcode.com/problems/median-of-two-sorted-arrays/ ```Hard```
+- https://leetcode.com/problems/combination-sum/ ```Medium```
 
 </details>
 
@@ -206,6 +208,7 @@
 - https://leetcode.com/problems/largest-rectangle-in-histogram/ ```Hard``` ```Recommended```
 - https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/ ```Medium```
 - https://leetcode.com/problems/maximal-rectangle/ ```Hard```
+- https://leetcode.com/problems/remove-k-digits/ ```Medium``` ```Recommended```
 </details>
 
 
