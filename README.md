@@ -117,6 +117,7 @@
 - https://leetcode.com/problems/smallest-integer-divisible-by-k/ ```Medium```
 - https://leetcode.com/problems/minimum-moves-to-reach-target-score/ ```Medium``` ```Greedy```
 - https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/ ```Easy```
+- https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/ ```Medium```
 
 
 </details>
