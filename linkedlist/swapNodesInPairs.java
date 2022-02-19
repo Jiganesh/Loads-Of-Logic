@@ -11,7 +11,7 @@ public class swapNodesInPairs{
 //Definition for singly-linked list.
 
 
-class Solution {
+class SolutionSNIP {
     public ListNode swapPairs(ListNode head) {
         ListNode dummy = new ListNode(-1);
         ListNode prev = dummy, current = head;

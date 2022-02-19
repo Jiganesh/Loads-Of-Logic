@@ -1,7 +1,7 @@
 # https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 
 class Solution:
-    def findNumbers(self, nums: List[int]) -> int:
+    def findNumbers(self, nums):
         
         #1 with string and len
         count=0
