@@ -243,6 +243,9 @@
 
 - https://leetcode.com/problems/insert-into-a-binary-search-tree/ ```Medium```
 - https://leetcode.com/problems/all-elements-in-two-binary-search-trees/ ```Medium```
+- https://leetcode.com/problems/convert-bst-to-greater-tree/ ```Medium```
+- https://leetcode.com/problems/recover-binary-search-tree/ ```Medium```
+- https://leetcode.com/problems/kth-smallest-element-in-a-bst/  ```Medium```
 
 </details>
 
