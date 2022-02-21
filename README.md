@@ -68,6 +68,7 @@
 - https://leetcode.com/problems/contiguous-array/ ```Medium```
 - https://leetcode.com/problems/median-of-two-sorted-arrays/ ```Hard```
 - https://leetcode.com/problems/combination-sum/ ```Medium```
+- https://leetcode.com/problems/majority-element/ ```Easy```
 
 </details>
 
@@ -103,7 +104,8 @@
 
 - https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/ ```Medium```
 - https://leetcode.com/problems/merge-k-sorted-lists/ ```Hard```
-
+- https://leetcode.com/problems/merge-nodes-in-between-zeros/ ```Medium```
+- https://leetcode.com/problems/swap-nodes-in-pairs/ ```Medium```
 
 </details>
 
@@ -118,6 +120,7 @@
 - https://leetcode.com/problems/minimum-moves-to-reach-target-score/ ```Medium``` ```Greedy```
 - https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/ ```Easy```
 - https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/ ```Medium```
+- https://leetcode.com/problems/count-integers-with-even-digit-sum/ ```Easy```
 
 
 </details>
