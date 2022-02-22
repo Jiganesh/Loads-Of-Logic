@@ -6,12 +6,15 @@ package dynamicProgramming;
 
 public class bestTimeToBuyAndSellStock {
     public static void main(String[] args) {
+        SolutionBTTBASS solution = new SolutionBTTBASS();
+        System.out.println(solution.maxProfit(new int[]{7,1,5,3,6,4}));
+        System.out.println(solution.maxProfit(new int[]{7,6,4,3,1}));
         
     }
 }
 
 
-class Solution {
+class SolutionBTTBASS {
 
     
     // TC : O(N^2
