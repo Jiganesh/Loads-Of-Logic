@@ -1,14 +1,3 @@
-### Index Of Problems
-
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 158 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-1-orange?">
-
-
-
-
-
-
-*Click below to expand  and view problems.*
-
 <details>
 
 <summary>Arrays</summary>
@@ -76,7 +65,6 @@
 
 </details>
 
-
 <details>
 <summary>Dynamic Programming</summary>
 
@@ -86,7 +74,6 @@
 
 
 </details>
-
 
 <details>
 <summary>Greedy</summary>
@@ -102,7 +89,6 @@
 
 </details>
 
-
 <details>
 <summary>LinkedLists</summary>
 
@@ -112,8 +98,6 @@
 - https://leetcode.com/problems/swap-nodes-in-pairs/ ```Medium```
 
 </details>
-
-
 
 <details>
 <summary>Maths</summary>
@@ -148,7 +132,6 @@
 - https://www.geeksforgeeks.org/sum-triangle-from-array/ ```Easy``` ```GFG```
 
 </details>
-
 
 <details>
 <summary>Search</summary>
@@ -219,8 +202,6 @@
 - https://leetcode.com/problems/remove-k-digits/ ```Medium``` ```Recommended```
 </details>
 
-
-
 <details>
 <summary>Strings</summary>
 
@@ -237,7 +218,6 @@
 - https://leetcode.com/problems/find-all-anagrams-in-a-string/ ```Medium```
 - https://leetcode.com/problems/find-the-difference/ ```Easy```
 - https://leetcode.com/problems/permutation-in-string/ ```Medium```
-- https://leetcode.com/problems/excel-sheet-column-number/ ```Easy```
 
 
 </details>
@@ -253,15 +233,12 @@
 
 </details>
 
-
 <details>
 <summary>Tries</summary>
 
 - https://leetcode.com/problems/design-add-and-search-words-data-structure/ ```Medium```
 
 </details>
-
-
 
 <details>
 <summary>Concepts / Miscelleneous </summary>
@@ -292,12 +269,4 @@
     - String to Integer - Handling Integer Overflow and Underflow 
      
 </details>
-
-<a href= "https://github.com/Jiganesh/High-On-DSA/blob/main/CONTRIBUTING.md" title ="Click Me !!"><h4> Wanna Contribute to this repository !! </h4></a>
-
-<a href = "https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/resourcesWorthReading.md" title ="Click Me!"><img src="https://img.shields.io/badge/-Resources%20Worth%20Reading-blueviolet"></a> <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Sorted%20Index%20of%20Problems-red?style=flat"></a> <a href ="https://github.com/xizhengszhang/Leetcode_company_frequency" target = "_blank"><img src="https://img.shields.io/badge/Company Specific Questions-496076?style=flat"></a>
-
-
-Thank You !! 
-
 
