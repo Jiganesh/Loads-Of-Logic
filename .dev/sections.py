@@ -1,7 +1,9 @@
-readingFile = open('README.md', 'r')
-writingFile = open('.dev/sections.md','w')
+readingFile = open('index.html', 'r')
+writingFile = open('.dev/sections.html','w')
 
 allLines = "".join([i for i in readingFile])
+allLines=allLines.replace('<ul>',"<ol>")
+allLines=allLines.replace('</ul>',"</ol>")
 slots = []
 
 while "<details>" in allLines:
