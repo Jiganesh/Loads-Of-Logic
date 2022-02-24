@@ -46,7 +46,8 @@ writeReadme.write(easy)
 writeReadme.write(medium)
 writeReadme.write(hard)
 
-print(array, sum(array))
+print("Easy, Medium and Hard problems respectively are ", array)
+print("Total problems solved are ",sum(array))
 
 f.close()
 writeReadme.close()
@@ -60,7 +61,8 @@ writeNewReadme = open("Readme.md", "w")
 writeNewReadme.write('### Index Of Problems\n\n')
 writeNewReadme.write('<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- ' + str(sum(array)) + ' -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">')
 writeNewReadme.write(' <img src="https://img.shields.io/badge/Problems Solved Today-' +str(sum(array)-prevProblemsSolved)+'-orange?">\n\n')
-print(number)
+
+print("New Problem added since last Update are :",sum(array)-prevProblemsSolved)
 for i in lines:
     writeNewReadme.write(i)
 
