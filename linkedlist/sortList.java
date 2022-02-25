@@ -43,7 +43,54 @@ class SolutionSL {
             curr = curr.next;
         }
         
-        return head;
+        return head;  
+    }
+
+
+    // TC: O(NLogN)
+    // SC: O(N)
+    public ListNode sortListApproach2(ListNode head) {
         
+        if(head==null || head.next ==null) return head;
+        
+        ListNode temp = head, slow = head, fast = head;
+        
+        // Find middle of the linkedlist with slow-fast pointer approach
+        while (fast != null && fast.next != null){
+            temp = slow;
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        
+        // Make two Parts of that LinkedList
+        temp.next = null;
+        
+        ListNode first = sortListApproach2(head);
+        ListNode second = sortListApproach2(slow);
+        
+        return merge(first , second);
+        
+    }
+    
+    public ListNode merge(ListNode pointer1, ListNode pointer2){
+        
+        ListNode Dummy = new ListNode(-1);
+        ListNode pointerDummy = Dummy;
+        
+        while (pointer1 !=null && pointer2 != null){
+            if (pointer1.val < pointer2.val){
+                pointerDummy.next = pointer1;
+                pointer1 = pointer1.next;
+            }else{
+                pointerDummy.next = pointer2;
+                pointer2 = pointer2.next;
+            }
+            pointerDummy = pointerDummy.next;
+        }
+        
+        if (pointer1 != null) pointerDummy.next = pointer1;
+        if (pointer2 != null) pointerDummy.next = pointer2;
+        
+        return Dummy.next;   
     }
 }

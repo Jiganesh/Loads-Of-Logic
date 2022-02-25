@@ -9,12 +9,15 @@ slots = []
 while "<details>" in allLines:
     i=allLines.find("<details>")
     j=allLines.find("</details>")
+    print(allLines[i:j+10])
     slots.append(allLines[i:j+10])
     allLines = allLines [j+10:]
+    break;
     
 
 for i in slots:
-    writingFile.write(i+"\n\n")
+    pass
+    # writingFile.write(i+"\n\n")
 
 readingFile.close()
 writingFile.close()
