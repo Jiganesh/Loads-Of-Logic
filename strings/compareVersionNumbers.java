@@ -36,4 +36,39 @@ class SolutionCVN {
         }
         return 0;
     }
+
+     // Submitted by @Jiganesh
+
+    // TC : O(N)
+    // SC : O(1)
+
+    // Runtime: 0 ms, faster than 100.00% of Java online submissions for Compare Version Numbers.
+    // Memory Usage: 42.6 MB, less than 6.00% of Java online submissions for Compare Version Numbers.
+    
+    public int compareVersionApproach2(String version1, String version2) {
+        
+        int i = 0, j = 0;
+
+        while (i < version1.length() || j < version2.length()){
+
+            int val1 = 0;
+            while (i< version1.length() && version1.charAt(i) != '.') {
+                val1 = val1*10 + version1.charAt(i++)-'0';
+                
+            }
+
+            int val2 =0;
+            while(j < version2.length() && version2.charAt(j) != '.'){
+                val2 = val2*10 + version2.charAt(j++)-'0';
+            }
+            
+            if (val1 < val2) return -1;
+            else if (val1> val2) return 1;
+            
+            i++;
+            j++;
+            
+        }
+        return 0;
+    }
 }
