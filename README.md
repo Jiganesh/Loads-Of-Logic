@@ -240,6 +240,7 @@
 - https://leetcode.com/problems/find-all-anagrams-in-a-string/ ```Medium```
 - https://leetcode.com/problems/find-the-difference/ ```Easy```
 - https://leetcode.com/problems/permutation-in-string/ ```Medium```
+- https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/ ```Easy```
 - https://leetcode.com/problems/excel-sheet-column-number/ ```Easy```
 
 
