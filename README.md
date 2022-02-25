@@ -14,66 +14,66 @@
 
 <summary>Arrays</summary>
 
-- https://leetcode.com/problems/two-sum/ ```Easy```
-- https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ ```Easy```
+- https://leetcode.com/problems/add-to-array-form-of-integer/ ```Easy```
+- https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/ ```Medium```
 - https://leetcode.com/problems/build-array-from-permutation/ ```Easy```
-- https://leetcode.com/problems/concatenation-of-array/ ```Easy```
-- https://leetcode.com/problems/running-sum-of-1d-array/ ```Easy```
-- https://leetcode.com/problems/richest-customer-wealth/ ```Easy```
-- https://leetcode.com/problems/shuffle-the-array/ ```Easy```
-- https://leetcode.com/problems/number-of-good-pairs/ ```Easy```
-- https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/ ```Easy```
-- https://leetcode.com/problems/create-target-array-in-the-given-order/ ```Easy```
+- https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/ ```Easy```
+- https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/ ```Easy```
 - https://leetcode.com/problems/check-if-the-sentence-is-pangram/ ```Easy```
+- https://leetcode.com/problems/combination-sum/ ```Medium```
+- https://leetcode.com/problems/concatenation-of-array/ ```Easy```
+- https://leetcode.com/problems/contiguous-array/ ```Medium```
+- https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/ ```Easy```
 - https://leetcode.com/problems/count-items-matching-a-rule/ ```Easy```
+- https://leetcode.com/problems/create-target-array-in-the-given-order/ ```Easy```
+- https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/ ```Easy```
+- https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/  ```Medium```
+- https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ ```Medium```
+- https://leetcode.com/problems/find-first-palindromic-string-in-the-array/ ```Easy```
+- https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/ ```Easy```
+- https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ ```Easy```
 - https://leetcode.com/problems/find-the-highest-altitude/ ```Easy```
 - https://leetcode.com/problems/flipping-an-image/ ```Easy```
-- https://leetcode.com/problems/find-first-palindromic-string-in-the-array/ ```Easy```
-- https://leetcode.com/problems/matrix-diagonal-sum/ ```Easy```
-- https://leetcode.com/problems/maximum-subarray/ ```Easy```
-- https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/ ```Easy```
-- https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/ ```Easy```
-- https://leetcode.com/problems/transpose-matrix/ ```Easy```
-- https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ ```Easy```
-- https://leetcode.com/problems/add-to-array-form-of-integer/ ```Easy```
-- https://leetcode.com/problems/maximum-population-year/ ```Easy```
-- https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/ ```Easy```
-- https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/ ```Easy```
-- https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/ ```Easy```
-- https://leetcode.com/problems/matrix-diagonal-sum/ ```Easy```
-- https://leetcode.com/problems/plus-one/ ```Easy```
-- https://leetcode.com/problems/lucky-numbers-in-a-matrix/ ```Easy```
-- https://leetcode.com/problems/reshape-the-matrix/ ```Easy```
-- https://leetcode.com/problems/remove-duplicates-from-sorted-array/ ```Easy```
-- https://leetcode.com/problems/spiral-matrix/ ```Medium```
-- https://leetcode.com/problems/spiral-matrix-ii/ ```Medium```
-- https://leetcode.com/problems/spiral-matrix-iii/ ```Medium``` ```Recommended```
-- https://leetcode.com/problems/set-matrix-zeroes/ ```Medium```
-- https://leetcode.com/problems/product-of-array-except-self/ ```Medium```
-- https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/ ```Medium```
-- https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ ```Medium```
-- https://leetcode.com/problems/jump-game/ ```Medium```
-- https://leetcode.com/problems/rotate-array/ ```Medium```
-- https://leetcode.com/problems/sort-colors/ ```Medium```
 - https://leetcode.com/problems/house-robber/ ```Medium```
-- https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/ ```Easy```
-- https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/ ```Medium```
-- https://leetcode.com/problems/maximize-distance-to-closest-person/ ```Medium```
-- https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/  ```Medium```
-- https://leetcode.com/problems/rearrange-array-elements-by-sign/ ```Medium```
-- https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/ ```Easy```
-- https://leetcode.com/problems/valid-mountain-array/ ```Easy```
-- https://leetcode.com/problems/merge-sorted-array/ ```Easy```
+- https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/ ```Easy```
 - https://leetcode.com/problems/intersection-of-two-arrays-ii/ ```Easy```
+- https://leetcode.com/problems/jump-game/ ```Medium```
+- https://leetcode.com/problems/keep-multiplying-found-values-by-two/ ```Easy```
+- https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/ ```Easy```
+- https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/ ```Easy```
+- https://leetcode.com/problems/lucky-numbers-in-a-matrix/ ```Easy```
+- https://leetcode.com/problems/majority-element/ ```Easy```
+- https://leetcode.com/problems/matrix-diagonal-sum/ ```Easy```
+- https://leetcode.com/problems/matrix-diagonal-sum/ ```Easy```
+- https://leetcode.com/problems/maximize-distance-to-closest-person/ ```Medium```
+- https://leetcode.com/problems/maximum-population-year/ ```Easy```
+- https://leetcode.com/problems/maximum-subarray/ ```Easy```
+- https://leetcode.com/problems/median-of-two-sorted-arrays/ ```Hard```
+- https://leetcode.com/problems/merge-sorted-array/ ```Easy```
+- https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/ ```Medium```
+- https://leetcode.com/problems/number-of-good-pairs/ ```Easy```
+- https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/ ```Medium```
+- https://leetcode.com/problems/partition-array-according-to-given-pivot/ ```Medium```
 - https://leetcode.com/problems/pascals-triangle/ ```Easy```
 - https://leetcode.com/problems/permutations-ii/ ```Medium```
-- https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/ ```Medium```
-- https://leetcode.com/problems/keep-multiplying-found-values-by-two/ ```Easy```
-- https://leetcode.com/problems/partition-array-according-to-given-pivot/ ```Medium```
-- https://leetcode.com/problems/contiguous-array/ ```Medium```
-- https://leetcode.com/problems/median-of-two-sorted-arrays/ ```Hard```
-- https://leetcode.com/problems/combination-sum/ ```Medium```
-- https://leetcode.com/problems/majority-element/ ```Easy```
+- https://leetcode.com/problems/plus-one/ ```Easy```
+- https://leetcode.com/problems/product-of-array-except-self/ ```Medium```
+- https://leetcode.com/problems/rearrange-array-elements-by-sign/ ```Medium```
+- https://leetcode.com/problems/remove-duplicates-from-sorted-array/ ```Easy```
+- https://leetcode.com/problems/reshape-the-matrix/ ```Easy```
+- https://leetcode.com/problems/richest-customer-wealth/ ```Easy```
+- https://leetcode.com/problems/rotate-array/ ```Medium```
+- https://leetcode.com/problems/running-sum-of-1d-array/ ```Easy```
+- https://leetcode.com/problems/set-matrix-zeroes/ ```Medium```
+- https://leetcode.com/problems/shuffle-the-array/ ```Easy```
+- https://leetcode.com/problems/sort-colors/ ```Medium```
+- https://leetcode.com/problems/spiral-matrix-ii/ ```Medium```
+- https://leetcode.com/problems/spiral-matrix-iii/ ```Medium``` ```Recommended```
+- https://leetcode.com/problems/spiral-matrix/ ```Medium```
+- https://leetcode.com/problems/transpose-matrix/ ```Easy```
+- https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ ```Easy```
+- https://leetcode.com/problems/two-sum/ ```Easy```
+- https://leetcode.com/problems/valid-mountain-array/ ```Easy```
 
 </details>
 
@@ -81,12 +81,11 @@
 <details>
 <summary>Dynamic Programming</summary>
 
-- https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/ ```Medium```
-- https://leetcode.com/problems/climbing-stairs/ ```Easy```
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/  ```Easy```
-- https://leetcode.com/problems/min-cost-climbing-stairs/ ```Easy```
+- https://leetcode.com/problems/climbing-stairs/ ```Easy```
 - https://leetcode.com/problems/divisor-game/ ```Easy```
-
+- https://leetcode.com/problems/min-cost-climbing-stairs/ ```Easy```
+- https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/ ```Medium```
 
 </details>
 
@@ -156,38 +155,39 @@
 <details>
 <summary>Search</summary>
 
-- https://leetcode.com/problems/binary-search/ ```Very Easy```
-- https://leetcode.com/problems/richest-customer-wealth/ ```Very Easy```
-- https://leetcode.com/problems/sqrtx/ ```Very Easy```
-- https://leetcode.com/problems/first-bad-version/ ```Very Easy```
-- https://leetcode.com/problems/valid-perfect-square/ ```Very Easy```
-- https://leetcode.com/problems/guess-number-higher-or-lower/ ```Very Easy```
-- https://leetcode.com/problems/find-smallest-letter-greater-than-target/ ```Easy```
-- https://leetcode.com/problems/peak-index-in-a-mountain-array/ ```Easy```
-- https://leetcode.com/problems/find-peak-element/ ```Easy```
 - https://leetcode.com/problems/arranging-coins/ ```Easy```
+- https://leetcode.com/problems/binary-search/ ```Very Easy```
 - https://leetcode.com/problems/check-if-n-and-its-double-exist/ ```Easy```
-- https://leetcode.com/problems/fair-candy-swap/ ```Easy```
-- https://leetcode.com/problems/kth-missing-positive-number/ ```Easy```
-- https://leetcode.com/problems/intersection-of-two-arrays/ ```Easy```
-- https://leetcode.com/problems/intersection-of-two-arrays-ii/ ```Easy```
-- https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/ ```Easy```
-- https://leetcode.com/problems/search-insert-position/ ```Easy```
 - https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/ ```Easy```
-- https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ ```Easy```
+- https://leetcode.com/problems/fair-candy-swap/ ```Easy```
 - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ ```Easy```
-- https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ ```Medium```
-- https://leetcode.com/problems/find-right-interval/ ```Medium```
-- https://leetcode.com/problems/find-peak-element/ ```Medium```
-- https://leetcode.com/problems/find-peak-element/ ```Medium```
-- https://leetcode.com/problems/reach-a-number/ ```Medium```
-- https://leetcode.com/problems/search-a-2d-matrix/ ```Medium```
-- https://leetcode.com/problems/search-a-2d-matrix-ii/ ```Medium```
-- https://leetcode.com/problems/search-in-rotated-sorted-array/ ```Medium```
-- https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ ```Medium```
-- https://leetcode.com/problems/single-element-in-a-sorted-array/ ```Medium```
 - https://leetcode.com/problems/find-in-mountain-array/ ```Hard```
+- https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ ```Medium```
+- https://leetcode.com/problems/find-peak-element/ ```Easy```
+- https://leetcode.com/problems/find-peak-element/ ```Medium```
+- https://leetcode.com/problems/find-peak-element/ ```Medium```
+- https://leetcode.com/problems/find-right-interval/ ```Medium```
+- https://leetcode.com/problems/find-smallest-letter-greater-than-target/ ```Easy```
+- https://leetcode.com/problems/first-bad-version/ ```Very Easy```
+- https://leetcode.com/problems/guess-number-higher-or-lower/ ```Very Easy```
+- https://leetcode.com/problems/intersection-of-two-arrays-ii/ ```Easy```
+- https://leetcode.com/problems/intersection-of-two-arrays/ ```Easy```
 - https://leetcode.com/problems/koko-eating-bananas/  ```Medium```
+- https://leetcode.com/problems/kth-missing-positive-number/ ```Easy```
+- https://leetcode.com/problems/peak-index-in-a-mountain-array/ ```Easy```
+- https://leetcode.com/problems/reach-a-number/ ```Medium```
+- https://leetcode.com/problems/richest-customer-wealth/ ```Very Easy```
+- https://leetcode.com/problems/search-a-2d-matrix-ii/ ```Medium```
+- https://leetcode.com/problems/search-a-2d-matrix/ ```Medium```
+- https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ ```Medium```
+- https://leetcode.com/problems/search-in-rotated-sorted-array/ ```Medium```
+- https://leetcode.com/problems/search-insert-position/ ```Easy```
+- https://leetcode.com/problems/single-element-in-a-sorted-array/ ```Medium```
+- https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/ ```Easy```
+- https://leetcode.com/problems/sqrtx/ ```Very Easy```
+- https://leetcode.com/problems/valid-perfect-square/ ```Very Easy```
+- https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ ```Easy```
+
 
 </details>
 
@@ -242,6 +242,7 @@
 - https://leetcode.com/problems/permutation-in-string/ ```Medium```
 - https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/ ```Easy```
 - https://leetcode.com/problems/excel-sheet-column-number/ ```Easy```
+- https://leetcode.com/problems/compare-version-numbers/ ```Medium```
 
 
 </details>
