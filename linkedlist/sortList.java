@@ -1,6 +1,5 @@
 package linkedlist;
 
-
 import java.util.*;
 
 public class sortList{
