@@ -85,6 +85,7 @@
 - https://leetcode.com/problems/climbing-stairs/ ```Easy```
 - https://leetcode.com/problems/divisor-game/ ```Easy```
 - https://leetcode.com/problems/min-cost-climbing-stairs/ ```Easy```
+- https://leetcode.com/problems/longest-increasing-subsequence/ ```Medium```
 - https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/ ```Medium```
 
 </details>
@@ -227,22 +228,22 @@
 <details>
 <summary>Strings</summary>
 
-- https://leetcode.com/problems/find-first-palindromic-string-in-the-array/ ```Easy```
-- https://leetcode.com/problems/capitalize-the-title/ ```Easy```
 - https://leetcode.com/problems/adding-spaces-to-a-string/ ```Medium```
+- https://leetcode.com/problems/capitalize-the-title/ ```Easy```
+- https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/ ```Easy```
+- https://leetcode.com/problems/compare-version-numbers/ ```Medium```
+- https://leetcode.com/problems/detect-capital/ ```Easy```
+- https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/ ```Easy```
+- https://leetcode.com/problems/excel-sheet-column-number/ ```Easy```
+- https://leetcode.com/problems/find-all-anagrams-in-a-string/ ```Medium```
+- https://leetcode.com/problems/find-first-palindromic-string-in-the-array/ ```Easy```
+- https://leetcode.com/problems/find-substring-with-given-hash-value/ ```Medium``` ```Recommended```
+- https://leetcode.com/problems/find-the-difference/ ```Easy```
 - https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/ ```Medium```
+- https://leetcode.com/problems/permutation-in-string/ ```Medium```
 - https://leetcode.com/problems/robot-bounded-in-circle/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/string-to-integer-atoi/ ```Medium``` ```Recommended```
-- https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/ ```Easy```
 - https://leetcode.com/problems/word-pattern/ ```Easy```
-- https://leetcode.com/problems/detect-capital/ ```Easy```
-- https://leetcode.com/problems/find-substring-with-given-hash-value/ ```Medium``` ```Recommended```
-- https://leetcode.com/problems/find-all-anagrams-in-a-string/ ```Medium```
-- https://leetcode.com/problems/find-the-difference/ ```Easy```
-- https://leetcode.com/problems/permutation-in-string/ ```Medium```
-- https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/ ```Easy```
-- https://leetcode.com/problems/excel-sheet-column-number/ ```Easy```
-- https://leetcode.com/problems/compare-version-numbers/ ```Medium```
 
 
 </details>
