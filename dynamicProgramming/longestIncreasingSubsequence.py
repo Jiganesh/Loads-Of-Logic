@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/longest-increasing-subsequence/
+
 class Solution(object):
     
     # TC :O(N^2)
@@ -18,6 +19,7 @@ class Solution(object):
                 otherNum = nums[j]
                 if (otherNum<currentNum and length[j]+1>= length[i]):
                     length[i]=length[j]+1
+                    
         print(nums, length)
         return max(length)
 
