@@ -109,6 +109,7 @@
 - https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/ ```Medium```
 - https://leetcode.com/problems/merge-k-sorted-lists/ ```Hard```
 - https://leetcode.com/problems/merge-nodes-in-between-zeros/ ```Medium```
+- https://leetcode.com/problems/remove-duplicates-from-sorted-list/ ```Medium```
 - https://leetcode.com/problems/swap-nodes-in-pairs/ ```Medium```
 
 </details>
