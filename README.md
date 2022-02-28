@@ -9,6 +9,7 @@
 
 <summary>Arrays</summary>
 
+- https://leetcode.com/problems/3sum/ ```Medium```
 - https://leetcode.com/problems/add-to-array-form-of-integer/ ```Easy```
 - https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/ ```Medium```
 - https://leetcode.com/problems/build-array-from-permutation/ ```Easy```
