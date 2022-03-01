@@ -83,6 +83,7 @@
 - https://leetcode.com/problems/min-cost-climbing-stairs/ ```Easy```
 - https://leetcode.com/problems/longest-increasing-subsequence/ ```Medium```
 - https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/ ```Medium```
+- https://leetcode.com/problems/counting-bits/ ```Easy``` ```Bit Manipulation```
 
 </details>
 
