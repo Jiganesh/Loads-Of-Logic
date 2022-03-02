@@ -14,6 +14,9 @@ public class findTheDifference {
 class SolutionFTD {
 
     // Submitted by @Jiganesh
+
+    // TC : O(N+M)
+    // SC : O(N)
     public char findTheDifference(String s, String t) {
         
         HashMap <Character, Integer> dictionary = new HashMap<Character,Integer>();
@@ -28,5 +31,27 @@ class SolutionFTD {
         }
         
         return ' '; 
+    }
+
+    // TC: O(N)
+    // SC: O(1)
+
+    public char findTheDifferenceApproach2(String s, String t) {
+        
+        int bit = 0;
+        
+        for (int i = 0 ; i<s.length(); i++){
+            
+            bit ^= 1 << s.charAt(i)-'a';
+            bit ^= 1 << t.charAt(i)-'a';
+        }
+        
+        bit ^= 1<< t.charAt(t.length()-1)-'a';
+        
+        int setbit = (int) (Math.log10(bit)/Math.log10(2));
+        
+        return (char)(setbit+(int)'a');
+        
+        
     }
 }
