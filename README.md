@@ -218,6 +218,7 @@
 - https://leetcode.com/problems/largest-rectangle-in-histogram/ ```Hard``` ```Recommended```
 - https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/ ```Medium```
 - https://leetcode.com/problems/maximal-rectangle/ ```Hard```
+- https://leetcode.com/problems/is-subsequence/ ```Easy```
 - https://leetcode.com/problems/remove-k-digits/ ```Medium``` ```Recommended```
 </details>
 
