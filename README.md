@@ -86,6 +86,7 @@
 - https://leetcode.com/problems/divisor-game/ ```Easy```
 - https://leetcode.com/problems/min-cost-climbing-stairs/ ```Easy```
 - https://leetcode.com/problems/longest-increasing-subsequence/ ```Medium```
+- https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1 ```Easy``` ```Recommended```
 - https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/ ```Medium```
 - https://leetcode.com/problems/counting-bits/ ```Easy``` ```Bit Manipulation```
 
@@ -103,6 +104,15 @@
 - https://leetcode.com/problems/teemo-attacking/ ```Easy```
 - https://leetcode.com/problems/gas-station/ ```Easy```
 
+
+</details>
+
+
+
+<details>
+<summary>HashTable</summary>
+
+- https://leetcode.com/problems/number-of-matching-subsequences/ ```Medium```
 
 </details>
 
@@ -222,6 +232,7 @@
 - https://leetcode.com/problems/largest-rectangle-in-histogram/ ```Hard``` ```Recommended```
 - https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/ ```Medium```
 - https://leetcode.com/problems/maximal-rectangle/ ```Hard```
+- https://leetcode.com/problems/is-subsequence/ ```Easy```
 - https://leetcode.com/problems/remove-k-digits/ ```Medium``` ```Recommended```
 </details>
 
