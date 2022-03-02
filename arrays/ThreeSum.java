@@ -2,7 +2,7 @@
 package arrays;
 
 import java.util.*;
-public class ThreeSum{
+public class threeSum{
     public static void main(String[] args) {
 
         SolutionThreeSum solution = new SolutionThreeSum ();
