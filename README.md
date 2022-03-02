@@ -104,6 +104,15 @@
 </details>
 
 
+
+<details>
+<summary>HashTable</summary>
+
+- https://leetcode.com/problems/number-of-matching-subsequences/ ```Medium```
+
+</details>
+
+
 <details>
 <summary>LinkedLists</summary>
 

@@ -78,15 +78,15 @@ class SolutionIS {
 
 
     // Modified Above Approach Same Complexities but aesthetic
-    public boolean isSubsequenceApproach3(String s, String t) {
+    public boolean isSubsequenceApproach3(String childString, String parentString) {
 
-        int pointerOnS = s.length()-1;
-        int pointerOnT = t.length()-1;
+        int pointerOnS = childString.length()-1;
+        int pointerOnT = parentString.length()-1;
 
 
         while(pointerOnT >= 0 && pointerOnS>=0){
 
-            if(t.charAt(pointerOnT) != s.charAt(pointerOnS)){
+            if(parentString.charAt(pointerOnT) != childString.charAt(pointerOnS)){
                 pointerOnT--;
             }else{
                 pointerOnS--;
