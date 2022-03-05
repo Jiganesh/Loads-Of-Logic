@@ -84,7 +84,8 @@
 - https://leetcode.com/problems/divisor-game/ ```Easy```
 - https://leetcode.com/problems/min-cost-climbing-stairs/ ```Easy```
 - https://leetcode.com/problems/longest-increasing-subsequence/ ```Medium```
-- https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1 ```Easy``` ```Recommended```
+- https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1 ```Easy```
+- https://leetcode.com/problems/delete-and-earn/ ```Medium```
 - https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/ ```Medium```
 - https://leetcode.com/problems/counting-bits/ ```Easy``` ```Bit Manipulation```
 
