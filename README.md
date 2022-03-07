@@ -3,11 +3,6 @@
 <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 175 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-3-orange?">
 
 
-
-
-
-
-
 *Click below to expand  and view problems.*
 
 <details>
@@ -83,6 +78,7 @@
 <details>
 <summary>Dynamic Programming</summary>
 
+- https://leetcode.com/problems/coin-change/ ```Medium```
 - https://leetcode.com/problems/arithmetic-slices/ ```Medium```
 - https://leetcode.com/problems/champagne-tower/ ```Medium```
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/  ```Easy```
@@ -130,6 +126,7 @@
 - https://leetcode.com/problems/merge-nodes-in-between-zeros/ ```Medium```
 - https://leetcode.com/problems/remove-duplicates-from-sorted-list/ ```Medium```
 - https://leetcode.com/problems/swap-nodes-in-pairs/ ```Medium```
+- https://leetcode.com/problems/merge-two-sorted-lists/ ```Easy```
 
 </details>
 
