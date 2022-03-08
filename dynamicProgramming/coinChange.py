@@ -5,6 +5,8 @@ class Solution(object):
     # Brute Force Approach
     # TLE
     
+    # TC: O(2^m)
+    
     def coinChange(self, coins, amount):
         """
         :type coins: List[int]
