@@ -79,6 +79,7 @@
 <summary>Dynamic Programming</summary>
 
 - https://leetcode.com/problems/coin-change/ ```Medium```
+- https://leetcode.com/problems/coin-change-2/ ```Medium```
 - https://leetcode.com/problems/arithmetic-slices/ ```Medium```
 - https://leetcode.com/problems/champagne-tower/ ```Medium```
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/  ```Easy```
