@@ -30,3 +30,35 @@ class Solution(object):
             else:
                 hashset.add(n)
         return True
+    
+    
+    # Floyd's Cycle Approach / Best Approach
+    
+    # TC : O(N)
+    # SC : O(1)
+    
+    # Runtime: 19 ms, faster than 92.16% of Python online submissions for Happy Number.
+    # Memory Usage: 13.4 MB, less than 62.40% of Python online submissions for Happy Number.
+    
+    def isHappy(self, n):
+        """
+        :type n: int
+        :rtype: bool
+        """
+        slow = fast= n
+        while slow != 1 or fast !=1:
+            
+            slow = self.sumOfSquares(slow)
+            fast = self.sumOfSquares(self.sumOfSquares(fast))
+            
+            if slow == fast and slow !=1:
+                return False
+            
+        return True
+        
+    def sumOfSquares(self,n):
+        num = 0
+        while n:
+            num+= (n%10 )**2
+            n//=10
+        return num
