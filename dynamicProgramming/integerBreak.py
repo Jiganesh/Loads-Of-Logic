@@ -1,10 +1,33 @@
-
-
-# DP Solution : https://www.youtube.com/watch?v=in6QbUPMJ3I
-
+# https://leetcode.com/problems/integer-break/
+# DP Solution : https://www.youtube.com/watch?v=A-NALFDZCNs
 
 import math
 class Solution(object):
+    
+    # TC : O(N^2)
+    # SC : O(N)
+    
+    # Using DP Appproach
+    def integerBreak(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        
+        dp = {1: 1}
+        def dfs(n):
+            
+            if n in dp : return dp[n]
+            
+            res = 0
+            for i in range(1, n+1):
+                ans = i * max(n-i, dfs(n-i))
+                res = max(ans, res)
+                
+            dp[n]= res
+            return res
+        
+        return dfs(n)
     
     # TC: O(1)
     # SC : O(1)
