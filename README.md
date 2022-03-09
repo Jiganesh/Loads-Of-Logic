@@ -128,6 +128,7 @@
 - https://leetcode.com/problems/remove-duplicates-from-sorted-list/ ```Medium```
 - https://leetcode.com/problems/swap-nodes-in-pairs/ ```Medium```
 - https://leetcode.com/problems/merge-two-sorted-lists/ ```Easy```
+- https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/ ```Medium```
 - https://leetcode.com/problems/linked-list-cycle/ ```Easy```
 
 </details>
