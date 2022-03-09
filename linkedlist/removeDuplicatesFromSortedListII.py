@@ -48,6 +48,43 @@ class Solution(object):
             count =0
 
         return dummynode.next
+    
+    
+    # Runtime: 34 ms, faster than 69.50% of Python online submissions for Remove Duplicates from Sorted List II.
+    # Memory Usage: 13.6 MB, less than 14.45% of Python online submissions for Remove Duplicates from Sorted List II.
+    
+    
+    def deleteDuplicates(self, head):
+        """
+        :type head: ListNode
+        :rtype: ListNode
+        """
+        
+        
+        dummynode = ListNode(-1);
+        dummyNodePointer = dummynode
+        
+        
+        current = head
+        
+        
+        while current:
+            
+            
+            if (current.next and current.val ==current.next.val):
+                while (current.next and current.val == current.next.val):
+                    current.next = current.next.next
+                current = current.next
+                
+            else:
+                
+                dummyNodePointer.next= current
+                current = current.next
+                dummyNodePointer = dummyNodePointer.next
+                dummyNodePointer.next= None
+                
+                
+        return dummynode.next
             
             
             
