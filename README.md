@@ -1,6 +1,7 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 183 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-4-orange?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 184 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-1-orange?">
+
 
 
 
@@ -280,6 +281,7 @@
 - https://leetcode.com/problems/convert-bst-to-greater-tree/ ```Medium```
 - https://leetcode.com/problems/recover-binary-search-tree/ ```Medium```
 - https://leetcode.com/problems/kth-smallest-element-in-a-bst/  ```Medium```
+- https://leetcode.com/problems/maximum-depth-of-binary-tree/ ```Easy```
 
 </details>
 

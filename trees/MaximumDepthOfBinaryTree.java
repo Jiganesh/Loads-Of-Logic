@@ -2,28 +2,22 @@
 
 package trees;
 
-public class MaximumDepthOfBinaryTree {
-    public class TreeNode {
-
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
+public class maximumDepthOfBinaryTree {
+    public static void main(String[] args) {
+        System.out.println("This is an Interactive Problem please Test the solution on Github");
     }
+}
 
+
+class SolutionMDOBT{
+
+    // Submitted by @rajput-hemant
     public int maxDepth(TreeNode root) {
-        if (root == null)
-            return 0;
-        int depth = Math.max(maxDepth(root.left), maxDepth(root.right)) + 1;
-        return depth;
+    
+    if (root == null)
+        return 0;
+    int depth = Math.max(maxDepth(root.left), maxDepth(root.right)) + 1;
+    return depth;
+
     }
 }
