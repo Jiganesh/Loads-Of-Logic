@@ -95,6 +95,7 @@
 - https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/ ```Medium```
 - https://leetcode.com/problems/counting-bits/ ```Easy``` ```Bit Manipulation```
 - https://leetcode.com/problems/integer-break/ ```Medium```
+- https://leetcode.com/problems/minimum-cost-for-tickets/ ```Medium```
 
 </details>
 
