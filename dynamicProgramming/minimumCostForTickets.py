@@ -1,5 +1,8 @@
 # https://leetcode.com/problems/minimum-cost-for-tickets/
 
+# Solution : https://www.youtube.com/watch?v=MWJ7lwy1HF4&t=11s (Recursive Solution)
+# Solution : https://www.youtube.com/watch?v=CiHwinB68GM&t=231s (Array Solution)
+
 class Solution(object):   
     
     # Submitted by Jiganesh
