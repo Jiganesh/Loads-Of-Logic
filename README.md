@@ -137,6 +137,7 @@
 - https://leetcode.com/problems/linked-list-cycle/ ```Easy```
 - https://leetcode.com/problems/add-two-numbers/ ```Medium```
 - https://leetcode.com/problems/rotate-list/ ```Medium```
+- https://leetcode.com/problems/copy-list-with-random-pointer/ ```Medium```
 
 </details>
 
