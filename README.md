@@ -1,9 +1,6 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 184 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-1-orange?">
-
-
-
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 185 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-2-orange?">
 
 
 *Click below to expand  and view problems.*
@@ -97,6 +94,7 @@
 - https://leetcode.com/problems/integer-break/ ```Medium```
 - https://leetcode.com/problems/minimum-cost-for-tickets/ ```Medium```
 
+
 </details>
 
 
@@ -136,6 +134,8 @@
 - https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/ ```Medium```
 - https://leetcode.com/problems/linked-list-cycle/ ```Easy```
 - https://leetcode.com/problems/add-two-numbers/ ```Medium```
+- https://leetcode.com/problems/rotate-list/ ```Medium```
+- https://leetcode.com/problems/copy-list-with-random-pointer/ ```Medium```
 
 </details>
 
