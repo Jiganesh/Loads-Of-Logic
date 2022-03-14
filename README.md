@@ -173,6 +173,7 @@
 
 - https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ ```Easy```
 - https://www.geeksforgeeks.org/sum-triangle-from-array/ ```Easy``` ```GFG```
+- https://leetcode.com/problems/n-queens/ ```Hard```
 
 </details>
 
@@ -246,6 +247,7 @@
 - https://leetcode.com/problems/maximal-rectangle/ ```Hard```
 - https://leetcode.com/problems/is-subsequence/ ```Easy```
 - https://leetcode.com/problems/remove-k-digits/ ```Medium``` ```Recommended```
+- https://leetcode.com/problems/simplify-path/ ```Medium```
 </details>
 
 
