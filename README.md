@@ -216,6 +216,7 @@
 - https://leetcode.com/problems/sqrtx/ ```Very Easy```
 - https://leetcode.com/problems/valid-perfect-square/ ```Very Easy```
 - https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ ```Easy```
+- https://leetcode.com/problems/median-of-two-sorted-arrays/ ```Hard```
 
 
 </details>
