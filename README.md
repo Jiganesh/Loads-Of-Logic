@@ -113,6 +113,7 @@
 - https://leetcode.com/problems/remove-covered-intervals/ ```Medium```
 - https://leetcode.com/problems/teemo-attacking/ ```Easy```
 - https://leetcode.com/problems/gas-station/ ```Easy```
+- https://leetcode.com/problems/last-stone-weight/ ```Easy```
 
 
 </details>
