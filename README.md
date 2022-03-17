@@ -229,6 +229,8 @@
 <summary>Sorting</summary>
 
 - BubbleSort
+- CustomSort
+    -https://leetcode.com/problems/matrix-cells-in-distance-order/ ```Easy```
 - CycleSort
     - https://leetcode.com/problems/missing-number/ ```Easy```
     - https://leetcode.com/problems/set-mismatch/ ```Easy```
