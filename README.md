@@ -1,6 +1,8 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 196 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-2-orange?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 200 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-2-orange?">
+
+
 
 
 
@@ -230,7 +232,8 @@
 
 - BubbleSort
 - CustomSort
-    -https://leetcode.com/problems/matrix-cells-in-distance-order/ ```Easy```
+    - https://leetcode.com/problems/matrix-cells-in-distance-order/ ```Easy```
+    - https://leetcode.com/problems/sort-the-jumbled-numbers/ ```Medium```
 - CycleSort
     - https://leetcode.com/problems/missing-number/ ```Easy```
     - https://leetcode.com/problems/set-mismatch/ ```Easy```
