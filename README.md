@@ -284,6 +284,7 @@
 - https://leetcode.com/problems/robot-bounded-in-circle/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/string-to-integer-atoi/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/word-pattern/ ```Easy```
+- https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/ ```Easy```
 
 </details>
 
