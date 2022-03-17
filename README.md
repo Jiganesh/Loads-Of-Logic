@@ -245,6 +245,7 @@
 - https://leetcode.com/problems/maximal-rectangle/ ```Hard```
 - https://leetcode.com/problems/is-subsequence/ ```Easy```
 - https://leetcode.com/problems/remove-k-digits/ ```Medium``` ```Recommended```
+- https://leetcode.com/problems/score-of-parentheses/ ```Medium```
 </details>
 
 
