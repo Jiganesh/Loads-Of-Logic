@@ -1,6 +1,8 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 192 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-1-orange?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 196 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-2-orange?">
+
+
 
 
 
@@ -253,6 +255,9 @@
 - https://leetcode.com/problems/is-subsequence/ ```Easy```
 - https://leetcode.com/problems/remove-k-digits/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/score-of-parentheses/ ```Medium```
+- https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/ ```Medium```
+- https://leetcode.com/problems/simplify-path/ ```Medium```
+
 </details>
 
 
@@ -290,6 +295,9 @@
 - https://leetcode.com/problems/recover-binary-search-tree/ ```Medium```
 - https://leetcode.com/problems/kth-smallest-element-in-a-bst/  ```Medium```
 - https://leetcode.com/problems/maximum-depth-of-binary-tree/ ```Easy```
+- https://leetcode.com/problems/minimum-depth-of-binary-tree/ ```Easy```
+- https://leetcode.com/problems/diameter-of-binary-tree/ ```Easy```
+- https://leetcode.com/problems/count-complete-tree-nodes/ ```Medium```
 
 </details>
 

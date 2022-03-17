@@ -1,5 +1,7 @@
 package trees;
 
+// https://leetcode.com/problems/diameter-of-binary-tree/
+
 public class diameterOfBinaryTree {
     // Approach 1
     public int diameterOfBinTree(TreeNode root) {
