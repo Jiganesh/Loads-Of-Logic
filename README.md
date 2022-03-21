@@ -71,6 +71,7 @@
 - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ ```Easy```
 - https://leetcode.com/problems/two-sum/ ```Easy```
 - https://leetcode.com/problems/valid-mountain-array/ ```Easy```
+- https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/ ```Easy``` ```Recommended```
 
 </details>
 
