@@ -78,6 +78,7 @@
 - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ ```Easy```
 - https://leetcode.com/problems/two-sum/ ```Easy```
 - https://leetcode.com/problems/valid-mountain-array/ ```Easy```
+- https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/ ```Easy``` ```Recommended```
 
 </details>
 
@@ -263,6 +264,7 @@
 - https://leetcode.com/problems/score-of-parentheses/ ```Medium```
 - https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/ ```Medium```
 - https://leetcode.com/problems/simplify-path/ ```Medium```
+- https://leetcode.com/problems/validate-stack-sequences/ ```Medium```
 
 </details>
 
