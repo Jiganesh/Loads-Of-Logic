@@ -1,6 +1,7 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 200 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-2-orange?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 204 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-4-orange?">
+
 
 
 
@@ -117,6 +118,7 @@
 - https://leetcode.com/problems/teemo-attacking/ ```Easy```
 - https://leetcode.com/problems/gas-station/ ```Easy```
 - https://leetcode.com/problems/last-stone-weight/ ```Easy```
+- https://leetcode.com/problems/partition-labels/ ```Medium```
 
 
 </details>

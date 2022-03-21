@@ -1,3 +1,17 @@
+// https://leetcode.com/problems/partition-labels/
+
+
+package greedy;
+import java.util.*;
+
+public class partitionLabels{
+    public static void main(String[] args) {
+
+        SolutionPL solution = new SolutionPL ();
+        System.out.println(solution.partitionLabelsMethod("ababcbacadefegdehijhklij"));
+    }
+}
+
 class Pair{
     int x;
     int y;
@@ -8,8 +22,12 @@ class Pair{
 }
 
 
-class Solution {
-    public List<Integer> partitionLabels(String s) {
+class SolutionPL {
+
+    // TC: O(N
+    // SC: O(N)
+
+    public List<Integer> partitionLabelsMethod(String s) {
         
         HashMap<Character, Integer> al = new HashMap<Character, Integer>();
         int len = s.length();
