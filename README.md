@@ -1,6 +1,13 @@
 ### Index Of Problems
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 185 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-2-orange?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 200 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-2-orange?">
+
+
+
+
+
+
+
 
 
 *Click below to expand  and view problems.*
@@ -93,6 +100,7 @@
 - https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/ ```Medium```
 - https://leetcode.com/problems/counting-bits/ ```Easy``` ```Bit Manipulation```
 - https://leetcode.com/problems/integer-break/ ```Medium```
+- https://leetcode.com/problems/minimum-cost-for-tickets/ ```Medium```
 
 
 </details>
@@ -108,6 +116,7 @@
 - https://leetcode.com/problems/remove-covered-intervals/ ```Medium```
 - https://leetcode.com/problems/teemo-attacking/ ```Easy```
 - https://leetcode.com/problems/gas-station/ ```Easy```
+- https://leetcode.com/problems/last-stone-weight/ ```Easy```
 
 
 </details>
@@ -173,6 +182,8 @@
 
 - https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ ```Easy```
 - https://www.geeksforgeeks.org/sum-triangle-from-array/ ```Easy``` ```GFG```
+- https://leetcode.com/problems/n-queens/ ```Hard```
+- https://leetcode.com/problems/sudoku-solver/ ```Hard```
 
 </details>
 
@@ -212,6 +223,7 @@
 - https://leetcode.com/problems/sqrtx/ ```Very Easy```
 - https://leetcode.com/problems/valid-perfect-square/ ```Very Easy```
 - https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ ```Easy```
+- https://leetcode.com/problems/median-of-two-sorted-arrays/ ```Hard```
 
 
 </details>
@@ -220,6 +232,9 @@
 <summary>Sorting</summary>
 
 - BubbleSort
+- CustomSort
+    - https://leetcode.com/problems/matrix-cells-in-distance-order/ ```Easy```
+    - https://leetcode.com/problems/sort-the-jumbled-numbers/ ```Medium```
 - CycleSort
     - https://leetcode.com/problems/missing-number/ ```Easy```
     - https://leetcode.com/problems/set-mismatch/ ```Easy```
@@ -247,6 +262,9 @@
 - https://leetcode.com/problems/is-subsequence/ ```Easy```
 - https://leetcode.com/problems/remove-k-digits/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/score-of-parentheses/ ```Medium```
+- https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/ ```Medium```
+- https://leetcode.com/problems/simplify-path/ ```Medium```
+
 </details>
 
 
@@ -272,6 +290,7 @@
 - https://leetcode.com/problems/robot-bounded-in-circle/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/string-to-integer-atoi/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/word-pattern/ ```Easy```
+- https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/ ```Easy```
 
 </details>
 
@@ -283,6 +302,10 @@
 - https://leetcode.com/problems/convert-bst-to-greater-tree/ ```Medium```
 - https://leetcode.com/problems/recover-binary-search-tree/ ```Medium```
 - https://leetcode.com/problems/kth-smallest-element-in-a-bst/  ```Medium```
+- https://leetcode.com/problems/maximum-depth-of-binary-tree/ ```Easy```
+- https://leetcode.com/problems/minimum-depth-of-binary-tree/ ```Easy```
+- https://leetcode.com/problems/diameter-of-binary-tree/ ```Easy```
+- https://leetcode.com/problems/count-complete-tree-nodes/ ```Medium```
 
 </details>
 

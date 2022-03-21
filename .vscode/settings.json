@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
         "."
-    ]
+    ],
+    "java.help.shareDiagnostics": true
 }
