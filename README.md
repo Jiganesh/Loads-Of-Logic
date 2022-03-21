@@ -132,6 +132,19 @@
 
 
 <details>
+<summary>Heap</summary>
+
+- https://leetcode.com/problems/last-stone-weight/ ```Easy``` ```Recommended```
+
+</details>
+
+
+
+
+
+
+
+<details>
 <summary>LinkedLists</summary>
 
 - https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/ ```Medium```
