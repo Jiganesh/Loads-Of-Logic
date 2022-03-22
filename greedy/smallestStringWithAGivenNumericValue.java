@@ -1,4 +1,9 @@
-class Solution {
+// https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/
+
+
+package greedy;
+
+public class smallestStringWithAGivenNumericValue {
     public String getSmallestString(int n, int k) {
        StringBuilder sb=new StringBuilder("");
 
