@@ -1,10 +1,10 @@
-### Index Of Problems
+<img src= ".dev/highOnDSABanner.png" height= 40%  width = 140%>
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 204 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-0-orange?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 206 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-2-orange?">
 
 
 
-<img src= ".dev/HODPicture.png" height= 40%  width = 140%>
+
 
 *Click below to expand  and view problems.*
 
@@ -77,6 +77,7 @@
 - https://leetcode.com/problems/two-sum/ ```Easy```
 - https://leetcode.com/problems/valid-mountain-array/ ```Easy```
 - https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/ ```Easy``` ```Recommended```
+- https://leetcode.com/problems/get-the-maximum-score/ ```Hard```
 
 </details>
 
@@ -99,6 +100,7 @@
 - https://leetcode.com/problems/counting-bits/ ```Easy``` ```Bit Manipulation```
 - https://leetcode.com/problems/integer-break/ ```Medium```
 - https://leetcode.com/problems/minimum-cost-for-tickets/ ```Medium```
+- https://leetcode.com/problems/decode-ways/ ```Medium```
 
 
 </details>
