@@ -118,6 +118,7 @@
 - https://leetcode.com/problems/gas-station/ ```Easy```
 - https://leetcode.com/problems/last-stone-weight/ ```Easy```
 - https://leetcode.com/problems/partition-labels/ ```Medium```
+- https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/ ```Medium```
 
 
 </details>
