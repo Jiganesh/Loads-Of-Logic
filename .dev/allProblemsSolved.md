@@ -203,12 +203,13 @@
 201. [https://leetcode.com/problems/validate-stack-sequences](https://leetcode.com/problems/validate-stack-sequences/ ) <img src="https://img.shields.io/badge/-Medium-blue">
 202. [https://leetcode.com/problems/word-pattern](https://leetcode.com/problems/word-pattern/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
 203. [https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430](https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1 ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-204. [https://practice.geeksforgeeks.org/problems/sort-a-stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1 ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-205. [https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-206. [https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array](https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-207. [https://www.geeksforgeeks.org/sum-triangle-from-array](https://www.geeksforgeeks.org/sum-triangle-from-array/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-208. [https://www.interviewbit.com/problems/nearest-smaller-element](https://www.interviewbit.com/problems/nearest-smaller-element/# ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-208. [https://www.codingninjas.com/reverse-first-k-elements-of-queue](https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118523/offering/1380947?leftPanelTab=0) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+204. [https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1# ) <img src="https://img.shields.io/badge/-Medium-blue">
+205. [https://practice.geeksforgeeks.org/problems/sort-a-stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1 ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+206. [https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+207. [https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array](https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+208. [https://www.geeksforgeeks.org/sum-triangle-from-array](https://www.geeksforgeeks.org/sum-triangle-from-array/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+209. [https://www.interviewbit.com/problems/nearest-smaller-element](https://www.interviewbit.com/problems/nearest-smaller-element/# ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+209. [https://www.codingninjas.com/reverse-first-k-elements-of-queue](https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118523/offering/1380947?leftPanelTab=0) <img src="https://img.shields.io/badge/-Easy-brightgreen">
 
 ### Yeah ofc we'd start counting from 0 duh !!
-<img src='https://img.shields.io/badge/110 -Easy Problems Solved-brightgreen '> <img src='https://img.shields.io/badge/91 -Medium Problems Solved-blue '> <img src='https://img.shields.io/badge/9 -Hard Problems Solved-red '> 
+<img src='https://img.shields.io/badge/110 -Easy Problems Solved-brightgreen '> <img src='https://img.shields.io/badge/92 -Medium Problems Solved-blue '> <img src='https://img.shields.io/badge/9 -Hard Problems Solved-red '> 
