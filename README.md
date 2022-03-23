@@ -101,6 +101,7 @@
 - https://leetcode.com/problems/integer-break/ ```Medium```
 - https://leetcode.com/problems/minimum-cost-for-tickets/ ```Medium```
 - https://leetcode.com/problems/decode-ways/ ```Medium```
+- https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1/ ```Medium``` ```Recommended```
 
 
 </details>
@@ -119,7 +120,7 @@
 - https://leetcode.com/problems/last-stone-weight/ ```Easy```
 - https://leetcode.com/problems/partition-labels/ ```Medium```
 - https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/ ```Medium```
-
+- https://leetcode.com/problems/broken-calculator/ ```Medium```
 
 </details>
 
