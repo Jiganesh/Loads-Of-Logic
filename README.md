@@ -121,6 +121,7 @@
 - https://leetcode.com/problems/partition-labels/ ```Medium```
 - https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/ ```Medium```
 - https://leetcode.com/problems/broken-calculator/ ```Medium```
+- https://leetcode.com/problems/partition-equal-subset-sum/ ```Medium```
 
 </details>
 
