@@ -40,6 +40,7 @@ for number in range(len(lines)):
 
 # #Additional Problems Here 
 writeReadme.write(str(number)+'. [https://www.codingninjas.com/reverse-first-k-elements-of-queue](https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118523/offering/1380947?leftPanelTab=0) '+difficulty('easy')+'\n') 
+writeReadme.write(str(number)+'. [https://www.codingninjas.com/minimum-subset-difference](https://www.codingninjas.com/codestudio/problems/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum_842494?leftPanelTab=0'+difficulty('medium')+'\n') 
 
 easy = "<img src='https://img.shields.io/badge/"+str(array[0])+" -Easy Problems Solved-brightgreen '> " 
 medium = "<img src='https://img.shields.io/badge/"+str(array[1])+" -Medium Problems Solved-blue '> "

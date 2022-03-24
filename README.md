@@ -81,6 +81,7 @@
 - https://leetcode.com/problems/valid-mountain-array/ ```Easy```
 - https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/ ```Easy``` ```Recommended```
 - https://leetcode.com/problems/get-the-maximum-score/ ```Hard```
+- https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/ ```Easy```
 
 </details>
 
