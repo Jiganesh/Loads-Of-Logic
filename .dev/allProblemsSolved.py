@@ -15,7 +15,11 @@ title = "## Problems Solved\n"
 writeReadme = open(".dev/allProblemsSolved.md", "w")
 writeReadme.write(title)
 
+
+# Initialize Extra Problems Solved here which are not in form of links
 array =[0,0,0]
+
+
 def difficulty (line):
     if "easy" in line.lower():
         array[0]+=1

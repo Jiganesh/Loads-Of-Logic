@@ -1,6 +1,9 @@
 <img src= ".dev/highOnDSABanner.png" height= 40%  width = 140%>
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 206 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-2-orange?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 211 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-0-orange?">
+
+
+
 
 
 
@@ -103,6 +106,8 @@
 - https://leetcode.com/problems/minimum-cost-for-tickets/ ```Medium```
 - https://leetcode.com/problems/decode-ways/ ```Medium```
 - https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1/ ```Medium``` ```Recommended```
+- https://leetcode.com/problems/partition-equal-subset-sum/ ```Medium```
+- https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1# ```Medium``` ```Standard```
 
 
 </details>
@@ -122,7 +127,7 @@
 - https://leetcode.com/problems/partition-labels/ ```Medium```
 - https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/ ```Medium```
 - https://leetcode.com/problems/broken-calculator/ ```Medium```
-- https://leetcode.com/problems/partition-equal-subset-sum/ ```Medium```
+- https://leetcode.com/problems/boats-to-save-people/ ```Medium```
 
 </details>
 

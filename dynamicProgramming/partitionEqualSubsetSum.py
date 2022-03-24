@@ -28,42 +28,50 @@ class Solution(object):
     # Runtime: 3828 ms, faster than 11.33% of Python online submissions for Partition Equal Subset Sum.
     # Memory Usage: 35.4 MB, less than 11.71% of Python online submissions for Partition Equal Subset Sum.
     
-    def canPartition(self, nums):
+    def canPartitionApproach2(self, nums):
         """
         :type nums: List[int]
         :rtype: bool
+        
         """
         summation = sum(nums)
         
-        def subsetSum (arr, sum):
-            
+        def subsetSum (arr, sum):                   
             dp =  [ [0 for i in range(sum+1)] for i in range(len(arr)+1)]
-            
-            
+        
             for i in range (len(arr)+1):
                 for j in range(sum+1):
                     if i==0:
                         dp[i][j] = False
-                    elif j==0:
+                    if j==0:
                         dp[i][j] = True
-                    elif arr[i-1]<=j:
-                        dp[i][j] = dp[i-1][j-arr[i-1]] + dp[i-1][j]
-                    else:
-                        dp[i][j] = dp[i-1][j]
+                    
+            for i in range (1,len(arr)+1):
+                for j in range(1,sum+1):
+                    if arr[i-1]<=j :
+                        dp[i][j]= dp[i-1][j] or dp[i-1][j-arr[i-1]]  
+                    else :
+                        dp[i][j]=dp[i-1][j]
             return dp[len(arr)][sum]
+                    
+                    
+            for i in dp:
+                for j in i:
+                    print(j , "       ")
+                print()
         
         if summation%2 ==0:
             return subsetSum(nums, summation//2)
         
         return False
-    
     # using memoization
+    
     
     
     # Runtime: 48 ms, faster than 98.46% of Python online submissions for Partition Equal Subset Sum.
     # Memory Usage: 14.1 MB, less than 70.40% of Python online submissions for Partition Equal Subset Sum.
     
-    def canPartition(self, nums):
+    def canPartitionApproach3(self, nums):
         """
         :type nums: List[int]
         :rtype: bool
@@ -84,4 +92,4 @@ class Solution(object):
         if s%2 != 0: return False
         return dfs(0, s//2)
             
-        
+print(Solution().canPartitionApproach2([1,5,11,5]))
