@@ -1,5 +1,3 @@
-
-
 class Solution:
 
 	# TopDownApproach
@@ -44,9 +42,11 @@ class Solution:
 		return helper(arr, X, 0)
 
 
+	
+     
 print(Solution().countOfSubsetsWithSumEqualToX([1, 1 ,1 ,1 ], 1))  # 4
-# print(Solution().countOfSubsetsWithSumEqualToX([1, 2, 3, 3], 6))  # 3
-# print(Solution().countOfSubsetsWithSumEqualToX([4, 3, 2, 3, 5, 2, 1], 5))  # 7
-# print(Solution().countOfSubsetsWithSumEqualToX([2, 3, 5, 6, 8, 10], 10))  # 3
-# print(Solution().countOfSubsetsWithSumEqualToX([1, 2, 3, 4, 5], 7))  # 3
-# print(Solution().countOfSubsetsWithSumEqualToX([9, 7, 0, 3, 9, 8, 6, 5, 7, 6], 31)) 
+print(Solution().countOfSubsetsWithSumEqualToX([1, 2, 3, 3], 6))  # 3
+print(Solution().countOfSubsetsWithSumEqualToX([4, 3, 2, 3, 5, 2, 1], 5))  # 7
+print(Solution().countOfSubsetsWithSumEqualToX([2, 3, 5, 6, 8, 10], 10))  # 3
+print(Solution().countOfSubsetsWithSumEqualToX([1, 2, 3, 4, 5], 7))  # 3
+print(Solution().countOfSubsetsWithSumEqualToX([9, 7, 0, 3, 9, 8, 6, 5, 7, 6], 31)) #40
