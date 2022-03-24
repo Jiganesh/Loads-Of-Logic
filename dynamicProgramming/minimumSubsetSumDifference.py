@@ -1,4 +1,5 @@
-# Question : https://www.youtube.com/watch?v=-GtpxG6l_Mc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=10&ab_channel=AdityaVerma
+# Solution : https://www.youtube.com/watch?v=-GtpxG6l_Mc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=10&ab_channel=AdityaVerma
+# Question : https://www.codingninjas.com/codestudio/problems/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum_842494?leftPanelTab=0 
 
 def minimumSubsetSumDifference (arr):
 
@@ -51,4 +52,4 @@ def minimumSubsetSumDifference (arr):
 print(minimumSubsetSumDifference([1,2,7])) # 7 , 2+1
 print(minimumSubsetSumDifference([2,3,7,8,10])) # 7+8 , 10+2+3
 print(minimumSubsetSumDifference([7,7,7,7,7,7])) # 7+7+7 , 7+7+7
-print(minimumSubsetSumDifference([1, 5, 6, 98, 84]))
+print(minimumSubsetSumDifference([1, 5, 6, 98, 84]))  #98     84+6+5+1
