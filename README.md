@@ -3,12 +3,6 @@
 <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 211 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-0-orange?">
 
 
-
-
-
-
-
-
 *Click below to expand  and view problems.*
 
 <details>'
@@ -108,6 +102,8 @@
 - https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/partition-equal-subset-sum/ ```Medium```
 - https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1# ```Medium``` ```Standard```
+- https://leetcode.com/problems/target-sum/ ```Medium``` ```Recommended```
+
 
 
 </details>
@@ -128,6 +124,7 @@
 - https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/ ```Medium```
 - https://leetcode.com/problems/broken-calculator/ ```Medium```
 - https://leetcode.com/problems/boats-to-save-people/ ```Medium```
+- https://leetcode.com/problems/two-city-scheduling/ ```Medium```
 
 </details>
 
