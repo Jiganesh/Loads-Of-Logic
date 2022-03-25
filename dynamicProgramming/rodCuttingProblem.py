@@ -1,6 +1,5 @@
 # Question : https://www.codingninjas.com/codestudio/problems/rod-cutting-problem_800284
 
-
 # 1225 ms
 def cutRod(price, n):
 	
@@ -49,12 +48,7 @@ print(cutRod([42, 68,35,1,70], 5)) #210
 print(cutRod([25,79,59,63,65,6,46,82],8)) #316
 
 
-
-"""
-Code on Coding Ninjas
+# Test Code on Coding Ninjas
 
 
 
-
-
-"""
