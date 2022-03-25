@@ -20,30 +20,31 @@ class Solution:
 					dp[i][j] = dp[i-1][j]
 
 
-		for i in dp:
-			for j in i:
-				print(j,  end="  ")
-			print()
+		# for i in dp:
+		# 	for j in i:
+		# 		print(j,  end="  ")
+		# 	print()
 
 		return dp[len(arr)][X]
 
 	# Recursion Approach
 
 	def countOfSubsetsWithSumEqualToX(self, arr, X):
-
-		def helper(arr, X, idx):
-			if X == 0:
-				return 1
-			res = 0
-			if X > 0:
-				for i in range(idx, len(arr)):
-					res += helper(arr, X-arr[i], i+1)
+		def helper(arr, X, idx, dp ={0:1}):
+      
+			if idx== len(arr):
+				if X ==0:
+					return 1
+				else :
+					return 0
+ 
+			res = helper(arr, X-arr[idx], idx+1)+ helper(arr, X, idx+1)
 			return res
 		return helper(arr, X, 0)
 
 
 	
-     
+print(Solution().countOfSubsetsWithSumEqualToX([1,0],1)) #2
 print(Solution().countOfSubsetsWithSumEqualToX([1, 1 ,1 ,1 ], 1))  # 4
 print(Solution().countOfSubsetsWithSumEqualToX([1, 2, 3, 3], 6))  # 3
 print(Solution().countOfSubsetsWithSumEqualToX([4, 3, 2, 3, 5, 2, 1], 5))  # 7
