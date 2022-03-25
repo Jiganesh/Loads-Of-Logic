@@ -13,6 +13,13 @@ def countPartitions(lenArr , difference, arr):
     
     
     if (difference+sum(arr))% 2==1   : return 0
+    
+    """
+    Reason why we return 0 if difference + sum (arr) %2 is -
+    
+    
+    
+    """
 
     sumOfPartition1 = (difference + sum(arr)) //2
     

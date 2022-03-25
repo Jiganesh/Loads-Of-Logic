@@ -103,6 +103,7 @@
 - https://leetcode.com/problems/partition-equal-subset-sum/ ```Medium```
 - https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1# ```Medium``` ```Standard```
 - https://leetcode.com/problems/target-sum/ ```Medium``` ```Recommended```
+- https://www.codingninjas.com/codestudio/problems/rod-cutting-problem_800284 ```Medium```
 
 
 
