@@ -329,6 +329,7 @@
 - https://leetcode.com/problems/minimum-depth-of-binary-tree/ ```Easy```
 - https://leetcode.com/problems/diameter-of-binary-tree/ ```Easy```
 - https://leetcode.com/problems/count-complete-tree-nodes/ ```Medium```
+- https://leetcode.com/problems/binary-tree-right-side-view/ ```Medium```
 
 </details>
 
