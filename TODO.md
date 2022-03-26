@@ -2,7 +2,4 @@
 
 dynamicProgramming/partitionsWithGivenDifference.py - Reason why we return 0 if difference + sum (arr) %2 is ?
 
-
-
-
-
+count Min Swap for alternating

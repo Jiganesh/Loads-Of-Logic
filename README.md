@@ -315,6 +315,7 @@
 - https://leetcode.com/problems/string-to-integer-atoi/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/word-pattern/ ```Easy```
 - https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/ ```Easy```
+- https://leetcode.com/problems/maximum-repeating-substring/  ```Easy```
 
 </details>
 
@@ -331,8 +332,9 @@
 - https://leetcode.com/problems/diameter-of-binary-tree/ ```Easy```
 - https://leetcode.com/problems/count-complete-tree-nodes/ ```Medium```
 - https://leetcode.com/problems/binary-tree-right-side-view/ ```Medium```
+- https://leetcode.com/problems/balanced-binary-tree/ ```Easy```
 
-</details>
+</details
 
 
 <details>
