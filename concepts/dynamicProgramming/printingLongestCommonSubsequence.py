@@ -1,4 +1,7 @@
 
+from ctypes import pointer
+
+
 def longestCommonSubsequence(text1, text2):
           
     dp = [[0] * (len(text1)+1) for i in range (len(text2)+1)]
@@ -20,28 +23,32 @@ def printlcs(dp, text1, text2):
     pointerText1 = len(text1)
     
     string = ""
-    while pointerText2!=0 and pointerText1 !=0:
+    while pointerText2!=0 and  pointerText1 !=0:
         
-        dp[pointerText2][pointerText1]="*"
-
-        if text1[pointerText1-1]==text2[pointerText2-1]:
+        dp[pointerText2][pointerText1]= "*"
+        
+        if text1[pointerText1-1] == text2[pointerText2-1]:
             string+=text1[pointerText1-1]
-            pointerText2-=1
             pointerText1-=1
-        
+            pointerText2-=1
+            
         else:
-            if dp[pointerText1][pointerText2-1]<dp[pointerText1-1][pointerText2]:
+            if dp[pointerText2-1][pointerText1] > dp[pointerText2][pointerText1-1]:
                 pointerText2-=1
             else:
                 pointerText1-=1
+                        
+        
+    
                 
     # Uncomment Below Line to see Path Followed   
-    # for i in dp : print(*i)
+    for i in dp : print(*i)
                 
     return string[::-1]
 
 
 print(longestCommonSubsequence("abac", "bvc")) 
+print(longestCommonSubsequence("abcdaf", "acbcf"))
     
 
                 

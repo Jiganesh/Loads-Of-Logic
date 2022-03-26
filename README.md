@@ -1,6 +1,13 @@
 <img src= ".dev/highOnDSABanner.png" height= 40%  width = 140%>
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 220 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-9-orange?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 222 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-0-orange?">
+
+
+
+
+
+
+
 
 
 
@@ -334,7 +341,8 @@
 - https://leetcode.com/problems/binary-tree-right-side-view/ ```Medium```
 - https://leetcode.com/problems/balanced-binary-tree/ ```Easy```
 
-</details
+</details>
+
 
 
 <details>
@@ -343,8 +351,6 @@
 - https://leetcode.com/problems/design-add-and-search-words-data-structure/ ```Medium```
 
 </details>
-
-
 
 <details>
 <summary>Concepts / Miscelleneous </summary>
@@ -358,6 +364,9 @@
 
 - dynamic Programming
     - Print possible Sum for Target using given number as many times possible
+    - Longest Common Subsequence
+    - Printing Longest Common Subsequence
+
 
 - binarySearch
     - Order Agnostic Binary Search ```Binary Search```
