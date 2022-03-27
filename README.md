@@ -1,6 +1,8 @@
 <img src= ".dev/highOnDSABanner.png" height= 40%  width = 140%>
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 222 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-0-orange?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 224 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-2-orange?">
+
+
 
 
 
@@ -113,6 +115,7 @@
 - https://leetcode.com/problems/target-sum/ ```Medium``` ```Recommended```
 - https://www.codingninjas.com/codestudio/problems/rod-cutting-problem_800284 ```Medium```
 - https://leetcode.com/problems/longest-common-subsequence/ ```Medium``` ```Standard```
+- https://leetcode.com/problems/letter-combinations-of-a-phone-number/ ```Medium```
 
 
 
@@ -340,6 +343,7 @@
 - https://leetcode.com/problems/count-complete-tree-nodes/ ```Medium```
 - https://leetcode.com/problems/binary-tree-right-side-view/ ```Medium```
 - https://leetcode.com/problems/balanced-binary-tree/ ```Easy```
+- https://leetcode.com/problems/remove-duplicates-from-sorted-array/ ```Medium```
 
 </details>
 

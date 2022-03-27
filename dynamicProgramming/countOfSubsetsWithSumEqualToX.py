@@ -1,4 +1,20 @@
 class Solution:
+    
+    
+    # Recursion Approach
+
+	def countOfSubsetsWithSumEqualToX(self, arr, X):
+		def helper(arr, X, idx):
+      
+			if idx== len(arr):
+				if X ==0:
+					return 1
+				else :
+					return 0
+ 
+			res = helper(arr, X-arr[idx], idx+1)+ helper(arr, X, idx+1)
+			return res
+		return helper(arr, X, 0)
 
 	# TopDownApproach
 	def countOfSubsetsWithSumEqualToX(self, arr, X):
@@ -27,20 +43,7 @@ class Solution:
 
 		return dp[len(arr)][X]
 
-	# Recursion Approach
-
-	def countOfSubsetsWithSumEqualToX(self, arr, X):
-		def helper(arr, X, idx, dp ={0:1}):
-      
-			if idx== len(arr):
-				if X ==0:
-					return 1
-				else :
-					return 0
- 
-			res = helper(arr, X-arr[idx], idx+1)+ helper(arr, X, idx+1)
-			return res
-		return helper(arr, X, 0)
+	
 
 
 	
