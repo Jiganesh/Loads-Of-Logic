@@ -187,6 +187,7 @@
 - https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/ ```Easy```
 - https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/ ```Medium```
 - https://leetcode.com/problems/count-integers-with-even-digit-sum/ ```Easy```
+- https://leetcode.com/problems/number-of-1-bits/  ```Easy```
 
 
 </details>
@@ -319,6 +320,7 @@
 - https://leetcode.com/problems/word-pattern/ ```Easy```
 - https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/ ```Easy```
 - https://leetcode.com/problems/maximum-repeating-substring/  ```Easy```
+- https://leetcode.com/problems/binary-watch/ ```Easy```
 
 </details>
 
