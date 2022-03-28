@@ -184,45 +184,46 @@
 182. [https://leetcode.com/problems/search-insert-position](https://leetcode.com/problems/search-insert-position/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
 183. [https://leetcode.com/problems/set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes/ ) <img src="https://img.shields.io/badge/-Medium-blue">
 184. [https://leetcode.com/problems/set-mismatch](https://leetcode.com/problems/set-mismatch/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-185. [https://leetcode.com/problems/shuffle-the-array](https://leetcode.com/problems/shuffle-the-array/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-186. [https://leetcode.com/problems/simplify-path](https://leetcode.com/problems/simplify-path/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-187. [https://leetcode.com/problems/single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-188. [https://leetcode.com/problems/smallest-integer-divisible-by-k](https://leetcode.com/problems/smallest-integer-divisible-by-k/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-189. [https://leetcode.com/problems/smallest-string-with-a-given-numeric-value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-190. [https://leetcode.com/problems/sort-colors](https://leetcode.com/problems/sort-colors/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-191. [https://leetcode.com/problems/sort-the-jumbled-numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-192. [https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-193. [https://leetcode.com/problems/spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-194. [https://leetcode.com/problems/spiral-matrix-iii](https://leetcode.com/problems/spiral-matrix-iii/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-195. [https://leetcode.com/problems/spiral-matrix](https://leetcode.com/problems/spiral-matrix/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-196. [https://leetcode.com/problems/sqrtx](https://leetcode.com/problems/sqrtx/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-197. [https://leetcode.com/problems/string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-198. [https://leetcode.com/problems/sudoku-solver](https://leetcode.com/problems/sudoku-solver/ ) <img src="https://img.shields.io/badge/-Hard-red">
-199. [https://leetcode.com/problems/summary-ranges](https://leetcode.com/problems/summary-ranges/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-200. [https://leetcode.com/problems/swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-201. [https://leetcode.com/problems/target-sum](https://leetcode.com/problems/target-sum/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-202. [https://leetcode.com/problems/teemo-attacking](https://leetcode.com/problems/teemo-attacking/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-203. [https://leetcode.com/problems/time-needed-to-buy-tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-204. [https://leetcode.com/problems/transpose-matrix](https://leetcode.com/problems/transpose-matrix/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-205. [https://leetcode.com/problems/two-city-scheduling](https://leetcode.com/problems/two-city-scheduling/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-206. [https://leetcode.com/problems/two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-207. [https://leetcode.com/problems/two-sum](https://leetcode.com/problems/two-sum/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-208. [https://leetcode.com/problems/valid-mountain-array](https://leetcode.com/problems/valid-mountain-array/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-209. [https://leetcode.com/problems/valid-parentheses](https://leetcode.com/problems/valid-parentheses/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-210. [https://leetcode.com/problems/valid-perfect-square](https://leetcode.com/problems/valid-perfect-square/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-211. [https://leetcode.com/problems/validate-stack-sequences](https://leetcode.com/problems/validate-stack-sequences/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-212. [https://leetcode.com/problems/word-pattern](https://leetcode.com/problems/word-pattern/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-213. [https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430](https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1 ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-214. [https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1# ) <img src="https://img.shields.io/badge/-Medium-blue">
-215. [https://practice.geeksforgeeks.org/problems/sort-a-stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1 ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-216. [https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1/ ) <img src="https://img.shields.io/badge/-Medium-blue">
-217. [https://www.codingninjas.com/codestudio/problems](https://www.codingninjas.com/codestudio/problems/rod-cutting-problem_800284 ) <img src="https://img.shields.io/badge/-Medium-blue">
-218. [https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array](https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-219. [https://www.geeksforgeeks.org/sum-triangle-from-array](https://www.geeksforgeeks.org/sum-triangle-from-array/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-220. [https://www.interviewbit.com/problems/nearest-smaller-element](https://www.interviewbit.com/problems/nearest-smaller-element/# ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-220. [https://www.codingninjas.com/reverse-first-k-elements-of-queue](https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118523/offering/1380947?leftPanelTab=0) <img src="https://img.shields.io/badge/-Easy-brightgreen">
-220. [https://www.codingninjas.com/minimum-subset-difference](https://www.codingninjas.com/codestudio/problems/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum_842494?leftPanelTab=0) <img src="https://img.shields.io/badge/-Medium-blue">
-220. [https://www.codingninjas.com/partitions-with-given-difference](https://www.codingninjas.com/codestudio/problems/partitions-with-given-difference_3751628?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos) <img src="https://img.shields.io/badge/-Medium-blue">
+185. [https://leetcode.com/problems/shortest-common-supersequence](https://leetcode.com/problems/shortest-common-supersequence/ ) <img src="https://img.shields.io/badge/-Hard-red">
+186. [https://leetcode.com/problems/shuffle-the-array](https://leetcode.com/problems/shuffle-the-array/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+187. [https://leetcode.com/problems/simplify-path](https://leetcode.com/problems/simplify-path/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+188. [https://leetcode.com/problems/single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+189. [https://leetcode.com/problems/smallest-integer-divisible-by-k](https://leetcode.com/problems/smallest-integer-divisible-by-k/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+190. [https://leetcode.com/problems/smallest-string-with-a-given-numeric-value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+191. [https://leetcode.com/problems/sort-colors](https://leetcode.com/problems/sort-colors/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+192. [https://leetcode.com/problems/sort-the-jumbled-numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+193. [https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+194. [https://leetcode.com/problems/spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+195. [https://leetcode.com/problems/spiral-matrix-iii](https://leetcode.com/problems/spiral-matrix-iii/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+196. [https://leetcode.com/problems/spiral-matrix](https://leetcode.com/problems/spiral-matrix/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+197. [https://leetcode.com/problems/sqrtx](https://leetcode.com/problems/sqrtx/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+198. [https://leetcode.com/problems/string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+199. [https://leetcode.com/problems/sudoku-solver](https://leetcode.com/problems/sudoku-solver/ ) <img src="https://img.shields.io/badge/-Hard-red">
+200. [https://leetcode.com/problems/summary-ranges](https://leetcode.com/problems/summary-ranges/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+201. [https://leetcode.com/problems/swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+202. [https://leetcode.com/problems/target-sum](https://leetcode.com/problems/target-sum/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+203. [https://leetcode.com/problems/teemo-attacking](https://leetcode.com/problems/teemo-attacking/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+204. [https://leetcode.com/problems/time-needed-to-buy-tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+205. [https://leetcode.com/problems/transpose-matrix](https://leetcode.com/problems/transpose-matrix/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+206. [https://leetcode.com/problems/two-city-scheduling](https://leetcode.com/problems/two-city-scheduling/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+207. [https://leetcode.com/problems/two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+208. [https://leetcode.com/problems/two-sum](https://leetcode.com/problems/two-sum/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+209. [https://leetcode.com/problems/valid-mountain-array](https://leetcode.com/problems/valid-mountain-array/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+210. [https://leetcode.com/problems/valid-parentheses](https://leetcode.com/problems/valid-parentheses/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+211. [https://leetcode.com/problems/valid-perfect-square](https://leetcode.com/problems/valid-perfect-square/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+212. [https://leetcode.com/problems/validate-stack-sequences](https://leetcode.com/problems/validate-stack-sequences/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+213. [https://leetcode.com/problems/word-pattern](https://leetcode.com/problems/word-pattern/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+214. [https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430](https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1 ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+215. [https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1# ) <img src="https://img.shields.io/badge/-Medium-blue">
+216. [https://practice.geeksforgeeks.org/problems/sort-a-stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1 ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+217. [https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1/ ) <img src="https://img.shields.io/badge/-Medium-blue">
+218. [https://www.codingninjas.com/codestudio/problems](https://www.codingninjas.com/codestudio/problems/rod-cutting-problem_800284 ) <img src="https://img.shields.io/badge/-Medium-blue">
+219. [https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array](https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+220. [https://www.geeksforgeeks.org/sum-triangle-from-array](https://www.geeksforgeeks.org/sum-triangle-from-array/ ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+221. [https://www.interviewbit.com/problems/nearest-smaller-element](https://www.interviewbit.com/problems/nearest-smaller-element/# ) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+221. [https://www.codingninjas.com/reverse-first-k-elements-of-queue](https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118523/offering/1380947?leftPanelTab=0) <img src="https://img.shields.io/badge/-Easy-brightgreen">
+221. [https://www.codingninjas.com/minimum-subset-difference](https://www.codingninjas.com/codestudio/problems/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum_842494?leftPanelTab=0) <img src="https://img.shields.io/badge/-Medium-blue">
+221. [https://www.codingninjas.com/partitions-with-given-difference](https://www.codingninjas.com/codestudio/problems/partitions-with-given-difference_3751628?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos) <img src="https://img.shields.io/badge/-Medium-blue">
 
 ### Yeah ofc we'd start counting from 0 duh !!
-<img src='https://img.shields.io/badge/113 -Easy Problems Solved-brightgreen '> <img src='https://img.shields.io/badge/102 -Medium Problems Solved-blue '> <img src='https://img.shields.io/badge/9 -Hard Problems Solved-red '> 
+<img src='https://img.shields.io/badge/113 -Easy Problems Solved-brightgreen '> <img src='https://img.shields.io/badge/102 -Medium Problems Solved-blue '> <img src='https://img.shields.io/badge/10 -Hard Problems Solved-red '> 
