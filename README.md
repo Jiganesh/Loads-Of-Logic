@@ -111,6 +111,7 @@
 - https://leetcode.com/problems/delete-operation-for-two-strings/ ```Medium```
 - https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/ ```Medium```
 - https://leetcode.com/problems/longest-palindromic-subsequence/ ```Medium```
+- https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/ ```Medium```
 - https://leetcode.com/problems/shortest-common-supersequence/ ```Hard``` 
 
 </details>
