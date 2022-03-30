@@ -174,6 +174,7 @@
 - https://leetcode.com/problems/add-two-numbers/ ```Medium```
 - https://leetcode.com/problems/rotate-list/ ```Medium```
 - https://leetcode.com/problems/copy-list-with-random-pointer/ ```Medium```
+- https://leetcode.com/problems/remove-nth-node-from-end-of-list/ ```Medium```
 
 </details>
 
