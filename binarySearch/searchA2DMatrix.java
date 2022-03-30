@@ -30,6 +30,8 @@ eg:
 // https://www.youtube.com/watch?v=
 // Jump to 22:00
 
+import java.util.*;
+
 public class searchA2DMatrix {
     public static void main(String[] args) {
         SolutionSA2DM  solution = new SolutionSA2DM();
@@ -42,6 +44,7 @@ public class searchA2DMatrix {
 
 
 class SolutionSA2DM {
+    // Submitted by Jiganesh
     public boolean binarySearch (int [][] matrix , int row, int cStart, int cEnd, int target){
     
             while (cStart <= cEnd){
@@ -76,5 +79,21 @@ class SolutionSA2DM {
             if(target >=matrix[rEnd][0]&& target<= matrix[rEnd][cMid])  return binarySearch(matrix, rEnd, 0, cMid, target) ;  
             if(target> matrix[rEnd][cMid]) return binarySearch(matrix, rEnd, cMid+1, cols, target) ;  
              return false;
+        }
+
+        //Submitted by @kushvr
+        public boolean searchMatrixApproach2(int[][] matrix, int target) {
+
+            int rlen = matrix.length;
+            int clen = matrix[0].length;
+    
+            for(int i=0;i<rlen;i++){
+                if(matrix[i][0] <= target && matrix[i][clen - 1] >= target){
+                    int ind = Arrays.binarySearch(matrix[i],target);
+                    if(ind >= 0)
+                        return true;
+                }
+            }
+            return false;
         }
     }
