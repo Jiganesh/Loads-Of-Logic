@@ -4,12 +4,9 @@
 
 
 
-<img style=" " src =".dev/donutDifficulty.png" alt="difficulty chart" height = "100rem" align =right>
-
-
-<div>
-
 *Click below to expand  and view problems.*
+
+<img style=" " src =".dev/donutDifficulty.png" alt="difficulty chart" height = "100rem" align =right>
 
 <details>'
 
@@ -156,9 +153,6 @@
 - https://leetcode.com/problems/last-stone-weight/ ```Easy``` ```Recommended```
 
 </details>
-
-
-
 
 
 
@@ -398,4 +392,3 @@
 
 
 Thank You !! 
-</div>
