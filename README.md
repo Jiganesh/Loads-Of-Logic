@@ -3,8 +3,9 @@
 <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 235 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-0-orange?">
 
 
-<div style ="display: flex ; justify-content: space-between">
-<div>
+
+<img src =".dev/donutDifficulty.png" alt="difficulty chart" height = "275px" align = "right">
+
 
 *Click below to expand  and view problems.*
 
@@ -395,9 +396,3 @@
 
 
 Thank You !! 
-
-
-</div>
-
-<img src =".dev/donutDifficulty.png" alt="difficulty chart" height = "275px">
-</div>
