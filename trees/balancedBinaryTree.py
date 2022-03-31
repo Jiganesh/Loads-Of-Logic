@@ -1,13 +1,13 @@
 # https://leetcode.com/problems/balanced-binary-tree/
 
-from treeNode import TreeNode
-
 # Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
+
+
 class Solution:
 
     # Runtime: 51 ms, faster than 91.61% of Python3 online submissions for Balanced Binary Tree.
