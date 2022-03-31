@@ -4,8 +4,10 @@
 
 
 
-<img src =".dev/donutDifficulty.png" alt="difficulty chart" height = "275px" align = "right">
+<img style=" " src =".dev/donutDifficulty.png" alt="difficulty chart" height = "30%" align =right>
 
+
+<div>
 
 *Click below to expand  and view problems.*
 
@@ -396,3 +398,4 @@
 
 
 Thank You !! 
+</div>
