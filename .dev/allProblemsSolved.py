@@ -1,3 +1,9 @@
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+
+
+
 f = open("README.md","r")
 lines =[ i for i in f.readlines()]
 
@@ -44,6 +50,20 @@ writeReadme.write(str(number)+'. [https://www.codingninjas.com/minimum-subset-di
 writeReadme.write(str(number)+'. [https://www.codingninjas.com/longest-repeating-subsequence](https://www.codingninjas.com/codestudio/problems/longest-repeating-subsequence_1118110?leftPanelTab=1) '+difficulty('medium')+'\n') 
 writeReadme.write(str(number)+'. [https://www.codingninjas.com/partitions-with-given-difference](https://www.codingninjas.com/codestudio/problems/partitions-with-given-difference_3751628?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos) '+difficulty('medium')+'\n') 
 
+# create data
+names = ['Easy','Medium', 'Hard']
+size = array
+ 
+# Create a circle at the center of the plot
+my_circle = plt.Circle( (0,0), 0.7, color='white')
+
+# Custom wedges
+plt.pie(size, labels=names, wedgeprops = { 'linewidth' : 7, 'edgecolor' : 'white' }, colors=["Green", "Blue", "Red"])
+p = plt.gcf()
+p.gca().add_artist(my_circle)
+plt.savefig(".dev/donutDifficulty.png", bbox_inches='tight')
+plt.close()
+
 
 easy = "<img src='https://img.shields.io/badge/"+str(array[0])+" -Easy Problems Solved-brightgreen '> " 
 medium = "<img src='https://img.shields.io/badge/"+str(array[1])+" -Medium Problems Solved-blue '> "
@@ -76,3 +96,4 @@ for i in lines:
 
 f.close()
 writeNewReadme.close()
+
