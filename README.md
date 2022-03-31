@@ -4,7 +4,7 @@
 
 
 
-<img style=" " src =".dev/donutDifficulty.png" alt="difficulty chart" height = "25%" align =right>
+<img style=" " src =".dev/donutDifficulty.png" alt="difficulty chart" height = "15%" align =right>
 
 
 <div>
