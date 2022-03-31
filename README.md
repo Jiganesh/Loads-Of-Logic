@@ -344,6 +344,7 @@
 - https://leetcode.com/problems/binary-tree-right-side-view/ ```Medium```
 - https://leetcode.com/problems/balanced-binary-tree/ ```Easy```
 - https://leetcode.com/problems/remove-duplicates-from-sorted-array/ ```Medium```
+- https://leetcode.com/problems/binary-tree-inorder-traversal/ ```Easy```
 
 </details>
 
