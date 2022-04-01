@@ -322,7 +322,7 @@
 - https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/ ```Easy```
 - https://leetcode.com/problems/maximum-repeating-substring/  ```Easy```
 - https://leetcode.com/problems/binary-watch/ ```Easy```
-
+- https://leetcode.com/problems/reverse-string/ ```Easy```
 </details>
 
 <details>
