@@ -78,6 +78,7 @@
 - https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/ ```Easy``` ```Recommended```
 - https://leetcode.com/problems/get-the-maximum-score/ ```Hard```
 - https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/ ```Easy```
+- https://leetcode.com/problems/next-permutation/ ```Medium```
 
 </details>
 
@@ -172,6 +173,7 @@
 - https://leetcode.com/problems/rotate-list/ ```Medium```
 - https://leetcode.com/problems/copy-list-with-random-pointer/ ```Medium```
 - https://leetcode.com/problems/remove-nth-node-from-end-of-list/ ```Medium```
+- https://leetcode.com/problems/swapping-nodes-in-a-linked-list/ ```Medium```
 
 </details>
 
@@ -323,6 +325,7 @@
 - https://leetcode.com/problems/maximum-repeating-substring/  ```Easy```
 - https://leetcode.com/problems/binary-watch/ ```Easy```
 - https://leetcode.com/problems/reverse-string/ ```Easy```
+- https://leetcode.com/problems/valid-palindrome-ii/ ```Easy```
 </details>
 
 <details>

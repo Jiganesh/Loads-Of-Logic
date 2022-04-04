@@ -1,3 +1,6 @@
+# https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
+# https://www.youtube.com/watch?v=OZmCvMsFgDA&ab_channel=CodingDecoded
+
 # Definition for singly-linked list.
 
 class ListNode(object):
@@ -7,6 +10,9 @@ class ListNode(object):
         
 class Solution(object):
     # Submitted by Jiganesh
+    
+    # TC : O(N)
+    # SC : O(N)
     
     def swapNodes(self, head, k):
         """
