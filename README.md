@@ -116,6 +116,7 @@
 - https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/ ```Hard```
 - https://leetcode.com/problems/shortest-common-supersequence/ ```Hard``` 
 - https://leetcode.com/problems/palindrome-partitioning/ ```Medium```
+- https://leetcode.com/problems/palindrome-partitioning-ii/ ```Hard```
 
 </details>
 
