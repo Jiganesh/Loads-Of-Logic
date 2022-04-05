@@ -115,6 +115,7 @@
 - https://leetcode.com/problems/jump-game-ii/ ```Medium```
 - https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/ ```Hard```
 - https://leetcode.com/problems/shortest-common-supersequence/ ```Hard``` 
+- https://leetcode.com/problems/palindrome-partitioning/ ```Medium```
 
 </details>
 
@@ -123,6 +124,7 @@
 <summary>Greedy</summary>
 
 - https://leetcode.com/problems/can-place-flowers/ ```Easy```
+- https://leetcode.com/problems/container-with-most-water/   ```Medium```
 - https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/ ```Medium```
 - https://leetcode.com/problems/non-overlapping-intervals/ ```Medium```
 - https://leetcode.com/problems/merge-intervals/ ```Medium```

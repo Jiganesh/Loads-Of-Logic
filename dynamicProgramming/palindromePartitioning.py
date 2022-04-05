@@ -1,11 +1,16 @@
+# https://leetcode.com/problems/palindrome-partitioning/
+
 class Solution(object):
+    
+    # Runtime: 582 ms, faster than 97.87% of Python online submissions for Palindrome Partitioning.
+    # Memory Usage: 32.8 MB, less than 26.50% of Python online submissions for Palindrome Partitioning.   
+    
     def partition(self, s):
         """
         :type s: str
         :rtype: List[List[str]]
         """
         result =[]
-        
         
         def palindrome(s, i, j):
             a = s[i:j]
