@@ -2,8 +2,8 @@ package linkedlist;
 
 // https://leetcode.com/problems/plus-one-linked-list/
 
-public class PlusOneLinkedList {
-    public ListNode addToNum(ListNode head) {
+public class plusOneLinkedList {
+    public ListNode plusOne(ListNode head) {
         int sum = 0, carry = 1;
         ListNode newHead = reverse(head);
         ListNode currentNode = newHead, prevNode = newHead;
