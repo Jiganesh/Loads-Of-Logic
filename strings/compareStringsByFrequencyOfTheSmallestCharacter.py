@@ -25,4 +25,33 @@ class Solution:
                 if i< j:
                     result[indexi]+=1        
         return result
+    
+    
+    # Few Optimizations
+    
+    # Runtime: 662 ms, faster than 20.51% of Python3 online submissions for Compare Strings by Frequency of the Smallest Character.
+    # Memory Usage: 14.5 MB, less than 98.72% of Python3 online submissions for Compare Strings by Frequency of the Smallest Character.
+    
+    def numSmallerByFrequency(self, queries: List[str], words: List[str]) -> List[int]:
+        def smallestCount(word):
+            count = 0
+            currentsmall = word[0]
+            for i in word:
+                if currentsmall>i:
+                    count=1
+                    currentsmall=i
+                elif currentsmall==i:
+                    count+=1
+            return count
+        
+        queryF=[smallestCount(i) for i in queries]
+        wordsF=[smallestCount(i) for i in words]
+            
+        result = [0]* len(queries)
+        
+        for indexi, i in enumerate(queryF):
+            for j in wordsF:
+                if i< j:
+                    result[indexi]+=1        
+        return result
         
