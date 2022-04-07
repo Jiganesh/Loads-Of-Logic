@@ -1,6 +1,8 @@
 # https://leetcode.com/problems/last-stone-weight/
 
 import heapq
+import bisect
+
 
 class Solution(object):
     
@@ -32,4 +34,17 @@ class Solution(object):
         while len(h) > 1 and h[0] != 0:
             heapq.heappush(h, heapq.heappop(h) - heapq.heappop(h))
         return -h[0]
+    
+    
+    # Approach 3: Using bisect Sort [Accepted]    
+    def lastStoneWeight(self, stones):
+        
+        stones.sort()
+
+        while len(stones)>1:
+            x = stones.pop()
+            y = stones.pop()
+            if x != y : bisect.insort(stones, x-y)
+
+        return stones[0] if stones else 0
                         
