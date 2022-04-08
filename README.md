@@ -1,6 +1,7 @@
 <img src= ".dev/highOnDSABanner.png" height= 40%  width = 140%>
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 248 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-2-orange?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 251 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-3-orange?">
+
 
 
 
@@ -151,6 +152,7 @@
 <summary>HashTable</summary>
 
 - https://leetcode.com/problems/number-of-matching-subsequences/ ```Medium```
+- https://leetcode.com/problems/contains-duplicate-ii/ ```Easy```
 
 </details>
 
@@ -181,6 +183,7 @@
 - https://leetcode.com/problems/copy-list-with-random-pointer/ ```Medium```
 - https://leetcode.com/problems/remove-nth-node-from-end-of-list/ ```Medium```
 - https://leetcode.com/problems/swapping-nodes-in-a-linked-list/ ```Medium```
+- https://leetcode.com/problems/plus-one-linked-list/ ```Medium``` ```Premium```
 
 </details>
 
@@ -272,6 +275,7 @@
 - CustomSort
     - https://leetcode.com/problems/matrix-cells-in-distance-order/ ```Easy```
     - https://leetcode.com/problems/sort-the-jumbled-numbers/ ```Medium```
+    - https://leetcode.com/problems/kth-largest-element-in-a-stream/ ```Easy```
 - CycleSort
     - https://leetcode.com/problems/missing-number/ ```Easy```
     - https://leetcode.com/problems/set-mismatch/ ```Easy```
