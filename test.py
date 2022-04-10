@@ -1,10 +1,31 @@
-# https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/
+class Solution:
+    def largestInteger(self, num: int) -> int:
+        
+        s = list(str(num)) # Converting num to list for easy manipulations
+        
+        # Loops through all numbers and just check the given condition
+        for i in range (len(s)):
+            for j in range (i+1,len(s)):
+                
+                # makes sense to swap when the number ahead is smaller than number behind cause we want greater number
+                # AND operator helps to check parity
+                
+                if int(s[i]) < int(s[j]) and int(s[i])&1==int(s[j])&1:
+    
+                    s[i],s[j] =s[j],s[i]
+                    
+        # returning Number
+        return "".join(s)
+    
+    
+
+
+
+
+
+
 
 class Solution:
-    
-    # Runtime: 24 ms, faster than 100.00% of Python3 online submissions for Minimize Result by Adding Parentheses to Expression.
-    # Memory Usage: 13.9 MB, less than 70.00% of Python3 online submissions for Minimize Result by Adding Parentheses to Expression.
-    
     def minimizeResult(self, expression: str) -> str:
         
         # to store minimum answer
@@ -46,4 +67,30 @@ class Solution:
                     
         # return parenthesized string 
         return result
-                            
+    
+    
+import heapq
+class Solution:
+    def maximumProduct(self, nums, k: int) -> int:
+        
+        # creating a heap
+        heap = []
+        for i in nums:
+            heapq.heappush (heap,i)
+            
+            
+        # basic idea here is keep on incrementing smallest number then only multiplication of that number will be greater
+        # so basically till I have operations left I will increment my smallest number
+        while k :
+            current = heapq.heappop(heap)
+            heapq.heappush(heap, current+1)
+            k-=1
+            
+        result =1
+        
+        # Just Multiply all the numbers in heap and return the value
+        while len(heap)>0:
+            x= heapq.heappop(heap)
+            result =(result*x )% (10**9+7)
+            
+        return result

@@ -161,6 +161,7 @@
 <summary>Heap</summary>
 
 - https://leetcode.com/problems/last-stone-weight/ ```Easy``` ```Recommended```
+- https://leetcode.com/problems/top-k-frequent-elements/ ```Medium```
 
 </details>
 
@@ -201,6 +202,8 @@
 - https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/ ```Medium```
 - https://leetcode.com/problems/count-integers-with-even-digit-sum/ ```Easy```
 - https://leetcode.com/problems/number-of-1-bits/  ```Easy```
+- https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/ ```Easy```
+- https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/ ```Medium```
 
 
 </details>
