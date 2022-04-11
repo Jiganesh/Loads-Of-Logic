@@ -84,6 +84,7 @@
 - https://leetcode.com/problems/next-permutation/ ```Medium```
 - https://leetcode.com/problems/3sum-with-multiplicity/ ```Medium```
 - https://leetcode.com/problems/baseball-game/   ```Easy```
+- https://leetcode.com/problems/shift-2d-grid/ ```Easy```
 
 </details>
 
