@@ -159,6 +159,7 @@
 
 - https://leetcode.com/problems/number-of-matching-subsequences/ ```Medium```
 - https://leetcode.com/problems/contains-duplicate-ii/ ```Easy```
+- https://leetcode.com/problems/find-players-with-zero-or-one-losses/ ```Medium```
 
 </details>
 
