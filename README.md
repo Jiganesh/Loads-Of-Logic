@@ -83,6 +83,7 @@
 - https://leetcode.com/problems/3sum-with-multiplicity/ ```Medium```
 - https://leetcode.com/problems/baseball-game/   ```Easy```
 - https://leetcode.com/problems/shift-2d-grid/ ```Easy```
+- https://leetcode.com/problems/game-of-life/ ```Medium```
 
 </details>
 
@@ -143,6 +144,9 @@
 - https://leetcode.com/problems/boats-to-save-people/ ```Medium```
 - https://leetcode.com/problems/two-city-scheduling/ ```Medium```
 - https://leetcode.com/problems/container-with-most-water/ ```Medium```
+- https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/ ```Easy```
+
+
 
 </details>
 
@@ -153,6 +157,7 @@
 
 - https://leetcode.com/problems/number-of-matching-subsequences/ ```Medium```
 - https://leetcode.com/problems/contains-duplicate-ii/ ```Easy```
+- https://leetcode.com/problems/find-players-with-zero-or-one-losses/ ```Medium```
 
 </details>
 
@@ -269,6 +274,7 @@
 - https://leetcode.com/problems/valid-perfect-square/ ```Very Easy```
 - https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ ```Easy```
 - https://leetcode.com/problems/median-of-two-sorted-arrays/ ```Hard```
+- https://leetcode.com/problems/maximum-candies-allocated-to-k-children/ ```Medium```
 
 
 </details>
