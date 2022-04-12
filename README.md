@@ -146,6 +146,9 @@
 - https://leetcode.com/problems/boats-to-save-people/ ```Medium```
 - https://leetcode.com/problems/two-city-scheduling/ ```Medium```
 - https://leetcode.com/problems/container-with-most-water/ ```Medium```
+- https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/ ```Easy```
+
+
 
 </details>
 
