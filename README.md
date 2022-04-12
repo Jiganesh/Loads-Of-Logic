@@ -274,6 +274,7 @@
 - https://leetcode.com/problems/valid-perfect-square/ ```Very Easy```
 - https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ ```Easy```
 - https://leetcode.com/problems/median-of-two-sorted-arrays/ ```Hard```
+- https://leetcode.com/problems/maximum-candies-allocated-to-k-children/ ```Medium```
 
 
 </details>
