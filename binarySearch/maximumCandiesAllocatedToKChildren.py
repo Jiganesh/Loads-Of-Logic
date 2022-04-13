@@ -1,5 +1,7 @@
 # https://leetcode.com/problems/maximum-candies-allocated-to-k-children/
 
+# MUST READ
+# https://leetcode.com/problems/maximum-candies-allocated-to-k-children/discuss/1908888/JavaC%2B%2BPython-Binary-Search-with-Explanation
 class Solution:
     def maximumCandies(self, A, k: int) -> int:
         
