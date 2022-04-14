@@ -162,6 +162,7 @@
 - https://leetcode.com/problems/number-of-matching-subsequences/ ```Medium```
 - https://leetcode.com/problems/contains-duplicate-ii/ ```Easy```
 - https://leetcode.com/problems/find-players-with-zero-or-one-losses/ ```Medium```
+- https://leetcode.com/problems/kth-distinct-string-in-an-array/ ```Easy```
 
 </details>
 
@@ -373,6 +374,8 @@
 - https://leetcode.com/problems/binary-tree-inorder-traversal/ ```Easy```
 - https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ ```Medium```
 - https://leetcode.com/problems/count-complete-tree-nodes/  ```Medium```
+- https://leetcode.com/problems/search-in-a-binary-search-tree/
+
 </details>
 
 
