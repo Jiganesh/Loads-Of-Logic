@@ -5,7 +5,7 @@ class Solution:
     # Runtime: 982 ms, faster than 7.37% of Python3 online submissions for Compare Strings by Frequency of the Smallest Character.
     # Memory Usage: 14.8 MB, less than 28.53% of Python3 online submissions for Compare Strings by Frequency of the Smallest Character.
 
-    def numSmallerByFrequency(self, queries: List[str], words: List[str]) -> List[int]:
+    def numSmallerByFrequency(self, queries, words ):
         def smallestCount(word):
             word = sorted(word)
             smallestChar = word[0]
@@ -32,7 +32,7 @@ class Solution:
     #Runtime: 576 ms, faster than 26.28% of Python3 online submissions for Compare Strings by Frequency of the Smallest Character.
     # Memory Usage: 14.7 MB, less than 28.53% of Python3 online submissions for Compare Strings by Frequency of the Smallest Character.
     
-    def numSmallerByFrequency(self, queries: List[str], words: List[str]) -> List[int]:
+    def numSmallerByFrequency(self, queries, words) :
         def smallestCount(word):
             count = 0
             currentsmall = word[0]
