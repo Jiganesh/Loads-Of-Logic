@@ -377,6 +377,7 @@
 - https://leetcode.com/problems/count-complete-tree-nodes/  ```Medium```
 - https://leetcode.com/problems/search-in-a-binary-search-tree/ ```Easy```
 - https://leetcode.com/problems/same-tree/ ```Easy```
+- https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/ ```Easy```
 - https://leetcode.com/problems/symmetric-tree/ ```Easy```
 
 </details>
