@@ -126,6 +126,7 @@
 - https://leetcode.com/problems/shortest-common-supersequence/ ```Hard``` 
 - https://leetcode.com/problems/palindrome-partitioning/ ```Medium```
 - https://leetcode.com/problems/palindrome-partitioning-ii/ ```Hard```
+- https://leetcode.com/problems/perfect-squares/ ```Medium```
 
 </details>
 
