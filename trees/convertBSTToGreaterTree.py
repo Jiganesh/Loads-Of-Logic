@@ -10,13 +10,12 @@ class TreeNode:
 
 class Solution:
 
+
+    # Iterative Approach
+
+    # Runtime: 69 ms, faster than 99.27% of Python3 online submissions for Convert BST to Greater Tree.
+    # Memory Usage: 16.7 MB, less than 53.49% of Python3 online submissions for Convert BST to Greater Tree.
     def convertBST(self, root):
-
-        # Iterative Approach
-
-        # Runtime: 69 ms, faster than 99.27% of Python3 online submissions for Convert BST to Greater Tree.
-        # Memory Usage: 16.7 MB, less than 53.49% of Python3 online submissions for Convert BST to Greater Tree.
-
         lst = []
         curr = root
         sum = 0
@@ -30,10 +29,15 @@ class Solution:
             curr = curr.left
 
         return root
+    
+        
+    # Recursive Approach
 
     # Runtime: 82 ms, faster than 89.47% of Python3 online submissions for Convert BST to Greater Tree.
     # Memory Usage: 16.7 MB, less than 77.23% of Python3 online submissions for Convert BST to Greater Tree.
 
+    def convertBST(self, root):
+        
         def helper(root, array):
 
             if root:
@@ -46,3 +50,20 @@ class Solution:
 
         array = [0]
         return helper(root, array)
+    
+    
+    # Recursive Another Approach
+    
+    sum=0  
+
+    def convertBST(self, root):
+
+
+        if (root==None): return None
+
+        self.convertBST(root.right)   #first get to the rightmost element
+        self.sum+=root.val            #then add the current nodes value to sum
+        root.val=self.sum             #then update current node with sum
+        self.convertBST(root.left)    #travese to check left nodes
+        return root
+
