@@ -216,10 +216,24 @@
 - https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/ ```Easy```
 - https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/ ```Medium```
 - https://leetcode.com/problems/maximum-product-after-k-increments/k  ```Medium```
-
-
+- https://leetcode.com/problems/design-an-atm-machine/ ```Medium```
 
 </details>
+
+
+
+
+
+
+<details>
+<summary>OOPS</summary>
+
+- https://leetcode.com/problems/design-an-atm-machine/ ```Medium```
+
+</details>
+
+
+
 
 <details>
 <summary>Queue</summary>
