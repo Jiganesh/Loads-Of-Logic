@@ -308,6 +308,8 @@
     - https://leetcode.com/problems/matrix-cells-in-distance-order/ ```Easy```
     - https://leetcode.com/problems/sort-the-jumbled-numbers/ ```Medium```
     - https://leetcode.com/problems/kth-largest-element-in-a-stream/ ```Easy```
+    - https://leetcode.com/problems/find-closest-number-to-zero/ ```Easy```
+
 - CycleSort
     - https://leetcode.com/problems/missing-number/ ```Easy```
     - https://leetcode.com/problems/set-mismatch/ ```Easy```
