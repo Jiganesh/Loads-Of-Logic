@@ -325,7 +325,7 @@
 - https://leetcode.com/problems/valid-parentheses/ ```Easy```
 - https://leetcode.com/problems/next-greater-element-i/ ```Easy```
 - https://www.interviewbit.com/problems/nearest-smaller-element/# ```Easy```
-- https://practice.geeksforgeeks.org/problems/sort-a-stack/1 ```Easy```
+- https://practice.geeksforgeeks.org/problems/sort-a-stack/1 ```Easy```https://leehttps://leetcode.com/problems/increasing-order-search-tree/tcode.com/problems/increasing-order-search-tree/
 - https://leetcode.com/problems/largest-rectangle-in-histogram/ ```Hard``` ```Recommended```
 - https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/ ```Medium```
 - https://leetcode.com/problems/maximal-rectangle/ ```Hard```
@@ -357,7 +357,7 @@
 - https://leetcode.com/problems/find-the-difference/ ```Easy```
 - https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/ ```Medium```
 - https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/ ```Easy```
-- https://leetcode.com/problems/permutation-in-string/ ```Medium```
+- https://leetcode.com/problems/permutation-in-string/ ```Medium```https://leetcode.com/problems/increasing-order-search-tree/
 - https://leetcode.com/problems/robot-bounded-in-circle/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/string-to-integer-atoi/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/word-pattern/ ```Easy```
@@ -391,6 +391,7 @@
 - https://leetcode.com/problems/same-tree/ ```Easy```
 - https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/ ```Easy```
 - https://leetcode.com/problems/symmetric-tree/ ```Easy```
+- https://leetcode.com/problems/increasing-order-search-tree/ ```Easy```
 
 </details>
 
