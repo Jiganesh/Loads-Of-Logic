@@ -145,6 +145,7 @@
 - https://leetcode.com/problems/two-city-scheduling/ ```Medium```
 - https://leetcode.com/problems/container-with-most-water/ ```Medium```
 - https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/ ```Easy```
+- https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/ ```Medium````
 
 
 
