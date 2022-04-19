@@ -82,6 +82,7 @@
 - https://leetcode.com/problems/baseball-game/   ```Easy```
 - https://leetcode.com/problems/shift-2d-grid/ ```Easy```
 - https://leetcode.com/problems/game-of-life/ ```Medium```
+- https://leetcode.com/problems/move-zeroes/ ```Easy```
 
 </details>
 
