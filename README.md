@@ -367,6 +367,8 @@
 - https://leetcode.com/problems/reverse-string/ ```Easy```
 - https://leetcode.com/problems/valid-palindrome-ii/ ```Easy```
 - https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/ ```Medium```
+- https://leetcode.com/problems/zigzag-conversion/ ```Medium```
+
 </details>
 
 <details>
