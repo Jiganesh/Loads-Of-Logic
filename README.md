@@ -182,6 +182,7 @@
 - https://leetcode.com/problems/minimum-size-subarray-sum/ ```Medium```
 - https://leetcode.com/problems/product-of-array-except-self/ ```Medium```
 - https://leetcode.com/problems/range-sum-query-immutable/ ```Easy```
+- https://leetcode.com/problems/range-sum-query-2d-immutable/ ```Medium```
 
 </details>
 
