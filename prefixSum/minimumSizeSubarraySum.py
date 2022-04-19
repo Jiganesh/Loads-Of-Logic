@@ -1,5 +1,7 @@
 # https://leetcode.com/problems/minimum-size-subarray-sum/
 
+# This Problem can also be solved by using BINARY SEARCH
+
 class Solution:
     
     # TLE  Brute Force
