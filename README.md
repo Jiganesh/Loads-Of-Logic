@@ -1,6 +1,7 @@
 <img src= ".dev/highOnDSABanner.png" height= 40%  width = 140%>
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 271 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-10-orange?">'
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 275 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-4-orange?">
+
 
 
 *Click below to expand  and view problems.*
@@ -82,6 +83,7 @@
 - https://leetcode.com/problems/baseball-game/   ```Easy```
 - https://leetcode.com/problems/shift-2d-grid/ ```Easy```
 - https://leetcode.com/problems/game-of-life/ ```Medium```
+- https://leetcode.com/problems/move-zeroes/ ```Easy```
 
 </details>
 
@@ -172,6 +174,14 @@
 
 </details>
 
+
+
+<details>
+<summary>Prefix Sum</summary>
+
+- https://leetcode.com/problems/minimum-size-subarray-sum/ ```Medium```
+
+</details>
 
 
 
