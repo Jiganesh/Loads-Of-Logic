@@ -407,6 +407,7 @@
 - https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/ ```Easy```
 - https://leetcode.com/problems/symmetric-tree/ ```Easy```
 - https://leetcode.com/problems/increasing-order-search-tree/ ```Easy```
+- https://leetcode.com/problems/binary-search-tree-iterator/  ```Medium```
 
 </details>
 
