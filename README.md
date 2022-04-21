@@ -199,7 +199,8 @@
 - https://leetcode.com/problems/continuous-subarray-sum/ ```Medium```
 - https://leetcode.com/problems/find-pivot-index/ ```Easy```
 - https://leetcode.com/problems/sum-of-all-odd-length-subarrays/ ```Easy```
-
+- https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/ ```Easy``` 
+- https://leetcode.com/problems/find-the-middle-index-in-array/submissions/ ```Easy```
 </details>
 
 
