@@ -90,6 +90,15 @@
 
 
 <details>
+<summary>Design</summary>
+
+- https://leetcode.com/problems/design-an-atm-machine/ ```Medium```
+- https://leetcode.com/problems/min-stack/ ```Easy```
+
+</details>
+
+
+<details>
 <summary>Dynamic Programming</summary>
 
 - https://leetcode.com/problems/coin-change/ ```Medium```
@@ -233,20 +242,6 @@
 </details>
 
 
-
-
-
-
-<details>
-<summary>OOPS</summary>
-
-- https://leetcode.com/problems/design-an-atm-machine/ ```Medium```
-
-</details>
-
-
-
-
 <details>
 <summary>Queue</summary>
 
@@ -258,6 +253,9 @@
 - https://leetcode.com/problems/design-front-middle-back-queue/ ```Medium```
 - https://leetcode.com/problems/product-of-the-last-k-numbers/ ```Medium```
 </details>
+
+
+
 
 <details>
 <summary>Recursion</summary>
