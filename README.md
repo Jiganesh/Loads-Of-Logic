@@ -95,6 +95,7 @@
 - https://leetcode.com/problems/design-an-atm-machine/ ```Medium```
 - https://leetcode.com/problems/min-stack/ ```Easy```
 - https://leetcode.com/problems/design-hashset/ ```Easy```
+- https://leetcode.com/problems/design-hashmap/  ```Easy```
 
 
 </details>
