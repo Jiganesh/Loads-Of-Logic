@@ -22,8 +22,9 @@ class Solution:
                 self.k -= 1
                 if self.k == 0:
                     self.kthElement = root.val
-                    return self.kthElement
+                    return 
                 helper(root.right)
 
         helper(root)
         return self.kthElement
+    
