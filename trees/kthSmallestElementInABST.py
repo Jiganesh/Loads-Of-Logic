@@ -6,26 +6,24 @@ class TreeNode:
         self.val = val
         self.left = left
         self.right = right
-        
+
+
 class Solution:
-    
-    # Runtime: 60 ms, faster than 73.00% of Python3 online submissions for Kth Smallest Element in a BST.
-    # Memory Usage: 18.1 MB, less than 48.12% of Python3 online submissions for Kth Smallest Element in a BST.
+
+    # Runtime: 48 ms, faster than 91.89% of Python3 online submissions for Kth Smallest Element in a BST.
+    # Memory Usage: 18.2 MB, less than 13.38% of Python3 online submissions for Kth Smallest Element in a BST.
     def kthSmallest(self, root, k: int) -> int:
-        
         self.k = k
         self.kthElement = -1
-        
-        def helper (root):
-            
+
+        def helper(root):
             if root:
-                
                 helper(root.left)
-                self.k-=1
-                if self.k==0:
-                    self.kthElement =root.val
+                self.k -= 1
+                if self.k == 0:
+                    self.kthElement = root.val
+                    return self.kthElement
                 helper(root.right)
-                
-        helper(root)        
+
+        helper(root)
         return self.kthElement
-                
