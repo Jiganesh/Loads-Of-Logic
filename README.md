@@ -97,6 +97,7 @@
 - https://leetcode.com/problems/min-stack/ ```Easy```
 - https://leetcode.com/problems/design-hashset/ ```Easy```
 - https://leetcode.com/problems/design-hashmap/  ```Easy```
+- https://leetcode.com/problems/encode-and-decode-tinyurl/ ``` Medium```
 
 
 </details>
