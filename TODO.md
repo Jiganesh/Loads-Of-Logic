@@ -1,5 +1,7 @@
-* TODO List *
+- [ ] https://leetcode.com/problems/random-pick-with-weight/  ```Medium``` ```Prefix Sum```
 
-dynamicProgramming/partitionsWithGivenDifference.py - Reason why we return 0 if difference + sum (arr) %2 is ?
+- [ ] Understand Binary Search Boundaries
 
-count Min Swap for alternating
+- [ ] 
+
+- [ ] 
