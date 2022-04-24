@@ -1,6 +1,4 @@
 
-from ctypes import pointer
-
 
 def longestCommonSubsequence(text1, text2):
           
