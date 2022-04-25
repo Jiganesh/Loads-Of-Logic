@@ -13,7 +13,7 @@ public class kthSmallestElementInABST {
 class SolutionKSEIABST {
 
 	// Submitted by @Jiganesh
-	// TC : O(N)
+	// TC : O(h+k)
 	// SC : O(1)
 	public int kthSmallest(TreeNode root, int k) {
 
@@ -26,8 +26,10 @@ class SolutionKSEIABST {
 	public int[] traverse(int[] array, TreeNode root) {
 		if (root != null) {
 			traverse(array, root.left);
-			if (--array[0] == 0)
+			if (--array[0] == 0) {
 				array[1] = root.val;
+				return array;
+			}
 			traverse(array, root.right);
 		}
 		return array;
