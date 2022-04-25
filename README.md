@@ -98,6 +98,7 @@
 - https://leetcode.com/problems/design-hashset/ ```Easy```
 - https://leetcode.com/problems/design-hashmap/  ```Easy```
 - https://leetcode.com/problems/encode-and-decode-tinyurl/ ``` Medium```
+- https://leetcode.com/problems/peeking-iterator/ ```Medium```
 
 
 </details>
