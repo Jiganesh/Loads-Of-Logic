@@ -417,6 +417,8 @@
 - https://leetcode.com/problems/symmetric-tree/ ```Easy```
 - https://leetcode.com/problems/increasing-order-search-tree/ ```Easy```
 - https://leetcode.com/problems/binary-search-tree-iterator/  ```Medium```
+- https://leetcode.com/problems/validate-binary-search-tree/  ```Medium```
+
 
 </details>
 
@@ -465,6 +467,7 @@
 <a href= "https://github.com/Jiganesh/High-On-DSA/blob/main/CONTRIBUTING.md" title ="Click Me !!"><h4> Wanna Contribute to this repository !! </h4></a>
 
 <a href = "https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/resourcesWorthReading.md" title ="Click Me!"><img src="https://img.shields.io/badge/-Resources%20Worth%20Reading-blueviolet"></a> <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Sorted%20Index%20of%20Problems-red?style=flat"></a> <a href ="https://github.com/xizhengszhang/Leetcode_company_frequency" target = "_blank"><img src="https://img.shields.io/badge/Company Specific Questions-496076?style=flat"></a>
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/TODO.md" target = "_blank"><img src="https://img.shields.io/badge/TODO List-DE3163?style=flat"></a>
 
 
 Thank You !! 
