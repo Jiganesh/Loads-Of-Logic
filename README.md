@@ -204,6 +204,7 @@
 - https://leetcode.com/problems/sum-of-all-odd-length-subarrays/ ```Easy```
 - https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/ ```Easy``` 
 - https://leetcode.com/problems/find-the-middle-index-in-array/submissions/ ```Easy```
+- https://leetcode.com/problems/running-sum-of-1d-array/ ```Easy```
 </details>
 
 
@@ -418,6 +419,7 @@
 - https://leetcode.com/problems/increasing-order-search-tree/ ```Easy```
 - https://leetcode.com/problems/binary-search-tree-iterator/  ```Medium```
 - https://leetcode.com/problems/validate-binary-search-tree/  ```Medium```
+- https://leetcode.com/problems/two-sum-iv-input-is-a-bst/ ```Easy```
 
 
 </details>

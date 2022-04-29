@@ -6,3 +6,8 @@
 
 - [ ] https://leetcode.com/problems/min-cost-to-connect-all-points/  ```Minimum Spanning Tree```
 
+- [ ] https://leetcode.com/problems/smallest-string-with-swaps/  ```Medium```
+
+- [ ] https://leetcode.com/problems/path-with-minimum-effort/
+
+- [ ]
