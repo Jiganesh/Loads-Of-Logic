@@ -205,7 +205,10 @@
 - https://leetcode.com/problems/sum-of-all-odd-length-subarrays/ ```Easy```
 - https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/ ```Easy``` 
 - https://leetcode.com/problems/find-the-middle-index-in-array/submissions/ ```Easy```
-- https://leetcode.com/problems/running-sum-of-1d-array/ ```Easy```
+- https://leetcode.com/problems/running-sum-of-1d-array/ ```Easy``` 
+- https://leetcode.com/problems/minimum-average-difference/ ```Medium```
+
+
 </details>
 
 
