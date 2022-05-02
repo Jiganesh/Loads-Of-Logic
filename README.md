@@ -393,6 +393,8 @@
 - https://leetcode.com/problems/valid-palindrome-ii/ ```Easy```
 - https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/ ```Medium```
 - https://leetcode.com/problems/zigzag-conversion/ ```Medium```
+- https://leetcode.com/problems/count-prefixes-of-a-given-string/ ```Easy```
+  
 
 </details>
 
