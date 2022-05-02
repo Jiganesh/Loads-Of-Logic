@@ -1,6 +1,5 @@
 # https://leetcode.com/problems/sort-array-by-parity/
 
-
 class Solution:
     
     # Runtime: 87 ms, faster than 74.12% of Python3 online submissions for Sort Array By Parity.
