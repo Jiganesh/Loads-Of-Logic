@@ -100,6 +100,7 @@
 - https://leetcode.com/problems/design-hashmap/  ```Easy```
 - https://leetcode.com/problems/encode-and-decode-tinyurl/ ``` Medium```
 - https://leetcode.com/problems/peeking-iterator/ ```Medium```
+- https://leetcode.com/problems/implement-stack-using-queues/ ```Easy```
 
 
 </details>
@@ -179,6 +180,7 @@
 - https://leetcode.com/problems/contains-duplicate-ii/ ```Easy```
 - https://leetcode.com/problems/find-players-with-zero-or-one-losses/ ```Medium```
 - https://leetcode.com/problems/kth-distinct-string-in-an-array/ ```Easy```
+- https://leetcode.com/problems/max-number-of-k-sum-pairs/  ```Medium```
 
 </details>
 
