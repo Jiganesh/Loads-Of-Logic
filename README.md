@@ -366,7 +366,7 @@
 - https://leetcode.com/problems/simplify-path/ ```Medium```
 - https://leetcode.com/problems/validate-stack-sequences/ ```Medium```
 - https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/ ```Medium```
-- https://leetcode.com/problems/132-pattern/ ```Medium```                           
+- https://leetcode.com/problems/132-pattern/ ```Medium```
 
 </details>
 
