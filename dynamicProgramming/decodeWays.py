@@ -34,3 +34,6 @@ class Solution(object):
             return first+second
 
         return helper(s)
+    
+    
+print(Solution().numDecodings("22233"))

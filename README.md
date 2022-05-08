@@ -355,7 +355,8 @@
 - https://leetcode.com/problems/valid-parentheses/ ```Easy```
 - https://leetcode.com/problems/next-greater-element-i/ ```Easy```
 - https://www.interviewbit.com/problems/nearest-smaller-element/# ```Easy```
-- https://practice.geeksforgeeks.org/problems/sort-a-stack/1 ```Easy```https://leehttps://leetcode.com/problems/increasing-order-search-tree/tcode.com/problems/increasing-order-search-tree/
+- https://practice.geeksforgeeks.org/problems/sort-a-stack/1 ```Easy```
+- https://leetcode.com/problems/increasing-order-search-tree/ ```Medium```
 - https://leetcode.com/problems/largest-rectangle-in-histogram/ ```Hard``` ```Recommended```
 - https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/ ```Medium```
 - https://leetcode.com/problems/maximal-rectangle/ ```Hard```
@@ -367,6 +368,7 @@
 - https://leetcode.com/problems/validate-stack-sequences/ ```Medium```
 - https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/ ```Medium```
 - https://leetcode.com/problems/132-pattern/ ```Medium```
+- https://leetcode.com/problems/flatten-nested-list-iterator/ ```Medium```
 
 </details>
 
