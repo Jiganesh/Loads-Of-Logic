@@ -370,6 +370,7 @@
 - https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/ ```Medium```
 - https://leetcode.com/problems/132-pattern/ ```Medium```
 - https://leetcode.com/problems/flatten-nested-list-iterator/ ```Medium```
+- https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/ ```Easy```
 
 </details>
 
@@ -427,6 +428,7 @@
 - https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ ```Medium```
 - https://leetcode.com/problems/count-complete-tree-nodes/  ```Medium```
 - https://leetcode.com/problems/search-in-a-binary-search-tree/ ```Easy```
+- https://leetcode.com/problems/root-equals-sum-of-children/ ```Easy```
 - https://leetcode.com/problems/same-tree/ ```Easy```
 - https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/ ```Easy```
 - https://leetcode.com/problems/symmetric-tree/ ```Easy```
