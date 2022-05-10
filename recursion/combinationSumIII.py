@@ -1,8 +1,8 @@
 # https://leetcode.com/problems/combination-sum-iii/
 class Solution:
     
-    # Runtime: 33 ms, faster than 84.45% of Python3 online submissions for Combination Sum III.
-    # Memory Usage: 13.9 MB, less than 29.87% of Python3 online submissions for Combination Sum III.
+    # Runtime: 32 ms, faster than 89.71% of Python3 online submissions for Combination Sum III.
+    # Memory Usage: 13.9 MB, less than 79.39% of Python3 online submissions for Combination Sum III.
     
     def combinationSum3(self, k: int, n: int)  :
         
