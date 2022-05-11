@@ -118,6 +118,7 @@
 - https://leetcode.com/problems/champagne-tower/ ```Medium```
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/  ```Easy```
 - https://leetcode.com/problems/climbing-stairs/ ```Easy```
+- https://leetcode.com/problems/n-th-tribonacci-number/ ```Easy```
 - https://leetcode.com/problems/divisor-game/ ```Easy```
 - https://leetcode.com/problems/min-cost-climbing-stairs/ ```Easy```
 - https://leetcode.com/problems/longest-increasing-subsequence/ ```Medium```
@@ -136,7 +137,7 @@
 - https://leetcode.com/problems/longest-common-subsequence/ ```Medium``` ```Standard```
 - https://leetcode.com/problems/letter-combinations-of-a-phone-number/ ```Medium```
 - https://leetcode.com/problems/delete-operation-for-two-strings/ ```Medium```
-- https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/ ```Medium```
+- https://leetcode.com/problems/minimum-ascii-delehttps://leetcode.com/problems/n-th-tribonacci-number/te-sum-for-two-strings/ ```Medium```
 - https://leetcode.com/problems/longest-palindromic-subsequence/ ```Medium```
 - https://leetcode.com/problems/jump-game-ii/ ```Medium```
 - https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/ ```Hard```
