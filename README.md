@@ -137,7 +137,8 @@
 - https://leetcode.com/problems/longest-common-subsequence/ ```Medium``` ```Standard```
 - https://leetcode.com/problems/letter-combinations-of-a-phone-number/ ```Medium```
 - https://leetcode.com/problems/delete-operation-for-two-strings/ ```Medium```
-- https://leetcode.com/problems/minimum-ascii-delehttps://leetcode.com/problems/n-th-tribonacci-number/te-sum-for-two-strings/ ```Medium```
+- https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/ ```Medium```
+- https://leetcode.com/problems/n-th-tribonacci-number/te-sum-for-two-strings/ ```Medium```
 - https://leetcode.com/problems/longest-palindromic-subsequence/ ```Medium```
 - https://leetcode.com/problems/jump-game-ii/ ```Medium```
 - https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/ ```Hard```
@@ -147,6 +148,7 @@
 - https://leetcode.com/problems/perfect-squares/ ```Medium```
 - https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/ ```Medium```
 - https://leetcode.com/problems/count-sorted-vowel-strings/ ```Medium```
+- https://leetcode.com/problems/get-maximum-in-generated-array/ ```Easy```
 
 </details>
 
