@@ -1,7 +1,6 @@
 # https://www.youtube.com/watch?v=6FLvhQjZqvM
 from math import comb
 
-
 class Solution:
     
     # Runtime: 41 ms, faster than 54.55% of Python3 online submissions for Pascal's Triangle II.
