@@ -144,6 +144,7 @@
 - https://leetcode.com/problems/palindrome-partitioning-ii/ ```Hard```
 - https://leetcode.com/problems/perfect-squares/ ```Medium```
 - https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/ ```Medium```
+- https://leetcode.com/problems/count-sorted-vowel-strings/ ```Medium```
 
 </details>
 
