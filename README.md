@@ -2,14 +2,6 @@
 
 <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 306 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-1-orange?">
 
-
-
-
-
-
-
-
-
 *Click below to expand  and view problems.*
 
 <img style=" " src =".dev/donutDifficulty.png" alt="difficulty chart" height = "100rem" align =right>
@@ -61,7 +53,7 @@
 - https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/ ```Medium```
 - https://leetcode.com/problems/partition-array-according-to-given-pivot/ ```Medium```
 - https://leetcode.com/problems/pascals-triangle/ ```Easy```
-- https://leetcode.com/problems/permutations-ii/ ```Medium```
+- https://leetcode.com/problems/permutations-ii/ ```Medium``` ```Recursion```
 - https://leetcode.com/problems/plus-one/ ```Easy```
 - https://leetcode.com/problems/product-of-array-except-self/ ```Medium```
 - https://leetcode.com/problems/rearrange-array-elements-by-sign/ ```Medium```
@@ -431,6 +423,7 @@
 - https://leetcode.com/problems/balanced-binary-tree/ ```Easy```
 - https://leetcode.com/problems/remove-duplicates-from-sorted-array/ ```Medium```
 - https://leetcode.com/problems/binary-tree-inorder-traversal/ ```Easy```
+- https://leetcode.com/problems/populating-next-right-pointers-in-each-node/ ```Medium```
 - https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ ```Medium```
 - https://leetcode.com/problems/count-complete-tree-nodes/  ```Medium```
 - https://leetcode.com/problems/search-in-a-binary-search-tree/ ```Easy```
