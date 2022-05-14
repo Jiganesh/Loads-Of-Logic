@@ -435,6 +435,7 @@
 - https://leetcode.com/problems/binary-search-tree-iterator/  ```Medium```
 - https://leetcode.com/problems/validate-binary-search-tree/  ```Medium```
 - https://leetcode.com/problems/two-sum-iv-input-is-a-bst/ ```Easy```
+- https://leetcode.com/problems/network-delay-time/ ```Medium```
 
 
 </details>
