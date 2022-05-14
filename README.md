@@ -82,6 +82,7 @@
 - https://leetcode.com/problems/shift-2d-grid/ ```Easy```
 - https://leetcode.com/problems/game-of-life/ ```Medium```
 - https://leetcode.com/problems/move-zeroes/ ```Easy```
+- https://leetcode.com/problems/find-the-k-beauty-of-a-number/ ```Easy```
 
 </details>
 
@@ -208,6 +209,7 @@
 - https://leetcode.com/problems/find-the-middle-index-in-array/submissions/ ```Easy```
 - https://leetcode.com/problems/running-sum-of-1d-array/ ```Easy``` 
 - https://leetcode.com/problems/minimum-average-difference/ ```Medium```
+- https://leetcode.com/problems/number-of-ways-to-split-array/ ```Medium```
 
 
 </details>
@@ -435,6 +437,7 @@
 - https://leetcode.com/problems/binary-search-tree-iterator/  ```Medium```
 - https://leetcode.com/problems/validate-binary-search-tree/  ```Medium```
 - https://leetcode.com/problems/two-sum-iv-input-is-a-bst/ ```Easy```
+- https://leetcode.com/problems/network-delay-time/ ```Medium```
 
 
 </details>
