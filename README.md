@@ -405,6 +405,7 @@
 - https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/ ```Medium```
 - https://leetcode.com/problems/zigzag-conversion/ ```Medium```
 - https://leetcode.com/problems/count-prefixes-of-a-given-string/ ```Easy```
+- https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/submissions/  ```Easy```                     
   
 
 </details>
