@@ -268,6 +268,8 @@
 - https://leetcode.com/problems/find-the-winner-of-the-circular-game/ ```Medium```
 - https://leetcode.com/problems/design-front-middle-back-queue/ ```Medium```
 - https://leetcode.com/problems/product-of-the-last-k-numbers/ ```Medium```
+- https://leetcode.com/problems/shortest-path-in-binary-matrix/ ```Medium```
+
 </details>
 
 
