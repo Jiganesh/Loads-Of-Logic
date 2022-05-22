@@ -142,6 +142,7 @@
 - https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/ ```Medium```
 - https://leetcode.com/problems/count-sorted-vowel-strings/ ```Medium```
 - https://leetcode.com/problems/get-maximum-in-generated-array/ ```Easy```
+- https://leetcode.com/problems/palindromic-substrings/ ```Medium```
 
 </details>
 
