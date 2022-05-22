@@ -144,6 +144,7 @@
 - https://leetcode.com/problems/count-sorted-vowel-strings/ ```Medium```
 - https://leetcode.com/problems/get-maximum-in-generated-array/ ```Easy```
 - https://leetcode.com/problems/unique-paths-ii/ ```Medium```
+- https://leetcode.com/problems/palindromic-substrings/ ```Medium```
 
 </details>
 
