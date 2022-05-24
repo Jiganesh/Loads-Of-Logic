@@ -89,6 +89,13 @@
 
 
 <details>
+<summary>Bit Manipulation</summary>
+
+- https://leetcode.com/problems/binary-number-with-alternating-bits/ ```Easy```
+- https://leetcode.com/problems/single-number/ ```Easy```
+</details>
+
+<details>
 <summary>Design</summary>
 
 - https://leetcode.com/problems/design-an-atm-machine/ ```Medium```
@@ -354,7 +361,7 @@
 
 <details>
 <summary>Stack</summary>
-
+- https://leetcode.com/problems/daily-temperatures/ ```Medium```
 - https://leetcode.com/problems/min-stack/ ```Easy```
 - https://leetcode.com/problems/backspace-string-compare/ ```Easy```
 - https://leetcode.com/problems/implement-stack-using-queues/ ```Easy```
