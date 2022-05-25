@@ -354,7 +354,7 @@
 
 <details>
 <summary>Stack</summary>
-
+- https://leetcode.com/problems/daily-temperatures/ ```Medium```
 - https://leetcode.com/problems/min-stack/ ```Easy```
 - https://leetcode.com/problems/backspace-string-compare/ ```Easy```
 - https://leetcode.com/problems/implement-stack-using-queues/ ```Easy```
