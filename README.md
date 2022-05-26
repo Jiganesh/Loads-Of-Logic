@@ -91,7 +91,7 @@
 <details>
 <summary>Bit Manipulation</summary>
 
-- https://leetcode.com/problems/binary-number-with-alternating-bits/ ```Easy```
+- https://leetcode.com/problems/binary-number-with-alternating-bits/ ```Easy```https://leetcode.com/problems/concatenated-words/
 - https://leetcode.com/problems/single-number/ ```Easy```
 </details>
 
