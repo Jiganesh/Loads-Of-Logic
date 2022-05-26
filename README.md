@@ -152,6 +152,8 @@
 - https://leetcode.com/problems/get-maximum-in-generated-array/ ```Easy```
 - https://leetcode.com/problems/unique-paths-ii/ ```Medium```
 - https://leetcode.com/problems/palindromic-substrings/ ```Medium```
+- https://leetcode.com/problems/concatenated-words/ ```Hard```
+- https://leetcode.com/problems/word-break/ ```Medium```
 
 </details>
 
