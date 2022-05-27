@@ -155,6 +155,7 @@
 - https://leetcode.com/problems/concatenated-words/ ```Hard```
 - https://leetcode.com/problems/word-break/ ```Medium```
 - https://leetcode.com/problems/word-break-ii/ ```Hard```
+- https://leetcode.com/problems/unique-paths/ ```Medium```
 
 </details>
 
