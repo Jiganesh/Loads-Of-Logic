@@ -352,6 +352,7 @@
     - https://leetcode.com/problems/find-closest-number-to-zero/ ```Easy```
     - https://leetcode.com/problems/sort-array-by-parity/ ```Easy```
     - https://leetcode.com/problems/missing-number/ ```Easy```
+    - https://leetcode.com/problems/sender-with-largest-word-count/ ```Medium``` ```Array```
 
 - CycleSort
     - https://leetcode.com/problems/missing-number/ ```Easy```
@@ -410,7 +411,7 @@
 - https://leetcode.com/problems/find-the-difference/ ```Easy```
 - https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/ ```Medium```
 - https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/ ```Easy```
-- https://leetcode.com/problems/permutation-in-string/ ```Medium```https://leetcode.com/problems/increasing-order-search-tree/
+- https://leetcode.com/problems/permutation-in-string/ ```Medium```
 - https://leetcode.com/problems/robot-bounded-in-circle/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/string-to-integer-atoi/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/word-pattern/ ```Easy```
@@ -422,8 +423,8 @@
 - https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/ ```Medium```
 - https://leetcode.com/problems/zigzag-conversion/ ```Medium```
 - https://leetcode.com/problems/count-prefixes-of-a-given-string/ ```Easy```
-- https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/submissions/  ```Easy```                     
-  
+- https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/submissions/  ```Easy```  
+- https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/ ```Easy```                   
 
 </details>
 
