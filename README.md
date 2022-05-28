@@ -351,6 +351,7 @@
     - https://leetcode.com/problems/kth-largest-element-in-a-stream/ ```Easy```
     - https://leetcode.com/problems/find-closest-number-to-zero/ ```Easy```
     - https://leetcode.com/problems/sort-array-by-parity/ ```Easy```
+    - https://leetcode.com/problems/missing-number/ ```Easy```
 
 - CycleSort
     - https://leetcode.com/problems/missing-number/ ```Easy```
