@@ -197,6 +197,7 @@
 - https://leetcode.com/problems/find-players-with-zero-or-one-losses/ ```Medium```
 - https://leetcode.com/problems/kth-distinct-string-in-an-array/ ```Easy```
 - https://leetcode.com/problems/max-number-of-k-sum-pairs/  ```Medium```
+- https://leetcode.com/problems/contains-duplicate/  ```Easy```
 
 </details>
 
@@ -429,7 +430,7 @@
 - https://leetcode.com/problems/count-prefixes-of-a-given-string/ ```Easy```
 - https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/submissions/  ```Easy```  
 - https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/ ```Easy```                   
-
+https://leetcode.com/problems/contains-duplicate/
 </details>
 
 <details>
