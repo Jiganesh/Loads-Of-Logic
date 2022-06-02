@@ -1,6 +1,8 @@
 <img src= ".dev/highOnDSABanner.png" height= 40%  width = 140%>
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 326 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-8-orange?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 342 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today- 2 -orange?">
+
+
 
 
 
@@ -473,7 +475,7 @@
 - https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/ ```Medium```
 - https://leetcode.com/problems/critical-connections-in-a-network/ ```Hard```
 - https://leetcode.com/problems/binary-tree-preorder-traversal/ ```Easy```
-- https://leetcode.com/problems/n-ary-tree-preorder-traversal/
+- https://leetcode.com/problems/n-ary-tree-preorder-traversal/  ```Easy```
 
 
 </details>
