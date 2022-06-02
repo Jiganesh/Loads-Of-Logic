@@ -470,6 +470,8 @@
 - https://leetcode.com/problems/deepest-leaves-sum/ ```Medium```
 - https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/ ```Medium```
 - https://leetcode.com/problems/critical-connections-in-a-network/ ```Hard```
+- https://leetcode.com/problems/binary-tree-preorder-traversal/ ```Easy```
+- https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 
 
 </details>
