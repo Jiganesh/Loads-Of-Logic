@@ -87,6 +87,7 @@
 - https://leetcode.com/problems/game-of-life/ ```Medium```
 - https://leetcode.com/problems/move-zeroes/ ```Easy```
 - https://leetcode.com/problems/find-the-k-beauty-of-a-number/ ```Easy```
+- https://leetcode.com/problems/squares-of-a-sorted-array/ ```Easy```
 
 </details>
 
@@ -442,6 +443,8 @@
 - https://leetcode.com/problems/rearrange-characters-to-make-target-string/ ```Easy```
 </details>
 
+
+
 <details>
 <summary>Trees</summary>
 
@@ -476,6 +479,7 @@
 - https://leetcode.com/problems/critical-connections-in-a-network/ ```Hard```
 - https://leetcode.com/problems/binary-tree-preorder-traversal/ ```Easy```
 - https://leetcode.com/problems/n-ary-tree-preorder-traversal/  ```Easy```
+- https://leetcode.com/problems/minimum-depth-of-binary-tree/ ```Easy```
 
 
 </details>
