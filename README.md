@@ -93,8 +93,12 @@
 <summary>Bit Manipulation</summary>
 
 - https://leetcode.com/problems/binary-number-with-alternating-bits/ ```Easy```
-- https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/submissions/ ```Easy```
+- https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ ```Easy```
 - https://leetcode.com/problems/single-number/ ```Easy```
+- https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/ ```Medium```
+- https://leetcode.com/problems/maximum-product-of-word-lengths/ ```Medium```
+- https://leetcode.com/problems/divide-two-integers/ ```Medium```
+
 </details>
 
 <details>
@@ -145,7 +149,7 @@
 - https://leetcode.com/problems/longest-palindromic-subsequence/ ```Medium```
 - https://leetcode.com/problems/jump-game-ii/ ```Medium```
 - https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/ ```Hard```
-- https://leetcode.com/problems/shortest-common-supersequence/ ```Hard``` 
+- https://leetcode.com/problems/shortest-common-supersequence/ ```Hard```
 - https://leetcode.com/problems/palindrome-partitioning/ ```Medium```
 - https://leetcode.com/problems/palindrome-partitioning-ii/ ```Hard```
 - https://leetcode.com/problems/perfect-squares/ ```Medium```
@@ -157,6 +161,7 @@
 - https://leetcode.com/problems/concatenated-words/ ```Hard```
 - https://leetcode.com/problems/word-break/ ```Medium```
 - https://leetcode.com/problems/word-break-ii/ ```Hard```
+- https://leetcode.com/problems/unique-paths/ ```Medium```
 
 </details>
 
@@ -196,6 +201,7 @@
 - https://leetcode.com/problems/find-players-with-zero-or-one-losses/ ```Medium```
 - https://leetcode.com/problems/kth-distinct-string-in-an-array/ ```Easy```
 - https://leetcode.com/problems/max-number-of-k-sum-pairs/  ```Medium```
+- https://leetcode.com/problems/contains-duplicate/  ```Easy```
 
 </details>
 
@@ -220,9 +226,9 @@
 - https://leetcode.com/problems/continuous-subarray-sum/ ```Medium```
 - https://leetcode.com/problems/find-pivot-index/ ```Easy```
 - https://leetcode.com/problems/sum-of-all-odd-length-subarrays/ ```Easy```
-- https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/ ```Easy``` 
+- https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/ ```Easy```
 - https://leetcode.com/problems/find-the-middle-index-in-array/submissions/ ```Easy```
-- https://leetcode.com/problems/running-sum-of-1d-array/ ```Easy``` 
+- https://leetcode.com/problems/running-sum-of-1d-array/ ```Easy```
 - https://leetcode.com/problems/minimum-average-difference/ ```Medium```
 - https://leetcode.com/problems/number-of-ways-to-split-array/ ```Medium```
 
@@ -352,6 +358,10 @@
     - https://leetcode.com/problems/kth-largest-element-in-a-stream/ ```Easy```
     - https://leetcode.com/problems/find-closest-number-to-zero/ ```Easy```
     - https://leetcode.com/problems/sort-array-by-parity/ ```Easy```
+    - https://leetcode.com/problems/missing-number/ ```Easy```
+    - https://leetcode.com/problems/sender-with-largest-word-count/ ```Medium``` ```Array```
+    - https://leetcode.com/problems/maximum-total-importance-of-roads/  ```Medium```
+
 
 - CycleSort
     - https://leetcode.com/problems/missing-number/ ```Easy```
@@ -388,6 +398,8 @@
 - https://leetcode.com/problems/132-pattern/ ```Medium```
 - https://leetcode.com/problems/flatten-nested-list-iterator/ ```Medium```
 - https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/ ```Easy```
+- https://leetcode.com/problems/steps-to-make-array-non-decreasing/ ```Medium```
+- https://leetcode.com/problems/maximum-product-of-word-lengths/ ```Medium```
 
 </details>
 
@@ -410,7 +422,7 @@
 - https://leetcode.com/problems/find-the-difference/ ```Easy```
 - https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/ ```Medium```
 - https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/ ```Easy```
-- https://leetcode.com/problems/permutation-in-string/ ```Medium```https://leetcode.com/problems/increasing-order-search-tree/
+- https://leetcode.com/problems/permutation-in-string/ ```Medium```
 - https://leetcode.com/problems/robot-bounded-in-circle/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/string-to-integer-atoi/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/word-pattern/ ```Easy```
@@ -422,9 +434,10 @@
 - https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/ ```Medium```
 - https://leetcode.com/problems/zigzag-conversion/ ```Medium```
 - https://leetcode.com/problems/count-prefixes-of-a-given-string/ ```Easy```
-- https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/submissions/  ```Easy```                     
-  
-
+- https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/submissions/  ```Easy```
+- https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/ ```Easy```
+- https://leetcode.com/problems/contains-duplicate/ ```Easy```
+- https://leetcode.com/problems/rearrange-characters-to-make-target-string/ ```Easy```
 </details>
 
 <details>
@@ -459,6 +472,8 @@
 - https://leetcode.com/problems/deepest-leaves-sum/ ```Medium```
 - https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/ ```Medium```
 - https://leetcode.com/problems/critical-connections-in-a-network/ ```Hard```
+- https://leetcode.com/problems/binary-tree-preorder-traversal/ ```Easy```
+- https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 
 
 </details>
@@ -501,8 +516,8 @@
     - Search a Sorted Matrix ```Binary Search , Matrix```
 
 - overflow & underflow
-    - String to Integer - Handling Integer Overflow and Underflow 
-     
+    - String to Integer - Handling Integer Overflow and Underflow
+
 </details>
 
 <a href= "https://github.com/Jiganesh/High-On-DSA/blob/main/CONTRIBUTING.md" title ="Click Me !!"><h4> Wanna Contribute to this repository !! </h4></a>
@@ -511,4 +526,4 @@
 <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/TODO.md" target = "_blank"><img src="https://img.shields.io/badge/TODO List-DE3163?style=flat"></a>
 
 
-Thank You !! 
+Thank You !!
