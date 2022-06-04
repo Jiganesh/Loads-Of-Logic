@@ -84,6 +84,7 @@
 - https://leetcode.com/problems/game-of-life/ ```Medium```
 - https://leetcode.com/problems/move-zeroes/ ```Easy```
 - https://leetcode.com/problems/find-the-k-beauty-of-a-number/ ```Easy```
+- https://leetcode.com/problems/pascals-triangle-ii/ ```Easy```
 
 </details>
 
