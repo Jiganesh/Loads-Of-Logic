@@ -436,6 +436,7 @@
 - https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/ ```Easy```
 - https://leetcode.com/problems/contains-duplicate/ ```Easy```
 - https://leetcode.com/problems/rearrange-characters-to-make-target-string/ ```Easy```
+- https://leetcode.com/problems/find-common-characters/ ```Easy```
 </details>
 
 <details>
