@@ -89,6 +89,7 @@
 - https://leetcode.com/problems/move-zeroes/ ```Easy```
 - https://leetcode.com/problems/find-the-k-beauty-of-a-number/ ```Easy```
 - https://leetcode.com/problems/squares-of-a-sorted-array/ ```Easy```
+- https://leetcode.com/problems/pascals-triangle-ii/ ```Easy```
 
 </details>
 
@@ -443,6 +444,7 @@
 - https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/ ```Easy```
 - https://leetcode.com/problems/contains-duplicate/ ```Easy```
 - https://leetcode.com/problems/rearrange-characters-to-make-target-string/ ```Easy```
+- https://leetcode.com/problems/find-common-characters/ ```Easy```
 </details>
 
 

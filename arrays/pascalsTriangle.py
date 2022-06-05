@@ -1,4 +1,5 @@
 #https://leetcode.com/problems/pascals-triangle/
+# https://www.youtube.com/watch?v=6FLvhQjZqvM
 
 def generate(numRows):
     
