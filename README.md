@@ -90,6 +90,7 @@
 - https://leetcode.com/problems/find-the-k-beauty-of-a-number/ ```Easy```
 - https://leetcode.com/problems/squares-of-a-sorted-array/ ```Easy```
 - https://leetcode.com/problems/pascals-triangle-ii/ ```Easy```
+- https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/ ```Medium```
 
 </details>
 
