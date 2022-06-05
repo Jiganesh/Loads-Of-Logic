@@ -1,4 +1,6 @@
-# https://leetcode.com/problems/pascals-triangle-ii/submissions/
+# https://leetcode.com/problems/pascals-triangle-ii/
+# https://www.youtube.com/watch?v=6FLvhQjZqvM
+
 from math import comb
 
 class Solution:
