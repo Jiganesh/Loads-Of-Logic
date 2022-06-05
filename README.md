@@ -202,6 +202,7 @@
 - https://leetcode.com/problems/kth-distinct-string-in-an-array/ ```Easy```
 - https://leetcode.com/problems/max-number-of-k-sum-pairs/  ```Medium```
 - https://leetcode.com/problems/contains-duplicate/  ```Easy```
+- https://leetcode.com/problems/replace-elements-in-an-array/ ```Medium```
 
 </details>
 

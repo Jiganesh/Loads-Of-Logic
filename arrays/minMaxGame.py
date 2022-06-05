@@ -12,6 +12,8 @@ class Solution:
                     array.append(max(i))
             nums=array
         return nums[0]
+    
+    
 print(Solution().minMaxGame([1,3,5,2,4,8,2,2])) #1
 print(Solution().minMaxGame([3])) #3
 print(Solution().minMaxGame([10,3,6,9])) #3
