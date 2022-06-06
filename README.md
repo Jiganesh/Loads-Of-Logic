@@ -90,6 +90,7 @@
 - https://leetcode.com/problems/find-the-k-beauty-of-a-number/ ```Easy```
 - https://leetcode.com/problems/squares-of-a-sorted-array/ ```Easy```
 - https://leetcode.com/problems/pascals-triangle-ii/ ```Easy```
+- https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/ ```Medium```
 
 </details>
 
@@ -207,7 +208,11 @@
 - https://leetcode.com/problems/kth-distinct-string-in-an-array/ ```Easy```
 - https://leetcode.com/problems/max-number-of-k-sum-pairs/  ```Medium```
 - https://leetcode.com/problems/contains-duplicate/  ```Easy```
+<<<<<<< HEAD
 - https://leetcode.com/problems/contains-duplicate-iii/ ```Medium```
+=======
+- https://leetcode.com/problems/replace-elements-in-an-array/ ```Medium```
+>>>>>>> patch-2
 
 </details>
 
@@ -260,6 +265,7 @@
 - https://leetcode.com/problems/remove-nth-node-from-end-of-list/ ```Medium```
 - https://leetcode.com/problems/swapping-nodes-in-a-linked-list/ ```Medium```
 - https://leetcode.com/problems/plus-one-linked-list/ ```Medium``` ```Premium```
+- https://leetcode.com/problems/intersection-of-two-linked-lists/ ```Easy```
 
 </details>
 
