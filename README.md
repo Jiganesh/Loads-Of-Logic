@@ -101,6 +101,13 @@
 
 </details>
 
+
+<details>
+<summary>Backtracking</summary>
+
+- https://leetcode.com/problems/generate-parentheses/ ```Medium```
+</details>
+
 <details>
 <summary>Design</summary>
 
