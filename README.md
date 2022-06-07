@@ -101,6 +101,17 @@
 
 </details>
 
+
+<details>
+<summary>Backtracking</summary>
+
+- https://leetcode.com/problems/generate-parentheses/ ```Medium```
+- https://leetcode.com/problems/combination-sum/ ```Medium```
+- https://leetcode.com/problems/combination-sum-ii/  ```Medium``` 
+
+
+</details>
+
 <details>
 <summary>Design</summary>
 
@@ -201,6 +212,7 @@
 - https://leetcode.com/problems/max-number-of-k-sum-pairs/  ```Medium```
 - https://leetcode.com/problems/contains-duplicate/  ```Easy```
 - https://leetcode.com/problems/replace-elements-in-an-array/ ```Medium```
+- https://leetcode.com/problems/longest-harmonious-subsequence/ ```Medium```
 
 </details>
 
@@ -313,6 +325,7 @@
 - https://leetcode.com/problems/arranging-coins/ ```Easy```
 - https://leetcode.com/problems/binary-search/ ```Very Easy```
 - https://leetcode.com/problems/check-if-n-and-its-double-exist/ ```Easy```
+- https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ ```Medium```
 - https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/ ```Easy```
 - https://leetcode.com/problems/fair-candy-swap/ ```Easy```
 - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ ```Easy```
@@ -439,6 +452,8 @@
 - https://leetcode.com/problems/contains-duplicate/ ```Easy```
 - https://leetcode.com/problems/rearrange-characters-to-make-target-string/ ```Easy```
 - https://leetcode.com/problems/find-common-characters/ ```Easy```
+- https://leetcode.com/problems/remove-palindromic-subsequences/ ```Easy```
+
 </details>
 
 <details>
