@@ -503,6 +503,7 @@
 - https://leetcode.com/problems/binary-tree-preorder-traversal/ ```Easy```
 - https://leetcode.com/problems/n-ary-tree-preorder-traversal/  ```Easy```
 - https://leetcode.com/problems/minimum-depth-of-binary-tree/ ```Easy```
+- https://leetcode.com/problems/min-cost-to-connect-all-points/ ```Medium```
 
 
 </details>

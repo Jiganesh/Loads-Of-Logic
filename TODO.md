@@ -4,7 +4,7 @@
 
 - [ ] Contest 290 Questions 
 
-- [ ] https://leetcode.com/problems/min-cost-to-connect-all-points/  ```Minimum Spanning Tree```
+- [x] https://leetcode.com/problems/min-cost-to-connect-all-points/  ```Minimum Spanning Tree```
 
 - [ ] https://leetcode.com/problems/smallest-string-with-swaps/  ```Medium```
 
