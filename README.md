@@ -106,13 +106,10 @@
 <summary>Backtracking</summary>
 
 - https://leetcode.com/problems/generate-parentheses/ ```Medium```
-<<<<<<< HEAD
 - https://leetcode.com/problems/combination-sum/ ```Medium```
 - https://leetcode.com/problems/combination-sum-ii/  ```Medium``` 
 
 
-=======
->>>>>>> 65053be6165d93af72a11363ce56ba0b703c000c
 </details>
 
 <details>
@@ -492,7 +489,9 @@
 - https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/ ```Medium```
 - https://leetcode.com/problems/critical-connections-in-a-network/ ```Hard```
 - https://leetcode.com/problems/binary-tree-preorder-traversal/ ```Easy```
-- https://leetcode.com/problems/n-ary-tree-preorder-traversal/
+- https://leetcode.com/problems/n-ary-tree-preorder-traversal/ ```Easy```
+- https://leetcode.com/problems/binary-tree-level-order-traversal/ ```Medium```
+- https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ ```Medium```
 
 
 </details>
