@@ -536,6 +536,11 @@
 - overflow & underflow
     - String to Integer - Handling Integer Overflow and Underflow
 
+- graphs
+    - Graph Representation
+    - BFS
+    - DFS
+
 </details>
 
 <a href= "https://github.com/Jiganesh/High-On-DSA/blob/main/CONTRIBUTING.md" title ="Click Me !!"><h4> Wanna Contribute to this repository !! </h4></a>
