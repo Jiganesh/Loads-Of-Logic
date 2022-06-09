@@ -540,6 +540,9 @@
     - Graph Representation
     - BFS
     - DFS
+    - Cycle Detection Using BFS
+    - Cycle Detection Using DFS
+    
 
 </details>
 
