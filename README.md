@@ -252,6 +252,7 @@
 - https://leetcode.com/problems/running-sum-of-1d-array/ ```Easy```
 - https://leetcode.com/problems/minimum-average-difference/ ```Medium```
 - https://leetcode.com/problems/number-of-ways-to-split-array/ ```Medium```
+- https://leetcode.com/problems/random-pick-with-weight/ ```Medium```
 
 
 </details>
