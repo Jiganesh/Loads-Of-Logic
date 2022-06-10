@@ -107,6 +107,17 @@
 
 </details>
 
+
+<details>
+<summary>Backtracking</summary>
+
+- https://leetcode.com/problems/generate-parentheses/ ```Medium```
+- https://leetcode.com/problems/combination-sum/ ```Medium```
+- https://leetcode.com/problems/combination-sum-ii/  ```Medium``` 
+
+
+</details>
+
 <details>
 <summary>Design</summary>
 
@@ -173,6 +184,12 @@
 
 
 <details>
+<summary>Graphs</summary>
+- https://leetcode.com/problems/flood-fill/  ```Easy```
+- https://leetcode.com/problems/is-graph-bipartite/ ```Medium```
+</details>
+
+<details>
 <summary>Greedy</summary>
 
 - https://leetcode.com/problems/can-place-flowers/ ```Easy```
@@ -193,8 +210,6 @@
 - https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/ ```Easy```
 - https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/ ```Medium````
 
-
-
 </details>
 
 
@@ -210,6 +225,7 @@
 - https://leetcode.com/problems/contains-duplicate/  ```Easy```
 - https://leetcode.com/problems/contains-duplicate-iii/ ```Medium```
 - https://leetcode.com/problems/replace-elements-in-an-array/ ```Medium```
+- https://leetcode.com/problems/longest-harmonious-subsequence/ ```Medium```
 
 </details>
 
@@ -322,6 +338,7 @@
 - https://leetcode.com/problems/arranging-coins/ ```Easy```
 - https://leetcode.com/problems/binary-search/ ```Very Easy```
 - https://leetcode.com/problems/check-if-n-and-its-double-exist/ ```Easy```
+- https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ ```Medium```
 - https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/ ```Easy```
 - https://leetcode.com/problems/fair-candy-swap/ ```Easy```
 - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ ```Easy```
@@ -448,6 +465,8 @@
 - https://leetcode.com/problems/contains-duplicate/ ```Easy```
 - https://leetcode.com/problems/rearrange-characters-to-make-target-string/ ```Easy```
 - https://leetcode.com/problems/find-common-characters/ ```Easy```
+- https://leetcode.com/problems/remove-palindromic-subsequences/ ```Easy```
+
 </details>
 
 
@@ -487,6 +506,9 @@
 - https://leetcode.com/problems/binary-tree-preorder-traversal/ ```Easy```
 - https://leetcode.com/problems/n-ary-tree-preorder-traversal/  ```Easy```
 - https://leetcode.com/problems/minimum-depth-of-binary-tree/ ```Easy```
+- https://leetcode.com/problems/n-ary-tree-preorder-traversal/ ```Easy```
+- https://leetcode.com/problems/binary-tree-level-order-traversal/ ```Medium```
+- https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ ```Medium```
 
 
 </details>
@@ -530,6 +552,14 @@
 
 - overflow & underflow
     - String to Integer - Handling Integer Overflow and Underflow
+
+- graphs
+    - Graph Representation
+    - BFS
+    - DFS
+    - Cycle Detection Using BFS
+    - Cycle Detection Using DFS
+    
 
 </details>
 
