@@ -255,6 +255,7 @@
 - https://leetcode.com/problems/running-sum-of-1d-array/ ```Easy```
 - https://leetcode.com/problems/minimum-average-difference/ ```Medium```
 - https://leetcode.com/problems/number-of-ways-to-split-array/ ```Medium```
+- https://leetcode.com/problems/random-pick-with-weight/ ```Medium```
 
 
 </details>
@@ -506,9 +507,13 @@
 - https://leetcode.com/problems/binary-tree-preorder-traversal/ ```Easy```
 - https://leetcode.com/problems/n-ary-tree-preorder-traversal/  ```Easy```
 - https://leetcode.com/problems/minimum-depth-of-binary-tree/ ```Easy```
+<<<<<<< HEAD
 - https://leetcode.com/problems/n-ary-tree-preorder-traversal/ ```Easy```
 - https://leetcode.com/problems/binary-tree-level-order-traversal/ ```Medium```
 - https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ ```Medium```
+=======
+- https://leetcode.com/problems/min-cost-to-connect-all-points/ ```Medium```
+>>>>>>> 816f895f5640dc3668474e527dbb619d8a248c02
 
 
 </details>
