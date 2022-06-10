@@ -1,6 +1,7 @@
 <img src= ".dev/highOnDSABanner.png" height= 40%  width = 140%>
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 344 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-2-orange?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 362 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-18-orange?">
+
 
 
 
@@ -507,13 +508,9 @@
 - https://leetcode.com/problems/binary-tree-preorder-traversal/ ```Easy```
 - https://leetcode.com/problems/n-ary-tree-preorder-traversal/  ```Easy```
 - https://leetcode.com/problems/minimum-depth-of-binary-tree/ ```Easy```
-<<<<<<< HEAD
-- https://leetcode.com/problems/n-ary-tree-preorder-traversal/ ```Easy```
 - https://leetcode.com/problems/binary-tree-level-order-traversal/ ```Medium```
 - https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ ```Medium```
-=======
 - https://leetcode.com/problems/min-cost-to-connect-all-points/ ```Medium```
->>>>>>> 816f895f5640dc3668474e527dbb619d8a248c02
 
 
 </details>
