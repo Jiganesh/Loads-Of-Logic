@@ -182,6 +182,7 @@
 
 <details>
 <summary>Graphs</summary>
+
 - https://leetcode.com/problems/flood-fill/  ```Easy```
 - https://leetcode.com/problems/is-graph-bipartite/ ```Medium```
 </details>
@@ -223,7 +224,7 @@
 - https://leetcode.com/problems/contains-duplicate-iii/ ```Medium```
 - https://leetcode.com/problems/replace-elements-in-an-array/ ```Medium```
 - https://leetcode.com/problems/longest-harmonious-subsequence/ ```Medium```
-
+- https://leetcode.com/problems/distribute-candies/ ```Easy```
 </details>
 
 
