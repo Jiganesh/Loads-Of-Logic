@@ -88,6 +88,7 @@
 - https://leetcode.com/problems/squares-of-a-sorted-array/ ```Easy```
 - https://leetcode.com/problems/pascals-triangle-ii/ ```Easy```
 - https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/ ```Medium```
+- https://leetcode.com/problems/calculate-amount-paid-in-taxes/ ```Easy```
 
 </details>
 
@@ -125,6 +126,7 @@
 - https://leetcode.com/problems/encode-and-decode-tinyurl/ ``` Medium```
 - https://leetcode.com/problems/peeking-iterator/ ```Medium```
 - https://leetcode.com/problems/implement-stack-using-queues/ ```Easy```
+- https://leetcode.com/problems/fair-distribution-of-cookies/submissions/ ```Medium```
 
 
 </details>
@@ -176,6 +178,13 @@
 - https://leetcode.com/problems/word-break/ ```Medium```
 - https://leetcode.com/problems/word-break-ii/ ```Hard```
 - https://leetcode.com/problems/unique-paths/ ```Medium```
+- https://leetcode.com/problems/triangle/ ```Medium```
+- https://leetcode.com/problems/minimum-path-cost-in-a-grid/ ```Medium```
+- https://leetcode.com/problems/edit-distance/ ```Hard```
+- https://leetcode.com/problems/longest-string-chain/ ```Medium```
+- https://leetcode.com/problems/maximum-profit-in-job-scheduling/ ```Hard```
+- https://leetcode.com/problems/maximum-earnings-from-taxi/ ```Medium```
+
 
 </details>
 
@@ -206,7 +215,7 @@
 - https://leetcode.com/problems/two-city-scheduling/ ```Medium```
 - https://leetcode.com/problems/container-with-most-water/ ```Medium```
 - https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/ ```Easy```
-- https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/ ```Medium````
+- https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/ ```Medium```
 
 </details>
 
@@ -254,8 +263,11 @@
 - https://leetcode.com/problems/minimum-average-difference/ ```Medium```
 - https://leetcode.com/problems/number-of-ways-to-split-array/ ```Medium```
 - https://leetcode.com/problems/random-pick-with-weight/ ```Medium```
-
-
+- https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/ ```Medium```
+- https://leetcode.com/problems/count-subarrays-with-score-less-than-k/ ```Medium```
+- https://leetcode.com/problems/maximum-erasure-value/ ```Medium```
+- https://leetcode.com/problems/frequency-of-the-most-frequent-element/ ```Medium```
+ 
 </details>
 
 
@@ -299,6 +311,7 @@
 - https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/ ```Medium```
 - https://leetcode.com/problems/maximum-product-after-k-increments/k  ```Medium```
 - https://leetcode.com/problems/design-an-atm-machine/ ```Medium```
+- https://leetcode.com/problems/count-lattice-points-inside-a-circle/ ```Medium```
 
 </details>
 
@@ -369,6 +382,8 @@
 - https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/ ```Easy```
 - https://leetcode.com/problems/median-of-two-sorted-arrays/ ```Hard```
 - https://leetcode.com/problems/maximum-candies-allocated-to-k-children/ ```Medium```
+- https://leetcode.com/problems/successful-pairs-of-spells-and-potions/ ```Medium```
+- https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/ ```Medium```
 
 
 </details>
@@ -400,7 +415,9 @@
 </details>
 
 <details>
+
 <summary>Stack</summary>
+
 - https://leetcode.com/problems/daily-temperatures/ ```Medium```
 - https://leetcode.com/problems/min-stack/ ```Easy```
 - https://leetcode.com/problems/backspace-string-compare/ ```Easy```
@@ -465,6 +482,7 @@
 - https://leetcode.com/problems/rearrange-characters-to-make-target-string/ ```Easy```
 - https://leetcode.com/problems/find-common-characters/ ```Easy```
 - https://leetcode.com/problems/remove-palindromic-subsequences/ ```Easy```
+- https://leetcode.com/problems/strong-password-checker-ii/ ```Easy```
 
 </details>
 
@@ -508,6 +526,7 @@
 - https://leetcode.com/problems/binary-tree-level-order-traversal/ ```Medium```
 - https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ ```Medium```
 - https://leetcode.com/problems/min-cost-to-connect-all-points/ ```Medium```
+- https://leetcode.com/problems/binary-tree-cameras/ ```Hard```
 
 
 </details>
@@ -558,6 +577,11 @@
     - DFS
     - Cycle Detection Using BFS
     - Cycle Detection Using DFS
+    - Cycle Detection Using BFS in DAG
+    - Cycle Detection Using DFS in DAG
+    - Topological Sort (Linear Ordering of Vertices such that if there is and edge u --> v, u appears before v in that ordering 
+    )
+
     
 
 </details>
