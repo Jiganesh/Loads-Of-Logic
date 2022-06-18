@@ -234,6 +234,9 @@
 - https://leetcode.com/problems/replace-elements-in-an-array/ ```Medium```
 - https://leetcode.com/problems/longest-harmonious-subsequence/ ```Medium```
 - https://leetcode.com/problems/distribute-candies/ ```Easy```
+- https://leetcode.com/problems/prefix-and-suffix-search/ ```Hard```
+- https://leetcode.com/problems/longest-word-in-dictionary/ ```Medium```
+
 </details>
 
 
@@ -483,6 +486,7 @@
 - https://leetcode.com/problems/find-common-characters/ ```Easy```
 - https://leetcode.com/problems/remove-palindromic-subsequences/ ```Easy```
 - https://leetcode.com/problems/strong-password-checker-ii/ ```Easy```
+- https://leetcode.com/problems/number-of-segments-in-a-string/ ```Easy```
 
 </details>
 
@@ -527,7 +531,11 @@
 - https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ ```Medium```
 - https://leetcode.com/problems/min-cost-to-connect-all-points/ ```Medium```
 - https://leetcode.com/problems/binary-tree-cameras/ ```Hard```
-
+- https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/ ```Hard```
+- https://leetcode.com/problems/invert-binary-tree/ ```Easy```
+- https://leetcode.com/problems/maximum-width-of-binary-tree/ ```Medium```
+- https://leetcode.com/problems/even-odd-tree/ ```Medium```
+- https://leetcode.com/problems/find-largest-value-in-each-tree-row/ ```Medium```
 
 </details>
 
@@ -579,8 +587,7 @@
     - Cycle Detection Using DFS
     - Cycle Detection Using BFS in DAG
     - Cycle Detection Using DFS in DAG
-    - Topological Sort (Linear Ordering of Vertices such that if there is and edge u --> v, u appears before v in that ordering 
-    )
+    - Topological Sort (Linear Ordering of Vertices such that if there is and edge u --> v, u appears before v in that ordering )
 
     
 
