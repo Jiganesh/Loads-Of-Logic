@@ -24,11 +24,12 @@ class heap:
             self.heapify(n, largest)
             
     def push (self,  number):
-        n = len(self.array)
-        if n == 0:
+        if len(self.array) == 0:
             self.array.append(number)
         else:
+
             self.array.append(number)
+            n = len(self.array)
             for i in range ((n//2)-1, -1, -1):
                 self.heapify(n, i)
                 
@@ -43,6 +44,7 @@ class heap:
             for i in range (n//2 , -1, -1):
                 self.heapify(n, i)
             max = self.array [0]
+            print("Popped Value : ", max)
             self.array = self.array[1:]
             return max
             
@@ -67,8 +69,10 @@ h.push(6)
 h.push(2)
 h.push(4)
 h.push(3)
-h.heap_sort()
 h.push(55)
 h.push(52)
+h.heap_sort()
+h.pop()
 h.pop()
 h.heap_sort()
+h.pop()
