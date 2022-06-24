@@ -1,6 +1,7 @@
 <img src= ".dev/highOnDSABanner.png" height= 40%  width = 140%>
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 388 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-26-orange?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 403 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-15-orange?">
+
 
 
 
@@ -113,6 +114,9 @@
 - https://leetcode.com/problems/generate-parentheses/ ```Medium```
 - https://leetcode.com/problems/combination-sum/ ```Medium```
 - https://leetcode.com/problems/combination-sum-ii/  ```Medium``` 
+- https://leetcode.com/problems/n-queens/ ```Hard```
+- https://leetcode.com/problems/n-queens-ii/  ```Hard```
+- https://leetcode.com/problems/combinations/ ```Medium```
 
 
 </details>
@@ -185,6 +189,7 @@
 - https://leetcode.com/problems/longest-string-chain/ ```Medium```
 - https://leetcode.com/problems/maximum-profit-in-job-scheduling/ ```Hard```
 - https://leetcode.com/problems/maximum-earnings-from-taxi/ ```Medium```
+- https://leetcode.com/problems/jump-game/ ```Medium```
 
 
 </details>
@@ -195,6 +200,7 @@
 
 - https://leetcode.com/problems/flood-fill/  ```Easy```
 - https://leetcode.com/problems/is-graph-bipartite/ ```Medium```
+
 </details>
 
 <details>
@@ -246,6 +252,9 @@
 
 - https://leetcode.com/problems/last-stone-weight/ ```Easy``` ```Recommended```
 - https://leetcode.com/problems/top-k-frequent-elements/ ```Medium```
+- https://leetcode.com/problems/furthest-building-you-can-reach/ ```Medium```
+- https://leetcode.com/problems/course-schedule-iii/ ```Hard```
+- https://leetcode.com/problems/construct-target-array-with-multiple-sums/ ```Hard```
 
 </details>
 
@@ -265,13 +274,16 @@
 - https://leetcode.com/problems/find-the-middle-index-in-array/submissions/ ```Easy```
 - https://leetcode.com/problems/running-sum-of-1d-array/ ```Easy```
 - https://leetcode.com/problems/minimum-average-difference/ ```Medium```
+- https://leetcode.com/problems/top-k-frequent-words/ ```Easy```
 - https://leetcode.com/problems/number-of-ways-to-split-array/ ```Medium```
 - https://leetcode.com/problems/random-pick-with-weight/ ```Medium```
 - https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/ ```Medium```
 - https://leetcode.com/problems/count-subarrays-with-score-less-than-k/ ```Medium```
 - https://leetcode.com/problems/maximum-erasure-value/ ```Medium```
 - https://leetcode.com/problems/frequency-of-the-most-frequent-element/ ```Medium```
- 
+- https://leetcode.com/problems/xor-queries-of-a-subarray/ ```Medium```
+
+
 </details>
 
 
@@ -316,6 +328,7 @@
 - https://leetcode.com/problems/maximum-product-after-k-increments/k  ```Medium```
 - https://leetcode.com/problems/design-an-atm-machine/ ```Medium```
 - https://leetcode.com/problems/count-lattice-points-inside-a-circle/ ```Medium```
+- https://leetcode.com/problems/super-pow/ ```Medium```
 
 </details>
 
@@ -342,9 +355,9 @@
 
 - https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ ```Easy```
 - https://www.geeksforgeeks.org/sum-triangle-from-array/ ```Easy``` ```GFG```
-- https://leetcode.com/problems/n-queens/ ```Hard```
 - https://leetcode.com/problems/sudoku-solver/ ```Hard```
 - https://leetcode.com/problems/combination-sum-iii/  ```Medium```
+
 </details>
 
 
@@ -388,6 +401,7 @@
 - https://leetcode.com/problems/maximum-candies-allocated-to-k-children/ ```Medium```
 - https://leetcode.com/problems/successful-pairs-of-spells-and-potions/ ```Medium```
 - https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/ ```Medium```
+- https://leetcode.com/problems/powx-n/ ```Medium```
 
 
 </details>
@@ -405,6 +419,7 @@
     - https://leetcode.com/problems/missing-number/ ```Easy```
     - https://leetcode.com/problems/sender-with-largest-word-count/ ```Medium``` ```Array```
     - https://leetcode.com/problems/maximum-total-importance-of-roads/  ```Medium```
+    - https://leetcode.com/problems/top-k-frequent-words/ ```Medium```
 
 
 - CycleSort
@@ -488,6 +503,10 @@
 - https://leetcode.com/problems/remove-palindromic-subsequences/ ```Easy```
 - https://leetcode.com/problems/strong-password-checker-ii/ ```Easy```
 - https://leetcode.com/problems/number-of-segments-in-a-string/ ```Easy```
+- https://leetcode.com/problems/string-without-aaa-or-bbb/ ```Medium```
+- https://leetcode.com/problems/search-suggestions-system/ ```Medium```
+- https://leetcode.com/problems/short-encoding-of-words/ ```Medium```
+- https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/ ```Easy```
 
 </details>
 

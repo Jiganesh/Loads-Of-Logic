@@ -1,9 +1,6 @@
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-
-
-
 f = open("README.md","r")
 lines =[ i for i in f.readlines()]
 
