@@ -223,6 +223,7 @@
 - https://leetcode.com/problems/container-with-most-water/ ```Medium```
 - https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/ ```Easy```
 - https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/ ```Medium```
+- https://leetcode.com/problems/removing-minimum-and-maximum-from-array/ ```Medium```
 
 </details>
 
@@ -243,7 +244,7 @@
 - https://leetcode.com/problems/distribute-candies/ ```Easy```
 - https://leetcode.com/problems/prefix-and-suffix-search/ ```Hard```
 - https://leetcode.com/problems/longest-word-in-dictionary/ ```Medium```
-
+- https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/ ```Medium```
 </details>
 
 
@@ -255,6 +256,7 @@
 - https://leetcode.com/problems/furthest-building-you-can-reach/ ```Medium```
 - https://leetcode.com/problems/course-schedule-iii/ ```Hard```
 - https://leetcode.com/problems/construct-target-array-with-multiple-sums/ ```Hard```
+- https://leetcode.com/problems/sort-the-matrix-diagonally/ ```Medium```
 
 </details>
 
@@ -282,7 +284,8 @@
 - https://leetcode.com/problems/maximum-erasure-value/ ```Medium```
 - https://leetcode.com/problems/frequency-of-the-most-frequent-element/ ```Medium```
 - https://leetcode.com/problems/xor-queries-of-a-subarray/ ```Medium```
-
+- https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/ ```Medium```
+- https://leetcode.com/problems/find-good-days-to-rob-the-bank/  ```Medium```
 
 </details>
 
@@ -461,6 +464,7 @@
 - https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/ ```Easy```
 - https://leetcode.com/problems/steps-to-make-array-non-decreasing/ ```Medium```
 - https://leetcode.com/problems/maximum-product-of-word-lengths/ ```Medium```
+- https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/ ```Medium```
 
 </details>
 
