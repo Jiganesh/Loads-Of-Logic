@@ -92,6 +92,7 @@
 - https://leetcode.com/problems/pascals-triangle-ii/ ```Easy```
 - https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/ ```Medium```
 - https://leetcode.com/problems/calculate-amount-paid-in-taxes/ ```Easy```
+- https://leetcode.com/problems/check-if-matrix-is-x-matrix/ ```Easy```
 
 </details>
 
@@ -201,6 +202,7 @@
 
 - https://leetcode.com/problems/flood-fill/  ```Easy```
 - https://leetcode.com/problems/is-graph-bipartite/ ```Medium```
+- https://leetcode.com/problems/jump-game-vii/ 
 
 </details>
 
@@ -283,6 +285,7 @@
 - https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/ ```Medium```
 - https://leetcode.com/problems/count-subarrays-with-score-less-than-k/ ```Medium```
 - https://leetcode.com/problems/maximum-erasure-value/ ```Medium```
+- https://leetcode.com/problems/non-decreasing-array/ ```Medium```
 - https://leetcode.com/problems/frequency-of-the-most-frequent-element/ ```Medium```
 - https://leetcode.com/problems/xor-queries-of-a-subarray/ ```Medium```
 - https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/ ```Medium```
@@ -561,6 +564,7 @@
 - https://leetcode.com/problems/maximum-width-of-binary-tree/ ```Medium```
 - https://leetcode.com/problems/even-odd-tree/ ```Medium```
 - https://leetcode.com/problems/find-largest-value-in-each-tree-row/ ```Medium```
+- https://leetcode.com/problems/binary-tree-tilt/ ```Easy```
 
 </details>
 

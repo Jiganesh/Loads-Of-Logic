@@ -26,5 +26,3 @@ from typing import List
 # # oddXor(3, [2,3,4], 1, [1], [3])
 # oddXor(3, [2,3,5], 2, [1,2], [3,2])
 # # oddXor(3, [2,3,5], 2, [1,1], [3,1])
-print(5)
-print(5>>2)
