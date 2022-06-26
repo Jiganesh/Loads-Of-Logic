@@ -194,6 +194,8 @@
 
 - https://leetcode.com/problems/flood-fill/  ```Easy```
 - https://leetcode.com/problems/is-graph-bipartite/ ```Medium```
+- https://leetcode.com/problems/jump-game-vii/ 
+
 </details>
 
 <details>
@@ -269,6 +271,7 @@
 - https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/ ```Medium```
 - https://leetcode.com/problems/count-subarrays-with-score-less-than-k/ ```Medium```
 - https://leetcode.com/problems/maximum-erasure-value/ ```Medium```
+- https://leetcode.com/problems/non-decreasing-array/ ```Medium```
 - https://leetcode.com/problems/frequency-of-the-most-frequent-element/ ```Medium```
  
 </details>
@@ -536,6 +539,7 @@
 - https://leetcode.com/problems/maximum-width-of-binary-tree/ ```Medium```
 - https://leetcode.com/problems/even-odd-tree/ ```Medium```
 - https://leetcode.com/problems/find-largest-value-in-each-tree-row/ ```Medium```
+- https://leetcode.com/problems/binary-tree-tilt/ ```Easy```
 
 </details>
 
