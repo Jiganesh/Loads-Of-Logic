@@ -89,6 +89,7 @@
 - https://leetcode.com/problems/pascals-triangle-ii/ ```Easy```
 - https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/ ```Medium```
 - https://leetcode.com/problems/calculate-amount-paid-in-taxes/ ```Easy```
+- https://leetcode.com/problems/check-if-matrix-is-x-matrix/ ```Easy```
 
 </details>
 
