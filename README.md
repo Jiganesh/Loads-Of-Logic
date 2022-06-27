@@ -229,6 +229,7 @@
 - https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/ ```Medium```
 - https://leetcode.com/problems/removing-minimum-and-maximum-from-array/ ```Medium```
 - https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/ ```Medium```
+- https://leetcode.com/problems/largest-number/ ```Medium```
 
 
 </details>
