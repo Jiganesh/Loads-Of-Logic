@@ -202,7 +202,8 @@
 
 - https://leetcode.com/problems/flood-fill/  ```Easy```
 - https://leetcode.com/problems/is-graph-bipartite/ ```Medium```
-- https://leetcode.com/problems/jump-game-vii/ 
+- https://leetcode.com/problems/jump-game-vii/  ```Medium```
+- https://leetcode.com/problems/find-center-of-star-graph/ ```Easy```
 
 </details>
 

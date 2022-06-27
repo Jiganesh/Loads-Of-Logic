@@ -15,3 +15,4 @@
 - [ ] Monotonic Stack Problems
 
 - [ ] Partitioning Algorithm Find Median of Medians
+- [ ] Change minimum characters to satisfy conditions
