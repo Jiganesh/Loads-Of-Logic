@@ -523,6 +523,7 @@
 - https://leetcode.com/problems/short-encoding-of-words/ ```Medium```
 - https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/ ```Easy```
 - https://leetcode.com/problems/unique-morse-code-words/ ```Easy```
+- https://leetcode.com/problems/count-asterisks/ ```Easy```
 
 </details>
 
