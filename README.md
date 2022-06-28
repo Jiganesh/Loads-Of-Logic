@@ -134,6 +134,7 @@
 - https://leetcode.com/problems/peeking-iterator/ ```Medium```
 - https://leetcode.com/problems/implement-stack-using-queues/ ```Easy```
 - https://leetcode.com/problems/fair-distribution-of-cookies/submissions/ ```Medium```
+- https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/ ```Medium```
 
 
 </details>
@@ -230,6 +231,7 @@
 - https://leetcode.com/problems/removing-minimum-and-maximum-from-array/ ```Medium```
 - https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/ ```Medium```
 - https://leetcode.com/problems/largest-number/ ```Medium```
+- https://leetcode.com/problems/smallest-value-of-the-rearranged-number/ ```Medium``` 
 
 
 </details>
@@ -578,6 +580,9 @@
 <summary>Tries</summary>
 
 - https://leetcode.com/problems/design-add-and-search-words-data-structure/ ```Medium```
+- https://leetcode.com/problems/camelcase-matching/ ```Medium```
+- https://leetcode.com/problems/longest-word-in-dictionary/ ```Medium```
+- https://leetcode.com/problems/short-encoding-of-words/ ```Medium```
 
 </details>
 

@@ -4,21 +4,22 @@
 from itertools import Counter
 class Solution:
     
-    # Runtime: 179 ms, faster than 73.38% of Python3 online submissions for Minimum Deletions to Make Character Frequencies Unique.
-    # Memory Usage: 14.8 MB, less than 52.51% of Python3 online submissions for Minimum Deletions to Make Character Frequencies Unique.
+    # Runtime: 121 ms, faster than 97.86% of Python3 online submissions for Minimum Deletions to Make Character Frequencies Unique.
+    # Memory Usage: 14.8 MB, less than 93.89% of Python3 online submissions for Minimum Deletions to Make Character Frequencies Unique.
     def minDeletions(self, s: str) -> int:
 
         dictionary = Counter(s)
         
-        unique = set()
-        deletions = 0
+        frequency_chart = set()
         
-        for _, val in dictionary.items():
-            while val in unique and val :
-                val-=1
+        deletions = 0
+        for _ , value in dictionary.items():
+            
+            while value>0 and value in frequency_chart:
                 deletions+=1
-            unique.add(val)
-                
+                value-=1
+            
+            frequency_chart.add(value)
         
         return deletions
                 

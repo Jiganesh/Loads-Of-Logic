@@ -17,5 +17,10 @@ def cmp(x, y):
     
 a = sorted([3,1,1,2], key= cmp_to_key(cmp))
 print(a)
+```
 
+- [x] defaultdict
+
+``` python
+nested_dictionary = defaultdict( lambda: defaulddict(int))
 ```
