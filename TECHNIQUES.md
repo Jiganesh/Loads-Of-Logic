@@ -24,3 +24,16 @@ print(a)
 ``` python
 nested_dictionary = defaultdict( lambda: defaulddict(int))
 ```
+
+Partitions
+```python
+
+original = [1,2,3,4]
+elements = 2
+
+array = iter(original)
+matrix = [*zip(*elements*(array,))]
+
+#matrix = [[1,2],[3,4]]
+
+```

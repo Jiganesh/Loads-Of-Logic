@@ -93,6 +93,7 @@
 - https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/ ```Medium```
 - https://leetcode.com/problems/calculate-amount-paid-in-taxes/ ```Easy```
 - https://leetcode.com/problems/check-if-matrix-is-x-matrix/ ```Easy```
+- https://leetcode.com/problems/convert-1d-array-into-2d-array/ ```Easy```
 
 </details>
 
@@ -521,6 +522,7 @@
 - https://leetcode.com/problems/search-suggestions-system/ ```Medium```
 - https://leetcode.com/problems/short-encoding-of-words/ ```Medium```
 - https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/ ```Easy```
+- https://leetcode.com/problems/unique-morse-code-words/ ```Easy```
 
 </details>
 
