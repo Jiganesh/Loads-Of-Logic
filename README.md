@@ -94,6 +94,7 @@
 - https://leetcode.com/problems/calculate-amount-paid-in-taxes/ ```Easy```
 - https://leetcode.com/problems/check-if-matrix-is-x-matrix/ ```Easy```
 - https://leetcode.com/problems/convert-1d-array-into-2d-array/ ```Easy```
+- https://leetcode.com/problems/rotate-image/ ```Medium```
 
 </details>
 
@@ -233,6 +234,8 @@
 - https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/ ```Medium```
 - https://leetcode.com/problems/largest-number/ ```Medium```
 - https://leetcode.com/problems/smallest-value-of-the-rearranged-number/ ```Medium``` 
+- https://leetcode.com/problems/minimum-moves-to-equal-array-elements/ ```Medium```
+- https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/ ```Medium```
 
 
 </details>
@@ -267,6 +270,8 @@
 - https://leetcode.com/problems/course-schedule-iii/ ```Hard```
 - https://leetcode.com/problems/construct-target-array-with-multiple-sums/ ```Hard```
 - https://leetcode.com/problems/sort-the-matrix-diagonally/ ```Medium```
+- https://leetcode.com/problems/sliding-window-maximum/ ```Hard```
+
 
 </details>
 
@@ -434,6 +439,7 @@
     - https://leetcode.com/problems/sender-with-largest-word-count/ ```Medium``` ```Array```
     - https://leetcode.com/problems/maximum-total-importance-of-roads/  ```Medium```
     - https://leetcode.com/problems/top-k-frequent-words/ ```Medium```
+    - https://leetcode.com/problems/queue-reconstruction-by-height/ ```Medium```
 
 
 - CycleSort
