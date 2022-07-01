@@ -419,6 +419,7 @@
 - https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/ ```Medium```
 - https://leetcode.com/problems/powx-n/ ```Medium```
 - https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ ```Medium```
+- https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/ ```Medium```
 
 
 </details>
