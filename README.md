@@ -3,10 +3,6 @@
 <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 409 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-6-orange?">
 
 
-
-
-
-
 *Click below to expand  and view problems.*
 
 <img style=" " src =".dev/donutDifficulty.png" alt="difficulty chart" height = "100rem" align =right>
@@ -236,6 +232,7 @@
 - https://leetcode.com/problems/smallest-value-of-the-rearranged-number/ ```Medium``` 
 - https://leetcode.com/problems/minimum-moves-to-equal-array-elements/ ```Medium```
 - https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/ ```Medium```
+- https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/ ```Medium```
 
 
 </details>
