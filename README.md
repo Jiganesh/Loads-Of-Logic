@@ -233,7 +233,7 @@
 - https://leetcode.com/problems/minimum-moves-to-equal-array-elements/ ```Medium```
 - https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/ ```Medium```
 - https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/ ```Medium```
-
+- https://leetcode.com/problems/maximum-units-on-a-truck/ ```Easy```
 
 </details>
 
@@ -418,6 +418,7 @@
 - https://leetcode.com/problems/successful-pairs-of-spells-and-potions/ ```Medium```
 - https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/ ```Medium```
 - https://leetcode.com/problems/powx-n/ ```Medium```
+- https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ ```Medium```
 
 
 </details>
