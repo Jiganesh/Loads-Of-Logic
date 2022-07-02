@@ -234,6 +234,7 @@
 - https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/ ```Medium```
 - https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/ ```Medium```
 - https://leetcode.com/problems/maximum-units-on-a-truck/ ```Easy```
+- https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/ ```Medium```
 
 </details>
 
