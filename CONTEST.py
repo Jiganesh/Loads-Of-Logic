@@ -20,3 +20,6 @@ while queries:
     queries-=1
     
 print(result)
+
+
+
