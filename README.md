@@ -580,6 +580,8 @@
 - https://leetcode.com/problems/even-odd-tree/ ```Medium```
 - https://leetcode.com/problems/find-largest-value-in-each-tree-row/ ```Medium```
 - https://leetcode.com/problems/binary-tree-tilt/ ```Easy```
+- https://leetcode.com/problems/path-sum/ ```Easy```
+- https://leetcode.com/problems/path-sum-ii/ ```Medium```
 
 </details>
 
