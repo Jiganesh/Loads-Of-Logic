@@ -37,3 +37,5 @@ matrix = [*zip(*elements*(array,))]
 #matrix = [[1,2],[3,4]]
 
 ```
+
+MOD = 10**9 +7

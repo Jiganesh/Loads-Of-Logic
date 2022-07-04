@@ -192,6 +192,7 @@
 - https://leetcode.com/problems/maximum-profit-in-job-scheduling/ ```Hard```
 - https://leetcode.com/problems/maximum-earnings-from-taxi/ ```Medium```
 - https://leetcode.com/problems/jump-game/ ```Medium```
+- https://leetcode.com/problems/number-of-people-aware-of-a-secret/ ```Medium````
 
 
 </details>
@@ -259,6 +260,7 @@
 - https://leetcode.com/problems/prefix-and-suffix-search/ ```Hard```
 - https://leetcode.com/problems/longest-word-in-dictionary/ ```Medium```
 - https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/ ```Medium```
+- https://leetcode.com/problems/decode-the-message/ ```Easy```
 </details>
 
 
@@ -585,6 +587,7 @@
 - https://leetcode.com/problems/binary-tree-tilt/ ```Easy```
 - https://leetcode.com/problems/path-sum/ ```Easy```
 - https://leetcode.com/problems/path-sum-ii/ ```Medium```
+- https://leetcode.com/problems/path-sum-iii/ ```Medium```
 
 </details>
 
