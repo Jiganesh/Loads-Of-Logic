@@ -235,6 +235,8 @@
 - https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/ ```Medium```
 - https://leetcode.com/problems/maximum-units-on-a-truck/ ```Easy```
 - https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/ ```Medium```
+- https://leetcode.com/problems/wiggle-subsequence/ ```Medium```
+- https://leetcode.com/problems/candy/ ```Hard```
 
 </details>
 
@@ -580,6 +582,8 @@
 - https://leetcode.com/problems/even-odd-tree/ ```Medium```
 - https://leetcode.com/problems/find-largest-value-in-each-tree-row/ ```Medium```
 - https://leetcode.com/problems/binary-tree-tilt/ ```Easy```
+- https://leetcode.com/problems/path-sum/ ```Easy```
+- https://leetcode.com/problems/path-sum-ii/ ```Medium```
 
 </details>
 
