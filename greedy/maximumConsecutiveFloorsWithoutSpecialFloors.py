@@ -3,8 +3,8 @@
 from typing import List
 
 class Solution:
-    # Runtime: 1065 ms, faster than 41.25% of Python3 online submissions for Maximum Consecutive Floors Without Special Floors.
-    # Memory Usage: 28.1 MB, less than 58.83% of Python3 online submissions for Maximum Consecutive Floors Without Special Floors.
+    # Runtime: 892 ms, faster than 70.01% of Python3 online submissions for Maximum Consecutive Floors Without Special Floors.
+    # Memory Usage: 28 MB, less than 87.59% of Python3 online submissions for Maximum Consecutive Floors Without Special Floors.
     def maxConsecutive(self, bottom: int, top: int, special: List[int]) -> int:
         
         
