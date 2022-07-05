@@ -192,7 +192,9 @@
 - https://leetcode.com/problems/maximum-profit-in-job-scheduling/ ```Hard```
 - https://leetcode.com/problems/maximum-earnings-from-taxi/ ```Medium```
 - https://leetcode.com/problems/jump-game/ ```Medium```
-- https://leetcode.com/problems/number-of-people-aware-of-a-secret/ ```Medium````
+- https://leetcode.com/problems/number-of-people-aware-of-a-secret/ ```Medium```
+- https://leetcode.com/problems/minimum-path-sum/ ```Medium```
+
 
 
 </details>
@@ -239,6 +241,8 @@
 - https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/ ```Medium```
 - https://leetcode.com/problems/wiggle-subsequence/ ```Medium```
 - https://leetcode.com/problems/candy/ ```Hard```
+- https://leetcode.com/problems/longest-consecutive-sequence/ ```Medium```
+- https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/ ```Medium```
 
 </details>
 
