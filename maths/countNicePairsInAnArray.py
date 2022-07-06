@@ -45,8 +45,8 @@ class Solution:
     
     We just count all the pairs who have B[i]
     """
-    # Runtime: 1103 ms, faster than 49.63% of Python3 online submissions for Count Nice Pairs in an Array.
-    # Memory Usage: 24.3 MB, less than 97.80% of Python3 online submissions for Count Nice Pairs in an Array.
+    # Runtime: 782 ms, faster than 92.91% of Python3 online submissions for Count Nice Pairs in an Array.
+    # Memory Usage: 24.4 MB, less than 95.84% of Python3 online submissions for Count Nice Pairs in an Array.
 
     def countNicePairs(self, nums: List[int]) -> int:
         
