@@ -17,4 +17,5 @@
 - [ ] Partitioning Algorithm Find Median of Medians
 - [ ] Change minimum characters to satisfy conditions
 - [ ] Maximum Number of points with cost
+- [ ] Maximum Gap and bucket sort
 

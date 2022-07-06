@@ -194,7 +194,7 @@
 - https://leetcode.com/problems/jump-game/ ```Medium```
 - https://leetcode.com/problems/number-of-people-aware-of-a-secret/ ```Medium```
 - https://leetcode.com/problems/minimum-path-sum/ ```Medium```
-
+- https://leetcode.com/problems/fibonacci-number/ ```Easy```
 
 
 </details>

@@ -39,3 +39,16 @@ matrix = [*zip(*elements*(array,))]
 ```
 
 MOD = 10**9 +7
+
+
+```python
+
+list(itertools.chain.from_iterable(sorted_buckets))
+```
+
+```python
+#EdgeCase when sequence is Empty 
+max([] , default = 1)
+
+```
+
