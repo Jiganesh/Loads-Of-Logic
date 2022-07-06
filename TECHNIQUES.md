@@ -40,9 +40,9 @@ matrix = [*zip(*elements*(array,))]
 
 MOD = 10**9 +7
 
+Extend in 2D chain
 
 ```python
-
 list(itertools.chain.from_iterable(sorted_buckets))
 ```
 
@@ -52,3 +52,9 @@ max([] , default = 1)
 
 ```
 
+
+Condition and IF TRUE or IF FALSE
+```python
+n = 5
+result = n%2==0 and "EVEN" or "ODD"
+```
