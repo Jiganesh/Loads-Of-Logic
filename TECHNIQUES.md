@@ -58,3 +58,64 @@ Condition and IF TRUE or IF FALSE
 n = 5
 result = n%2==0 and "EVEN" or "ODD"
 ```
+
+fractions module 
+
+Link : https://www.tutorialspoint.com/fraction-module-in-python
+```python
+
+from fractions import Fraction
+
+n2 = 36
+d2 = 64
+
+num = 33.33
+
+print(Fraction(n2, d2))  # output :  9/16
+print(Fraction(num)) # output : 2345390243441541/70368744177664
+print(Fraction(str(num))) # output : 3333/100
+print(Fraction(0.25)) # output 1/4
+print(Fraction(0.25).numerator) # output 1
+print(Fraction(0.25).denominator) # output 45
+
+
+
+```
+
+
+GCD Learn From : https://www.youtube.com/watch?v=utZcJ0leZ_g
+
+```python
+
+
+a = 96
+b = 64
+
+# a is dividend
+# b is divisor
+
+def gcd (a,  b):
+    
+    if b ==0 : return a
+    else: return gcd(b , a%b)
+    
+print(gcd(a, b))
+```
+
+Fractions Like GCD
+```python
+
+a = 96
+b = 64
+
+
+def gcd (a, b):
+    if b==0 : return a 
+    else : return gcd(b , a%b)
+    
+gcd_ab = gcd(a, b)
+num = a//gcd_ab
+den = b//gcd_ab
+
+result = (num, den) # output (3, 2) and gcd_ab is 32
+```
