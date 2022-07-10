@@ -3,6 +3,23 @@
 
 class Solution(object):
     
+    # Naive Solution 
+    # ACCEPTED
+    def rightSideView(self, root):
+        """
+        :type root: TreeNode
+        :rtype: List[int]
+        """
+        if not root: return []
+        
+        q = [root]
+        result= []
+        while q :
+            result.append(q[-1].val)
+            q = [child for p in q for child in [p.left, p.right] if child]
+            
+        return result
+    
     # TC : O(N)
     # SC : O(H)
     

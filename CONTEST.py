@@ -1,7 +1,4 @@
-import bisect, heapq, operator, math, collections
-from typing import List
-from itertools import accumulate
-from collections import defaultdict, Counter, deque
-from functools import lru_cache, cmp_to_key
 
-
+                
+         
+print(path(1,1,1,1), path(8,8,8,6), path(8,8,7,6))
