@@ -600,6 +600,7 @@
 - https://leetcode.com/problems/path-sum-iii/ ```Medium```
 - https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/ ```Medium```
 - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ ```Medium```
+- https://leetcode.com/problems/construct-string-from-binary-tree/ ```Easy```
 
 </details>
 
