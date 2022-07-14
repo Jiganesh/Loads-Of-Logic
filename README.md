@@ -598,6 +598,8 @@
 - https://leetcode.com/problems/path-sum/ ```Easy```
 - https://leetcode.com/problems/path-sum-ii/ ```Medium```
 - https://leetcode.com/problems/path-sum-iii/ ```Medium```
+- https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/ ```Medium```
+- https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ ```Medium```
 
 </details>
 
