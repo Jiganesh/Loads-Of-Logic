@@ -248,6 +248,7 @@
 - https://leetcode.com/problems/candy/ ```Hard```
 - https://leetcode.com/problems/longest-consecutive-sequence/ ```Medium```
 - https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/ ```Medium```
+- https://leetcode.com/problems/max-area-of-island/ ```Medium```
 
 </details>
 
