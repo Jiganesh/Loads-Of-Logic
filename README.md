@@ -203,6 +203,7 @@
 - https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/  ```Medium```
 - https://leetcode.com/problems/interleaving-string/ ```Medium```
 - https://leetcode.com/problems/out-of-boundary-paths/ ```Medium```
+- https://leetcode.com/problems/knight-probability-in-chessboard/ ```Medium```
 
 </details>
 
