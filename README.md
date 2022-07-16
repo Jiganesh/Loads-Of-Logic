@@ -95,6 +95,7 @@
 - https://leetcode.com/problems/check-if-matrix-is-x-matrix/ ```Easy```
 - https://leetcode.com/problems/convert-1d-array-into-2d-array/ ```Easy```
 - https://leetcode.com/problems/rotate-image/ ```Medium```
+- https://leetcode.com/problems/island-perimeter/ ```Easy```
 
 </details>
 
@@ -201,6 +202,7 @@
 - https://leetcode.com/problems/fibonacci-number/ ```Easy```
 - https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/  ```Medium```
 - https://leetcode.com/problems/interleaving-string/ ```Medium```
+- https://leetcode.com/problems/out-of-boundary-paths/ ```Medium```
 
 </details>
 

@@ -118,4 +118,13 @@ num = a//gcd_ab
 den = b//gcd_ab
 
 result = (num, den) # output (3, 2) and gcd_ab is 32
+
+```
+
+
+Technique for remembering a change : You can convert it to negative of its value
+
+Copying 2D array
+```python
+matrix = [row[:] for row in grid]
 ```
