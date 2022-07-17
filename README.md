@@ -275,8 +275,8 @@
 - https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/ ```Medium```
 - https://leetcode.com/problems/decode-the-message/ ```Easy```
 - https://leetcode.com/problems/maximum-number-of-pairs-in-array/ ```Easy```
-- https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/ ```Easy```
-
+- https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/ ```Medium```
+- https://leetcode.com/problems/query-kth-smallest-trimmed-number/ ```Medium```
 </details>
 
 
