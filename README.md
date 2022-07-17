@@ -274,6 +274,9 @@
 - https://leetcode.com/problems/longest-word-in-dictionary/ ```Medium```
 - https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/ ```Medium```
 - https://leetcode.com/problems/decode-the-message/ ```Easy```
+- https://leetcode.com/problems/maximum-number-of-pairs-in-array/ ```Easy```
+- https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/ ```Easy```
+
 </details>
 
 
@@ -366,7 +369,6 @@
 - https://leetcode.com/problems/super-pow/ ```Medium```
 - https://leetcode.com/problems/count-nice-pairs-in-an-array/ ```Medium```
 - https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/ ```Medium```
-- https://leetcode.com/problems/maximum-number-of-pairs-in-array/ ```Easy```
 
 </details>
 
