@@ -203,6 +203,7 @@
 - https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/  ```Medium```
 - https://leetcode.com/problems/interleaving-string/ ```Medium```
 - https://leetcode.com/problems/out-of-boundary-paths/ ```Medium```
+- https://leetcode.com/problems/knight-probability-in-chessboard/ ```Medium```
 
 </details>
 
@@ -273,6 +274,9 @@
 - https://leetcode.com/problems/longest-word-in-dictionary/ ```Medium```
 - https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/ ```Medium```
 - https://leetcode.com/problems/decode-the-message/ ```Easy```
+- https://leetcode.com/problems/maximum-number-of-pairs-in-array/ ```Easy```
+- https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/ ```Easy```
+
 </details>
 
 
