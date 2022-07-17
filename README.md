@@ -366,6 +366,7 @@
 - https://leetcode.com/problems/super-pow/ ```Medium```
 - https://leetcode.com/problems/count-nice-pairs-in-an-array/ ```Medium```
 - https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/ ```Medium```
+- https://leetcode.com/problems/maximum-number-of-pairs-in-array/ ```Easy```
 
 </details>
 
