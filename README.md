@@ -290,6 +290,7 @@
 - https://leetcode.com/problems/construct-target-array-with-multiple-sums/ ```Hard```
 - https://leetcode.com/problems/sort-the-matrix-diagonally/ ```Medium```
 - https://leetcode.com/problems/sliding-window-maximum/ ```Hard```
+- https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/ ```Hard```
 
 
 </details>
