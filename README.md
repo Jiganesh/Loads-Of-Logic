@@ -346,6 +346,9 @@
 - https://leetcode.com/problems/swapping-nodes-in-a-linked-list/ ```Medium```
 - https://leetcode.com/problems/plus-one-linked-list/ ```Medium``` ```Premium```
 - https://leetcode.com/problems/intersection-of-two-linked-lists/ ```Easy```
+- https://leetcode.com/problems/partition-list/ ```Medium```
+- https://leetcode.com/problems/reverse-linked-list-ii/ ```Medium```
+- https://leetcode.com/problems/reverse-linked-list/ ```Easy```
 
 </details>
 
