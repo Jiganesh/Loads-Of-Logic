@@ -128,3 +128,18 @@ Copying 2D array
 ```python
 matrix = [row[:] for row in grid]
 ```
+
+Segmentation Tree :https://www.youtube.com/watch?v=I7RFycpqbDk
+
+
+Number of Node in tree of  height h 
+```
+number_of_nodes = 2 * (2**h)- 1
+
+```
+
+Transpose of a matrix 
+
+```
+transpose_matrix = list(map(list, zip(*matrix)))
+```

@@ -292,6 +292,7 @@
 - https://leetcode.com/problems/sort-the-matrix-diagonally/ ```Medium```
 - https://leetcode.com/problems/sliding-window-maximum/ ```Hard```
 - https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/ ```Hard```
+- https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/ ```Easy```
 
 
 </details>
@@ -346,6 +347,9 @@
 - https://leetcode.com/problems/swapping-nodes-in-a-linked-list/ ```Medium```
 - https://leetcode.com/problems/plus-one-linked-list/ ```Medium``` ```Premium```
 - https://leetcode.com/problems/intersection-of-two-linked-lists/ ```Easy```
+- https://leetcode.com/problems/partition-list/ ```Medium```
+- https://leetcode.com/problems/reverse-linked-list-ii/ ```Medium```
+- https://leetcode.com/problems/reverse-linked-list/ ```Easy```
 
 </details>
 
