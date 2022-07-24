@@ -279,6 +279,8 @@
 - https://leetcode.com/problems/maximum-number-of-pairs-in-array/ ```Easy```
 - https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/ ```Medium```
 - https://leetcode.com/problems/query-kth-smallest-trimmed-number/ ```Medium```
+- https://leetcode.com/problems/minimum-area-rectangle/ ```Medium```
+
 </details>
 
 

@@ -143,3 +143,22 @@ Transpose of a matrix
 ```
 transpose_matrix = list(map(list, zip(*matrix)))
 ```
+
+Find Valid Rectangles from given points
+```
+points = [[1,1],[1,3],[3,1],[3,3],[4,1],[4,3]]
+
+hashset = set(map(tuple, points))
+
+for point1 in hashset:
+    for point2 in hashset:
+        
+        '''point1 and point2 are diagonal with direction  \ '''
+
+        x1, y1 = point1
+        x2, y2 = point2
+        
+        if x1 < x2 and y1 < y2 and (x1, y2) in hashset and (x2, y1) in hashset:
+            print(  "Rectangle : ", point1, (x1, y2) , (x2, y1), point2 )
+
+```
