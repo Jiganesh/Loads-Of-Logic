@@ -98,6 +98,7 @@
 - https://leetcode.com/problems/convert-1d-array-into-2d-array/ ```Easy```
 - https://leetcode.com/problems/rotate-image/ ```Medium```
 - https://leetcode.com/problems/island-perimeter/ ```Easy```
+- https://leetcode.com/problems/diagonal-traverse/ ```Medium```
 
 </details>
 
@@ -178,7 +179,7 @@
 - https://leetcode.com/problems/n-th-tribonacci-number/te-sum-for-two-strings/ ```Medium```
 - https://leetcode.com/problems/longest-palindromic-subsequence/ ```Medium```
 - https://leetcode.com/problems/jump-game-ii/ ```Medium```
-- https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/ ```Hard```
+- https://leetcode.com/problemshttps://leetcode.com/problems/diagonal-traverse//minimum-insertion-steps-to-make-a-string-palindrome/ ```Hard```
 - https://leetcode.com/problems/shortest-common-supersequence/ ```Hard```
 - https://leetcode.com/problems/palindrome-partitioning/ ```Medium```
 - https://leetcode.com/problems/palindrome-partitioning-ii/ ```Hard```
