@@ -523,8 +523,8 @@
 <details>
 <summary>Strings</summary>
 
-- https://leetcode.com/problems/adding-spaces-to-a-string/ ```Medium```# https://leetcode.com/problems/matchsticks-to-square/
-``
+- https://leetcode.com/problems/adding-spaces-to-a-string/ ```Medium```
+- https://leetcode.com/problems/matchsticks-to-square/ 
 - https://leetcode.com/problems/find-substring-with-given-hash-value/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/find-the-difference/ ```Easy```
 - https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/ ```Medium```
@@ -555,7 +555,7 @@
 - https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/ ```Easy```
 - https://leetcode.com/problems/unique-morse-code-words/ ```Easy```
 - https://leetcode.com/problems/count-asterisks/ ```Easy```
-
+- https://leetcode.com/problems/valid-anagram/ ```Easy``
 </details>
 
 
