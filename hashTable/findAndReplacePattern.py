@@ -7,6 +7,8 @@ class Solution:
     # Runtime: 63 ms, faster than 22.49% of Python3 online submissions for Find and Replace Pattern.
     # Memory Usage: 14 MB, less than 28.72% of Python3 online submissions for Find and Replace Pattern.
     
+    # TC : O(n*m)
+    # SC : O(N)
     def findAndReplacePattern(self, words: List[str], pattern: str) -> List[str]:
 
         
