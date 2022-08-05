@@ -38,7 +38,10 @@ def difficulty (line):
 
 for number in range(len(lines)):
     i= lines[number]
-    p=i.index("```")
+    try:
+        p=i.index("```")
+    except:
+        print(i)
     writeReadme.write(str(number)+". ["+ i[:i.rindex("/")] +"]("+i[:p]+") "+  difficulty(i[p:])+"\n")
 
 # #Additional Problems Here 

@@ -1,6 +1,7 @@
 <img src= ".dev/highOnDSABanner.png" height= 40%  width = 140%>
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 456 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-4-orange?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 461 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-5-orange?">
+
 
 
 
@@ -125,7 +126,7 @@
 - https://leetcode.com/problems/n-queens/ ```Hard```
 - https://leetcode.com/problems/n-queens-ii/  ```Hard```
 - https://leetcode.com/problems/combinations/ ```Medium```
-- https://leetcode.com/problems/matchsticks-to-square/ ```Medium```
+- https://leetcode.com/problems/matchsticks-to-square```Medium```
 
 
 </details>
@@ -525,7 +526,7 @@
 <summary>Strings</summary>
 
 - https://leetcode.com/problems/adding-spaces-to-a-string/ ```Medium```
-- https://leetcode.com/problems/matchsticks-to-square/ 
+- https://leetcode.com/problems/matchsticks-to-square/ ```Medium```
 - https://leetcode.com/problems/find-substring-with-given-hash-value/ ```Medium``` ```Recommended```
 - https://leetcode.com/problems/find-the-difference/ ```Easy```
 - https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/ ```Medium```
