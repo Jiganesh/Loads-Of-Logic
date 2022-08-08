@@ -100,6 +100,8 @@
 - https://leetcode.com/problems/rotate-image/ ```Medium```
 - https://leetcode.com/problems/island-perimeter/ ```Easy```
 - https://leetcode.com/problems/diagonal-traverse/ ```Medium```
+- https://leetcode.com/problems/diagonal-traverse/ ```Medium```
+
 
 </details>
 
@@ -181,7 +183,6 @@
 - https://leetcode.com/problems/longest-palindromic-subsequence/ ```Medium```
 - https://leetcode.com/problems/jump-game-ii/ ```Medium```
 - https://leetcode.com/problems//minimum-insertion-steps-to-make-a-string-palindrome/ ```Hard```
-- https://leetcode.com/problems/diagonal-traverse/ ```Medium```
 - https://leetcode.com/problems/shortest-common-supersequence/ ```Hard```
 - https://leetcode.com/problems/palindrome-partitioning/ ```Medium```
 - https://leetcode.com/problems/palindrome-partitioning-ii/ ```Hard```
@@ -209,6 +210,7 @@
 - https://leetcode.com/problems/interleaving-string/ ```Medium```
 - https://leetcode.com/problems/out-of-boundary-paths/ ```Medium```
 - https://leetcode.com/problems/knight-probability-in-chessboard/ ```Medium```
+- https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/ ```Medium```
 
 </details>
 
