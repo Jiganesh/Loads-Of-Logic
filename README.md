@@ -180,7 +180,8 @@
 - https://leetcode.com/problems/n-th-tribonacci-number/te-sum-for-two-strings/ ```Medium```
 - https://leetcode.com/problems/longest-palindromic-subsequence/ ```Medium```
 - https://leetcode.com/problems/jump-game-ii/ ```Medium```
-- https://leetcode.com/problemshttps://leetcode.com/problems/diagonal-traverse//minimum-insertion-steps-to-make-a-string-palindrome/ ```Hard```
+- https://leetcode.com/problems//minimum-insertion-steps-to-make-a-string-palindrome/ ```Hard```
+- https://leetcode.com/problems/diagonal-traverse/ ```Medium```
 - https://leetcode.com/problems/shortest-common-supersequence/ ```Hard```
 - https://leetcode.com/problems/palindrome-partitioning/ ```Medium```
 - https://leetcode.com/problems/palindrome-partitioning-ii/ ```Hard```
@@ -219,6 +220,7 @@
 - https://leetcode.com/problems/is-graph-bipartite/ ```Medium```
 - https://leetcode.com/problems/jump-game-vii/  ```Medium```
 - https://leetcode.com/problems/find-center-of-star-graph/ ```Easy```
+- https://leetcode.com/problems/reachable-nodes-with-restrictions/ ```Medium```
 
 </details>
 
