@@ -283,6 +283,7 @@
 - https://leetcode.com/problems/query-kth-smallest-trimmed-number/ ```Medium```
 - https://leetcode.com/problems/minimum-area-rectangle/ ```Medium```
 - https://leetcode.com/problems/find-and-replace-pattern/ ```Medium```
+- https://leetcode.com/problems/number-of-arithmetic-triplets/ ```Easy```
 
 </details>
 
