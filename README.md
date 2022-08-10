@@ -288,6 +288,7 @@
 - https://leetcode.com/problems/minimum-area-rectangle/ ```Medium```
 - https://leetcode.com/problems/find-and-replace-pattern/ ```Medium```
 - https://leetcode.com/problems/number-of-arithmetic-triplets/ ```Easy```
+- https://leetcode.com/problems/merge-similar-items/ ```Easy```
 
 </details>
 
