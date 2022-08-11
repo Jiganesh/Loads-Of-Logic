@@ -1,4 +1,4 @@
-package binarySearch;
+package search;
 
 // https://leetcode.com/problems/koko-eating-bananas/
 import java.util.Arrays;

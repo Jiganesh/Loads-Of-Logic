@@ -1,4 +1,4 @@
-package binarySearch;
+package search;
 
 public class searchInsertionPosition {
     public static void main(String[] args) {

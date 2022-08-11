@@ -1,4 +1,4 @@
-package binarySearch;
+package search;
 
 // https://leetcode.com/problems/median-of-two-sorted-arrays
 

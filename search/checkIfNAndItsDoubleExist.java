@@ -1,4 +1,5 @@
-package binarySearch;
+package search;
+
 // Solution to this problem is given using HashMap
 import java.util.HashMap;
 

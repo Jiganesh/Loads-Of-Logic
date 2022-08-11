@@ -1,4 +1,4 @@
-package binarySearch;
+package search;
 
 /** 
  * Forward declaration of guess API.

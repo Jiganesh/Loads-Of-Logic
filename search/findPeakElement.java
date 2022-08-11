@@ -1,4 +1,4 @@
-package binarySearch;
+package search;
 // https://leetcode.com/problems/find-peak-element/
 public class findPeakElement {
     public static void main(String[] args) {
