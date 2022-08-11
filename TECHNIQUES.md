@@ -162,3 +162,15 @@ for point1 in hashset:
             print(  "Rectangle : ", point1, (x1, y2) , (x2, y1), point2 )
 
 ```
+
+How Counter can be used to add to add value of particular key
+
+```python
+
+
+items1 = [[1,1],[4,5],[3,8]]
+items2 =  [[3,1],[1,5]]
+a = Counter(dict(items1))+Counter(dict(items2))
+
+sorted(a.items())# [(1, 6), (3, 9), (4, 5)]
+```

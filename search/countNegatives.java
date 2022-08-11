@@ -1,4 +1,5 @@
-package binarySearch;
+package search;
+
 
 public class countNegatives{
     public static void main(String[] args) {

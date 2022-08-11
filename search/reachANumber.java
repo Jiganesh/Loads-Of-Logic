@@ -1,4 +1,4 @@
-package binarySearch;
+package search;
 public class reachANumber {
     public static void main(String[] args) {
         SolutionRAN  solution = new SolutionRAN();
