@@ -1,6 +1,7 @@
 <img src= ".dev/highOnDSABanner.png" height= 40%  width = 140%>
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 461 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-5-orange?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 470 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-9-orange?">
+
 
 
 
@@ -622,6 +623,7 @@
 - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ ```Medium```
 - https://leetcode.com/problems/construct-string-from-binary-tree/ ```Easy```
 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ ```Medium```
+- https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ ```Medium```
 
 </details>
 
