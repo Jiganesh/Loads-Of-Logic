@@ -622,6 +622,7 @@
 - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ ```Medium```
 - https://leetcode.com/problems/construct-string-from-binary-tree/ ```Easy```
 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ ```Medium```
+- https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ ```Medium```
 
 </details>
 
