@@ -567,6 +567,8 @@
 - https://leetcode.com/problems/count-asterisks/ ```Easy```
 - https://leetcode.com/problems/valid-anagram/ ```Easy```
 - https://leetcode.com/problems/longest-ideal-subsequence/ ```Medium```
+- https://leetcode.com/problems/first-unique-character-in-a-string/ ```Easy```
+
 </details>
 
 
