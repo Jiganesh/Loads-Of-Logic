@@ -1,6 +1,7 @@
 <img src= ".dev/highOnDSABanner.png" height= 40%  width = 140%>
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 461 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-5-orange?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 470 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-9-orange?">
+
 
 
 
@@ -553,6 +554,8 @@
 - https://leetcode.com/problems/count-asterisks/ ```Easy```
 - https://leetcode.com/problems/valid-anagram/ ```Easy```
 - https://leetcode.com/problems/longest-ideal-subsequence/ ```Medium```
+- https://leetcode.com/problems/first-unique-character-in-a-string/ ```Easy```
+
 </details>
 
 
