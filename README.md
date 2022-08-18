@@ -224,6 +224,10 @@
 - https://leetcode.com/problems/jump-game-vii/  ```Medium```
 - https://leetcode.com/problems/find-center-of-star-graph/ ```Easy```
 - https://leetcode.com/problems/reachable-nodes-with-restrictions/ ```Medium```
+- https://leetcode.com/problems/snakes-and-ladders/ ```Medium```
+- https://leetcode.com/problems/max-area-of-island/ ```Medium```
+- https://leetcode.com/problems/minimum-jumps-to-reach-home/ ```Medium```
+
 
 </details>
 
