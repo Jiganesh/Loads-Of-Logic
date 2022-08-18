@@ -228,6 +228,7 @@
 - https://leetcode.com/problems/snakes-and-ladders/ ```Medium```
 - https://leetcode.com/problems/max-area-of-island/ ```Medium```
 - https://leetcode.com/problems/minimum-jumps-to-reach-home/ ```Medium```
+- https://leetcode.com/problems/lexicographical-numbers/ ```Medium```
 
 
 </details>
