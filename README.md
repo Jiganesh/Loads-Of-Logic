@@ -212,6 +212,7 @@
 - https://leetcode.com/problems/out-of-boundary-paths/ ```Medium```
 - https://leetcode.com/problems/knight-probability-in-chessboard/ ```Medium```
 - https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/ ```Medium```
+- https://leetcode.com/problems/k-concatenation-maximum-sum/ ```Medium```
 
 </details>
 
@@ -224,6 +225,10 @@
 - https://leetcode.com/problems/jump-game-vii/  ```Medium```
 - https://leetcode.com/problems/find-center-of-star-graph/ ```Easy```
 - https://leetcode.com/problems/reachable-nodes-with-restrictions/ ```Medium```
+- https://leetcode.com/problems/snakes-and-ladders/ ```Medium```
+- https://leetcode.com/problems/max-area-of-island/ ```Medium```
+- https://leetcode.com/problems/minimum-jumps-to-reach-home/ ```Medium```
+
 
 </details>
 
@@ -307,7 +312,7 @@
 - https://leetcode.com/problems/sliding-window-maximum/ ```Hard```
 - https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/ ```Hard```
 - https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/ ```Easy```
-
+- https://leetcode.com/problems/reduce-array-size-to-the-half/ ```Medium```
 
 </details>
 
@@ -432,26 +437,12 @@
 - https://leetcode.com/problems/fair-candy-swap/ ```Easy```
 - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ ```Easy```
 - https://leetcode.com/problems/find-in-mountain-array/ ```Hard```
-- https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ ```Medium```
-- https://leetcode.com/problems/find-peak-element/ ```Easy```
-- https://leetcode.com/problems/find-peak-element/ ```Medium```
-- https://leetcode.com/problems/find-peak-element/ ```Medium```
-- https://leetcode.com/problems/find-right-interval/ ```Medium```
+- https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ https://leetcode.com/problems/construct-smallest-number-from-di-string/
 - https://leetcode.com/problems/find-smallest-letter-greater-than-target/ ```Easy```
 - https://leetcode.com/problems/first-bad-version/ ```Very Easy```
 - https://leetcode.com/problems/guess-number-higher-or-lower/ ```Very Easy```
 - https://leetcode.com/problems/intersection-of-two-arrays-ii/ ```Easy```
-- https://leetcode.com/problems/intersection-of-two-arrays/ ```Easy```
-- https://leetcode.com/problems/koko-eating-bananas/  ```Medium```
-- https://leetcode.com/problems/kth-missing-positive-number/ ```Easy```
-- https://leetcode.com/problems/peak-index-in-a-mountain-array/ ```Easy```
-- https://leetcode.com/problems/reach-a-number/ ```Medium```
-- https://leetcode.com/problems/richest-customer-wealth/ ```Very Easy```
-- https://leetcode.com/problems/search-a-2d-matrix-ii/ ```Medium```
-- https://leetcode.com/problems/search-a-2d-matrix/ ```Medium```
-- https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ ```Medium```
-- https://leetcode.com/problems/search-in-rotated-sorted-array/ ```Medium```
-- https://leetcode.com/problems/search-insert-position/ ```Easy```
+- https://leetcode.com/problems/intersection-of-two-arrays/ ```Easy```https://leetcode.com/problems/construct-smallest-number-from-di-string/
 - https://leetcode.com/problems/single-element-in-a-sorted-array/ ```Medium```
 - https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/ ```Easy```
 - https://leetcode.com/problems/sqrtx/ ```Very Easy```
@@ -525,6 +516,7 @@
 - https://leetcode.com/problems/steps-to-make-array-non-decreasing/ ```Medium```
 - https://leetcode.com/problems/maximum-product-of-word-lengths/ ```Medium```
 - https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/ ```Medium```
+- https://leetcode.com/problems/construct-smallest-number-from-di-string/ ```Medium```
 
 </details>
 
