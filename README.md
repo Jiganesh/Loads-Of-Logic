@@ -312,7 +312,7 @@
 - https://leetcode.com/problems/sliding-window-maximum/ ```Hard```
 - https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/ ```Hard```
 - https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/ ```Easy```
-
+- https://leetcode.com/problems/reduce-array-size-to-the-half/ ```Medium```
 
 </details>
 
