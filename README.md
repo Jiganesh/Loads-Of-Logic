@@ -635,7 +635,10 @@
 - https://leetcode.com/problems/short-encoding-of-words/ ```Medium```
 
 </details>
-https://leetcode.com/problems/longest-absolute-file-path/`` of Number from 1 To N
+
+<details>
+<summary>Concepts</summary>
+    - Print Number from 1 to N && from N to 1 && from 1 to N and N to 1 in same
     - Sum and Product of Digits in a  Number
     - Reverse A Number
     - Maximize The Number By Swapping Adjacent Two Digits ```Not Yet Solved```
