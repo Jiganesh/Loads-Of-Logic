@@ -228,6 +228,7 @@
 - https://leetcode.com/problems/snakes-and-ladders/ ```Medium```
 - https://leetcode.com/problems/max-area-of-island/ ```Medium```
 - https://leetcode.com/problems/minimum-jumps-to-reach-home/ ```Medium```
+- https://leetcode.com/problems/lexicographical-numbers/ ```Medium```
 
 
 </details>
@@ -266,7 +267,7 @@
 - https://leetcode.com/problems/longest-consecutive-sequence/ ```Medium```
 - https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/ ```Medium```
 - https://leetcode.com/problems/max-area-of-island/ ```Medium```
-
+- https://leetcode.com/problems/split-array-into-consecutive-subsequences/ ```Medium```
 </details>
 
 
@@ -422,6 +423,7 @@
 - https://www.geeksforgeeks.org/sum-triangle-from-array/ ```Easy``` ```GFG```
 - https://leetcode.com/problems/sudoku-solver/ ```Hard```
 - https://leetcode.com/problems/combination-sum-iii/  ```Medium```
+- https://leetcode.com/problems/elimination-game/ ```Medium```
 
 </details>
 
@@ -437,12 +439,12 @@
 - https://leetcode.com/problems/fair-candy-swap/ ```Easy```
 - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ ```Easy```
 - https://leetcode.com/problems/find-in-mountain-array/ ```Hard```
-- https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ https://leetcode.com/problems/construct-smallest-number-from-di-string/
+- https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ ```Medium```
 - https://leetcode.com/problems/find-smallest-letter-greater-than-target/ ```Easy```
 - https://leetcode.com/problems/first-bad-version/ ```Very Easy```
 - https://leetcode.com/problems/guess-number-higher-or-lower/ ```Very Easy```
 - https://leetcode.com/problems/intersection-of-two-arrays-ii/ ```Easy```
-- https://leetcode.com/problems/intersection-of-two-arrays/ ```Easy```https://leetcode.com/problems/construct-smallest-number-from-di-string/
+- https://leetcode.com/problems/intersection-of-two-arrays/ ```Easy```
 - https://leetcode.com/problems/single-element-in-a-sorted-array/ ```Medium```
 - https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/ ```Easy```
 - https://leetcode.com/problems/sqrtx/ ```Very Easy```
@@ -517,6 +519,7 @@
 - https://leetcode.com/problems/maximum-product-of-word-lengths/ ```Medium```
 - https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/ ```Medium```
 - https://leetcode.com/problems/construct-smallest-number-from-di-string/ ```Medium```
+- https://leetcode.com/problems/longest-absolute-file-path/ ```Medium```
 
 </details>
 
@@ -632,13 +635,7 @@
 - https://leetcode.com/problems/short-encoding-of-words/ ```Medium```
 
 </details>
-
-<details>
-<summary>Concepts / Miscelleneous </summary>
-
-- recursion
-    - Print Number from 1 to N && from N to 1 && from 1 to N and N to 1 in same
-    - Sum and Product ```Factorial``` of Number from 1 To N
+https://leetcode.com/problems/longest-absolute-file-path/`` of Number from 1 To N
     - Sum and Product of Digits in a  Number
     - Reverse A Number
     - Maximize The Number By Swapping Adjacent Two Digits ```Not Yet Solved```

@@ -180,3 +180,14 @@ sorted(a.items())# [(1, 6), (3, 9), (4, 5)]
 list(map(operator.add, [1,2], [1,2,3,4])) # [2, 4]
 list(map(operator.sub, [1,2], [0,1,2])) # [1, 1]
 ```
+
+
+Find the position of only set bit : formula 
+
+```
+bit = 16
+power = int(math.log10(bit) / math.log10(2))
+
+print(power) # 4
+
+```
