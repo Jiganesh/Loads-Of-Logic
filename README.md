@@ -423,6 +423,7 @@
 - https://www.geeksforgeeks.org/sum-triangle-from-array/ ```Easy``` ```GFG```
 - https://leetcode.com/problems/sudoku-solver/ ```Hard```
 - https://leetcode.com/problems/combination-sum-iii/  ```Medium```
+- https://leetcode.com/problems/elimination-game/ ```Medium```
 
 </details>
 
