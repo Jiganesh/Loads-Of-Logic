@@ -2,15 +2,6 @@
 
 <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 470 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-9-orange?">
 
-
-
-
-
-
-
-
-
-
 *Click below to expand  and view problems.*
 
 <img style=" " src =".dev/donutDifficulty.png" alt="difficulty chart" height = "100rem" align =right>
@@ -343,7 +334,7 @@ https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/
 - https://leetcode.com/problems/xor-queries-of-a-subarray/ ```Medium```
 - https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/ ```Medium```
 - https://leetcode.com/problems/find-good-days-to-rob-the-bank/  ```Medium```
-
+- https://leetcode.com/problems/shifting-letters-ii/ ```Medium```
 </details>
 
 

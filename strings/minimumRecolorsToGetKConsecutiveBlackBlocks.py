@@ -42,9 +42,7 @@ class Solution:
             
         return k - maximum_black_in_window
     
-    
-    
-    
+    # One Liner Solution
     def minimumRecolors(self, blocks: str, k: int) -> int:
         
         array = [blocks[i: i+k].count("W") for i in range  (len(blocks)-k+1)]
