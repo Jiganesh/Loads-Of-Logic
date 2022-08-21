@@ -1,6 +1,7 @@
 <img src= ".dev/highOnDSABanner.png" height= 40%  width = 140%>
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 470 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-9-orange?">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 476 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-6-orange?">
+
 
 *Click below to expand  and view problems.*
 
@@ -360,6 +361,7 @@
 - https://leetcode.com/problems/partition-list/ ```Medium```
 - https://leetcode.com/problems/reverse-linked-list-ii/ ```Medium```
 - https://leetcode.com/problems/reverse-linked-list/ ```Easy```
+- https://leetcode.com/problems/palindrome-linked-list/ ```Easy```
 
 </details>
 
