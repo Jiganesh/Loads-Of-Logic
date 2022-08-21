@@ -2,15 +2,6 @@
 
 <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 470 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-9-orange?">
 
-
-
-
-
-
-
-
-
-
 *Click below to expand  and view problems.*
 
 <img style=" " src =".dev/donutDifficulty.png" alt="difficulty chart" height = "100rem" align =right>
@@ -204,7 +195,7 @@
 - https://leetcode.com/problems/maximum-profit-in-job-scheduling/ ```Hard```
 - https://leetcode.com/problems/maximum-earnings-from-taxi/ ```Medium```
 - https://leetcode.com/problems/jump-game/ ```Medium```
-- https://leetcode.com/problems/number-of-people-aware-of-a-secret/ ```Medium```
+- https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/ ```Medium```
 - https://leetcode.com/problems/minimum-path-sum/ ```Medium```
 - https://leetcode.com/problems/fibonacci-number/ ```Easy```
 - https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/  ```Medium```
@@ -230,8 +221,7 @@
 - https://leetcode.com/problems/minimum-jumps-to-reach-home/ ```Medium```
 - https://leetcode.com/problems/lexicographical-numbers/ ```Medium```
 
-
-</details>
+https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/
 
 <details>
 <summary>Greedy</summary>
@@ -344,6 +334,8 @@
 - https://leetcode.com/problems/xor-queries-of-a-subarray/ ```Medium```
 - https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/ ```Medium```
 - https://leetcode.com/problems/find-good-days-to-rob-the-bank/  ```Medium```
+- https://leetcode.com/problems/shifting-letters/ ```Medium```
+- https://leetcode.com/problems/shifting-letters-ii/ ```Medium```
 
 </details>
 
@@ -563,6 +555,7 @@
 - https://leetcode.com/problems/valid-anagram/ ```Easy```
 - https://leetcode.com/problems/longest-ideal-subsequence/ ```Medium```
 - https://leetcode.com/problems/first-unique-character-in-a-string/ ```Easy```
+- https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/ ```Easy```
 
 </details>
 
