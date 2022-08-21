@@ -204,7 +204,7 @@
 - https://leetcode.com/problems/maximum-profit-in-job-scheduling/ ```Hard```
 - https://leetcode.com/problems/maximum-earnings-from-taxi/ ```Medium```
 - https://leetcode.com/problems/jump-game/ ```Medium```
-- https://leetcode.com/problems/number-of-people-aware-of-a-secret/ ```Medium```
+- https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/ ```Medium```
 - https://leetcode.com/problems/minimum-path-sum/ ```Medium```
 - https://leetcode.com/problems/fibonacci-number/ ```Easy```
 - https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/  ```Medium```
@@ -230,8 +230,7 @@
 - https://leetcode.com/problems/minimum-jumps-to-reach-home/ ```Medium```
 - https://leetcode.com/problems/lexicographical-numbers/ ```Medium```
 
-
-</details>
+https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/
 
 <details>
 <summary>Greedy</summary>
@@ -563,6 +562,7 @@
 - https://leetcode.com/problems/valid-anagram/ ```Easy```
 - https://leetcode.com/problems/longest-ideal-subsequence/ ```Medium```
 - https://leetcode.com/problems/first-unique-character-in-a-string/ ```Easy```
+- https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/ ```Easy```
 
 </details>
 
