@@ -334,7 +334,9 @@ https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/
 - https://leetcode.com/problems/xor-queries-of-a-subarray/ ```Medium```
 - https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/ ```Medium```
 - https://leetcode.com/problems/find-good-days-to-rob-the-bank/  ```Medium```
+- https://leetcode.com/problems/shifting-letters/ ```Medium```
 - https://leetcode.com/problems/shifting-letters-ii/ ```Medium```
+
 </details>
 
 
