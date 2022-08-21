@@ -221,9 +221,8 @@
 - https://leetcode.com/problems/minimum-jumps-to-reach-home/ ```Medium```
 - https://leetcode.com/problems/lexicographical-numbers/ ```Medium```
 
-https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/
-
 <details>
+
 <summary>Greedy</summary>
 
 - https://leetcode.com/problems/can-place-flowers/ ```Easy```
@@ -287,6 +286,7 @@ https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/
 - https://leetcode.com/problems/number-of-arithmetic-triplets/ ```Easy```
 - https://leetcode.com/problems/merge-similar-items/ ```Easy```
 - https://leetcode.com/problems/count-number-of-bad-pairs/ ```Medium```
+- https://leetcode.com/problems/largest-palindromic-number/ ```Medium```
 
 </details>
 
