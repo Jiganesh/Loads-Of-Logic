@@ -257,6 +257,7 @@
 - https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/ ```Medium```
 - https://leetcode.com/problems/max-area-of-island/ ```Medium```
 - https://leetcode.com/problems/split-array-into-consecutive-subsequences/ ```Medium```
+- https://leetcode.com/problems/two-furthest-houses-with-different-colors/ ```Easy```
 </details>
 
 
