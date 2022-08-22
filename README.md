@@ -389,7 +389,8 @@
 - https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/ ```Medium```
 - https://leetcode.com/problems/power-of-three/ ```Easy```
 - https://leetcode.com/problems/power-of-four/ ```Easy```
-
+- https://leetcode.com/problems/power-of-two ```Easy```
+ 
 </details>
 
 
