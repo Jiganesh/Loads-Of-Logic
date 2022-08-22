@@ -260,9 +260,6 @@
 - https://leetcode.com/problems/two-furthest-houses-with-different-colors/ ```Easy```
 </details>
 
-
-
-<details>
 <summary>HashTable</summary>
 
 - https://leetcode.com/problems/number-of-matching-subsequences/ ```Medium```
