@@ -221,9 +221,8 @@
 - https://leetcode.com/problems/minimum-jumps-to-reach-home/ ```Medium```
 - https://leetcode.com/problems/lexicographical-numbers/ ```Medium```
 
-https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/
-
 <details>
+
 <summary>Greedy</summary>
 
 - https://leetcode.com/problems/can-place-flowers/ ```Easy```
@@ -258,6 +257,7 @@ https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/
 - https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/ ```Medium```
 - https://leetcode.com/problems/max-area-of-island/ ```Medium```
 - https://leetcode.com/problems/split-array-into-consecutive-subsequences/ ```Medium```
+- https://leetcode.com/problems/two-furthest-houses-with-different-colors/ ```Easy```
 </details>
 
 
@@ -287,6 +287,7 @@ https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/
 - https://leetcode.com/problems/number-of-arithmetic-triplets/ ```Easy```
 - https://leetcode.com/problems/merge-similar-items/ ```Easy```
 - https://leetcode.com/problems/count-number-of-bad-pairs/ ```Medium```
+- https://leetcode.com/problems/largest-palindromic-number/ ```Medium```
 
 </details>
 
@@ -387,7 +388,10 @@ https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/
 - https://leetcode.com/problems/super-pow/ ```Medium```
 - https://leetcode.com/problems/count-nice-pairs-in-an-array/ ```Medium```
 - https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/ ```Medium```
-
+- https://leetcode.com/problems/power-of-three/ ```Easy```
+- https://leetcode.com/problems/power-of-four/ ```Easy```
+- https://leetcode.com/problems/power-of-two ```Easy```
+ 
 </details>
 
 
