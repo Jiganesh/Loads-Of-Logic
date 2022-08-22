@@ -133,19 +133,18 @@ Segmentation Tree :https://www.youtube.com/watch?v=I7RFycpqbDk
 
 
 Number of Node in tree of  height h 
-```
+```python
 number_of_nodes = 2 * (2**h)- 1
-
 ```
 
 Transpose of a matrix 
 
-```
+```python
 transpose_matrix = list(map(list, zip(*matrix)))
 ```
 
 Find Valid Rectangles from given points
-```
+```python
 points = [[1,1],[1,3],[3,1],[3,3],[4,1],[4,3]]
 
 hashset = set(map(tuple, points))
@@ -184,7 +183,7 @@ list(map(operator.sub, [1,2], [0,1,2])) # [1, 1]
 
 Find the position of only set bit : formula 
 
-```
+```python
 bit = 16
 power = int(math.log10(bit) / math.log10(2))
 
