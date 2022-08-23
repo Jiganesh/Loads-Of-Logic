@@ -360,6 +360,7 @@
 - https://leetcode.com/problems/partition-list/ ```Medium```
 - https://leetcode.com/problems/reverse-linked-list-ii/ ```Medium```
 - https://leetcode.com/problems/reverse-linked-list/ ```Easy```
+- https://leetcode.com/problems/palindrome-linked-list/ ```Easy```
 
 </details>
 
