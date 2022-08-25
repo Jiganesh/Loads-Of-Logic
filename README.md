@@ -7,8 +7,7 @@
 
 <img style=" " src =".dev/donutDifficulty.png" alt="difficulty chart" height = "100rem" align =right>
 
-<details>'
-
+<details>
 
 <summary>Arrays</summary>
 
@@ -221,6 +220,7 @@
 - https://leetcode.com/problems/max-area-of-island/ ```Medium```
 - https://leetcode.com/problems/minimum-jumps-to-reach-home/ ```Medium```
 - https://leetcode.com/problems/lexicographical-numbers/ ```Medium```
+- https://leetcode.com/problems/word-search/ ```Medium```
 
 <details>
 
@@ -286,6 +286,7 @@
 - https://leetcode.com/problems/merge-similar-items/ ```Easy```
 - https://leetcode.com/problems/count-number-of-bad-pairs/ ```Medium```
 - https://leetcode.com/problems/largest-palindromic-number/ ```Medium```
+- https://leetcode.com/problems/ransom-note/ ```Easy```
 
 </details>
 
