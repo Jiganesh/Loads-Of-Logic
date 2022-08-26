@@ -392,6 +392,7 @@
 - https://leetcode.com/problems/power-of-four/ ```Easy```
 - https://leetcode.com/problems/power-of-two ```Easy```
 - https://leetcode.com/problems/reordered-power-of-2/ ````Medium```
+- https://leetcode.com/problems/reverse-bits/ ```Easy```
  
 </details>
 
