@@ -336,6 +336,8 @@
 - https://leetcode.com/problems/find-good-days-to-rob-the-bank/  ```Medium```
 - https://leetcode.com/problems/shifting-letters/ ```Medium```
 - https://leetcode.com/problems/shifting-letters-ii/ ```Medium```
+- https://leetcode.com/problems/longest-subsequence-with-limited-sum/ ```Easy```
+- https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/ ```Medium```
 
 </details>
 
@@ -518,6 +520,7 @@
 - https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/ ```Medium```
 - https://leetcode.com/problems/construct-smallest-number-from-di-string/ ```Medium```
 - https://leetcode.com/problems/longest-absolute-file-path/ ```Medium```
+- https://leetcode.com/problems/removing-stars-from-a-string/ ```Medium```
 
 </details>
 
