@@ -223,6 +223,7 @@
 - https://leetcode.com/problems/word-search/ ```Medium```
 - https://leetcode.com/problems/find-if-path-exists-in-graph/ ```Easy```
 - https://leetcode.com/problems/find-the-town-judge/ ```Easy```
+- https://leetcode.com/problems/all-paths-from-source-to-target/ ```Medium```
 
 <details>
 
