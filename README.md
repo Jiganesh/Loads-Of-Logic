@@ -222,7 +222,7 @@
 - https://leetcode.com/problems/lexicographical-numbers/ ```Medium```
 - https://leetcode.com/problems/word-search/ ```Medium```
 - https://leetcode.com/problems/find-if-path-exists-in-graph/ ```Easy```
-
+- https://leetcode.com/problems/find-the-town-judge/ ```Easy```
 
 <details>
 
