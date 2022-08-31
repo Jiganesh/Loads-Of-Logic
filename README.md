@@ -224,6 +224,10 @@
 - https://leetcode.com/problems/word-search/ ```Medium```
 - https://leetcode.com/problems/find-if-path-exists-in-graph/ ```Easy```
 - https://leetcode.com/problems/find-the-town-judge/ ```Easy```
+- https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/ ```Medium```
+- https://leetcode.com/problems/all-paths-from-source-to-target/ ```Medium```
+- https://leetcode.com/problems/keys-and-rooms/ ```Medium```
+- https://leetcode.com/problems/pacific-atlantic-water-flow/ ```Medium```
 
 <details>
 
