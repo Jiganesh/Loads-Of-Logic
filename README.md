@@ -630,6 +630,7 @@
 - https://leetcode.com/problems/construct-string-from-binary-tree/ ```Easy```
 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ ```Medium```
 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ ```Medium```
+- https://leetcode.com/problems/count-good-nodes-in-binary-tree/ ```Medium```
 
 </details>
 
