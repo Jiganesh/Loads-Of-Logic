@@ -8,6 +8,10 @@ class TreeNode:
         self.right = right
         
 class Solution:
+    
+    # Runtime: 240 ms, faster than 98.68% of Python3 online submissions for Count Good Nodes in Binary Tree.
+    # Memory Usage: 32.5 MB, less than 46.26% of Python3 online submissions for Count Good Nodes in Binary Tree.
+
     def goodNodes(self, root: TreeNode) -> int:
         
         self.result = 0
