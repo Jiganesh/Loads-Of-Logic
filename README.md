@@ -228,6 +228,8 @@
 - https://leetcode.com/problems/all-paths-from-source-to-target/ ```Medium```
 - https://leetcode.com/problems/keys-and-rooms/ ```Medium```
 - https://leetcode.com/problems/pacific-atlantic-water-flow/ ```Medium```
+- https://leetcode.com/problems/numbers-with-same-consecutive-differences/ ```Medium```
+
 
 <details>
 
