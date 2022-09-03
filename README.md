@@ -297,6 +297,8 @@
 - https://leetcode.com/problems/largest-palindromic-number/ ```Medium```
 - https://leetcode.com/problems/ransom-note/ ```Easy```
 - https://leetcode.com/problems/count-common-words-with-one-occurrence/ ```Easy```
+- https://leetcode.com/problems/find-subarrays-with-equal-sum/ ```Medium```
+
 
 </details>
 
