@@ -294,6 +294,7 @@
 - https://leetcode.com/problems/count-number-of-bad-pairs/ ```Medium```
 - https://leetcode.com/problems/largest-palindromic-number/ ```Medium```
 - https://leetcode.com/problems/ransom-note/ ```Easy```
+- https://leetcode.com/problems/count-common-words-with-one-occurrence/ ```Easy```
 
 </details>
 
@@ -402,6 +403,7 @@
 - https://leetcode.com/problems/power-of-two ```Easy```
 - https://leetcode.com/problems/reordered-power-of-2/ ````Medium```
 - https://leetcode.com/problems/reverse-bits/ ```Easy```
+- https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/ ```Easy```
  
 </details>
 
