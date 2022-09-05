@@ -205,6 +205,7 @@
 - https://leetcode.com/problems/knight-probability-in-chessboard/ ```Medium```
 - https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/ ```Medium```
 - https://leetcode.com/problems/k-concatenation-maximum-sum/ ```Medium```
+- https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/ ```Medium```
 
 </details>
 
