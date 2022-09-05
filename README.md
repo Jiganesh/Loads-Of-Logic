@@ -122,7 +122,7 @@
 - https://leetcode.com/problems/n-queens-ii/  ```Hard```
 - https://leetcode.com/problems/combinations/ ```Medium```
 - https://leetcode.com/problems/matchsticks-to-square```Medium```
-
+- https://leetcode.com/problems/maximum-rows-covered-by-columns/ ```Medium```
 
 </details>
 
@@ -297,6 +297,8 @@
 - https://leetcode.com/problems/largest-palindromic-number/ ```Medium```
 - https://leetcode.com/problems/ransom-note/ ```Easy```
 - https://leetcode.com/problems/count-common-words-with-one-occurrence/ ```Easy```
+- https://leetcode.com/problems/find-subarrays-with-equal-sum/ ```Medium```
+
 
 </details>
 
@@ -406,7 +408,9 @@
 - https://leetcode.com/problems/reordered-power-of-2/ ````Medium```
 - https://leetcode.com/problems/reverse-bits/ ```Easy```
 - https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/ ```Easy```
- 
+- https://leetcode.com/problems/strictly-palindromic-number/ ```Medium```
+
+
 </details>
 
 
