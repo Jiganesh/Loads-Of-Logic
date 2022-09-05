@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/maximum-rows-covered-by-columns/
+# Can be solved with bit mask also
 
 from typing import List
 

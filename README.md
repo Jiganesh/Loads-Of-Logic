@@ -298,6 +298,7 @@
 - https://leetcode.com/problems/ransom-note/ ```Easy```
 - https://leetcode.com/problems/count-common-words-with-one-occurrence/ ```Easy```
 - https://leetcode.com/problems/find-subarrays-with-equal-sum/ ```Medium```
+- https://leetcode.com/problems/check-distances-between-same-letters/ ```Easy```
 
 
 </details>
@@ -639,6 +640,8 @@
 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ ```Medium```
 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ ```Medium```
 - https://leetcode.com/problems/count-good-nodes-in-binary-tree/ ```Medium```
+- https://leetcode.com/problems/n-ary-tree-level-order-traversal/ ```Medium```
+
 
 </details>
 
