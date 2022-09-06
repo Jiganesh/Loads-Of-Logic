@@ -204,3 +204,17 @@ else:
 
 # 0b1010101010101010101010101010101 = 1431655765 = 0X55555555
 ```
+
+Good Example to understand bit adding and removal
+- https://leetcode.com/problems/longest-nice-subarray/
+
+```text
+Sliding window, AND is the AND result in the window.
+Let's slide a subarray window and keep it nice.
+
+If it's nice to add a new element a to the window,
+AND & a should be 0,
+and then we update AND |= A[j]
+
+Otherwice we move the head out of the window by doing AND ^= A[i]
+```

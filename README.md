@@ -108,6 +108,7 @@
 - https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/ ```Medium```
 - https://leetcode.com/problems/maximum-product-of-word-lengths/ ```Medium```
 - https://leetcode.com/problems/divide-two-integers/ ```Medium```
+- https://leetcode.com/problems/longest-nice-subarray/ ```Medium```
 
 </details>
 
