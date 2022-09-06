@@ -204,3 +204,28 @@ else:
 
 # 0b1010101010101010101010101010101 = 1431655765 = 0X55555555
 ```
+
+Good Example to understand bit adding and removal
+- https://leetcode.com/problems/longest-nice-subarray/
+
+```text
+Sliding window, AND is the AND result in the window.
+Let's slide a subarray window and keep it nice.
+
+If it's nice to add a new element a to the window,
+AND & a should be 0,
+and then we update AND |= A[j]
+
+Otherwice we move the head out of the window by doing AND ^= A[i]
+```
+
+Fibonacci number Formula
+
+```text
+
+Yes, there is an exact formula for the n-th term! It is:
+an = [Phin – (phi)n] / Sqrt[5].
+where Phi = (1 + Sqrt[5]) / 2 is the so-called golden mean, and
+phi = (1 – Sqrt[5]) / 2 is an associated golden number, also equal to (-1 / Phi). This formula is attributed to Binet in 1843, though known by Euler before him.
+
+```
