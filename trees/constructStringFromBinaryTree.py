@@ -21,21 +21,25 @@ class Solution(object):
         :type root: TreeNode
         :rtype: str
         """
-        def helper(root):
-        
-            if root:
-                if not root.left and root.right:
-                    left = "()"
-                else:
-                    left = helper(root.left)
-                    
-                right = helper(root.right)
-
-                return "("+str(root.val)+left+right+")"
+        def helper ( root ):
             
-            return ""
+            
+            if not root:
+                return ""
+            
+            left = ""
+            right = ""
+            
+            if root.left :
+                left = "(" + str(helper(root.left))+ ")"
+                
+            if root.right :
+                left = "()"  if left == "" else left
+                right = "("+ str(helper(root.right)) +")"
+                
+            return str(root.val)+left+right
         
-        return helper(root)[1:-1]
+        return helper(root)
             
         
         

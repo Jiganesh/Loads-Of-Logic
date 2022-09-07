@@ -218,3 +218,14 @@ and then we update AND |= A[j]
 
 Otherwice we move the head out of the window by doing AND ^= A[i]
 ```
+
+Fibonacci number Formula
+
+```text
+
+Yes, there is an exact formula for the n-th term! It is:
+an = [Phin – (phi)n] / Sqrt[5].
+where Phi = (1 + Sqrt[5]) / 2 is the so-called golden mean, and
+phi = (1 – Sqrt[5]) / 2 is an associated golden number, also equal to (-1 / Phi). This formula is attributed to Binet in 1843, though known by Euler before him.
+
+```
