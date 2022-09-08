@@ -647,6 +647,7 @@
 - https://leetcode.com/problems/count-good-nodes-in-binary-tree/ ```Medium```
 - https://leetcode.com/problems/n-ary-tree-level-order-traversal/ ```Medium```
 - https://leetcode.com/problems/binary-tree-pruning/ ```Medium```
+- https://leetcode.com/problems/balance-a-binary-search-tree/ ```Medium```
 
 
 </details>
