@@ -207,6 +207,8 @@
 - https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/ ```Medium```
 - https://leetcode.com/problems/k-concatenation-maximum-sum/ ```Medium```
 - https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/ ```Medium```
+- https://leetcode.com/problems/count-square-submatrices-with-all-ones/ ```Medium```
+- https://leetcode.com/problems/all-possible-full-binary-trees/ ```Medium```
 
 </details>
 
@@ -270,6 +272,7 @@
 - https://leetcode.com/problems/max-area-of-island/ ```Medium```
 - https://leetcode.com/problems/split-array-into-consecutive-subsequences/ ```Medium```
 - https://leetcode.com/problems/two-furthest-houses-with-different-colors/ ```Easy```
+
 </details>
 
 <summary>HashTable</summary>
