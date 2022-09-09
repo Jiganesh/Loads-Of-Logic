@@ -11,6 +11,26 @@ class TreeNode:
         self.right = right
 
 class Solution:
+    
+    # Runtime: 67 ms, faster than 18.72% of Python3 online submissions for Maximum Binary Tree II.
+    # Memory Usage: 13.9 MB, less than 45.11% of Python3 online submissions for Maximum Binary Tree II.
+    
+    def insertIntoMaxTree(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
+
+        parent_node, current_node = None, root
+        
+        while current_node and current_node.val > val:
+            parent_node , current_node = current_node, current_node.right
+            
+        new_node = TreeNode(val)
+        new_node.left = current_node
+        
+        if parent_node : parent_node.right = new_node
+        
+        return root if root.val > val else new_node
+    
+    
+    
     def insertIntoMaxTree(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
 
         def helper(root, value):
