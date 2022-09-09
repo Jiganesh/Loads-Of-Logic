@@ -586,6 +586,7 @@
 - https://leetcode.com/problems/longest-ideal-subsequence/ ```Medium```
 - https://leetcode.com/problems/first-unique-character-in-a-string/ ```Easy```
 - https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/ ```Easy```
+- https://leetcode.com/problems/isomorphic-strings/ ```Easy```
 
 </details>
 
