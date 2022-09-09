@@ -141,6 +141,7 @@
 - https://leetcode.com/problems/implement-stack-using-queues/ ```Easy```
 - https://leetcode.com/problems/fair-distribution-of-cookies/submissions/ ```Medium```
 - https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/ ```Medium```
+- https://leetcode.com/problems/design-browser-history/ ```Medium```
 
 
 </details>
