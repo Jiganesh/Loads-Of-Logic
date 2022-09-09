@@ -542,6 +542,7 @@
 - https://leetcode.com/problems/construct-smallest-number-from-di-string/ ```Medium```
 - https://leetcode.com/problems/longest-absolute-file-path/ ```Medium```
 - https://leetcode.com/problems/removing-stars-from-a-string/ ```Medium```
+- https://leetcode.com/problems/maximum-binary-tree/ ```Medium```
 
 </details>
 
@@ -649,7 +650,7 @@
 - https://leetcode.com/problems/n-ary-tree-level-order-traversal/ ```Medium```
 - https://leetcode.com/problems/binary-tree-pruning/ ```Medium```
 - https://leetcode.com/problems/balance-a-binary-search-tree/ ```Medium```
-
+- https://leetcode.com/problems/maximum-binary-tree-ii/ ```Medium```
 
 </details>
 
