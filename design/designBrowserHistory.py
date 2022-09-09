@@ -2,8 +2,8 @@
 
 
 class BrowserHistory:
-    # Runtime: 645 ms, faster than 7.16% of Python3 online submissions for Design Browser History.
-    # Memory Usage: 16.6 MB, less than 83.80% of Python3 online submissions for Design Browser History.
+    # Runtime: 283 ms, faster than 84.47% of Python3 online submissions for Design Browser History.
+    # Memory Usage: 16.6 MB, less than 65.48% of Python3 online submissions for Design Browser History.
     
     def __init__(self, homepage: str):
         self.bs = [homepage]
