@@ -109,6 +109,7 @@
 - https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/ ```Medium```
 - https://leetcode.com/problems/maximum-product-of-word-lengths/ ```Medium```
 - https://leetcode.com/problems/divide-two-integers/ ```Medium```
+- https://leetcode.com/problems/longest-nice-subarray/ ```Medium```
 
 </details>
 
@@ -206,6 +207,9 @@
 - https://leetcode.com/problems/knight-probability-in-chessboard/ ```Medium```
 - https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/ ```Medium```
 - https://leetcode.com/problems/k-concatenation-maximum-sum/ ```Medium```
+- https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/ ```Medium```
+- https://leetcode.com/problems/count-square-submatrices-with-all-ones/ ```Medium```
+- https://leetcode.com/problems/all-possible-full-binary-trees/ ```Medium```
 
 </details>
 
@@ -269,6 +273,7 @@
 - https://leetcode.com/problems/max-area-of-island/ ```Medium```
 - https://leetcode.com/problems/split-array-into-consecutive-subsequences/ ```Medium```
 - https://leetcode.com/problems/two-furthest-houses-with-different-colors/ ```Easy```
+
 </details>
 
 <summary>HashTable</summary>
@@ -538,6 +543,7 @@
 - https://leetcode.com/problems/construct-smallest-number-from-di-string/ ```Medium```
 - https://leetcode.com/problems/longest-absolute-file-path/ ```Medium```
 - https://leetcode.com/problems/removing-stars-from-a-string/ ```Medium```
+- https://leetcode.com/problems/maximum-binary-tree/ ```Medium```
 
 </details>
 
@@ -582,6 +588,7 @@
 - https://leetcode.com/problems/longest-ideal-subsequence/ ```Medium```
 - https://leetcode.com/problems/first-unique-character-in-a-string/ ```Easy```
 - https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/ ```Easy```
+- https://leetcode.com/problems/isomorphic-strings/ ```Easy```
 
 </details>
 
@@ -642,7 +649,9 @@
 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ ```Medium```
 - https://leetcode.com/problems/count-good-nodes-in-binary-tree/ ```Medium```
 - https://leetcode.com/problems/n-ary-tree-level-order-traversal/ ```Medium```
-
+- https://leetcode.com/problems/binary-tree-pruning/ ```Medium```
+- https://leetcode.com/problems/balance-a-binary-search-tree/ ```Medium```
+- https://leetcode.com/problems/maximum-binary-tree-ii/ ```Medium```
 
 </details>
 
