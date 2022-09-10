@@ -212,6 +212,8 @@
 - https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/ ```Medium```
 - https://leetcode.com/problems/count-square-submatrices-with-all-ones/ ```Medium```
 - https://leetcode.com/problems/all-possible-full-binary-trees/ ```Medium```
+- https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/  ```Hard```
+
 
 </details>
 
@@ -560,7 +562,7 @@
 - https://leetcode.com/problems/adding-spaces-to-a-string/ ```Medium```
 - https://leetcode.com/problems/matchsticks-to-square/ ```Medium```
 - https://leetcode.com/problems/find-substring-with-given-hash-value/ ```Medium``` ```Recommended```
-- https://leetcode.com/problems/find-the-difference/ ```Easy```
+- https://leetcode.com/problems/find-the-difference/ ```Eashttps://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/y```
 - https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/ ```Medium```
 - https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/ ```Easy```
 - https://leetcode.com/problems/permutation-in-string/ ```Medium```
