@@ -140,6 +140,8 @@
 - https://leetcode.com/problems/fair-distribution-of-cookies/submissions/ ```Medium```
 - https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/ ```Medium```
 - https://leetcode.com/problems/design-browser-history/ ```Medium```
+- https://leetcode.com/problems/design-front-middle-back-queue/ ```Medium```
+
 
 
 </details>
@@ -384,6 +386,9 @@
 - https://leetcode.com/problems/reverse-linked-list-ii/ ```Medium```
 - https://leetcode.com/problems/reverse-linked-list/ ```Easy```
 - https://leetcode.com/problems/palindrome-linked-list/ ```Easy```
+- https://leetcode.com/problems/merge-in-between-linked-lists/ ```Medium```
+- https://leetcode.com/problems/middle-of-the-linked-list/ ```Easy```
+- https://leetcode.com/problems/linked-list-cycle-ii/ ```Medium```
 
 </details>
 
