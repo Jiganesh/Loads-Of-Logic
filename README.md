@@ -562,7 +562,7 @@
 - https://leetcode.com/problems/adding-spaces-to-a-string/ ```Medium```
 - https://leetcode.com/problems/matchsticks-to-square/ ```Medium```
 - https://leetcode.com/problems/find-substring-with-given-hash-value/ ```Medium``` ```Recommended```
-- https://leetcode.com/problems/find-the-difference/ ```Eashttps://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/y```
+- https://leetcode.com/problems/find-the-difference/ ```Easy``
 - https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/ ```Medium```
 - https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/ ```Easy```
 - https://leetcode.com/problems/permutation-in-string/ ```Medium```
@@ -596,6 +596,8 @@
 - https://leetcode.com/problems/first-unique-character-in-a-string/ ```Easy```
 - https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/ ```Easy```
 - https://leetcode.com/problems/isomorphic-strings/ ```Easy```
+- https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/ ```Easy```
+- https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/ ```Medium```
 
 </details>
 
@@ -659,6 +661,7 @@
 - https://leetcode.com/problems/binary-tree-pruning/ ```Medium```
 - https://leetcode.com/problems/balance-a-binary-search-tree/ ```Medium```
 - https://leetcode.com/problems/maximum-binary-tree-ii/ ```Medium```
+- https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/ ```Medium```
 
 </details>
 
