@@ -213,6 +213,7 @@
 - https://leetcode.com/problems/count-square-submatrices-with-all-ones/ ```Medium```
 - https://leetcode.com/problems/all-possible-full-binary-trees/ ```Medium```
 - https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/  ```Hard```
+- https://leetcode.com/problems/max-dot-product-of-two-subsequences/ ```Medium```
 
 
 </details>
