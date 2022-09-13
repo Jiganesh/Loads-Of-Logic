@@ -602,6 +602,7 @@
 - https://leetcode.com/problems/isomorphic-strings/ ```Easy```
 - https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/ ```Easy```
 - https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/ ```Medium```
+- https://leetcode.com/problems/longest-palindrome/ ```Easy```
 
 </details>
 
@@ -667,6 +668,9 @@
 - https://leetcode.com/problems/maximum-binary-tree-ii/ ```Medium```
 - https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/ ```Medium```
 - https://leetcode.com/problems/most-frequent-subtree-sum/ ```Medium```
+
+
+
 
 </details>
 

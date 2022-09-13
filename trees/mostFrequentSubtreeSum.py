@@ -1,6 +1,6 @@
 # https://leetcode.com/problems/most-frequent-subtree-sum/
 
-from typing import List
+from typing import List, Optional
 from collections import defaultdict
 
 
@@ -14,8 +14,12 @@ class TreeNode:
 
 class Solution:
     
+    # TC : O(N)
+    # SC : O(N)
+    
     # Runtime: 66 ms, faster than 72.28% of Python3 online submissions for Most Frequent Subtree Sum.
     # Memory Usage: 17.9 MB, less than 11.80% of Python3 online submissions for Most Frequent Subtree Sum.
+    
     def findFrequentTreeSum(self, root: Optional[TreeNode]) -> List[int]:
         
         lookup = defaultdict(lambda :[0,0])

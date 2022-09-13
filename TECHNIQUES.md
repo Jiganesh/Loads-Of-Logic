@@ -229,3 +229,21 @@ where Phi = (1 + Sqrt[5]) / 2 is the so-called golden mean, and
 phi = (1 – Sqrt[5]) / 2 is an associated golden number, also equal to (-1 / Phi). This formula is attributed to Binet in 1843, though known by Euler before him.
 
 ```
+
+```python
+d = Counter('qwertyuiop' + 'asdfghjkl' * 2 + 'zxcvbnm' * 3)
+assigning index based on row of keyboard
+```
+
+
+```Check If all characters of string a present in string b
+
+# Pythonic Code
+
+
+# Part A        # Part B  
+
+set("abc") <= set("abdcef") # All the elements of A are in B --> returns True
+set("abcdef") <= set("abdf") # All the elements of A are in B --> returns False
+
+```
