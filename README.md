@@ -280,6 +280,7 @@
 - https://leetcode.com/problems/max-area-of-island/ ```Medium```
 - https://leetcode.com/problems/split-array-into-consecutive-subsequences/ ```Medium```
 - https://leetcode.com/problems/two-furthest-houses-with-different-colors/ ```Easy```
+- https://leetcode.com/problems/bag-of-tokens/ ```Medium```
 
 </details>
 
@@ -603,6 +604,7 @@
 - https://leetcode.com/problems/isomorphic-strings/ ```Easy```
 - https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/ ```Easy```
 - https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/ ```Medium```
+- https://leetcode.com/problems/longest-palindrome/ ```Easy```
 
 </details>
 
@@ -667,6 +669,10 @@
 - https://leetcode.com/problems/balance-a-binary-search-tree/ ```Medium```
 - https://leetcode.com/problems/maximum-binary-tree-ii/ ```Medium```
 - https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/ ```Medium```
+- https://leetcode.com/problems/most-frequent-subtree-sum/ ```Medium```
+
+
+
 
 </details>
 
