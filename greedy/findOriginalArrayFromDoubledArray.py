@@ -15,7 +15,7 @@ class Solution:
             return []
         
         lookup = Counter(changed)
-        result = []
+
         for num in sorted(lookup):
             if lookup[num] > lookup[num*2]:
                 return []
