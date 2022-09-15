@@ -279,6 +279,7 @@
 - https://leetcode.com/problems/split-array-into-consecutive-subsequences/ ```Medium```
 - https://leetcode.com/problems/two-furthest-houses-with-different-colors/ ```Easy```
 - https://leetcode.com/problems/bag-of-tokens/ ```Medium```
+- https://leetcode.com/problems/find-original-array-from-doubled-array/ ```Medium```
 
 </details>
 
