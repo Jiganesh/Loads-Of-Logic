@@ -113,6 +113,7 @@
 - https://leetcode.com/problems/maximum-product-of-word-lengths/ ```Medium```
 - https://leetcode.com/problems/divide-two-integers/ ```Medium```
 - https://leetcode.com/problems/longest-nice-subarray/ ```Medium```
+- https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/ ```Medium```
 
 </details>
 
