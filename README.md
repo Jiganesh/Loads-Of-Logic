@@ -373,6 +373,7 @@
 - https://leetcode.com/problems/shifting-letters-ii/ ```Medium```
 - https://leetcode.com/problems/longest-subsequence-with-limited-sum/ ```Easy```
 - https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/ ```Medium```
+- https://leetcode.com/problems/find-all-good-indices/ ```Medium```
 
 </details>
 
