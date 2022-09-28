@@ -41,4 +41,23 @@ class Solution(object):
         
         return dummyNode.next   
     
+    # OPTIMIZED SOLUTION SINGLE PASS
+    def removeNthFromEnd(self, head, n: int):
+        dummyNode = ListNode(-1)
+        dummyNode.next = head
+        head = dummyNode
+
+        pointer_nth = current = head
+        length = 0
+        
+        while current:
+            if length > n:
+                pointer_nth = pointer_nth.next
+            length+=1
+            current = current.next
+            
+        pointer_nth.next = pointer_nth.next.next if pointer_nth.next else None
+        return dummyNode.next
+        
+    
     
