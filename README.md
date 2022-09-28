@@ -96,6 +96,7 @@
 - https://leetcode.com/problems/island-perimeter/ ```Easy```
 - https://leetcode.com/problems/diagonal-traverse/ ```Medium```
 - https://leetcode.com/problems/diagonal-traverse/ ```Medium```
+- https://leetcode.com/problems/alphabet-board-path/ ```Medium```
 
 
 </details>
