@@ -691,6 +691,15 @@
 
 </details>
 
+
+<details>
+<summary>Two Pointers</summary>
+
+- https://leetcode.com/problems/push-dominoes/ ```Medium```
+</details>
+
+
+
 <details>
 <summary>Concepts</summary>
     - Print Number from 1 to N && from N to 1 && from 1 to N and N to 1 in same
