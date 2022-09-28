@@ -96,6 +96,7 @@
 - https://leetcode.com/problems/island-perimeter/ ```Easy```
 - https://leetcode.com/problems/diagonal-traverse/ ```Medium```
 - https://leetcode.com/problems/diagonal-traverse/ ```Medium```
+- https://leetcode.com/problems/alphabet-board-path/ ```Medium```
 
 
 </details>
@@ -690,6 +691,15 @@
 - https://leetcode.com/problems/short-encoding-of-words/ ```Medium```
 
 </details>
+
+
+<details>
+<summary>Two Pointers</summary>
+
+- https://leetcode.com/problems/push-dominoes/ ```Medium```
+</details>
+
+
 
 <details>
 <summary>Concepts</summary>
