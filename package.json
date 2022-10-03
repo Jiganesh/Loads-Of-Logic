@@ -4,7 +4,7 @@
   "description": "<img src= \".dev/highOnDSABanner.png\" height= 40%  width = 140%>",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,13 @@
     "url": "https://github.com/Jiganesh/High-On-DSA/issues"
   },
   "homepage": "https://github.com/Jiganesh/High-On-DSA#readme",
-  "dependencies": {
+  "devDependencies": {
+    "@babel/core": "^7.19.3",
+    "@babel/preset-env": "^7.19.3",
+    "babel-jest": "^29.1.2",
     "jest": "^29.1.2"
+  },
+  "dependencies": {
+    "babel": "^6.23.0"
   }
 }
