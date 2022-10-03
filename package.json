@@ -1,0 +1,23 @@
+{
+  "name": "high-on-dsa",
+  "version": "1.0.0",
+  "description": "<img src= \".dev/highOnDSABanner.png\" height= 40%  width = 140%>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiganesh/High-On-DSA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jiganesh/High-On-DSA/issues"
+  },
+  "homepage": "https://github.com/Jiganesh/High-On-DSA#readme",
+  "dependencies": {
+    "jest": "^29.1.2"
+  }
+}
