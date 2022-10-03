@@ -285,6 +285,7 @@
 - https://leetcode.com/problems/two-furthest-houses-with-different-colors/ ```Easy```
 - https://leetcode.com/problems/bag-of-tokens/ ```Medium```
 - https://leetcode.com/problems/find-original-array-from-doubled-array/ ```Medium```
+- https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/ ```Medium```
 
 </details>
 
