@@ -2,7 +2,6 @@ const Test = {
   assertSimilar: require("assert").deepStrictEqual,
   assertEquals: require("assert").strictEqual,
 };
-
 const baseballGame = require("../baseballGame");
 describe("Tests", () => {
   it("test", () => {
