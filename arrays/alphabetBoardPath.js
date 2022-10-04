@@ -49,5 +49,4 @@ function alphabetBoardPath(target) {
   });
   return result.join("");
 }
-console.log(alphabetBoardPath("zdz"));
 module.exports = alphabetBoardPath;
