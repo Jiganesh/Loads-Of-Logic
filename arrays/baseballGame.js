@@ -6,21 +6,21 @@
  * @return {number}
  */
 var calPoints = function (operations) {
-    let solution = [];
-    operations.forEach((val) => {
-        if (!!Number(val)) {
-            solution.push(Number(val))
-        }
-        else if (val === "C") {
-            solution.pop()
-        }
-        else if (val === "D") {
-            solution = [...solution, solution[solution.length - 1] * 2]
-        }
-        else if (val === "+") {
-            solution = [...solution, solution[solution.length - 1] + solution[solution.length - 2]]
-        }
-    });
-    return solution.reduce((acc, cur) => acc + cur, 0);
+  let solution = [];
+  operations.forEach((val) => {
+    if (!!Number(val)) {
+      solution.push(Number(val));
+    } else if (val === "C") {
+      solution.pop();
+    } else if (val === "D") {
+      solution = [...solution, solution[solution.length - 1] * 2];
+    } else if (val === "+") {
+      solution = [
+        ...solution,
+        solution[solution.length - 1] + solution[solution.length - 2],
+      ];
+    }
+  });
+  return solution.reduce((acc, cur) => acc + cur, 0);
 };
 module.exports = calPoints;
