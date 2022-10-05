@@ -5,25 +5,39 @@
  * @param {number[][]} grid
  * @return {boolean}
  */
+// var checkXMatrix = function (grid) {
+//     const n = grid.length;
+//     for (let rowIndex = 0; rowIndex < n; rowIndex++) {
+//         for (let colIndex = 0; colIndex < n; colIndex++) {
+//             let val = grid[rowIndex][colIndex];
+//             if (rowIndex === colIndex || rowIndex === n - 1 - colIndex) {
+//                 if (val === 0) { return false; }
+//             } else {
+//                 if (val !== 0) { return false }
+//             }
+//         }
+//     }
+//     return true;
+// };
 var checkXMatrix = function (grid) {
-    const n = grid.length;
-    let ans = true
-    grid.forEach((row, rowIndex) => {
-        row.forEach((val, colIndex) => {
-            if (rowIndex === colIndex || rowIndex === n - 1 - colIndex) {
-                if (val === 0) {
-                    ans = false;
-                    return;
-                }
-            } else {
-                if (val !== 0) {
-                    ans = false;
-                    return;
-                }
-            }
-        });
+  const n = grid.length;
+  let ans = true;
+  grid.forEach((row, rowIndex) => {
+    row.forEach((val, colIndex) => {
+      if (rowIndex === colIndex || rowIndex === n - 1 - colIndex) {
+        if (val === 0) {
+          ans = false;
+          return;
+        }
+      } else {
+        if (val !== 0) {
+          ans = false;
+          return;
+        }
+      }
     });
-    return ans;
+  });
+  return ans;
 };
 
 module.exports = checkXMatrix;
