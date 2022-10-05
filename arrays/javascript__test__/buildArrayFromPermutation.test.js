@@ -1,7 +1,4 @@
-const Test = {
-    assertSimilar: require("assert").deepStrictEqual,
-    assertEquals: require("assert").strictEqual,
-};
+const Test = require("../../_testconfig/Test");
 const buildArrayFromPermutation  = require("../buildArrayFromPermutation");
 describe("Tests", () => {
     it("test", () => {
