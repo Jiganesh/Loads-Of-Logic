@@ -1,9 +1,6 @@
 <img src= ".dev/highOnDSABanner.png" height= 40%  width = 140%>
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 525 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-18-orange?">
-
-
-
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 530 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-5-orange?">
 
 
 
@@ -98,6 +95,7 @@
 - https://leetcode.com/problems/diagonal-traverse/ ```Medium```
 - https://leetcode.com/problems/diagonal-traverse/ ```Medium```
 - https://leetcode.com/problems/alphabet-board-path/ ```Medium```
+- https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/ ```Easy```
 
 
 </details>
@@ -114,6 +112,9 @@
 - https://leetcode.com/problems/divide-two-integers/ ```Medium```
 - https://leetcode.com/problems/longest-nice-subarray/ ```Medium```
 - https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/ ```Medium```
+- https://leetcode.com/problems/decode-xored-array/description/ ```Easy``
+- https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ ```Easy```
+- https://leetcode.com/problems/xor-operation-in-an-array/description/ ```Easy```
 
 </details>
 
@@ -219,6 +220,7 @@
 - https://leetcode.com/problems/all-possible-full-binary-trees/ ```Medium```
 - https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/  ```Hard```
 - https://leetcode.com/problems/max-dot-product-of-two-subsequences/ ```Medium```
+- https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/ ```Medium```
 
 
 </details>
@@ -434,7 +436,7 @@
 - https://leetcode.com/problems/power-of-three/ ```Easy```
 - https://leetcode.com/problems/power-of-four/ ```Easy```
 - https://leetcode.com/problems/power-of-two ```Easy```
-- https://leetcode.com/problems/reordered-power-of-2/ ````Medium```
+- https://leetcode.com/problems/reordered-power-of-2/ ````Medium```https://leetcode.com/problems/add-one-row-to-tree/description/
 - https://leetcode.com/problems/reverse-bits/ ```Easy```
 - https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/ ```Easy```
 - https://leetcode.com/problems/strictly-palindromic-number/ ```Medium```
@@ -463,7 +465,6 @@
 <details>
 <summary>Recursion</summary>
 
-- https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ ```Easy```
 - https://www.geeksforgeeks.org/sum-triangle-from-array/ ```Easy``` ```GFG```
 - https://leetcode.com/problems/sudoku-solver/ ```Hard```
 - https://leetcode.com/problems/combination-sum-iii/  ```Medium```
@@ -501,6 +502,7 @@
 - https://leetcode.com/problems/powx-n/ ```Medium```
 - https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ ```Medium```
 - https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/ ```Medium```
+- https://leetcode.com/problems/my-calendar-i/ ```Medium```
 
 
 </details>
@@ -679,6 +681,8 @@
 - https://leetcode.com/problems/maximum-binary-tree-ii/ ```Medium```
 - https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/ ```Medium```
 - https://leetcode.com/problems/most-frequent-subtree-sum/ ```Medium```
+- https://leetcode.com/problems/add-one-row-to-tree/ ```Medium```
+
 
 
 
@@ -694,6 +698,7 @@
 - https://leetcode.com/problems/camelcase-matching/ ```Medium```
 - https://leetcode.com/problems/longest-word-in-dictionary/ ```Medium```
 - https://leetcode.com/problems/short-encoding-of-words/ ```Medium```
+- https://leetcode.com/problems/replace-words/description/ ```Medium```
 
 </details>
 
