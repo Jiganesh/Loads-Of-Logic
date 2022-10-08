@@ -614,6 +614,7 @@
 - https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/ ```Easy```
 - https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/ ```Medium```
 - https://leetcode.com/problems/longest-palindrome/ ```Easy```
+- https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/ ```Hard```
 
 </details>
 
