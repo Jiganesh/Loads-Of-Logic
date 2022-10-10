@@ -115,6 +115,7 @@
 - https://leetcode.com/problems/decode-xored-array/description/ ```Easy``
 - https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ ```Easy```
 - https://leetcode.com/problems/xor-operation-in-an-array/description/ ```Easy```
+- https://leetcode.com/problems/find-the-original-array-of-prefix-xor/ ```Medium```
 
 </details>
 
@@ -288,6 +289,7 @@
 - https://leetcode.com/problems/bag-of-tokens/ ```Medium```
 - https://leetcode.com/problems/find-original-array-from-doubled-array/ ```Medium```
 - https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/ ```Medium```
+- https://leetcode.com/problems/break-a-palindrome/ ```Medium```
 
 </details>
 
@@ -683,6 +685,7 @@
 - https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/ ```Medium```
 - https://leetcode.com/problems/most-frequent-subtree-sum/ ```Medium```
 - https://leetcode.com/problems/add-one-row-to-tree/ ```Medium```
+- https://leetcode.com/problems/two-sum-iv-input-is-a-bst/ ```Easy```
 
 
 

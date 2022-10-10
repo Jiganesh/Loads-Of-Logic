@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/break-a-palindrome/
+# Author : @Jiganesh
 
 class Solution:
     
@@ -20,4 +21,3 @@ class Solution:
 
         palindrome[-1]="b"
         return "".join(palindrome)                
-

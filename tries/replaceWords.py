@@ -2,6 +2,8 @@
 from typing import List
 
 class Solution:
+    # TC : O(N*M) where N is number of words and M is max length of word
+    # SC : O(N)
     def replaceWords(self, dictionary: List[str], sentence: str) -> str:
 
         lookup = set(dictionary)

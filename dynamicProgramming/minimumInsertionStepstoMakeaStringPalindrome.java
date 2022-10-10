@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
 
-package strings;
+package dynamicProgramming;
 /*
  * Minimum Insertion Steps to Make a String Palindrome
     Q: Can you please explain more how exactly lcs with its reverse helps?
