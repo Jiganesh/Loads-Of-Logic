@@ -464,6 +464,7 @@
 - https://leetcode.com/problems/sudoku-solver/ ```Hard```
 - https://leetcode.com/problems/combination-sum-iii/  ```Medium```
 - https://leetcode.com/problems/elimination-game/ ```Medium```
+- https://leetcode.com/problems/k-th-symbol-in-grammar/ ```Medium```
 
 </details>
 
