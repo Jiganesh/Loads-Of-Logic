@@ -1,4 +1,4 @@
-<img src= ".dev/LoadsOfLogic.png" height= 40%  width = 140%>
+<img src= ".dev/LoadsOfLogic.png" height= 30%  width = 140%>
 
 <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 541 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-11-orange?">
 
