@@ -438,11 +438,11 @@
 - https://leetcode.com/problems/power-of-three/ ```Easy```
 - https://leetcode.com/problems/power-of-four/ ```Easy```
 - https://leetcode.com/problems/power-of-two ```Easy```
-- https://leetcode.com/problems/reordered-power-of-2/ ````Medium```https://leetcode.com/problems/add-one-row-to-tree/description/
+- https://leetcode.com/problems/reordered-power-of-2/ ````Medium```
 - https://leetcode.com/problems/reverse-bits/ ```Easy```
 - https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/ ```Easy```
 - https://leetcode.com/problems/strictly-palindromic-number/ ```Medium```
-
+- https://leetcode.com/problems/largest-perimeter-triangle/ ```Easy```
 
 </details>
 
