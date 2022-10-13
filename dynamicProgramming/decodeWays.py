@@ -1,11 +1,10 @@
 # https://leetcode.com/problems/decode-ways/
-
-# Solution : https://leetcode.com/problems/decode-ways/discuss/621312/Python-DP-and-Recursion-w-Explanation
+# Author : Jiganesh
+# Written Solution : https://leetcode.com/problems/decode-ways/discuss/621312/Python-DP-and-Recursion-w-Explanation (Good Post)
 
 class Solution(object):
 
-    # Submitted by Jiganesh
-
+    
 
     # TC : O(N)
     # SC : O(N)
@@ -30,7 +29,6 @@ class Solution(object):
                 second = helper(s[2:])
 
             dp[s]= first +second
-
             return first+second
 
         return helper(s)

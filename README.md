@@ -410,6 +410,8 @@
 - https://leetcode.com/problems/merge-in-between-linked-lists/ ```Medium```
 - https://leetcode.com/problems/middle-of-the-linked-list/ ```Easy```
 - https://leetcode.com/problems/linked-list-cycle-ii/ ```Medium```
+- https://leetcode.com/problems/delete-node-in-a-linked-list/ ```Medium```
+
 
 </details>
 
