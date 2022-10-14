@@ -292,6 +292,7 @@
 - https://leetcode.com/problems/break-a-palindrome/ ```Medium```
 - https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/ ```Medium```
 - https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/ ```Easy```
+- https://leetcode.com/problems/max-increase-to-keep-city-skyline/ ```Medium```
 
 </details>
 
