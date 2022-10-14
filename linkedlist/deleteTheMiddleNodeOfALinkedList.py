@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list
 # Author : @Jiganesh 
+
 from typing import Optional
 
 # Definition for singly-linked list.
@@ -9,6 +10,9 @@ class ListNode:
         self.next = next
         
 class Solution:
+    
+    # TC : O(logN)
+    # SC : O(1)
     def deleteMiddle(self, head: Optional[ListNode]) -> Optional[ListNode]:
 
         dummyNode = ListNode(-1)
