@@ -411,7 +411,7 @@
 - https://leetcode.com/problems/middle-of-the-linked-list/ ```Easy```
 - https://leetcode.com/problems/linked-list-cycle-ii/ ```Medium```
 - https://leetcode.com/problems/delete-node-in-a-linked-list/ ```Medium```
-
+- https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list ```Medium```
 
 </details>
 
