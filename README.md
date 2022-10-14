@@ -290,6 +290,7 @@
 - https://leetcode.com/problems/find-original-array-from-doubled-array/ ```Medium```
 - https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/ ```Medium```
 - https://leetcode.com/problems/break-a-palindrome/ ```Medium```
+- https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/ ```Medium```
 
 </details>
 
