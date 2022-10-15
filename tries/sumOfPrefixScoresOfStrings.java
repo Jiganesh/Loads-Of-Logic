@@ -1,4 +1,4 @@
-https://leetcode.com/problems/sum-of-prefix-scores-of-strings/
+//https://leetcode.com/problems/sum-of-prefix-scores-of-strings/
 package tries;
 //Additional Node class to count and updates by each character in each word
 class Node {
