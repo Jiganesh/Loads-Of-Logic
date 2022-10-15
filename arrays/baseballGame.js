@@ -5,7 +5,7 @@
  * @param {string[]} operations
  * @return {number}
  */
-var calPoints = function (operations) {
+const calPoints = function (operations) {
   let solution = [];
   operations.forEach((val) => {
     if (!!Number(val)) {
