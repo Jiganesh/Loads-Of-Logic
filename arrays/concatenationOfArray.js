@@ -5,3 +5,4 @@
 const getConcatenation = (nums) => {
   return nums.concat(nums);
 };
+module.exports = getConcatenation;
