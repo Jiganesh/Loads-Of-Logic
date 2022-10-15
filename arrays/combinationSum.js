@@ -7,7 +7,7 @@ let can, n;
 const combinationSum = (a, target) => {
     a.sort((x, y) => x - y);
     let res = [];
-    can = a, n = a.length;
+    can = a; n = a.length;
     helper(target, 0, res, []);
     return res;
 };
