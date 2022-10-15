@@ -4,7 +4,7 @@
   "description": "<img src= \".dev/highOnDSABanner.png\" height= 40%  width = 140%>",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch"
   },
   "repository": {
     "type": "git",
