@@ -207,7 +207,7 @@
 - https://leetcode.com/problems/longest-string-chain/ ```Medium```
 - https://leetcode.com/problems/maximum-profit-in-job-scheduling/ ```Hard```
 - https://leetcode.com/problems/maximum-earnings-from-taxi/ ```Medium```
-- https://leetcode.com/problems/jump-game/ ```Medium```
+- https://leetcode.com/problems/jump-game/ ```Medium```https://leetcode.com/problems/string-compression/
 - https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/ ```Medium```
 - https://leetcode.com/problems/minimum-path-sum/ ```Medium```
 - https://leetcode.com/problems/fibonacci-number/ ```Easy```
@@ -296,6 +296,8 @@
 - https://leetcode.com/problems/max-increase-to-keep-city-skyline/ ```Medium```
 - https://leetcode.com/problems/maximum-number-of-coins-you-can-get/ ```Medium```
 - https://leetcode.com/problems/score-after-flipping-matrix/ ```Medium```
+- https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/ ```Medium```
+
 
 </details>
 
@@ -715,6 +717,9 @@
 <summary>Two Pointers</summary>
 
 - https://leetcode.com/problems/push-dominoes/ ```Medium```
+- https://leetcode.com/problems/string-compression/ ```Medium```
+
+
 </details>
 
 

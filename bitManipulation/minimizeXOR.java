@@ -1,4 +1,7 @@
 // https://leetcode.com/problems/minimize-xor
+
+package bitManipulation;
+
 /*
 Time complexity:O(n)
 Space Complexity:O(1)
