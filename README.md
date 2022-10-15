@@ -295,6 +295,7 @@
 - https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/ ```Easy```
 - https://leetcode.com/problems/max-increase-to-keep-city-skyline/ ```Medium```
 - https://leetcode.com/problems/maximum-number-of-coins-you-can-get/ ```Medium```
+- https://leetcode.com/problems/score-after-flipping-matrix/ ```Medium```
 
 </details>
 
