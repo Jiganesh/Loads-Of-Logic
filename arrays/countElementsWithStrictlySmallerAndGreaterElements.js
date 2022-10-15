@@ -26,3 +26,4 @@ const helper = (arr, val) => {
     }
     return greater > 0 && lesser > 0;
 }
+module.exports = countElements;
