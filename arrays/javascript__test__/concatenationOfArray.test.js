@@ -6,13 +6,15 @@ describe("Tests", () => {
             concatenationOfArray(
                 [1, 2, 1]
             ),
-            [1, 2, 1, 1, 2, 1]
+            [1, 2, 1, 1, 2, 1],
+            "Expected value to be [1, 2, 1, 1, 2, 1]"
         );
         Test.assertSimilar(
             concatenationOfArray(
                 [1, 4, 7]
             ),
-            [1, 4, 7, 1, 4, 7]
+            [1, 4, 7, 1, 4, 7],
+            "Expected value to be [1, 4, 7, 1, 4, 7]"
         );
     });
 });
