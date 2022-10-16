@@ -1,6 +1,9 @@
 //https://leetcode.com/problems/unique-binary-search-trees/
 package dynamicProgramming ;
-public long nthCatalan(int n) {
+
+class uniqueBinarySearchTree {
+    
+    public long nthCatalan(int n) {
         long dp[] = new long[n+1];
         dp[0]=1;
         dp[1]=1;
@@ -12,7 +15,10 @@ public long nthCatalan(int n) {
         }
         return dp[n]; 
    }
+        
     public int numTrees(int n) {
        long ans = nthCatalan(n);
         return (int)ans;
     }
+    
+}
