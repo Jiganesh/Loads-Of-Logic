@@ -1,5 +1,10 @@
 //https://leetcode.com/problems/increasing-triplet-subsequence/
+
 package search;
+
+import java.util.ArrayList;
+import java.util.List;
+
 class Solution {
      //TC : O(N*log(N))
      //SC : O(N),just to store the increasing subsequence.
@@ -21,7 +26,7 @@ class Solution {
         return low;
     }   
     public boolean increasingTriplet(int[] nums) {
-        List<Integer> temp = new ArrayList();
+        List<Integer> temp = new ArrayList <Integer>();
         temp.add(nums[0]);
         for(int i=1;i<nums.length;i++){
             if(temp.get(temp.size()-1)<nums[i]){
