@@ -1,7 +1,8 @@
 <img src= ".dev/LoadsOfLogic.png" height= 30%  width = 140%>
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 548 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-7-orange?"> <img src = "https://img.shields.io/github/repo-size/Jiganesh/High-On-DSA.svg?label=Repository%20size&style=flat-square">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 548 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-0-orange?">
 
+ <img src = "https://img.shields.io/github/repo-size/Jiganesh/High-On-DSA.svg?label=Repository%20size&style=flat-square">
 
 
 
@@ -314,7 +315,7 @@
 - https://leetcode.com/problems/decode-the-message/ ```Easy```
 - https://leetcode.com/problems/maximum-number-of-pairs-in-array/ ```Easy```
 - https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/ ```Medium```
-- https://leetcode.com/problems/query-kth-smallesthttps://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/-trimmed-number/ ```Medium```
+- https://leetcode.com/problems/query-kth-smallest ```Medium```
 - https://leetcode.com/problems/minimum-area-rectangle/ ```Medium```
 - https://leetcode.com/problems/find-and-replace-pattern/ ```Medium```
 - https://leetcode.com/problems/number-of-arithmetic-triplets/ ```Easy```
@@ -326,6 +327,7 @@
 - https://leetcode.com/problems/find-subarrays-with-equal-sum/ ```Medium```
 - https://leetcode.com/problems/check-distances-between-same-letters/ ```Easy```
 - https://leetcode.com/problems/find-duplicate-file-in-system/ ```Medium```
+- https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/ ```Medium```
 
 
 
@@ -448,6 +450,7 @@
 - https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/ ```Easy```
 - https://leetcode.com/problems/strictly-palindromic-number/ ```Medium```
 - https://leetcode.com/problems/largest-perimeter-triangle/ ```Easy```
+- https://leetcode.com/problems/sum-of-number-and-its-reverse/ ```Medium```
 
 </details>
 
