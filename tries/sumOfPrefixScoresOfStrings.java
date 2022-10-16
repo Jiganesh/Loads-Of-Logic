@@ -1,5 +1,10 @@
 //https://leetcode.com/problems/sum-of-prefix-scores-of-strings/
+
 package tries;
+
+import java.util.ArrayList;
+import java.util.List;
+
 //Additional Node class to count and updates by each character in each word
 class Node {
     Node links[]=new Node[26];
@@ -54,7 +59,7 @@ class Solution {
         for(String word : words) {
             trie.insert(word);
         }
-        List<Integer> ans = new ArrayList();
+        List<Integer> ans = new ArrayList<Integer>();
         for(String word : words) {
             int count = trie.search(word);
             ans.add(count);

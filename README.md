@@ -67,13 +67,7 @@
 - https://leetcode.com/problems/set-matrix-zeroes/ ```Medium```
 - https://leetcode.com/problems/shuffle-the-array/ ```Easy```
 - https://leetcode.com/problems/sort-colors/ ```Medium```
-- https://leetcode.com/problems/spiral-matrix-ii/ ```Medium```
-- https://leetcode.com/problems/spiral-matrix-iii/ ```Medium``` ```Recommended```
-- https://leetcode.com/problems/spiral-matrix/ ```Medium```
-- https://leetcode.com/problems/summary-ranges/ ```Easy```
-- https://leetcode.com/problems/transpose-matrix/ ```Easy```
-- https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ ```Easy```
-- https://leetcode.com/problems/two-sum/ ```Easy```
+- https://leetcode.com/problems/spiral-matrix-ii/ ```Mehttps://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
 - https://leetcode.com/problems/valid-mountain-array/ ```Easy```
 - https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/ ```Easy``` ```Recommended```
 - https://leetcode.com/problems/get-the-maximum-score/ ```Hard```
@@ -97,6 +91,7 @@
 - https://leetcode.com/problems/diagonal-traverse/ ```Medium```
 - https://leetcode.com/problems/alphabet-board-path/ ```Medium```
 - https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/ ```Easy```
+- https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/ ```Easy```
 
 
 </details>
@@ -319,7 +314,7 @@
 - https://leetcode.com/problems/decode-the-message/ ```Easy```
 - https://leetcode.com/problems/maximum-number-of-pairs-in-array/ ```Easy```
 - https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/ ```Medium```
-- https://leetcode.com/problems/query-kth-smallest-trimmed-number/ ```Medium```
+- https://leetcode.com/problems/query-kth-smallesthttps://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/-trimmed-number/ ```Medium```
 - https://leetcode.com/problems/minimum-area-rectangle/ ```Medium```
 - https://leetcode.com/problems/find-and-replace-pattern/ ```Medium```
 - https://leetcode.com/problems/number-of-arithmetic-triplets/ ```Easy```
@@ -709,6 +704,7 @@
 - https://leetcode.com/problems/longest-word-in-dictionary/ ```Medium```
 - https://leetcode.com/problems/short-encoding-of-words/ ```Medium```
 - https://leetcode.com/problems/replace-words/description/ ```Medium```
+- https://leetcode.com/problems/sum-of-prefix-scores-of-strings/ ```Hard```
 
 </details>
 
