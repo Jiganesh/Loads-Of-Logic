@@ -1,9 +1,10 @@
+package heap;
+
 //Leetcode = https://leetcode.com/problems/last-stone-weight/
 import java.util.*;
 
-class lastStoneWeight
- {
-    public int lastStoneWeight(int[] stones) {
+class lastStoneWeight{
+    public int lastStoneWeightMethod(int[] stones) {
         
         PriorityQueue<Integer> pq  = new PriorityQueue<>(Collections.reverseOrder());
         

@@ -5,7 +5,7 @@ package search;
 import java.util.ArrayList;
 import java.util.List;
 
-class Solution {
+class increasingTripletSubsequence {
      //TC : O(N*log(N))
      //SC : O(N),just to store the increasing subsequence.
      int lower_bound(List<Integer> arr, int key) {

@@ -1,12 +1,17 @@
-//https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/
-package dynamicProgramming
-class Solution {
+// https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/
+package dynamicProgramming;
+
+import java.util.Arrays;
+import java.util.stream.IntStream;
+
+class pathsInMatrixWhoseSumIsDivisibleByK {
  
      //T.C O(N*M*k)
      //S.C O(N*M*K)
      //just we need to store the path sum into sum parameter and when we reach at destination (n-1,m-1) just check is it divisible by k or not and count
-       int cnt=0;
-       int n,m,mod=(int)1e9+7;
+       
+    int cnt=0;
+    int n,m,mod=(int)1e9+7;
     private int solve(int i,int j,int sum,int grid[][],int dp[][][],int k){
         if(i==n-1 && j==m-1) return (sum+grid[i][j])%k==0?1:0;
         if(i>=grid.length || j>=grid[0].length) return 0;
@@ -23,6 +28,7 @@ class Solution {
         for(int[][] a: dp){
             for(int[] p: a){
                 Arrays.fill(p,-1);
+            
             }  
         }
         return solve(0,0,0,grid,dp,k)%mod;
