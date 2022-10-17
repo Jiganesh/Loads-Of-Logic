@@ -9,6 +9,9 @@ class ListNode:
         self.next = next
         
 class Solution:
+    
+    # TC : O(N)
+    # SC : O(1)
     def reorderList(self, head: Optional[ListNode]) -> None:
         """
         Do not return anything, modify head in-place instead.
