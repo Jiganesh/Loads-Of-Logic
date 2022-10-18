@@ -476,6 +476,7 @@
 - https://leetcode.com/problems/combination-sum-iii/  ```Medium```
 - https://leetcode.com/problems/elimination-game/ ```Medium```
 - https://leetcode.com/problems/k-th-symbol-in-grammar/ ```Medium```
+- https://leetcode.com/problems/count-and-say/ ```Medium```
 
 </details>
 
@@ -624,6 +625,7 @@
 - https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/ ```Medium```
 - https://leetcode.com/problems/longest-palindrome/ ```Easy```
 - https://leetcode.com/problems/strong-password-checker/ ```Hard```
+- https://leetcode.com/problems/reverse-words-in-a-string/ ```Medium```
 
 </details>
 
@@ -713,6 +715,7 @@
 
 - https://leetcode.com/problems/push-dominoes/ ```Medium```
 - https://leetcode.com/problems/string-compression/ ```Medium```
+- https://leetcode.com/problems/valid-triangle-number/ ```Medium```
 
 
 </details>
