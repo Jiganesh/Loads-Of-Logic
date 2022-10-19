@@ -108,6 +108,7 @@
 - https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ ```Easy```
 - https://leetcode.com/problems/xor-operation-in-an-array/description/ ```Easy```
 - https://leetcode.com/problems/find-the-original-array-of-prefix-xor/ ```Medium```
+- https://leetcode.com/problems/binary-number-with-alternating-bits/ ```Medium```
 
 </details>
 
