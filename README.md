@@ -63,7 +63,8 @@
 - https://leetcode.com/problems/set-matrix-zeroes/ ```Medium```
 - https://leetcode.com/problems/shuffle-the-array/ ```Easy```
 - https://leetcode.com/problems/sort-colors/ ```Medium```
-- https://leetcode.com/problems/spiral-matrix-ii/ ```Mehttps://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
+- https://leetcode.com/problems/spiral-matrix-ii/ ```Medium```
+- https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/ ```Medium```
 - https://leetcode.com/problems/valid-mountain-array/ ```Easy```
 - https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/ ```Easy``` ```Recommended```
 - https://leetcode.com/problems/get-the-maximum-score/ ```Hard```
@@ -531,6 +532,7 @@
     - https://leetcode.com/problems/maximum-total-importance-of-roads/  ```Medium```
     - https://leetcode.com/problems/top-k-frequent-words/ ```Medium```
     - https://leetcode.com/problems/queue-reconstruction-by-height/ ```Medium```
+    - https://leetcode.com/problems/sort-characters-by-frequency/ ```Medium```
 
 
 - CycleSort
