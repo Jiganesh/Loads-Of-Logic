@@ -1,12 +1,6 @@
-<img src= ".dev/highOnDSABanner.png" height= 40%  width = 140%>
+<img src= ".dev/LoadsOfLogic.png" height= 30%  width = 140%>
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 525 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-18-orange?">
-
-
-
-
-
-
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 548 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-0-orange?"> <img src = "https://img.shields.io/github/repo-size/Jiganesh/High-On-DSA.svg?label=Repository%20size&style=flat-square">
 *Click below to expand  and view problems.*
 
 <img style=" " src =".dev/donutDifficulty.png" alt="difficulty chart" height = "100rem" align =right>
@@ -70,12 +64,7 @@
 - https://leetcode.com/problems/shuffle-the-array/ ```Easy```
 - https://leetcode.com/problems/sort-colors/ ```Medium```
 - https://leetcode.com/problems/spiral-matrix-ii/ ```Medium```
-- https://leetcode.com/problems/spiral-matrix-iii/ ```Medium``` ```Recommended```
-- https://leetcode.com/problems/spiral-matrix/ ```Medium```
-- https://leetcode.com/problems/summary-ranges/ ```Easy```
-- https://leetcode.com/problems/transpose-matrix/ ```Easy```
-- https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ ```Easy```
-- https://leetcode.com/problems/two-sum/ ```Easy```
+- https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/ ```Medium```
 - https://leetcode.com/problems/valid-mountain-array/ ```Easy```
 - https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/ ```Easy``` ```Recommended```
 - https://leetcode.com/problems/get-the-maximum-score/ ```Hard```
@@ -98,6 +87,8 @@
 - https://leetcode.com/problems/diagonal-traverse/ ```Medium```
 - https://leetcode.com/problems/diagonal-traverse/ ```Medium```
 - https://leetcode.com/problems/alphabet-board-path/ ```Medium```
+- https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/ ```Easy```
+- https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/ ```Easy```
 
 
 </details>
@@ -114,6 +105,11 @@
 - https://leetcode.com/problems/divide-two-integers/ ```Medium```
 - https://leetcode.com/problems/longest-nice-subarray/ ```Medium```
 - https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/ ```Medium```
+- https://leetcode.com/problems/decode-xored-array/description/ ```Easy``
+- https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ ```Easy```
+- https://leetcode.com/problems/xor-operation-in-an-array/description/ ```Easy```
+- https://leetcode.com/problems/find-the-original-array-of-prefix-xor/ ```Medium```
+- https://leetcode.com/problems/binary-number-with-alternating-bits/ ```Medium```
 
 </details>
 
@@ -204,7 +200,7 @@
 - https://leetcode.com/problems/longest-string-chain/ ```Medium```
 - https://leetcode.com/problems/maximum-profit-in-job-scheduling/ ```Hard```
 - https://leetcode.com/problems/maximum-earnings-from-taxi/ ```Medium```
-- https://leetcode.com/problems/jump-game/ ```Medium```
+- https://leetcode.com/problems/jump-game/ ```Medium```https://leetcode.com/problems/string-compression/
 - https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/ ```Medium```
 - https://leetcode.com/problems/minimum-path-sum/ ```Medium```
 - https://leetcode.com/problems/fibonacci-number/ ```Easy```
@@ -219,6 +215,7 @@
 - https://leetcode.com/problems/all-possible-full-binary-trees/ ```Medium```
 - https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/  ```Hard```
 - https://leetcode.com/problems/max-dot-product-of-two-subsequences/ ```Medium```
+- https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/ ```Medium```
 
 
 </details>
@@ -286,6 +283,14 @@
 - https://leetcode.com/problems/bag-of-tokens/ ```Medium```
 - https://leetcode.com/problems/find-original-array-from-doubled-array/ ```Medium```
 - https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/ ```Medium```
+- https://leetcode.com/problems/break-a-palindrome/ ```Medium```
+- https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/ ```Medium```
+- https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/ ```Easy```
+- https://leetcode.com/problems/max-increase-to-keep-city-skyline/ ```Medium```
+- https://leetcode.com/problems/maximum-number-of-coins-you-can-get/ ```Medium```
+- https://leetcode.com/problems/score-after-flipping-matrix/ ```Medium```
+- https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/ ```Medium```
+
 
 </details>
 
@@ -307,7 +312,7 @@
 - https://leetcode.com/problems/decode-the-message/ ```Easy```
 - https://leetcode.com/problems/maximum-number-of-pairs-in-array/ ```Easy```
 - https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/ ```Medium```
-- https://leetcode.com/problems/query-kth-smallest-trimmed-number/ ```Medium```
+- https://leetcode.com/problems/query-kth-smallest ```Medium```
 - https://leetcode.com/problems/minimum-area-rectangle/ ```Medium```
 - https://leetcode.com/problems/find-and-replace-pattern/ ```Medium```
 - https://leetcode.com/problems/number-of-arithmetic-triplets/ ```Easy```
@@ -319,6 +324,7 @@
 - https://leetcode.com/problems/find-subarrays-with-equal-sum/ ```Medium```
 - https://leetcode.com/problems/check-distances-between-same-letters/ ```Easy```
 - https://leetcode.com/problems/find-duplicate-file-in-system/ ```Medium```
+- https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/ ```Medium```
 
 
 
@@ -406,6 +412,9 @@
 - https://leetcode.com/problems/merge-in-between-linked-lists/ ```Medium```
 - https://leetcode.com/problems/middle-of-the-linked-list/ ```Easy```
 - https://leetcode.com/problems/linked-list-cycle-ii/ ```Medium```
+- https://leetcode.com/problems/delete-node-in-a-linked-list/ ```Medium```
+- https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list ```Medium```
+- https://leetcode.com/problems/reorder-list/ ```Medium```
 
 </details>
 
@@ -438,7 +447,8 @@
 - https://leetcode.com/problems/reverse-bits/ ```Easy```
 - https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/ ```Easy```
 - https://leetcode.com/problems/strictly-palindromic-number/ ```Medium```
-
+- https://leetcode.com/problems/largest-perimeter-triangle/ ```Easy```
+- https://leetcode.com/problems/sum-of-number-and-its-reverse/ ```Medium```
 
 </details>
 
@@ -463,11 +473,12 @@
 <details>
 <summary>Recursion</summary>
 
-- https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ ```Easy```
 - https://www.geeksforgeeks.org/sum-triangle-from-array/ ```Easy``` ```GFG```
 - https://leetcode.com/problems/sudoku-solver/ ```Hard```
 - https://leetcode.com/problems/combination-sum-iii/  ```Medium```
 - https://leetcode.com/problems/elimination-game/ ```Medium```
+- https://leetcode.com/problems/k-th-symbol-in-grammar/ ```Medium```
+- https://leetcode.com/problems/count-and-say/ ```Medium```
 
 </details>
 
@@ -501,6 +512,7 @@
 - https://leetcode.com/problems/powx-n/ ```Medium```
 - https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ ```Medium```
 - https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/ ```Medium```
+- https://leetcode.com/problems/my-calendar-i/ ```Medium```
 
 
 </details>
@@ -520,6 +532,7 @@
     - https://leetcode.com/problems/maximum-total-importance-of-roads/  ```Medium```
     - https://leetcode.com/problems/top-k-frequent-words/ ```Medium```
     - https://leetcode.com/problems/queue-reconstruction-by-height/ ```Medium```
+    - https://leetcode.com/problems/sort-characters-by-frequency/ ```Medium```
 
 
 - CycleSort
@@ -614,6 +627,8 @@
 - https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/ ```Easy```
 - https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/ ```Medium```
 - https://leetcode.com/problems/longest-palindrome/ ```Easy```
+- https://leetcode.com/problems/strong-password-checker/ ```Hard```
+- https://leetcode.com/problems/reverse-words-in-a-string/ ```Medium```
 
 </details>
 
@@ -679,13 +694,11 @@
 - https://leetcode.com/problems/maximum-binary-tree-ii/ ```Medium```
 - https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/ ```Medium```
 - https://leetcode.com/problems/most-frequent-subtree-sum/ ```Medium```
-
-
+- https://leetcode.com/problems/add-one-row-to-tree/ ```Medium```
+- https://leetcode.com/problems/two-sum-iv-input-is-a-bst/ ```Easy```
 
 
 </details>
-
-
 
 <details>
 <summary>Tries</summary>
@@ -694,6 +707,8 @@
 - https://leetcode.com/problems/camelcase-matching/ ```Medium```
 - https://leetcode.com/problems/longest-word-in-dictionary/ ```Medium```
 - https://leetcode.com/problems/short-encoding-of-words/ ```Medium```
+- https://leetcode.com/problems/replace-words/description/ ```Medium```
+- https://leetcode.com/problems/sum-of-prefix-scores-of-strings/ ```Hard```
 
 </details>
 
@@ -702,6 +717,10 @@
 <summary>Two Pointers</summary>
 
 - https://leetcode.com/problems/push-dominoes/ ```Medium```
+- https://leetcode.com/problems/string-compression/ ```Medium```
+- https://leetcode.com/problems/valid-triangle-number/ ```Medium```
+
+
 </details>
 
 
