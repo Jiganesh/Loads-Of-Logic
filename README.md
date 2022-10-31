@@ -1,6 +1,6 @@
 <img src= ".dev/LoadsOfLogic.png" height= 30%  width = 140%>
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 548 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-0-orange?"> <img src = "https://img.shields.io/github/repo-size/Jiganesh/High-On-DSA.svg?label=Repository%20size&style=flat-square">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 558 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-10-orange?"> <img src = "https://img.shields.io/github/repo-size/Jiganesh/High-On-DSA.svg?label=Repository%20size&style=flat-square">
 *Click below to expand  and view problems.*
 
 <img style=" " src =".dev/donutDifficulty.png" alt="difficulty chart" height = "100rem" align =right>
@@ -217,6 +217,7 @@
 - https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/  ```Hard```
 - https://leetcode.com/problems/max-dot-product-of-two-subsequences/ ```Medium```
 - https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/ ```Medium```
+- https://leetcode.com/problems/where-will-the-ball-fall/ ```Medium```
 
 
 </details>
