@@ -243,6 +243,7 @@
 - https://leetcode.com/problems/keys-and-rooms/ ```Medium```
 - https://leetcode.com/problems/pacific-atlantic-water-flow/ ```Medium```
 - https://leetcode.com/problems/numbers-with-same-consecutive-differences/ ```Medium```
+- https://leetcode.com/problems/minimum-genetic-mutation/ ```Medium```
 
 
 <details>
