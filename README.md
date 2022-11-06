@@ -328,6 +328,7 @@
 - https://leetcode.com/problems/check-distances-between-same-letters/ ```Easy```
 - https://leetcode.com/problems/find-duplicate-file-in-system/ ```Medium```
 - https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/ ```Medium```
+- https://leetcode.com/problems/majority-element-ii/ ```Medium```
 
 
 
@@ -540,7 +541,7 @@
 
 - CycleSort
     - https://leetcode.com/problems/missing-number/ ```Easy```
-    - https://leetcode.com/problems/set-mismatch/ ```Easy```
+    - https://leetcode.com/problems/set-mismatch/ ```Easy`https://leetcode.com/problems/majority-element-ii/``
     - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/ ```Easy```
     - https://leetcode.com/problems/find-the-duplicate-number/ ```Medium```
     - https://leetcode.com/problems/find-all-duplicates-in-an-array/ ```Medium```

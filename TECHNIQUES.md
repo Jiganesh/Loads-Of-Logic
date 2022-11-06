@@ -247,3 +247,9 @@ set("abc") <= set("abdcef") # All the elements of A are in B --> returns True
 set("abcdef") <= set("abdf") # All the elements of A are in B --> returns False
 
 ```
+
+
+Algorithms you should know
+
+Boyer-Moore Voting Algorithm - problems - (Majority Element II)
+
