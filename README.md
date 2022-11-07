@@ -90,6 +90,7 @@
 - https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/ ```Easy```
 - https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/ ```Easy```
 - https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/ ```Easy```
+- https://leetcode.com/problems/print-words-vertically/ ```Medium```
 
 
 </details>
