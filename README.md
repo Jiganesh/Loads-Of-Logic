@@ -350,7 +350,7 @@
 - https://leetcode.com/problems/reduce-array-size-to-the-half/ ```Medium```
 - https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/ ```Medium```
 - https://leetcode.com/problems/sort-the-people/ ```Easy```
-
+- https://leetcode.com/problems/total-cost-to-hire-k-workers/ ```Medium```
 
 </details>
 
