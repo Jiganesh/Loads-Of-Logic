@@ -329,7 +329,7 @@
 - https://leetcode.com/problems/find-duplicate-file-in-system/ ```Medium```
 - https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/ ```Medium```
 - https://leetcode.com/problems/majority-element-ii/ ```Medium```
-
+- https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/ ```Medium```
 
 
 </details>
