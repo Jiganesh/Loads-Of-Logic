@@ -8,7 +8,7 @@
 function alphabetBoardPath(target) {
   const board = ["abcde", "fghij", "klmno", "pqrst", "uvwxy", "z"];
   const boardMap = new Map();
-  board.forEach((row, rowIndex) => {
+ board.forEach((row, rowIndex) => {
     row.split("").forEach((letter, colIndex) => {
       boardMap.set(letter, [rowIndex, colIndex]);
     });
