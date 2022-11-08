@@ -484,6 +484,7 @@
 - https://leetcode.com/problems/elimination-game/ ```Medium```
 - https://leetcode.com/problems/k-th-symbol-in-grammar/ ```Medium```
 - https://leetcode.com/problems/count-and-say/ ```Medium```
+- https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/ ```Medium```
 
 </details>
 
@@ -584,6 +585,7 @@
 - https://leetcode.com/problems/longest-absolute-file-path/ ```Medium```
 - https://leetcode.com/problems/removing-stars-from-a-string/ ```Medium```
 - https://leetcode.com/problems/maximum-binary-tree/ ```Medium```
+- https://leetcode.com/problems/make-the-string-great/ ```Easy```
 
 </details>
 
