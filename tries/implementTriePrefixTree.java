@@ -5,9 +5,6 @@ Auxiliary space: O(n)*/
 
 package tries;
 
-import java.io.*;
-import java.util.*;
-
 class Trie {
   
   //Trie structure
