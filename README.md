@@ -331,6 +331,7 @@
 - https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/ ```Medium```
 - https://leetcode.com/problems/majority-element-ii/ ```Medium```
 - https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/ ```Medium```
+- https://leetcode.com/problems/most-popular-video-creator/ ```Medium```
 
 
 </details>
@@ -454,6 +455,7 @@
 - https://leetcode.com/problems/strictly-palindromic-number/ ```Medium```
 - https://leetcode.com/problems/largest-perimeter-triangle/ ```Easy```
 - https://leetcode.com/problems/sum-of-number-and-its-reverse/ ```Medium```
+- https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/ ```Easy```
 
 </details>
 
