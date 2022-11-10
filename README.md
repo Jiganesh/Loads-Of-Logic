@@ -456,6 +456,7 @@
 - https://leetcode.com/problems/largest-perimeter-triangle/ ```Easy```
 - https://leetcode.com/problems/sum-of-number-and-its-reverse/ ```Medium```
 - https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/ ```Easy```
+- https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/ ```Medium```
 
 </details>
 
