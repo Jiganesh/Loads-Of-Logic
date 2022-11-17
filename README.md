@@ -245,6 +245,7 @@
 - https://leetcode.com/problems/pacific-atlantic-water-flow/ ```Medium```
 - https://leetcode.com/problems/numbers-with-same-consecutive-differences/ ```Medium```
 - https://leetcode.com/problems/minimum-genetic-mutation/ ```Medium```
+- https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/ ```Medium```
 
 
 <details>
