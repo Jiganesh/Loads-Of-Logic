@@ -651,6 +651,7 @@
 - https://leetcode.com/problems/strong-password-checker/ ```Hard```
 - https://leetcode.com/problems/reverse-words-in-a-string/ ```Medium```
 - https://leetcode.com/problems/reverse-vowels-of-a-string/ ```Easy```
+- https://leetcode.com/problems/determine-if-string-halves-are-alike/ ```Easy```
 
 </details>
 
