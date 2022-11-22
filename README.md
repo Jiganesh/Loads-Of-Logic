@@ -427,6 +427,8 @@
 - https://leetcode.com/problems/delete-node-in-a-linked-list/ ```Medium```
 - https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list ```Medium```
 - https://leetcode.com/problems/reorder-list/ ```Medium```
+- https://leetcode.com/problems/remove-nodes-from-linked-list/ ```Medium```
+
 
 </details>
 
