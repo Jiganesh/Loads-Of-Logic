@@ -334,6 +334,8 @@
 - https://leetcode.com/problems/majority-element-ii/ ```Medium```
 - https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/ ```Medium```
 - https://leetcode.com/problems/most-popular-video-creator/ ```Medium```
+- https://leetcode.com/problems/valid-sudoku/ ```Medium```
+
 
 
 </details>
