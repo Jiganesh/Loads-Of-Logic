@@ -4,9 +4,10 @@
 
 *Click below to expand  and view problems.*
 
-<img style=" " src =".dev/donutDifficulty.png" alt="difficulty chart" height = "100rem" align =right>
+<img style="  " src =".dev/donutDifficulty.png" alt="difficulty chart" height = "100rem" align =right>
 
 <details>
+
 
 <summary>Arrays</summary>
 
