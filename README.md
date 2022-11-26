@@ -4,9 +4,10 @@
 
 *Click below to expand  and view problems.*
 
-<img style=" " src =".dev/donutDifficulty.png" alt="difficulty chart" height = "100rem" align =right>
+<img style="  " src =".dev/donutDifficulty.png" alt="difficulty chart" height = "100rem" align =right>
 
 <details>
+
 
 <summary>Arrays</summary>
 
@@ -392,6 +393,7 @@
 - https://leetcode.com/problems/longest-subsequence-with-limited-sum/ ```Easy```
 - https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/ ```Medium```
 - https://leetcode.com/problems/find-all-good-indices/ ```Medium```
+- https://leetcode.com/problems/find-the-pivot-integer/ ```Easy```
 
 </details>
 
@@ -740,6 +742,7 @@
 - https://leetcode.com/problems/push-dominoes/ ```Medium```
 - https://leetcode.com/problems/string-compression/ ```Medium```
 - https://leetcode.com/problems/valid-triangle-number/ ```Medium```
+- https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/ ```Medium```
 
 
 </details>
