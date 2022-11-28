@@ -94,6 +94,7 @@
 - https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/ ```Easy```
 - https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/ ```Easy```
 - https://leetcode.com/problems/print-words-vertically/ ```Medium```
+- https://leetcode.com/problems/max-consecutive-ones/ ```Easy```
 
 
 </details>
@@ -338,7 +339,7 @@
 - https://leetcode.com/problems/most-popular-video-creator/ ```Medium```
 - https://leetcode.com/problems/task-scheduler/ ```Medium```
 - https://leetcode.com/problems/valid-sudoku/ ```Medium```
-- https://leetcode.com/problems/determine-if-two-strings-are-close/
+- https://leetcode.com/problems/determine-if-two-strings-are-close/ ```Medium```
 
 
 
