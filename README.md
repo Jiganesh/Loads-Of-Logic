@@ -250,6 +250,8 @@
 - https://leetcode.com/problems/numbers-with-same-consecutive-differences/ ```Medium```
 - https://leetcode.com/problems/minimum-genetic-mutation/ ```Medium```
 - https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/ ```Medium```
+- https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/ ```Medium```
+
 
 
 <details>
@@ -340,6 +342,7 @@
 - https://leetcode.com/problems/task-scheduler/ ```Medium```
 - https://leetcode.com/problems/valid-sudoku/ ```Medium```
 - https://leetcode.com/problems/determine-if-two-strings-are-close/ ```Medium```
+- https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/ ```Medium```
 
 
 
@@ -657,6 +660,7 @@
 - https://leetcode.com/problems/reverse-words-in-a-string/ ```Medium```
 - https://leetcode.com/problems/reverse-vowels-of-a-string/ ```Easy```
 - https://leetcode.com/problems/determine-if-string-halves-are-alike/ ```Easy```
+- https://leetcode.com/problems/circular-sentence/ ```Easy```
 
 </details>
 
