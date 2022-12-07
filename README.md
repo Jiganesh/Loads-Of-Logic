@@ -254,8 +254,10 @@
 
 
 
-<details>
+</details>
 
+
+<details>
 <summary>Greedy</summary>
 
 - https://leetcode.com/problems/can-place-flowers/ ```Easy```
@@ -305,6 +307,7 @@
 
 </details>
 
+<details>
 <summary>HashTable</summary>
 
 - https://leetcode.com/problems/number-of-matching-subsequences/ ```Medium```
