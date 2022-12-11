@@ -735,6 +735,7 @@
 - https://leetcode.com/problems/delete-leaves-with-a-given-value/ ```Medium```
 - https://leetcode.com/problems/leaf-similar-trees/ ```Easy```
 - https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/ ```Medium```
+- https://leetcode.com/problems/binary-tree-maximum-path-sum/ ```Hard```
 
 </details>
 
