@@ -734,6 +734,7 @@
 - https://leetcode.com/problems/two-sum-iv-input-is-a-bst/ ```Easy```
 - https://leetcode.com/problems/delete-leaves-with-a-given-value/ ```Medium```
 - https://leetcode.com/problems/leaf-similar-trees/ ```Easy```
+- https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/ ```Medium```
 
 </details>
 
