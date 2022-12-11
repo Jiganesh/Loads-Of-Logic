@@ -664,7 +664,10 @@
 - https://leetcode.com/problems/reverse-words-in-a-string/ ```Medium```
 - https://leetcode.com/problems/reverse-vowels-of-a-string/ ```Easy```
 - https://leetcode.com/problems/determine-if-string-halves-are-alike/ ```Easy```
-- https://leetcode.com/problems/circular-sentence/ ```Easy```
+- https://leetcode.com/problems/circular-sentence/ ```Easy``` 
+- https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/ ```Easy```
+
+
 
 </details>
 
