@@ -479,6 +479,7 @@
 - https://leetcode.com/problems/sum-of-number-and-its-reverse/ ```Medium```
 - https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/ ```Easy```
 - https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/ ```Medium```
+- https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/ ```Medium```
 
 </details>
 
@@ -668,6 +669,7 @@
 - https://leetcode.com/problems/determine-if-string-halves-are-alike/ ```Easy```
 - https://leetcode.com/problems/circular-sentence/ ```Easy``` 
 - https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/ ```Easy```
+- https://leetcode.com/problems/count-pairs-of-similar-strings/ ```Easy```
 
 
 
