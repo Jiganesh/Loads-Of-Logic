@@ -565,6 +565,8 @@
     - https://leetcode.com/problems/top-k-frequent-words/ ```Medium```
     - https://leetcode.com/problems/queue-reconstruction-by-height/ ```Medium```
     - https://leetcode.com/problems/sort-characters-by-frequency/ ```Medium```
+    - https://leetcode.com/problems/delete-greatest-value-in-each-row/ ```Easy```
+    - https://leetcode.com/problems/longest-square-streak-in-an-array/ ```Medium```
 
 
 - CycleSort
