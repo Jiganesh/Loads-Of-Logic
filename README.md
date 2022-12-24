@@ -668,6 +668,7 @@
 - https://leetcode.com/problems/determine-if-string-halves-are-alike/ ```Easy```
 - https://leetcode.com/problems/circular-sentence/ ```Easy``` 
 - https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/ ```Easy```
+- https://leetcode.com/problems/count-pairs-of-similar-strings/ ```Easy```
 
 
 
