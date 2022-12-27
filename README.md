@@ -97,6 +97,7 @@
 - https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/ ```Easy```
 - https://leetcode.com/problems/print-words-vertically/ ```Medium```
 - https://leetcode.com/problems/max-consecutive-ones/ ```Easy```
+- https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/ ```Easy```
 
 
 </details>
