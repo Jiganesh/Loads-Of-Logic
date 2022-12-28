@@ -1,6 +1,7 @@
 <img src= ".dev/LoadsOfLogic.png" height= 30%  width = 140%>
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 591 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-0-orange?"> <img src = "https://img.shields.io/github/repo-size/Jiganesh/High-On-DSA.svg?label=Repository%20size&style=flat-square">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 597 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-6-orange?"> <img src = "https://img.shields.io/github/repo-size/Jiganesh/High-On-DSA.svg?label=Repository%20size&style=flat-square">
+
 
 
 
@@ -372,6 +373,7 @@
 - https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/ ```Medium```
 - https://leetcode.com/problems/sort-the-people/ ```Easy```
 - https://leetcode.com/problems/total-cost-to-hire-k-workers/ ```Medium```
+- https://leetcode.com/problems/remove-stones-to-minimize-the-total/ ```Medium```
 
 </details>
 
