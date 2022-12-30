@@ -307,6 +307,7 @@
 - https://leetcode.com/problems/maximum-number-of-coins-you-can-get/ ```Medium```
 - https://leetcode.com/problems/score-after-flipping-matrix/ ```Medium```
 - https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/ ```Medium```
+- https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/ ```Medium```
 
 
 </details>
