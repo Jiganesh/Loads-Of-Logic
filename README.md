@@ -448,6 +448,7 @@
 - https://leetcode.com/problems/reorder-list/ ```Medium```
 - https://leetcode.com/problems/remove-nodes-from-linked-list/ ```Medium```
 - https://leetcode.com/problems/odd-even-linked-list/ ```Medium```
+- https://leetcode.com/problems/remove-linked-list-elements/ ```Easy```
 
 
 </details>
