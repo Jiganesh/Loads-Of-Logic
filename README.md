@@ -310,6 +310,7 @@
 - https://leetcode.com/problems/score-after-flipping-matrix/ ```Medium```
 - https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/ ```Medium```
 - https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/ ```Medium```
+- https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/ ```Medium```
 
 
 </details>
