@@ -99,6 +99,7 @@
 - https://leetcode.com/problems/print-words-vertically/ ```Medium```
 - https://leetcode.com/problems/max-consecutive-ones/ ```Easy```
 - https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/ ```Easy```
+- https://leetcode.com/problems/delete-columns-to-make-sorted/description/ ```Easy```
 
 
 </details>
