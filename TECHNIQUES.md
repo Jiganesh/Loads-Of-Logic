@@ -253,3 +253,4 @@ Algorithms you should know
 
 Boyer-Moore Voting Algorithm - problems - (Majority Element II)
 
+![twin_prime](/.dev/maths/closestPrimeNumbersInRange.png)
