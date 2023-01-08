@@ -495,6 +495,7 @@
 - https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/ ```Easy```
 - https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/ ```Medium```
 - https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/ ```Medium```
+- https://leetcode.com/problems/categorize-box-according-to-criteria/ ```Easy```
 
 </details>
 
