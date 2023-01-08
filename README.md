@@ -139,6 +139,8 @@
 - https://leetcode.com/problems/maximum-rows-covered-by-columns/ ```Medium```
 - https://leetcode.com/problems/sudoku-solver/ ```Hard```
 - https://leetcode.com/problems/subsets-ii/ ```Medium```
+- https://leetcode.com/problems/find-xor-beauty-of-array/ ```Medium```
+
 
 
 </details>
