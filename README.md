@@ -138,6 +138,8 @@
 - https://leetcode.com/problems/matchsticks-to-square```Medium```
 - https://leetcode.com/problems/maximum-rows-covered-by-columns/ ```Medium```
 - https://leetcode.com/problems/sudoku-solver/ ```Hard```
+- https://leetcode.com/problems/subsets-ii/ ```Medium```
+
 
 </details>
 
@@ -454,6 +456,7 @@
 - https://leetcode.com/problems/remove-nodes-from-linked-list/ ```Medium```
 - https://leetcode.com/problems/odd-even-linked-list/ ```Medium```
 - https://leetcode.com/problems/remove-linked-list-elements/ ```Easy```
+- https://leetcode.com/problems/reverse-nodes-in-k-group/ ```Hard```
 
 
 </details>
