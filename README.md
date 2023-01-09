@@ -159,6 +159,7 @@
 - https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/ ```Medium```
 - https://leetcode.com/problems/design-browser-history/ ```Medium```
 - https://leetcode.com/problems/design-front-middle-back-queue/ ```Medium```
+- https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/ ```Medium```
 
 
 
@@ -564,6 +565,7 @@
 - https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/ ```Medium```
 - https://leetcode.com/problems/my-calendar-i/ ```Medium```
 - https://leetcode.com/problems/median-of-two-sorted-arrays/ ```Hard```
+- https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/ ```Easy```
 
 
 </details>
