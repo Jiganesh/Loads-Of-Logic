@@ -122,6 +122,7 @@
 - https://leetcode.com/problems/xor-operation-in-an-array/description/ ```Easy```
 - https://leetcode.com/problems/find-the-original-array-of-prefix-xor/ ```Medium```
 - https://leetcode.com/problems/binary-number-with-alternating-bits/ ```Medium```
+- https://leetcode.com/problems/gray-code/ ```Medium```
 
 </details>
 
@@ -321,6 +322,7 @@
 - https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/ ```Medium```
 - https://leetcode.com/problems/maximum-ice-cream-bars/ ```Medium```
 - https://leetcode.com/problems/make-number-of-distinct-characters-equal/ ```Medium```
+- https://leetcode.com/problems/insert-interval/ ```medium```
 
 
 
