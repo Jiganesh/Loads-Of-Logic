@@ -320,6 +320,8 @@
 - https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/ ```Medium```
 - https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/ ```Medium```
 - https://leetcode.com/problems/maximum-ice-cream-bars/ ```Medium```
+- https://leetcode.com/problems/make-number-of-distinct-characters-equal/ ```Medium```
+
 
 
 </details>
