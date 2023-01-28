@@ -123,6 +123,7 @@
 - https://leetcode.com/problems/find-the-original-array-of-prefix-xor/ ```Medium```
 - https://leetcode.com/problems/binary-number-with-alternating-bits/ ```Medium```
 - https://leetcode.com/problems/gray-code/ ```Medium```
+- https://leetcode.com/problems/single-number-ii/description/ ```Medium```
 
 </details>
 
@@ -504,6 +505,7 @@
 - https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/ ```Medium```
 - https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/ ```Medium```
 - https://leetcode.com/problems/categorize-box-according-to-criteria/ ```Easy```
+- https://leetcode.com/problems/count-distinct-numbers-on-board/ ```Easy```
 
 </details>
 
