@@ -700,6 +700,7 @@
 - https://leetcode.com/problems/circular-sentence/ ```Easy``` 
 - https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/ ```Easy```
 - https://leetcode.com/problems/count-pairs-of-similar-strings/ ```Easy```
+- https://leetcode.com/problems/greatest-common-divisor-of-strings/ ```Easy```
 
 
 
