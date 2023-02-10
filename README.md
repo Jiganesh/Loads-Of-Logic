@@ -267,6 +267,7 @@
 - https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/ ```Medium```
 - https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/ ```Medium```
 - https://leetcode.com/problems/unique-paths-iii/ ```Hard```
+- https://leetcode.com/problems/shortest-path-with-alternating-colors/ ```Medium```
 
 
 
