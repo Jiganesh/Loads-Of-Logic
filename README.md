@@ -269,6 +269,7 @@
 - https://leetcode.com/problems/unique-paths-iii/ ```Hard```
 - https://leetcode.com/problems/shortest-path-with-alternating-colors/ ```Medium```
 - https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/ ```Medium```
+- https://leetcode.com/problems/minimum-distance-between-bst-nodes/ ```Easy```
 
 
 
