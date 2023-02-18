@@ -327,7 +327,8 @@
 - https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/ ```Medium```
 - https://leetcode.com/problems/maximum-ice-cream-bars/ ```Medium```
 - https://leetcode.com/problems/make-number-of-distinct-characters-equal/ ```Medium```
-- https://leetcode.com/problems/insert-interval/ ```medium```
+- https://leetcode.com/problems/insert-interval/ ```Medium```
+- https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/ ```Medium```
 
 
 
@@ -509,6 +510,7 @@
 - https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/ ```Medium```
 - https://leetcode.com/problems/categorize-box-according-to-criteria/ ```Easy```
 - https://leetcode.com/problems/count-distinct-numbers-on-board/ ```Easy```
+
 
 </details>
 
