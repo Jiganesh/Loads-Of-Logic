@@ -328,7 +328,8 @@
 - https://leetcode.com/problems/maximum-ice-cream-bars/ ```Medium```
 - https://leetcode.com/problems/make-number-of-distinct-characters-equal/ ```Medium```
 - https://leetcode.com/problems/insert-interval/ ```Medium```
-- https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/ ```Medium```
+- https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/ ```Easy```
+- https://leetcode.com/problems/minimum-score-by-changing-two-elements/ ```Medium```
 
 
 
