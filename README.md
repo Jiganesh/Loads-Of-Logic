@@ -330,6 +330,8 @@
 - https://leetcode.com/problems/insert-interval/ ```Medium```
 - https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/ ```Easy```
 - https://leetcode.com/problems/minimum-score-by-changing-two-elements/ ```Medium```
+- https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/ ```Easy```
+- https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/ ```Easy```
 
 
 
