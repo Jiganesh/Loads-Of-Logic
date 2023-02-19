@@ -513,7 +513,7 @@
 - https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/ ```Medium```
 - https://leetcode.com/problems/categorize-box-according-to-criteria/ ```Easy```
 - https://leetcode.com/problems/count-distinct-numbers-on-board/ ```Easy```
-
+- https://leetcode.com/problems/minimum-impossible-or ```Easy```
 
 </details>
 
