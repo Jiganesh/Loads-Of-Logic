@@ -436,6 +436,7 @@
 - https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/ ```Medium```
 - https://leetcode.com/problems/find-all-good-indices/ ```Medium```
 - https://leetcode.com/problems/find-the-pivot-integer/ ```Easy```
+- https://leetcode.com/problems/left-and-right-sum-differences/  ```Easy```
 
 </details>
 
