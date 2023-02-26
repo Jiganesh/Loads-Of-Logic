@@ -514,6 +514,7 @@
 - https://leetcode.com/problems/categorize-box-according-to-criteria/ ```Easy```
 - https://leetcode.com/problems/count-distinct-numbers-on-board/ ```Easy```
 - https://leetcode.com/problems/minimum-impossible-or ```Easy```
+- https://leetcode.com/problems/find-the-divisibility-array-of-a-string/ ```Medium```
 
 </details>
 
