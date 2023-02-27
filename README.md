@@ -548,6 +548,7 @@
 - https://leetcode.com/problems/k-th-symbol-in-grammar/ ```Medium```
 - https://leetcode.com/problems/count-and-say/ ```Medium```
 - https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/ ```Medium```
+- https://leetcode.com/problems/construct-quad-tree/ ```Medium```
 
 </details>
 
