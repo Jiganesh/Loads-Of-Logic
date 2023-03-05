@@ -3,5 +3,6 @@
         "."
     ],
     "java.help.shareDiagnostics": true,
-    "editor.fontSize": 18
+    "editor.fontSize": 18,
+    "python.analysis.typeCheckingMode": "basic"
 }
