@@ -333,6 +333,7 @@
 - https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/ ```Easy```
 - https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/ ```Easy```
 - https://leetcode.com/problems/find-the-maximum-number-of-marked-indices ```Medium```
+- https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/ ```Medium```
 
 
 
