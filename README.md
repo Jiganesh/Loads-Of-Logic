@@ -333,6 +333,7 @@
 - https://leetcode.com/problems/find-the-maximum-number-of-marked-indices ```Medium```
 - https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/ ```Medium```
 - https://leetcode.com/problems/distribute-money-to-maximum-children/ ```Medium```
+- https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/ ```Medium```
 
 
 
