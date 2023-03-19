@@ -3,10 +3,6 @@
 <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 602 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-5-orange?"> <img src = "https://img.shields.io/github/repo-size/Jiganesh/High-On-DSA.svg?label=Repository%20size&style=flat-square">
 
 
-
-
-
-
 *Click below to expand  and view problems.*
 
 <img style="  " src =".dev/donutDifficulty.png" alt="difficulty chart" height = "100rem" align =right>
@@ -143,6 +139,7 @@
 - https://leetcode.com/problems/subsets-ii/ ```Medium```
 - https://leetcode.com/problems/find-xor-beauty-of-array/ ```Medium```
 - https://leetcode.com/problems/restore-ip-addresses/ ```Medium```
+- https://leetcode.com/problems/the-number-of-beautiful-subsets/  ```Medium```
 
 
 
@@ -334,6 +331,7 @@
 - https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/ ```Easy```
 - https://leetcode.com/problems/find-the-maximum-number-of-marked-indices ```Medium```
 - https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/ ```Medium```
+- https://leetcode.com/problems/distribute-money-to-maximum-children/ ```Medium```
 
 
 
