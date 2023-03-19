@@ -235,6 +235,7 @@
 - https://leetcode.com/problems/max-dot-product-of-two-subsequences/ ```Medium```
 - https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/ ```Medium```
 - https://leetcode.com/problems/where-will-the-ball-fall/ ```Medium```
+- https://leetcode.com/problems/unique-binary-search-trees/ ```Medium```
 
 
 </details>
