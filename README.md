@@ -267,6 +267,7 @@
 - https://leetcode.com/problems/shortest-path-with-alternating-colors/ ```Medium```
 - https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/ ```Medium```
 - https://leetcode.com/problems/minimum-distance-between-bst-nodes/ ```Easy```
+- https://leetcode.com/problems/check-knight-tour-configuration/ ```Medium```
 
 
 
