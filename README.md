@@ -218,7 +218,8 @@
 - https://leetcode.com/problems/longest-string-chain/ ```Medium```
 - https://leetcode.com/problems/maximum-profit-in-job-scheduling/ ```Hard```
 - https://leetcode.com/problems/maximum-earnings-from-taxi/ ```Medium```
-- https://leetcode.com/problems/jump-game/ ```Medium```https://leetcode.com/problems/string-compression/
+- https://leetcode.com/problems/jump-game/ ```Medium```
+- https://leetcode.com/problems/string-compression/ ```Medium```
 - https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/ ```Medium```
 - https://leetcode.com/problems/minimum-path-sum/ ```Medium```
 - https://leetcode.com/problems/fibonacci-number/ ```Easy```
@@ -335,6 +336,8 @@
 - https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/ ```Medium```
 - https://leetcode.com/problems/distribute-money-to-maximum-children/ ```Medium```
 - https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/ ```Medium```
+- https://leetcode.com/problems/prime-subtraction-operation/ ```Medium```
+- https://leetcode.com/problems/k-items-with-the-maximum-sum/ ```Easy```
 
 
 
