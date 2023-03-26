@@ -443,6 +443,7 @@
 - https://leetcode.com/problems/find-all-good-indices/ ```Medium```
 - https://leetcode.com/problems/find-the-pivot-integer/ ```Easy```
 - https://leetcode.com/problems/left-and-right-sum-differences/  ```Easy```
+- https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/ ```Medium```
 
 </details>
 
