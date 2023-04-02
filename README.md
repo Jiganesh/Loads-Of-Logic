@@ -382,6 +382,7 @@
 - https://leetcode.com/problems/valid-sudoku/ ```Medium```
 - https://leetcode.com/problems/determine-if-two-strings-are-close/ ```Medium```
 - https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/ ```Medium```
+- https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/ ```Easy```
 
 
 
