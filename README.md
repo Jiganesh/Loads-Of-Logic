@@ -408,6 +408,7 @@
 - https://leetcode.com/problems/sort-the-people/ ```Easy```
 - https://leetcode.com/problems/total-cost-to-hire-k-workers/ ```Medium```
 - https://leetcode.com/problems/remove-stones-to-minimize-the-total/ ```Medium```
+- https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/ ```heap``
 
 </details>
 
@@ -726,6 +727,7 @@
 - https://leetcode.com/problems/count-pairs-of-similar-strings/ ```Easy```
 - https://leetcode.com/problems/greatest-common-divisor-of-strings/ ```Easy```
 - https://leetcode.com/problems/defanging-an-ip-address/ ```Easy```
+- https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/ ```Easy```
 
 
 
