@@ -528,6 +528,7 @@
 - https://leetcode.com/problems/find-the-divisibility-array-of-a-string/ ```Medium```
 - https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/ ```Easy```
 - https://leetcode.com/problems/pass-the-pillow/ ```Easy```
+- https://leetcode.com/problems/find-the-substring-with-maximum-cost/  ```Medium```
 
 </details>
 
