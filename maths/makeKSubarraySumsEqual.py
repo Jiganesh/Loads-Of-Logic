@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/find-the-substring-with-maximum-cost/
+# https://leetcode.com/problems/make-k-subarray-sums-equal/
 
 class Solution:
     def makeSubKSumEqual(self, arr: List[int], k: int) -> int:
