@@ -339,6 +339,7 @@
 - https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/ ```Medium```
 - https://leetcode.com/problems/prime-subtraction-operation/ ```Medium```
 - https://leetcode.com/problems/k-items-with-the-maximum-sum/ ```Easy```
+- https://leetcode.com/problems/mice-and-cheese/ ```Medium```
 
 
 
