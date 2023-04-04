@@ -531,6 +531,7 @@
 - https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/ ```Easy```
 - https://leetcode.com/problems/pass-the-pillow/ ```Easy```
 - https://leetcode.com/problems/make-k-subarray-sums-equal/  ```Medium```
+- https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/ ```Medium```
 
 </details>
 
@@ -729,6 +730,7 @@
 - https://leetcode.com/problems/greatest-common-divisor-of-strings/ ```Easy```
 - https://leetcode.com/problems/defanging-an-ip-address/ ```Easy```
 - https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/ ```Easy```
+- https://leetcode.com/problems/delete-characters-to-make-fancy-string/ ```Easy```
 
 
 
