@@ -120,6 +120,7 @@
 - https://leetcode.com/problems/binary-number-with-alternating-bits/ ```Medium```
 - https://leetcode.com/problems/gray-code/ ```Medium```
 - https://leetcode.com/problems/single-number-ii/description/ ```Medium```
+- https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/ ``Hard```
 
 </details>
 
