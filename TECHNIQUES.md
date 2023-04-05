@@ -254,3 +254,19 @@ Algorithms you should know
 Boyer-Moore Voting Algorithm - problems - (Majority Element II)
 
 ![twin_prime](/.dev/maths/closestPrimeNumbersInRange.png)
+
+Level Order Traversal Technique
+
+```python
+
+
+if not root:
+    return []
+
+q = deque([root])
+
+while q:
+    print([i.val for i in q])
+    q = [child for p in q for child in [p.left, p.right] if child]
+
+```
