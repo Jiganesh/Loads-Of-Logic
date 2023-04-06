@@ -534,6 +534,7 @@
 - https://leetcode.com/problems/pass-the-pillow/ ```Easy```
 - https://leetcode.com/problems/make-k-subarray-sums-equal/  ```Medium```
 - https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/ ```Medium```
+- https://leetcode.com/problems/nim-game/ ```Maths```
 
 </details>
 
