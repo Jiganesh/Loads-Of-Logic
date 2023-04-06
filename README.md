@@ -272,6 +272,7 @@
 - https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/ ```Medium```
 - https://leetcode.com/problems/minimum-distance-between-bst-nodes/ ```Easy```
 - https://leetcode.com/problems/check-knight-tour-configuration/ ```Medium```
+- https://leetcode.com/problems/number-of-closed-islands/ ```Medium```
 
 
 
