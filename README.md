@@ -241,6 +241,7 @@
 - https://leetcode.com/problems/where-will-the-ball-fall/ ```Medium```
 - https://leetcode.com/problems/unique-binary-search-trees/ ```Medium```
 - https://leetcode.com/problems/find-the-substring-with-maximum-cost/ ```Medium```
+- https://leetcode.com/problems/maximum-product-subarray/ ```Medium```
 
 
 </details>
