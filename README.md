@@ -277,6 +277,8 @@
 - https://leetcode.com/problems/check-knight-tour-configuration/ ```Medium```
 - https://leetcode.com/problems/number-of-closed-islands/ ```Medium```
 - https://leetcode.com/problems/surrounded-regions/ ```Medium```
+- https://leetcode.com/problems/number-of-enclaves/ ```Medium```
+
 
 
 
