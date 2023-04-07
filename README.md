@@ -100,6 +100,7 @@
 - https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/ ```Easy```
 - https://leetcode.com/problems/delete-columns-to-make-sorted/description/ ```Easy```
 - https://leetcode.com/problems/decompress-run-length-encoded-list/ ```Easy```
+- https://leetcode.com/problems/shuffle-an-array/ ```Medium```
 
 </details>
 

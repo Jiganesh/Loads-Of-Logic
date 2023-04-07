@@ -270,3 +270,7 @@ while q:
     q = [child for p in q for child in [p.left, p.right] if child]
 
 ```
+
+
+Fisher-Yates Algorithm
+Reference : https://leetcode.com/problems/shuffle-an-array/solutions/1350213/python-fisher-yates-algorithm-explained/
