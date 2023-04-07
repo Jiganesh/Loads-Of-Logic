@@ -542,6 +542,7 @@
 - https://leetcode.com/problems/make-k-subarray-sums-equal/  ```Medium```
 - https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/ ```Medium```
 - https://leetcode.com/problems/nim-game/ ```Maths```
+- https://leetcode.com/problems/factorial-trailing-zeroes/ ```Medium```
 
 </details>
 
