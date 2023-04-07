@@ -847,6 +847,7 @@
 - https://leetcode.com/problems/valid-triangle-number/ ```Medium```
 - https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/ ```Medium```
 - https://leetcode.com/problems/count-subarrays-with-fixed-bounds/ ```Hard```
+- https://leetcode.com/problems/repeated-dna-sequences/ ```Medium```
 
 
 </details>
