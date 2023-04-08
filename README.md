@@ -244,6 +244,7 @@
 - https://leetcode.com/problems/find-the-substring-with-maximum-cost/ ```Medium```
 - https://leetcode.com/problems/maximum-product-subarray/ ```Medium```
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ ```Medium```
+- https://leetcode.com/problems/different-ways-to-add-parentheses/ ```Medium```
 
 
 </details>
