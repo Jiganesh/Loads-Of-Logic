@@ -507,6 +507,7 @@
 - https://leetcode.com/problems/nim-game/ ```Maths```
 - https://leetcode.com/problems/factorial-trailing-zeroes/ ```Medium```
 - https://leetcode.com/problems/fraction-to-recurring-decimal/ ```Medium```
+- https://leetcode.com/problems/prime-in-diagonal/ ```Easy```
 
 </details>
 
