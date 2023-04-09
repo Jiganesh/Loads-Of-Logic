@@ -426,46 +426,6 @@
 </details>
 
 
-
-<details>
-<summary>Prefix Sum</summary>
-
-- https://leetcode.com/problems/minimum-size-subarray-sum/ ```Medium```
-- https://leetcode.com/problems/product-of-array-except-self/ ```Medium```
-- https://leetcode.com/problems/range-sum-query-immutable/ ```Easy```
-- https://leetcode.com/problems/range-sum-query-2d-immutable/ ```Medium```
-- https://leetcode.com/problems/continuous-subarray-sum/ ```Medium```
-- https://leetcode.com/problems/find-pivot-index/ ```Easy```
-- https://leetcode.com/problems/sum-of-all-odd-length-subarrays/ ```Easy```
-- https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/ ```Easy```
-- https://leetcode.com/problems/find-the-middle-index-in-array/submissions/ ```Easy```
-- https://leetcode.com/problems/running-sum-of-1d-array/ ```Easy```
-- https://leetcode.com/problems/minimum-average-difference/ ```Medium```
-- https://leetcode.com/problems/top-k-frequent-words/ ```Easy```
-- https://leetcode.com/problems/number-of-ways-to-split-array/ ```Medium```
-- https://leetcode.com/problems/random-pick-with-weight/ ```Medium```
-- https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/ ```Medium```
-- https://leetcode.com/problems/count-subarrays-with-score-less-than-k/ ```Medium```
-- https://leetcode.com/problems/maximum-erasure-value/ ```Medium```
-- https://leetcode.com/problems/non-decreasing-array/ ```Medium```
-- https://leetcode.com/problems/frequency-of-the-most-frequent-element/ ```Medium```
-- https://leetcode.com/problems/xor-queries-of-a-subarray/ ```Medium```
-- https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/ ```Medium```
-- https://leetcode.com/problems/find-good-days-to-rob-the-bank/  ```Medium```
-- https://leetcode.com/problems/shifting-letters/ ```Medium```
-- https://leetcode.com/problems/shifting-letters-ii/ ```Medium```
-- https://leetcode.com/problems/longest-subsequence-with-limited-sum/ ```Easy```
-- https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/ ```Medium```
-- https://leetcode.com/problems/find-all-good-indices/ ```Medium```
-- https://leetcode.com/problems/find-the-pivot-integer/ ```Easy```
-- https://leetcode.com/problems/left-and-right-sum-differences/  ```Easy```
-- https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/ ```Medium```
-- https://leetcode.com/problems/corporate-flight-bookings/ ```Medium```
-
-</details>
-
-
-
 <details>
 <summary>LinkedLists</summary>
 
@@ -550,6 +510,44 @@
 
 </details>
 
+
+<details>
+<summary>Prefix Sum</summary>
+
+- https://leetcode.com/problems/minimum-size-subarray-sum/ ```Medium```
+- https://leetcode.com/problems/product-of-array-except-self/ ```Medium```
+- https://leetcode.com/problems/range-sum-query-immutable/ ```Easy```
+- https://leetcode.com/problems/range-sum-query-2d-immutable/ ```Medium```
+- https://leetcode.com/problems/continuous-subarray-sum/ ```Medium```
+- https://leetcode.com/problems/find-pivot-index/ ```Easy```
+- https://leetcode.com/problems/sum-of-all-odd-length-subarrays/ ```Easy```
+- https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/ ```Easy```
+- https://leetcode.com/problems/find-the-middle-index-in-array/submissions/ ```Easy```
+- https://leetcode.com/problems/running-sum-of-1d-array/ ```Easy```
+- https://leetcode.com/problems/minimum-average-difference/ ```Medium```
+- https://leetcode.com/problems/top-k-frequent-words/ ```Easy```
+- https://leetcode.com/problems/number-of-ways-to-split-array/ ```Medium```
+- https://leetcode.com/problems/random-pick-with-weight/ ```Medium```
+- https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/ ```Medium```
+- https://leetcode.com/problems/count-subarrays-with-score-less-than-k/ ```Medium```
+- https://leetcode.com/problems/maximum-erasure-value/ ```Medium```
+- https://leetcode.com/problems/non-decreasing-array/ ```Medium```
+- https://leetcode.com/problems/frequency-of-the-most-frequent-element/ ```Medium```
+- https://leetcode.com/problems/xor-queries-of-a-subarray/ ```Medium```
+- https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/ ```Medium```
+- https://leetcode.com/problems/find-good-days-to-rob-the-bank/  ```Medium```
+- https://leetcode.com/problems/shifting-letters/ ```Medium```
+- https://leetcode.com/problems/shifting-letters-ii/ ```Medium```
+- https://leetcode.com/problems/longest-subsequence-with-limited-sum/ ```Easy```
+- https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/ ```Medium```
+- https://leetcode.com/problems/find-all-good-indices/ ```Medium```
+- https://leetcode.com/problems/find-the-pivot-integer/ ```Easy```
+- https://leetcode.com/problems/left-and-right-sum-differences/  ```Easy```
+- https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/ ```Medium```
+- https://leetcode.com/problems/corporate-flight-bookings/ ```Medium```
+- https://leetcode.com/problems/sum-of-distances/ ```Medium```
+
+</details>
 
 <details>
 <summary>Queue</summary>

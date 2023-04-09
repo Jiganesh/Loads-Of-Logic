@@ -274,3 +274,6 @@ while q:
 
 Fisher-Yates Algorithm
 Reference : https://leetcode.com/problems/shuffle-an-array/solutions/1350213/python-fisher-yates-algorithm-explained/
+
+
+Topological Sort can only be applied on DAG (Directed Acyclic Graph)
