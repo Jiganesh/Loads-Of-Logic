@@ -282,6 +282,8 @@
 - https://leetcode.com/problems/number-of-closed-islands/ ```Medium```
 - https://leetcode.com/problems/surrounded-regions/ ```Medium```
 - https://leetcode.com/problems/number-of-enclaves/ ```Medium```
+- https://leetcode.com/problems/course-schedule/ ```Medium```
+- https://leetcode.com/problems/course-schedule-ii/ ```Medium```
 
 
 
