@@ -124,6 +124,7 @@
 - https://leetcode.com/problems/gray-code/ ```Medium```
 - https://leetcode.com/problems/single-number-ii/description/ ```Medium```
 - https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/ ``Hard```
+- https://leetcode.com/problems/hamming-distance/ ```Easy```
 
 </details>
 

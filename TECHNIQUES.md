@@ -277,3 +277,5 @@ Reference : https://leetcode.com/problems/shuffle-an-array/solutions/1350213/pyt
 
 
 Topological Sort can only be applied on DAG (Directed Acyclic Graph)
+
+The Hamming distance between two integers is the number of positions at which the corresponding bits are different.
