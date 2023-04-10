@@ -751,6 +751,7 @@
 - https://leetcode.com/problems/defanging-an-ip-address/ ```Easy```
 - https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/ ```Easy```
 - https://leetcode.com/problems/delete-characters-to-make-fancy-string/ ```Easy```
+- https://leetcode.com/problems/repeated-substring-pattern/  ```Easy```
 
 
 
@@ -857,6 +858,7 @@
 - https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/ ```Medium```
 - https://leetcode.com/problems/count-subarrays-with-fixed-bounds/ ```Hard```
 - https://leetcode.com/problems/repeated-dna-sequences/ ```Medium```
+- https://leetcode.com/problems/assign-cookies/ ```Easy```
 
 
 </details>
