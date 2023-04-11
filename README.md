@@ -514,6 +514,7 @@
 - https://leetcode.com/problems/fizz-buzz/ ```Easy```
 - https://leetcode.com/problems/third-maximum-number/ ```Easy```
 - https://leetcode.com/problems/add-strings/ ```Easy```
+- https://leetcode.com/problems/number-complement/d ```Easy```
 
 </details>
 
