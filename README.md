@@ -401,9 +401,6 @@
 - https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/ ```Medium```
 - https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/ ```Easy```
 
-
-
-
 </details>
 
 
@@ -514,7 +511,7 @@
 - https://leetcode.com/problems/fizz-buzz/ ```Easy```
 - https://leetcode.com/problems/third-maximum-number/ ```Easy```
 - https://leetcode.com/problems/add-strings/ ```Easy```
-- https://leetcode.com/problems/number-complement/d ```Easy```
+- https://leetcode.com/problems/number-complement/ ```Easy```
 
 </details>
 
@@ -692,6 +689,7 @@
 - https://leetcode.com/problems/make-the-string-great/ ```Easy```
 - https://leetcode.com/problems/online-stock-span/ ```Medium```
 - https://leetcode.com/problems/basic-calculator-ii/ ```Medium```
+- https://leetcode.com/problems/validate-stack-sequences/ ```Medium```
 
 
 
