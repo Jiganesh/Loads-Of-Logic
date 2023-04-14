@@ -1,6 +1,7 @@
 <img src= ".dev/LoadsOfLogic.png" height= 30%  width = 140%>
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 659 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-0-orange?"> <img src = "https://img.shields.io/github/repo-size/Jiganesh/High-On-DSA.svg?label=Repository%20size&style=flat-square">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 695 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-36-orange?"> <img src = "https://img.shields.io/github/repo-size/Jiganesh/High-On-DSA.svg?label=Repository%20size&style=flat-square">
+
 
 
 
@@ -126,6 +127,7 @@
 - https://leetcode.com/problems/single-number-ii/description/ ```Medium```
 - https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/ ``Hard```
 - https://leetcode.com/problems/hamming-distance/ ```Easy```
+- https://leetcode.com/problems/bitwise-and-of-numbers-range ```Medium```
 
 </details>
 
