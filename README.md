@@ -836,7 +836,7 @@
 - https://leetcode.com/problems/check-completeness-of-a-binary-tree/ ```Medium```
 - https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ ```Medium```
 - https://leetcode.com/problems/cousins-in-binary-tree-ii/ ```Medium```
-
+- https://leetcode.com/problems/cousins-in-binary-tree/ ```Easy ```
 
 </details>
 
