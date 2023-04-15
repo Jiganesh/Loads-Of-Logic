@@ -552,6 +552,8 @@
 - https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/ ```Medium```
 - https://leetcode.com/problems/corporate-flight-bookings/ ```Medium```
 - https://leetcode.com/problems/sum-of-distances/ ```Medium```
+- https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/ ```Medium```
+
 
 </details>
 
@@ -753,6 +755,7 @@
 - https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/ ```Easy```
 - https://leetcode.com/problems/delete-characters-to-make-fancy-string/ ```Easy```
 - https://leetcode.com/problems/repeated-substring-pattern/  ```Easy```
+- https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/ ```Easy```
 
 
 
@@ -832,6 +835,8 @@
 - https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/ ```Medium```
 - https://leetcode.com/problems/check-completeness-of-a-binary-tree/ ```Medium```
 - https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ ```Medium```
+- https://leetcode.com/problems/cousins-in-binary-tree-ii/ ```Medium```
+
 
 </details>
 
