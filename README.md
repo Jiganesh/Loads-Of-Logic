@@ -101,6 +101,7 @@
 - https://leetcode.com/problems/delete-columns-to-make-sorted/description/ ```Easy```
 - https://leetcode.com/problems/decompress-run-length-encoded-list/ ```Easy```
 - https://leetcode.com/problems/shuffle-an-array/ ```Medium```
+- https://leetcode.com/problems/row-with-maximum-ones/ ```Easy```
 
 </details>
 
@@ -514,6 +515,7 @@
 - https://leetcode.com/problems/third-maximum-number/ ```Easy```
 - https://leetcode.com/problems/add-strings/ ```Easy```
 - https://leetcode.com/problems/number-complement/ ```Easy```
+- https://leetcode.com/problems/find-the-maximum-divisibility-score/ ```Easy```
 
 </details>
 
@@ -757,6 +759,7 @@
 - https://leetcode.com/problems/delete-characters-to-make-fancy-string/ ```Easy```
 - https://leetcode.com/problems/repeated-substring-pattern/  ```Easy```
 - https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/ ```Easy```
+- https://leetcode.com/problems/minimum-additions-to-make-valid-string/ ```Easy```
 
 
 
