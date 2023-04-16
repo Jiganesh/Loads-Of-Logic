@@ -286,6 +286,7 @@
 - https://leetcode.com/problems/number-of-enclaves/ ```Medium```
 - https://leetcode.com/problems/course-schedule/ ```Medium```
 - https://leetcode.com/problems/course-schedule-ii/ ```Medium```
+- https://leetcode.com/problems/rotting-oranges/ ```Medium```
 
 
 
