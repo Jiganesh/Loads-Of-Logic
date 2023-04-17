@@ -516,6 +516,7 @@
 - https://leetcode.com/problems/add-strings/ ```Easy```
 - https://leetcode.com/problems/number-complement/ ```Easy```
 - https://leetcode.com/problems/find-the-maximum-divisibility-score/ ```Easy```
+- https://leetcode.com/problems/rotate-function/ ```Medium```
 
 </details>
 
