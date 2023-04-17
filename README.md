@@ -166,6 +166,7 @@
 - https://leetcode.com/problems/design-browser-history/ ```Medium```
 - https://leetcode.com/problems/design-front-middle-back-queue/ ```Medium```
 - https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/ ```Medium```
+- https://leetcode.com/problems/random-pick-index/ ```Medium```
 
 
 
