@@ -765,6 +765,7 @@
 - https://leetcode.com/problems/repeated-substring-pattern/  ```Easy```
 - https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/ ```Easy```
 - https://leetcode.com/problems/minimum-additions-to-make-valid-string/ ```Easy```
+- https://leetcode.com/problems/merge-strings-alternately/ ```Easy```
 
 
 
