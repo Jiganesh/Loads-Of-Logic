@@ -432,6 +432,8 @@
 - https://leetcode.com/problems/remove-stones-to-minimize-the-total/ ```Medium```
 - https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/ ```Medium```
 - https://leetcode.com/problems/distant-barcodes/ ```Medium```
+- https://leetcode.com/problems/largest-values-from-labels/ ```Medium```
+
 
 </details>
 
