@@ -410,6 +410,7 @@
 - https://leetcode.com/problems/bulls-and-cows/ ```Medium```
 - https://leetcode.com/problems/rle-iterator/ ```Medium```
 - https://leetcode.com/problems/count-servers-that-communicate/ ```Medium```
+- https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/ ```Medium```
 
 </details>
 
