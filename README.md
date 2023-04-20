@@ -409,6 +409,7 @@
 - https://leetcode.com/problems/subdomain-visit-count/ ```Medium```
 - https://leetcode.com/problems/bulls-and-cows/ ```Medium```
 - https://leetcode.com/problems/rle-iterator/ ```Medium```
+- https://leetcode.com/problems/count-servers-that-communicate/ ```Medium```
 
 </details>
 
