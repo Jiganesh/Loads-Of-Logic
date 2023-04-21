@@ -251,6 +251,7 @@
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ ```Medium```
 - https://leetcode.com/problems/different-ways-to-add-parentheses/ ```Medium```
 - https://leetcode.com/problems/unique-binary-search-trees-ii/ ```Medium```
+- https://leetcode.com/problems/profitable-schemes/ ```Hard```
 - https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/ ```Hard```
 
 
