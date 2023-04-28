@@ -1,6 +1,7 @@
 <img src= ".dev/LoadsOfLogic.png" height= 30%  width = 140%>
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 695 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-36-orange?"> <img src = "https://img.shields.io/github/repo-size/Jiganesh/High-On-DSA.svg?label=Repository%20size&style=flat-square">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 706 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-11-orange?"> <img src = "https://img.shields.io/github/repo-size/Jiganesh/High-On-DSA.svg?label=Repository%20size&style=flat-square">
+
 
 
 
@@ -569,6 +570,7 @@
 - https://leetcode.com/problems/corporate-flight-bookings/ ```Medium```
 - https://leetcode.com/problems/sum-of-distances/ ```Medium```
 - https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/ ```Medium```
+- https://leetcode.com/problems/binary-subarrays-with-sum/ ```Medium```
 
 
 </details>
