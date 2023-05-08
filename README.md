@@ -170,6 +170,7 @@
 - https://leetcode.com/problems/design-front-middle-back-queue/ ```Medium```
 - https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/ ```Medium```
 - https://leetcode.com/problems/random-pick-index/ ```Medium```
+- https://leetcode.com/problems/frequency-tracker/ ```Medium```
 
 
 
@@ -413,6 +414,7 @@
 - https://leetcode.com/problems/rle-iterator/ ```Medium```
 - https://leetcode.com/problems/count-servers-that-communicate/ ```Medium```
 - https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/ ```Medium```
+- https://leetcode.com/problems/find-the-distinct-difference-array/ ```Easy```
 
 </details>
 
@@ -858,6 +860,7 @@
 - https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ ```Medium```
 - https://leetcode.com/problems/cousins-in-binary-tree-ii/ ```Medium```
 - https://leetcode.com/problems/cousins-in-binary-tree/ ```Easy ```
+- https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/ ```Medium```
 
 </details>
 
@@ -886,6 +889,7 @@
 - https://leetcode.com/problems/count-subarrays-with-fixed-bounds/ ```Hard```
 - https://leetcode.com/problems/repeated-dna-sequences/ ```Medium```
 - https://leetcode.com/problems/assign-cookies/ ```Easy```
+- https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/ ```Medium```
 
 
 </details>
