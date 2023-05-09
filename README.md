@@ -149,6 +149,7 @@
 - https://leetcode.com/problems/find-xor-beauty-of-array/ ```Medium```
 - https://leetcode.com/problems/restore-ip-addresses/ ```Medium```
 - https://leetcode.com/problems/the-number-of-beautiful-subsets/  ```Medium```
+- https://leetcode.com/problems/additive-number/ ```Medium```
 
 
 
