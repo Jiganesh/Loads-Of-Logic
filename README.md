@@ -104,6 +104,7 @@
 - https://leetcode.com/problems/decompress-run-length-encoded-list/ ```Easy```
 - https://leetcode.com/problems/shuffle-an-array/ ```Medium```
 - https://leetcode.com/problems/row-with-maximum-ones/ ```Easy```
+- https://leetcode.com/problems/watering-plants/ ```Medium```
 
 </details>
 
@@ -416,6 +417,7 @@
 - https://leetcode.com/problems/count-servers-that-communicate/ ```Medium```
 - https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/ ```Medium```
 - https://leetcode.com/problems/find-the-distinct-difference-array/ ```Easy```
+- https://leetcode.com/problems/finding-the-users-active-minutes/ ```Medium```
 
 </details>
 
