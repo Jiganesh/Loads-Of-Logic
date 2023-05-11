@@ -105,6 +105,7 @@
 - https://leetcode.com/problems/shuffle-an-array/ ```Medium```
 - https://leetcode.com/problems/row-with-maximum-ones/ ```Easy```
 - https://leetcode.com/problems/watering-plants/ ```Medium```
+- https://leetcode.com/problems/subrectangle-queries/ ```Medium```
 
 </details>
 
