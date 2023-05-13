@@ -669,6 +669,7 @@
     - https://leetcode.com/problems/sort-characters-by-frequency/ ```Medium```
     - https://leetcode.com/problems/delete-greatest-value-in-each-row/ ```Easy```
     - https://leetcode.com/problems/longest-square-streak-in-an-array/ ```Medium```
+    - https://leetcode.com/problems/sort-the-students-by-their-kth-score/ ```Medium```
 
 
 - CycleSort
