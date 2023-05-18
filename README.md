@@ -420,6 +420,7 @@
 - https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/ ```Medium```
 - https://leetcode.com/problems/find-the-distinct-difference-array/ ```Easy```
 - https://leetcode.com/problems/finding-the-users-active-minutes/ ```Medium```
+- https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/ ```Medium```
 
 </details>
 
