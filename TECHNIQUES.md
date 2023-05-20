@@ -279,3 +279,20 @@ Reference : https://leetcode.com/problems/shuffle-an-array/solutions/1350213/pyt
 Topological Sort can only be applied on DAG (Directed Acyclic Graph)
 
 The Hamming distance between two integers is the number of positions at which the corresponding bits are different.
+
+Find Rightmost set bit ` x & -x `
+
+number  and number's 2's complement
+and between them
+Fenwicks Tree
+
+1 Get Parent in Fenwicks Tree
+    Get 2's complement
+    And it with original Number
+    Subtract from original Number
+
+
+2 Get Child in Fenwicks Tree
+    Get 2's complement
+    And it with original Number
+    Subtract from original Number

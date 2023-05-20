@@ -722,6 +722,7 @@
 - https://leetcode.com/problems/basic-calculator-ii/ ```Medium```
 - https://leetcode.com/problems/validate-stack-sequences/ ```Medium```
 - https://leetcode.com/problems/decode-string/ ```Medium```
+- https://leetcode.com/problems/reveal-cards-in-increasing-order/ ```Medium```
 
 
 
