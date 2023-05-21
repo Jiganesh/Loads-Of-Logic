@@ -301,7 +301,6 @@
 - https://leetcode.com/problems/evaluate-division/ ```Medium```
 
 
-
 </details>
 
 
@@ -722,6 +721,7 @@
 - https://leetcode.com/problems/validate-stack-sequences/ ```Medium```
 - https://leetcode.com/problems/decode-string/ ```Medium```
 - https://leetcode.com/problems/reveal-cards-in-increasing-order/ ```Medium```
+- https://leetcode.com/problems/minimum-string-length-after-removing-substrings/ ```Easy```
 
 
 
@@ -787,6 +787,7 @@
 - https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/ ```Easy```
 - https://leetcode.com/problems/minimum-additions-to-make-valid-string/ ```Easy```
 - https://leetcode.com/problems/merge-strings-alternately/ ```Easy```
+- https://leetcode.com/problems/lexicographically-smallest-palindrome/
 
 
 
