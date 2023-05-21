@@ -536,6 +536,7 @@
 - https://leetcode.com/problems/number-complement/ ```Easy```
 - https://leetcode.com/problems/find-the-maximum-divisibility-score/ ```Easy```
 - https://leetcode.com/problems/rotate-function/ ```Medium```
+- https://leetcode.com/problems/find-the-punishment-number-of-an-integer/ ```Medium```
 
 </details>
 
