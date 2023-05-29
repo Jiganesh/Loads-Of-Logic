@@ -174,6 +174,7 @@
 - https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/ ```Medium```
 - https://leetcode.com/problems/random-pick-index/ ```Medium```
 - https://leetcode.com/problems/frequency-tracker/ ```Medium```
+- https://leetcode.com/problems/design-parking-system/ ```Medium```
 
 
 
