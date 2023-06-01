@@ -152,6 +152,8 @@
 - https://leetcode.com/problems/restore-ip-addresses/ ```Medium```
 - https://leetcode.com/problems/the-number-of-beautiful-subsets/  ```Medium```
 - https://leetcode.com/problems/additive-number/ ```Medium```
+- https://leetcode.com/problems/letter-tile-possibilities/ ```Medium```
+
 
 
 
@@ -874,6 +876,7 @@
 - https://leetcode.com/problems/cousins-in-binary-tree-ii/ ```Medium```
 - https://leetcode.com/problems/cousins-in-binary-tree/ ```Easy ```
 - https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/ ```Medium```
+- https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/ ```Medium```
 
 </details>
 
