@@ -304,6 +304,7 @@
 - https://leetcode.com/problems/evaluate-division/ ```Medium```
 - https://leetcode.com/problems/shortest-bridge/ ```Medium```
 - https://leetcode.com/problems/time-needed-to-inform-all-employees/ ```Medium```
+- https://leetcode.com/problems/number-of-provinces/ ```Medium```
 
 </details>
 
