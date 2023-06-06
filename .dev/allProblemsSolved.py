@@ -90,7 +90,7 @@ writeNewReadme = open("README.md", "w")
 writeNewReadme.write('<img src= ".dev/LoadsOfLogic.png" height= 30%  width = 140%>\n\n')
 writeNewReadme.write('<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- ' + str(sum(array)) + ' -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?">')
 writeNewReadme.write(' <img src="https://img.shields.io/badge/Problems Solved Today-' +str(sum(array)-prevProblemsSolved)+'-orange?">')
-writeNewReadme.write(' <img src = "https://img.shields.io/github/repo-size/Jiganesh/High-On-DSA.svg?label=Repository%20size&style=flat-square">\n')
+writeNewReadme.write(' <img src = "https://img.shields.io/github/repo-size/Jiganesh/High-On-DSA.svg?label=Repository%20size&style=flat-square">\n\n')
 
 print("New Problem added since last Update are :",sum(array)-prevProblemsSolved)
 for i in lines:

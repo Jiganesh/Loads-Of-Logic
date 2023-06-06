@@ -1,11 +1,18 @@
 <img src= ".dev/LoadsOfLogic.png" height= 30%  width = 140%>
 
-<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 548 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-0-orange?"> <img src = "https://img.shields.io/github/repo-size/Jiganesh/High-On-DSA.svg?label=Repository%20size&style=flat-square">
+<a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 706 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-11-orange?"> <img src = "https://img.shields.io/github/repo-size/Jiganesh/High-On-DSA.svg?label=Repository%20size&style=flat-square">
+
+
+
+
+
+
 *Click below to expand  and view problems.*
 
-<img style=" " src =".dev/donutDifficulty.png" alt="difficulty chart" height = "100rem" align =right>
+<img style="  " src =".dev/donutDifficulty.png" alt="difficulty chart" height = "100rem" align =right>
 
 <details>
+
 
 <summary>Arrays</summary>
 
@@ -89,7 +96,16 @@
 - https://leetcode.com/problems/alphabet-board-path/ ```Medium```
 - https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/ ```Easy```
 - https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/ ```Easy```
-
+- https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/ ```Easy```
+- https://leetcode.com/problems/print-words-vertically/ ```Medium```
+- https://leetcode.com/problems/max-consecutive-ones/ ```Easy```
+- https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/ ```Easy```
+- https://leetcode.com/problems/delete-columns-to-make-sorted/description/ ```Easy```
+- https://leetcode.com/problems/decompress-run-length-encoded-list/ ```Easy```
+- https://leetcode.com/problems/shuffle-an-array/ ```Medium```
+- https://leetcode.com/problems/row-with-maximum-ones/ ```Easy```
+- https://leetcode.com/problems/watering-plants/ ```Medium```
+- https://leetcode.com/problems/subrectangle-queries/ ```Medium```
 
 </details>
 
@@ -110,6 +126,11 @@
 - https://leetcode.com/problems/xor-operation-in-an-array/description/ ```Easy```
 - https://leetcode.com/problems/find-the-original-array-of-prefix-xor/ ```Medium```
 - https://leetcode.com/problems/binary-number-with-alternating-bits/ ```Medium```
+- https://leetcode.com/problems/gray-code/ ```Medium```
+- https://leetcode.com/problems/single-number-ii/description/ ```Medium```
+- https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/ ``Hard```
+- https://leetcode.com/problems/hamming-distance/ ```Easy```
+- https://leetcode.com/problems/bitwise-and-of-numbers-range ```Medium```
 
 </details>
 
@@ -125,6 +146,16 @@
 - https://leetcode.com/problems/combinations/ ```Medium```
 - https://leetcode.com/problems/matchsticks-to-square```Medium```
 - https://leetcode.com/problems/maximum-rows-covered-by-columns/ ```Medium```
+- https://leetcode.com/problems/sudoku-solver/ ```Hard```
+- https://leetcode.com/problems/subsets-ii/ ```Medium```
+- https://leetcode.com/problems/find-xor-beauty-of-array/ ```Medium```
+- https://leetcode.com/problems/restore-ip-addresses/ ```Medium```
+- https://leetcode.com/problems/the-number-of-beautiful-subsets/  ```Medium```
+- https://leetcode.com/problems/additive-number/ ```Medium```
+- https://leetcode.com/problems/letter-tile-possibilities/ ```Medium```
+
+
+
 
 </details>
 
@@ -142,6 +173,10 @@
 - https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/ ```Medium```
 - https://leetcode.com/problems/design-browser-history/ ```Medium```
 - https://leetcode.com/problems/design-front-middle-back-queue/ ```Medium```
+- https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/ ```Medium```
+- https://leetcode.com/problems/random-pick-index/ ```Medium```
+- https://leetcode.com/problems/frequency-tracker/ ```Medium```
+- https://leetcode.com/problems/design-parking-system/ ```Medium```
 
 
 
@@ -200,7 +235,8 @@
 - https://leetcode.com/problems/longest-string-chain/ ```Medium```
 - https://leetcode.com/problems/maximum-profit-in-job-scheduling/ ```Hard```
 - https://leetcode.com/problems/maximum-earnings-from-taxi/ ```Medium```
-- https://leetcode.com/problems/jump-game/ ```Medium```https://leetcode.com/problems/string-compression/
+- https://leetcode.com/problems/jump-game/ ```Medium```
+- https://leetcode.com/problems/string-compression/ ```Medium```
 - https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/ ```Medium```
 - https://leetcode.com/problems/minimum-path-sum/ ```Medium```
 - https://leetcode.com/problems/fibonacci-number/ ```Easy```
@@ -216,6 +252,16 @@
 - https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/  ```Hard```
 - https://leetcode.com/problems/max-dot-product-of-two-subsequences/ ```Medium```
 - https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/ ```Medium```
+- https://leetcode.com/problems/where-will-the-ball-fall/ ```Medium```
+- https://leetcode.com/problems/unique-binary-search-trees/ ```Medium```
+- https://leetcode.com/problems/find-the-substring-with-maximum-cost/ ```Medium```
+- https://leetcode.com/problems/maximum-product-subarray/ ```Medium```
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ ```Medium```
+- https://leetcode.com/problems/different-ways-to-add-parentheses/ ```Medium```
+- https://leetcode.com/problems/unique-binary-search-trees-ii/ ```Medium```
+- https://leetcode.com/problems/profitable-schemes/ ```Hard```
+- https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/ ```Hard```
+- https://leetcode.com/problems/uncrossed-lines/ ```Medium```
 
 
 </details>
@@ -241,10 +287,29 @@
 - https://leetcode.com/problems/keys-and-rooms/ ```Medium```
 - https://leetcode.com/problems/pacific-atlantic-water-flow/ ```Medium```
 - https://leetcode.com/problems/numbers-with-same-consecutive-differences/ ```Medium```
+- https://leetcode.com/problems/minimum-genetic-mutation/ ```Medium```
+- https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/ ```Medium```
+- https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/ ```Medium```
+- https://leetcode.com/problems/unique-paths-iii/ ```Hard```
+- https://leetcode.com/problems/shortest-path-with-alternating-colors/ ```Medium```
+- https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/ ```Medium```
+- https://leetcode.com/problems/minimum-distance-between-bst-nodes/ ```Easy```
+- https://leetcode.com/problems/check-knight-tour-configuration/ ```Medium```
+- https://leetcode.com/problems/number-of-closed-islands/ ```Medium```
+- https://leetcode.com/problems/surrounded-regions/ ```Medium```
+- https://leetcode.com/problems/number-of-enclaves/ ```Medium```
+- https://leetcode.com/problems/course-schedule/ ```Medium```
+- https://leetcode.com/problems/course-schedule-ii/ ```Medium```
+- https://leetcode.com/problems/rotting-oranges/ ```Medium```
+- https://leetcode.com/problems/evaluate-division/ ```Medium```
+- https://leetcode.com/problems/shortest-bridge/ ```Medium```
+- https://leetcode.com/problems/time-needed-to-inform-all-employees/ ```Medium```
+- https://leetcode.com/problems/number-of-provinces/ ```Medium```
+
+</details>
 
 
 <details>
-
 <summary>Greedy</summary>
 
 - https://leetcode.com/problems/can-place-flowers/ ```Easy```
@@ -290,10 +355,28 @@
 - https://leetcode.com/problems/maximum-number-of-coins-you-can-get/ ```Medium```
 - https://leetcode.com/problems/score-after-flipping-matrix/ ```Medium```
 - https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/ ```Medium```
+- https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/ ```Medium```
+- https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/ ```Medium```
+- https://leetcode.com/problems/maximum-ice-cream-bars/ ```Medium```
+- https://leetcode.com/problems/make-number-of-distinct-characters-equal/ ```Medium```
+- https://leetcode.com/problems/insert-interval/ ```Medium```
+- https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/ ```Easy```
+- https://leetcode.com/problems/minimum-score-by-changing-two-elements/ ```Medium```
+- https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/ ```Easy```
+- https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/ ```Easy```
+- https://leetcode.com/problems/find-the-maximum-number-of-marked-indices ```Medium```
+- https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/ ```Medium```
+- https://leetcode.com/problems/distribute-money-to-maximum-children/ ```Medium```
+- https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/ ```Medium```
+- https://leetcode.com/problems/prime-subtraction-operation/ ```Medium```
+- https://leetcode.com/problems/k-items-with-the-maximum-sum/ ```Easy```
+- https://leetcode.com/problems/mice-and-cheese/ ```Medium```
+
 
 
 </details>
 
+<details>
 <summary>HashTable</summary>
 
 - https://leetcode.com/problems/number-of-matching-subsequences/ ```Medium```
@@ -325,8 +408,22 @@
 - https://leetcode.com/problems/check-distances-between-same-letters/ ```Easy```
 - https://leetcode.com/problems/find-duplicate-file-in-system/ ```Medium```
 - https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/ ```Medium```
-
-
+- https://leetcode.com/problems/majority-element-ii/ ```Medium```
+- https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/ ```Medium```
+- https://leetcode.com/problems/most-popular-video-creator/ ```Medium```
+- https://leetcode.com/problems/task-scheduler/ ```Medium```
+- https://leetcode.com/problems/valid-sudoku/ ```Medium```
+- https://leetcode.com/problems/determine-if-two-strings-are-close/ ```Medium```
+- https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/ ```Medium```
+- https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/ ```Easy```
+- https://leetcode.com/problems/subdomain-visit-count/ ```Medium```
+- https://leetcode.com/problems/bulls-and-cows/ ```Medium```
+- https://leetcode.com/problems/rle-iterator/ ```Medium```
+- https://leetcode.com/problems/count-servers-that-communicate/ ```Medium```
+- https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/ ```Medium```
+- https://leetcode.com/problems/find-the-distinct-difference-array/ ```Easy```
+- https://leetcode.com/problems/finding-the-users-active-minutes/ ```Medium```
+- https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/ ```Medium```
 
 </details>
 
@@ -346,45 +443,14 @@
 - https://leetcode.com/problems/reduce-array-size-to-the-half/ ```Medium```
 - https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/ ```Medium```
 - https://leetcode.com/problems/sort-the-people/ ```Easy```
+- https://leetcode.com/problems/total-cost-to-hire-k-workers/ ```Medium```
+- https://leetcode.com/problems/remove-stones-to-minimize-the-total/ ```Medium```
+- https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/ ```Medium```
+- https://leetcode.com/problems/distant-barcodes/ ```Medium```
+- https://leetcode.com/problems/largest-values-from-labels/ ```Medium```
 
 
 </details>
-
-
-
-<details>
-<summary>Prefix Sum</summary>
-
-- https://leetcode.com/problems/minimum-size-subarray-sum/ ```Medium```
-- https://leetcode.com/problems/product-of-array-except-self/ ```Medium```
-- https://leetcode.com/problems/range-sum-query-immutable/ ```Easy```
-- https://leetcode.com/problems/range-sum-query-2d-immutable/ ```Medium```
-- https://leetcode.com/problems/continuous-subarray-sum/ ```Medium```
-- https://leetcode.com/problems/find-pivot-index/ ```Easy```
-- https://leetcode.com/problems/sum-of-all-odd-length-subarrays/ ```Easy```
-- https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/ ```Easy```
-- https://leetcode.com/problems/find-the-middle-index-in-array/submissions/ ```Easy```
-- https://leetcode.com/problems/running-sum-of-1d-array/ ```Easy```
-- https://leetcode.com/problems/minimum-average-difference/ ```Medium```
-- https://leetcode.com/problems/top-k-frequent-words/ ```Easy```
-- https://leetcode.com/problems/number-of-ways-to-split-array/ ```Medium```
-- https://leetcode.com/problems/random-pick-with-weight/ ```Medium```
-- https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/ ```Medium```
-- https://leetcode.com/problems/count-subarrays-with-score-less-than-k/ ```Medium```
-- https://leetcode.com/problems/maximum-erasure-value/ ```Medium```
-- https://leetcode.com/problems/non-decreasing-array/ ```Medium```
-- https://leetcode.com/problems/frequency-of-the-most-frequent-element/ ```Medium```
-- https://leetcode.com/problems/xor-queries-of-a-subarray/ ```Medium```
-- https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/ ```Medium```
-- https://leetcode.com/problems/find-good-days-to-rob-the-bank/  ```Medium```
-- https://leetcode.com/problems/shifting-letters/ ```Medium```
-- https://leetcode.com/problems/shifting-letters-ii/ ```Medium```
-- https://leetcode.com/problems/longest-subsequence-with-limited-sum/ ```Easy```
-- https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/ ```Medium```
-- https://leetcode.com/problems/find-all-good-indices/ ```Medium```
-
-</details>
-
 
 
 <details>
@@ -415,6 +481,11 @@
 - https://leetcode.com/problems/delete-node-in-a-linked-list/ ```Medium```
 - https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list ```Medium```
 - https://leetcode.com/problems/reorder-list/ ```Medium```
+- https://leetcode.com/problems/remove-nodes-from-linked-list/ ```Medium```
+- https://leetcode.com/problems/odd-even-linked-list/ ```Medium```
+- https://leetcode.com/problems/remove-linked-list-elements/ ```Easy```
+- https://leetcode.com/problems/reverse-nodes-in-k-group/ ```Hard```
+
 
 </details>
 
@@ -449,9 +520,73 @@
 - https://leetcode.com/problems/strictly-palindromic-number/ ```Medium```
 - https://leetcode.com/problems/largest-perimeter-triangle/ ```Easy```
 - https://leetcode.com/problems/sum-of-number-and-its-reverse/ ```Medium```
+- https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/ ```Easy```
+- https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/ ```Medium```
+- https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/ ```Medium```
+- https://leetcode.com/problems/categorize-box-according-to-criteria/ ```Easy```
+- https://leetcode.com/problems/count-distinct-numbers-on-board/ ```Easy```
+- https://leetcode.com/problems/minimum-impossible-or ```Easy```
+- https://leetcode.com/problems/find-the-divisibility-array-of-a-string/ ```Medium```
+- https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/ ```Easy```
+- https://leetcode.com/problems/pass-the-pillow/ ```Easy```
+- https://leetcode.com/problems/make-k-subarray-sums-equal/  ```Medium```
+- https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/ ```Medium```
+- https://leetcode.com/problems/nim-game/ ```Maths```
+- https://leetcode.com/problems/factorial-trailing-zeroes/ ```Medium```
+- https://leetcode.com/problems/fraction-to-recurring-decimal/ ```Medium```
+- https://leetcode.com/problems/prime-in-diagonal/ ```Easy```
+- https://leetcode.com/problems/fizz-buzz/ ```Easy```
+- https://leetcode.com/problems/third-maximum-number/ ```Easy```
+- https://leetcode.com/problems/add-strings/ ```Easy```
+- https://leetcode.com/problems/number-complement/ ```Easy```
+- https://leetcode.com/problems/find-the-maximum-divisibility-score/ ```Easy```
+- https://leetcode.com/problems/rotate-function/ ```Medium```
+- https://leetcode.com/problems/find-the-punishment-number-of-an-integer/ ```Medium```
 
 </details>
 
+
+<details>
+<summary>Prefix Sum</summary>
+
+- https://leetcode.com/problems/minimum-size-subarray-sum/ ```Medium```
+- https://leetcode.com/problems/product-of-array-except-self/ ```Medium```
+- https://leetcode.com/problems/range-sum-query-immutable/ ```Easy```
+- https://leetcode.com/problems/range-sum-query-2d-immutable/ ```Medium```
+- https://leetcode.com/problems/continuous-subarray-sum/ ```Medium```
+- https://leetcode.com/problems/find-pivot-index/ ```Easy```
+- https://leetcode.com/problems/sum-of-all-odd-length-subarrays/ ```Easy```
+- https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/ ```Easy```
+- https://leetcode.com/problems/find-the-middle-index-in-array/submissions/ ```Easy```
+- https://leetcode.com/problems/running-sum-of-1d-array/ ```Easy```
+- https://leetcode.com/problems/minimum-average-difference/ ```Medium```
+- https://leetcode.com/problems/top-k-frequent-words/ ```Easy```
+- https://leetcode.com/problems/number-of-ways-to-split-array/ ```Medium```
+- https://leetcode.com/problems/random-pick-with-weight/ ```Medium```
+- https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/ ```Medium```
+- https://leetcode.com/problems/count-subarrays-with-score-less-than-k/ ```Medium```
+- https://leetcode.com/problems/maximum-erasure-value/ ```Medium```
+- https://leetcode.com/problems/non-decreasing-array/ ```Medium```
+- https://leetcode.com/problems/frequency-of-the-most-frequent-element/ ```Medium```
+- https://leetcode.com/problems/xor-queries-of-a-subarray/ ```Medium```
+- https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/ ```Medium```
+- https://leetcode.com/problems/find-good-days-to-rob-the-bank/  ```Medium```
+- https://leetcode.com/problems/shifting-letters/ ```Medium```
+- https://leetcode.com/problems/shifting-letters-ii/ ```Medium```
+- https://leetcode.com/problems/longest-subsequence-with-limited-sum/ ```Easy```
+- https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/ ```Medium```
+- https://leetcode.com/problems/find-all-good-indices/ ```Medium```
+- https://leetcode.com/problems/find-the-pivot-integer/ ```Easy```
+- https://leetcode.com/problems/left-and-right-sum-differences/  ```Easy```
+- https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/ ```Medium```
+- https://leetcode.com/problems/corporate-flight-bookings/ ```Medium```
+- https://leetcode.com/problems/sum-of-distances/ ```Medium```
+- https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/ ```Medium```
+- https://leetcode.com/problems/binary-subarrays-with-sum/ ```Medium```
+- https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/ ```Medium```
+
+
+</details>
 
 <details>
 <summary>Queue</summary>
@@ -479,6 +614,8 @@
 - https://leetcode.com/problems/elimination-game/ ```Medium```
 - https://leetcode.com/problems/k-th-symbol-in-grammar/ ```Medium```
 - https://leetcode.com/problems/count-and-say/ ```Medium```
+- https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/ ```Medium```
+- https://leetcode.com/problems/construct-quad-tree/ ```Medium```
 
 </details>
 
@@ -513,6 +650,8 @@
 - https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ ```Medium```
 - https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/ ```Medium```
 - https://leetcode.com/problems/my-calendar-i/ ```Medium```
+- https://leetcode.com/problems/median-of-two-sorted-arrays/ ```Hard```
+- https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/ ```Easy```
 
 
 </details>
@@ -533,11 +672,15 @@
     - https://leetcode.com/problems/top-k-frequent-words/ ```Medium```
     - https://leetcode.com/problems/queue-reconstruction-by-height/ ```Medium```
     - https://leetcode.com/problems/sort-characters-by-frequency/ ```Medium```
+    - https://leetcode.com/problems/delete-greatest-value-in-each-row/ ```Easy```
+    - https://leetcode.com/problems/longest-square-streak-in-an-array/ ```Medium```
+    - https://leetcode.com/problems/sort-the-students-by-their-kth-score/ ```Medium```
+    - https://leetcode.com/problems/custom-sort-string/ ```Medium```
 
 
 - CycleSort
     - https://leetcode.com/problems/missing-number/ ```Easy```
-    - https://leetcode.com/problems/set-mismatch/ ```Easy```
+    - https://leetcode.com/problems/set-mismatch/ ```Easy`https://leetcode.com/problems/majority-element-ii/``
     - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/ ```Easy```
     - https://leetcode.com/problems/find-the-duplicate-number/ ```Medium```
     - https://leetcode.com/problems/find-all-duplicates-in-an-array/ ```Medium```
@@ -579,6 +722,15 @@
 - https://leetcode.com/problems/longest-absolute-file-path/ ```Medium```
 - https://leetcode.com/problems/removing-stars-from-a-string/ ```Medium```
 - https://leetcode.com/problems/maximum-binary-tree/ ```Medium```
+- https://leetcode.com/problems/make-the-string-great/ ```Easy```
+- https://leetcode.com/problems/online-stock-span/ ```Medium```
+- https://leetcode.com/problems/basic-calculator-ii/ ```Medium```
+- https://leetcode.com/problems/validate-stack-sequences/ ```Medium```
+- https://leetcode.com/problems/decode-string/ ```Medium```
+- https://leetcode.com/problems/reveal-cards-in-increasing-order/ ```Medium```
+- https://leetcode.com/problems/minimum-string-length-after-removing-substrings/ ```Easy```
+
+
 
 </details>
 
@@ -629,6 +781,22 @@
 - https://leetcode.com/problems/longest-palindrome/ ```Easy```
 - https://leetcode.com/problems/strong-password-checker/ ```Hard```
 - https://leetcode.com/problems/reverse-words-in-a-string/ ```Medium```
+- https://leetcode.com/problems/reverse-vowels-of-a-string/ ```Easy```
+- https://leetcode.com/problems/determine-if-string-halves-are-alike/ ```Easy```
+- https://leetcode.com/problems/circular-sentence/ ```Easy``` 
+- https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/ ```Easy```
+- https://leetcode.com/problems/count-pairs-of-similar-strings/ ```Easy```
+- https://leetcode.com/problems/greatest-common-divisor-of-strings/ ```Easy```
+- https://leetcode.com/problems/defanging-an-ip-address/ ```Easy```
+- https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/ ```Easy```
+- https://leetcode.com/problems/delete-characters-to-make-fancy-string/ ```Easy```
+- https://leetcode.com/problems/repeated-substring-pattern/  ```Easy```
+- https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/ ```Easy```
+- https://leetcode.com/problems/minimum-additions-to-make-valid-string/ ```Easy```
+- https://leetcode.com/problems/merge-strings-alternately/ ```Easy```
+- https://leetcode.com/problems/lexicographically-smallest-palindrome/
+
+
 
 </details>
 
@@ -696,7 +864,20 @@
 - https://leetcode.com/problems/most-frequent-subtree-sum/ ```Medium```
 - https://leetcode.com/problems/add-one-row-to-tree/ ```Medium```
 - https://leetcode.com/problems/two-sum-iv-input-is-a-bst/ ```Easy```
-
+- https://leetcode.com/problems/delete-leaves-with-a-given-value/ ```Medium```
+- https://leetcode.com/problems/leaf-similar-trees/ ```Easy```
+- https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/ ```Medium```
+- https://leetcode.com/problems/binary-tree-maximum-path-sum/ ```Hard```
+- https://leetcode.com/problems/sum-root-to-leaf-numbers/ ```Medium```
+- https://leetcode.com/problems/delete-nodes-and-return-forest/ ```Medium```
+- https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/ ```Medium```
+- https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/ ```Medium```
+- https://leetcode.com/problems/check-completeness-of-a-binary-tree/ ```Medium```
+- https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ ```Medium```
+- https://leetcode.com/problems/cousins-in-binary-tree-ii/ ```Medium```
+- https://leetcode.com/problems/cousins-in-binary-tree/ ```Easy ```
+- https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/ ```Medium```
+- https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/ ```Medium```
 
 </details>
 
@@ -709,6 +890,8 @@
 - https://leetcode.com/problems/short-encoding-of-words/ ```Medium```
 - https://leetcode.com/problems/replace-words/description/ ```Medium```
 - https://leetcode.com/problems/sum-of-prefix-scores-of-strings/ ```Hard```
+- https://leetcode.com/problems/implement-trie-prefix-tree/ ```Medium```
+- https://leetcode.com/problems/implement-magic-dictionary/ ```Medium```
 
 </details>
 
@@ -719,6 +902,11 @@
 - https://leetcode.com/problems/push-dominoes/ ```Medium```
 - https://leetcode.com/problems/string-compression/ ```Medium```
 - https://leetcode.com/problems/valid-triangle-number/ ```Medium```
+- https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/ ```Medium```
+- https://leetcode.com/problems/count-subarrays-with-fixed-bounds/ ```Hard```
+- https://leetcode.com/problems/repeated-dna-sequences/ ```Medium```
+- https://leetcode.com/problems/assign-cookies/ ```Easy```
+- https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/ ```Medium```
 
 
 </details>

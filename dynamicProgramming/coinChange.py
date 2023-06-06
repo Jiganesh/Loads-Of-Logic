@@ -71,5 +71,19 @@ print(Solution().coinChange([4,5,7],11)) #
 print(Solution().coinChange([1],0)) #0
 print(Solution().coinChange([2],4)) #2
 print(Solution().coinChange([186,419,83,408],6249)) #20
+
+
+'''
+Jiganesh
+Nov LeetCoding Challenge
+Apr 12, 2022
+
+Let us make amount 6 with denominations [1,3,4]
+
+what greedy will do is return you 4 1 1 (number of coins 3)
+what dp will do is return 3 3 (number of coins 2)
+
+That is why in problems like coin change, we cannot use greedy algorithm because greedy makes choice optimal at moment and dp makes choice optimal considering all possiblities.
+'''
                 
                 
