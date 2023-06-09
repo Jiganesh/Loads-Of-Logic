@@ -794,7 +794,8 @@
 - https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/ ```Easy```
 - https://leetcode.com/problems/minimum-additions-to-make-valid-string/ ```Easy```
 - https://leetcode.com/problems/merge-strings-alternately/ ```Easy```
-- https://leetcode.com/problems/lexicographically-smallest-palindrome/
+- https://leetcode.com/problems/lexicographically-smallest-palindrome/ ```Easy```
+- https://leetcode.com/problems/minimize-string-length/ ```Easy```
 
 
 
