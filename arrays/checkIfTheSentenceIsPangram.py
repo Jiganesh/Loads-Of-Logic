@@ -1,4 +1,5 @@
-# https://leetcode.com/problems/check-if-the-sentence-is-pangram/
+# https://leetcode.com/problem
+# s/check-if-the-sentence-is-pangram/
 
 class Solution:
     
