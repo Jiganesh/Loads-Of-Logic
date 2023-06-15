@@ -676,6 +676,7 @@
     - https://leetcode.com/problems/longest-square-streak-in-an-array/ ```Medium```
     - https://leetcode.com/problems/sort-the-students-by-their-kth-score/ ```Medium```
     - https://leetcode.com/problems/custom-sort-string/ ```Medium```
+    - https://leetcode.com/problems/neither-minimum-nor-maximum/ ```Medium```
 
 
 - CycleSort
