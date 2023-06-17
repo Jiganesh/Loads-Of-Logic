@@ -3,10 +3,6 @@
 <a href ="https://github.com/Jiganesh/High-On-DSA/blob/main/.dev/allProblemsSolved.md"><img src="https://img.shields.io/badge/Total Problems Solved- 706 -brightgreen?"></a> <img src="https://img.shields.io/badge/Licensed- MIT -blue?"> <img src="https://img.shields.io/badge/Problems Solved Today-11-orange?"> <img src = "https://img.shields.io/github/repo-size/Jiganesh/High-On-DSA.svg?label=Repository%20size&style=flat-square">
 
 
-
-
-
-
 *Click below to expand  and view problems.*
 
 <img style="  " src =".dev/donutDifficulty.png" alt="difficulty chart" height = "100rem" align =right>
@@ -262,6 +258,7 @@
 - https://leetcode.com/problems/profitable-schemes/ ```Hard```
 - https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/ ```Hard```
 - https://leetcode.com/problems/uncrossed-lines/ ```Medium```
+- https://leetcode.com/problems/make-array-strictly-increasing/ ```Hard```
 
 
 </details>
