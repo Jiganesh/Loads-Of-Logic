@@ -260,6 +260,7 @@
 - https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/ ```Hard```
 - https://leetcode.com/problems/uncrossed-lines/ ```Medium```
 - https://leetcode.com/problems/make-array-strictly-increasing/ ```Hard```
+- https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/ ```Hard```
 
 
 </details>
