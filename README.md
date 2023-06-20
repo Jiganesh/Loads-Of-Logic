@@ -585,6 +585,7 @@
 - https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/ ```Medium```
 - https://leetcode.com/problems/binary-subarrays-with-sum/ ```Medium```
 - https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/ ```Medium```
+- https://leetcode.com/problems/k-radius-subarray-averages/ ```Medium```
 
 
 </details>
