@@ -261,6 +261,7 @@
 - https://leetcode.com/problems/uncrossed-lines/ ```Medium```
 - https://leetcode.com/problems/make-array-strictly-increasing/ ```Hard```
 - https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/ ```Hard```
+- https://leetcode.com/problems/number-of-music-playlists/ ```hard```
 
 
 </details>
