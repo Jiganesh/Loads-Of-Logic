@@ -800,6 +800,7 @@
 - https://leetcode.com/problems/merge-strings-alternately/ ```Easy```
 - https://leetcode.com/problems/lexicographically-smallest-palindrome/ ```Easy```
 - https://leetcode.com/problems/minimize-string-length/ ```Easy```
+- https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/ ```Easy```
 
 
 
