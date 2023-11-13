@@ -680,6 +680,7 @@
     - https://leetcode.com/problems/sort-the-students-by-their-kth-score/ ```Medium```
     - https://leetcode.com/problems/custom-sort-string/ ```Medium```
     - https://leetcode.com/problems/neither-minimum-nor-maximum/ ```Medium```
+    - https://leetcode.com/problems/sort-vowels-in-a-string/description/ ```Medium```
 
 
 - CycleSort
