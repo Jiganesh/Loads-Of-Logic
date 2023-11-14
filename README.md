@@ -915,6 +915,7 @@
 - https://leetcode.com/problems/assign-cookies/ ```Easy```
 - https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/ ```Medium```
 - https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/ ```Medium```
+- https://leetcode.com/problems/unique-length-3-palindromic-subsequences/ ```Easy```
 
 
 </details>
