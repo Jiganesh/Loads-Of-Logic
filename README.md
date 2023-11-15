@@ -127,6 +127,7 @@
 - https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/ ``Hard```
 - https://leetcode.com/problems/hamming-distance/ ```Easy```
 - https://leetcode.com/problems/bitwise-and-of-numbers-range ```Medium```
+- https://leetcode.com/problems/maximum-strong-pair-xor-i/ ```Easy```
 
 </details>
 
@@ -372,6 +373,7 @@
 - https://leetcode.com/problems/k-items-with-the-maximum-sum/ ```Easy```
 - https://leetcode.com/problems/mice-and-cheese/ ```Medium```
 - https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation/ ```Medium```
+- https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/ ```Medium```
 
 
 
