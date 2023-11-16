@@ -127,7 +127,8 @@
 - https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/ ``Hard```
 - https://leetcode.com/problems/hamming-distance/ ```Easy```
 - https://leetcode.com/problems/bitwise-and-of-numbers-range ```Medium```
-- https://leetcode.com/problems/maximum-strong-pair-xor-i/ ```Easy```
+- https://leetcode.com/problems/maximum-strong-pair-xor-i/ ```Medium```
+- https://leetcode.com/problems/find-unique-binary-string/ ```Medium```
 
 </details>
 
