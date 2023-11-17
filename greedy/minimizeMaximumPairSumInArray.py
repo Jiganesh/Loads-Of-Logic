@@ -1,7 +1,6 @@
 # https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
 from typing import List
 
-
 class Solution:
     
     # TC : O(NlogN)
@@ -22,6 +21,17 @@ class Solution:
 
         return maximum
     
+    # TC : O(NlogN)
+    # SC : O(1)
+    def minPairSum(self, nums: List[int]) -> int:
+        nums.sort()
+        n = len(nums)
+        result = 0 
+        for i in range(n//2):
+
+            result = max(result, nums[i] + nums[-i-1])
+
+        return result
     
 '''
 why not sort the array and then take the first and last element and add them to get the maximum sum ?
