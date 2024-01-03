@@ -76,7 +76,7 @@ print(Fraction(num)) # output : 2345390243441541/70368744177664
 print(Fraction(str(num))) # output : 3333/100
 print(Fraction(0.25)) # output 1/4
 print(Fraction(0.25).numerator) # output 1
-print(Fraction(0.25).denominator) # output 45
+print(Fraction(0.25).denominator) # output 4
 
 
 
