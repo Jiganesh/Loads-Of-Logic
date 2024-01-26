@@ -806,6 +806,7 @@
 - https://leetcode.com/problems/lexicographically-smallest-palindrome/ ```Easy```
 - https://leetcode.com/problems/minimize-string-length/ ```Easy```
 - https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/ ```Easy```
+- https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/ ```Easy```
 
 
 
