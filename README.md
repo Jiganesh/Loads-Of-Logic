@@ -307,6 +307,8 @@
 - https://leetcode.com/problems/shortest-bridge/ ```Medium```
 - https://leetcode.com/problems/time-needed-to-inform-all-employees/ ```Medium```
 - https://leetcode.com/problems/number-of-provinces/ ```Medium```
+- https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/ ```Medium```
+
 
 </details>
 
