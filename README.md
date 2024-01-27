@@ -378,6 +378,7 @@
 - https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation/ ```Medium```
 - https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/ ```Medium```
 - https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/editorial/ ```Medium```
+- https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/ ```Medium```
 
 
 
