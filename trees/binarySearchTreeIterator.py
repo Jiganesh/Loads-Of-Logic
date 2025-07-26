@@ -35,7 +35,7 @@ class BSTIterator:
             node = node.left
 
     def hasNext(self) -> bool:
-        return self.stack
+        return bool(self.stack)
         
 
 
