@@ -176,6 +176,8 @@
 - https://leetcode.com/problems/random-pick-index/ ```Medium```
 - https://leetcode.com/problems/frequency-tracker/ ```Medium```
 - https://leetcode.com/problems/design-parking-system/ ```Medium```
+- https://leetcode.com/problems/number-of-recent-calls ```Easy```
+- https://leetcode.com/problems/design-an-ordered-stream ```Easy```
 
 
 
