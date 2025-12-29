@@ -152,6 +152,7 @@
 - https://leetcode.com/problems/additive-number/ ```Medium```
 - https://leetcode.com/problems/letter-tile-possibilities/ ```Medium```
 - https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/ ```Hard```
+- https://leetcode.com/problems/pyramid-transition-matrix/ ```Medium```
 
 
 
@@ -178,7 +179,7 @@
 - https://leetcode.com/problems/design-parking-system/ ```Medium```
 - https://leetcode.com/problems/number-of-recent-calls ```Easy```
 - https://leetcode.com/problems/design-an-ordered-stream ```Easy```
-
+- https://leetcode.com/problems/design-neighbor-sum-service ```Easy```
 
 
 </details>
