@@ -102,6 +102,7 @@
 - https://leetcode.com/problems/row-with-maximum-ones/ ```Easy```
 - https://leetcode.com/problems/watering-plants/ ```Medium```
 - https://leetcode.com/problems/subrectangle-queries/ ```Medium```
+- https://leetcode.com/problems/magic-squares-in-grid/ ```Medium```
 
 </details>
 
