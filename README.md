@@ -666,6 +666,7 @@
 - https://leetcode.com/problems/my-calendar-i/ ```Medium```
 - https://leetcode.com/problems/median-of-two-sorted-arrays/ ```Hard```
 - https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/ ```Easy```
+- https://leetcode.com/problems/last-day-where-you-can-still-cross/ ```Hard```
 
 
 </details>
