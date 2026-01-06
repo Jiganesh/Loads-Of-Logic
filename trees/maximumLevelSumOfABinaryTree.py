@@ -25,4 +25,3 @@ class Solution:
             level += 1
             
         return result_level
-
