@@ -8,7 +8,7 @@ class TreeNode:
         self.right = right
 
 class Solution:
-    def maxLevelSum(self, root: Optional[TreeNode]) -> int:
+    def dmaxLevelSum(self, root: Optional[TreeNode]) -> int:
         
         q = [root]
         level, result_level = 1, -1
